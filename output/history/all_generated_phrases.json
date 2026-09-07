@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Listen more, speak better.",
-      "spanish": "Escucha más, habla mejor.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-25T18:11:38.702450"
-    },
-    {
-      "english": "This feeling? Understanding dawns.",
-      "spanish": "¿Este sentimiento? Entendimiento nace.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-25T18:11:38.702455"
-    },
-    {
-      "english": "You're closer than you think.",
-      "spanish": "Estás más cerca de lo que crees.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-25T18:11:38.702460"
-    },
-    {
-      "english": "Embrace the beautiful mess.",
-      "spanish": "Abraza el hermoso desorden.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-25T18:11:38.702465"
-    },
-    {
-      "english": "Surprise: your accent shines!",
-      "spanish": "¡Sorpresa: tu acento brilla!",
-      "category": "Kindness",
-      "generated_at": "2026-03-25T19:37:18.746228"
-    },
-    {
       "english": "Wisdom: Connection over perfection.",
       "spanish": "Sabiduría: Conexión sin perfección.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Esta vibra? El español es tuyo.",
       "category": "Positive Life",
       "generated_at": "2026-09-07T20:17:29.979300"
+    },
+    {
+      "english": "Let go, your peace awaits.",
+      "spanish": "Suelta, tu paz espera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T21:50:57.359190"
+    },
+    {
+      "english": "Forgive this, feel freedom.",
+      "spanish": "Perdona esto, siente libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T21:50:57.359224"
+    },
+    {
+      "english": "Your strength? Forgiveness.",
+      "spanish": "¿Tu fuerza? El perdón.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T21:50:57.359252"
+    },
+    {
+      "english": "Unburden yourself, breathe deep.",
+      "spanish": "Descárgate, respira hondo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T21:50:57.359278"
+    },
+    {
+      "english": "New beginnings start here.",
+      "spanish": "Nuevos comienzos empiezan aquí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T21:50:57.359304"
     }
   ],
-  "last_updated": "2026-09-07T20:17:29.979301",
+  "last_updated": "2026-09-07T21:50:57.359307",
   "used_english": [
-    "listen more, speak better.",
-    "this feeling? understanding dawns.",
-    "you're closer than you think.",
-    "embrace the beautiful mess.",
-    "surprise: your accent shines!",
     "wisdom: connection over perfection.",
     "encouragement: you're getting there.",
     "fact: small words build bridges.",
@@ -21002,6 +20997,11 @@
     "don't hide your accent, own it.",
     "unlock fluency with one trick.",
     "surprise: you can do this!",
-    "this vibe? spanish is yours."
+    "this vibe? spanish is yours.",
+    "let go, your peace awaits.",
+    "forgive this, feel freedom.",
+    "your strength? forgiveness.",
+    "unburden yourself, breathe deep.",
+    "new beginnings start here."
   ]
 }
