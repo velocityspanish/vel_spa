@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your next word creates friends.",
-      "spanish": "Tu próxima palabra crea amigos.",
-      "category": "Courage",
-      "generated_at": "2026-03-24T22:05:36.466708"
-    },
-    {
-      "english": "What if speaking is easy?",
-      "spanish": "¿Y si hablar es fácil?",
-      "category": "Courage",
-      "generated_at": "2026-03-24T22:05:36.466713"
-    },
-    {
-      "english": "Embrace the learning curve, grow.",
-      "spanish": "Abraza la curva de aprendizaje.",
-      "category": "Courage",
-      "generated_at": "2026-03-24T22:05:36.466718"
-    },
-    {
-      "english": "Hear this. Then speak.",
-      "spanish": "Escucha esto. Luego habla.",
-      "category": "Courage",
-      "generated_at": "2026-03-24T22:05:36.466722"
-    },
-    {
-      "english": "This feeling? You're connecting.",
-      "spanish": "¿Esta sensación? Te estás conectando.",
-      "category": "Growth",
-      "generated_at": "2026-03-25T16:47:36.542870"
-    },
-    {
       "english": "Your small wins, celebrate them.",
       "spanish": "Tus pequeñas victorias, celébralas.",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu acento único es valioso.",
       "category": "Hope",
       "generated_at": "2026-09-07T18:09:06.208795"
+    },
+    {
+      "english": "Feel this vibe, 'qué guay'.",
+      "spanish": "Siente esta vibra, 'qué guay'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T19:01:46.538001"
+    },
+    {
+      "english": "Never fear pronunciation again.",
+      "spanish": "Nunca temas pronunciar otra vez.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T19:01:46.538041"
+    },
+    {
+      "english": "Your ear learns amazing sounds.",
+      "spanish": "Tu oído aprende sonidos geniales.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T19:01:46.538069"
+    },
+    {
+      "english": "Want fluency? Listen closely.",
+      "spanish": "¿Quieres fluidez? Escucha atentamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T19:01:46.538098"
+    },
+    {
+      "english": "Dare to speak, truly live.",
+      "spanish": "Atrévete a hablar, vive de verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T19:01:46.538124"
     }
   ],
-  "last_updated": "2026-09-07T18:09:06.208796",
+  "last_updated": "2026-09-07T19:01:46.538126",
   "used_english": [
-    "your next word creates friends.",
-    "what if speaking is easy?",
-    "embrace the learning curve, grow.",
-    "hear this. then speak.",
-    "this feeling? you're connecting.",
     "your small wins, celebrate them.",
     "why hesitate? listen more.",
     "this sound, pure understanding.",
@@ -21002,6 +20997,11 @@
     "the sound of progress is here.",
     "why wait? speak that phrase.",
     "surprise: you understand more!",
-    "your unique accent is valuable."
+    "your unique accent is valuable.",
+    "feel this vibe, 'qué guay'.",
+    "never fear pronunciation again.",
+    "your ear learns amazing sounds.",
+    "want fluency? listen closely.",
+    "dare to speak, truly live."
   ]
 }
