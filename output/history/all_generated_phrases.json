@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your small wins, celebrate them.",
-      "spanish": "Tus pequeñas victorias, celébralas.",
-      "category": "Growth",
-      "generated_at": "2026-03-25T16:47:36.542883"
-    },
-    {
-      "english": "Why hesitate? Listen more.",
-      "spanish": "¿Por qué dudar? Escucha más.",
-      "category": "Growth",
-      "generated_at": "2026-03-25T16:47:36.542889"
-    },
-    {
-      "english": "This sound, pure understanding.",
-      "spanish": "Este sonido, pura comprensión.",
-      "category": "Growth",
-      "generated_at": "2026-03-25T16:47:36.542893"
-    },
-    {
-      "english": "Tiny sparks, ignite conversations.",
-      "spanish": "Pequeñas chispas, encienden charlas.",
-      "category": "Growth",
-      "generated_at": "2026-03-25T16:47:36.542898"
-    },
-    {
-      "english": "Your inner calm, unlock it.",
-      "spanish": "Tu calma interior, desbloquéala.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-25T18:11:38.702437"
-    },
-    {
       "english": "Listen more, speak better.",
       "spanish": "Escucha más, habla mejor.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a hablar, vive de verdad.",
       "category": "Positive Life",
       "generated_at": "2026-09-07T19:01:46.538124"
+    },
+    {
+      "english": "Feeling stuck? Try this phrase.",
+      "spanish": "¿Te sientes atascado? Prueba esto.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T20:17:29.979142"
+    },
+    {
+      "english": "Don't hide your accent, own it.",
+      "spanish": "No ocultes tu acento, ¡domínalo!",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T20:17:29.979183"
+    },
+    {
+      "english": "Unlock fluency with one trick.",
+      "spanish": "Destraba fluidez con un truco.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T20:17:29.979231"
+    },
+    {
+      "english": "Surprise: You can do this!",
+      "spanish": "¡Sorpresa: Tú puedes hacerlo!",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T20:17:29.979270"
+    },
+    {
+      "english": "This vibe? Spanish is yours.",
+      "spanish": "¿Esta vibra? El español es tuyo.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T20:17:29.979300"
     }
   ],
-  "last_updated": "2026-09-07T19:01:46.538126",
+  "last_updated": "2026-09-07T20:17:29.979301",
   "used_english": [
-    "your small wins, celebrate them.",
-    "why hesitate? listen more.",
-    "this sound, pure understanding.",
-    "tiny sparks, ignite conversations.",
-    "your inner calm, unlock it.",
     "listen more, speak better.",
     "this feeling? understanding dawns.",
     "you're closer than you think.",
@@ -21002,6 +20997,11 @@
     "never fear pronunciation again.",
     "your ear learns amazing sounds.",
     "want fluency? listen closely.",
-    "dare to speak, truly live."
+    "dare to speak, truly live.",
+    "feeling stuck? try this phrase.",
+    "don't hide your accent, own it.",
+    "unlock fluency with one trick.",
+    "surprise: you can do this!",
+    "this vibe? spanish is yours."
   ]
 }
