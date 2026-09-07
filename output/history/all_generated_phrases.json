@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice? It matters.",
-      "spanish": "¿Tu voz? Importa.",
-      "category": "Confidence",
-      "generated_at": "2026-03-24T21:01:57.099438"
-    },
-    {
-      "english": "Never miss this opportunity.",
-      "spanish": "Nunca pierdas esta oportunidad.",
-      "category": "Confidence",
-      "generated_at": "2026-03-24T21:01:57.099443"
-    },
-    {
-      "english": "Curiosity reveals true spanish.",
-      "spanish": "La curiosidad revela español real.",
-      "category": "Confidence",
-      "generated_at": "2026-03-24T21:01:57.099448"
-    },
-    {
-      "english": "Wisdom: listen, then speak.",
-      "spanish": "Sabiduría: escucha, luego habla.",
-      "category": "Confidence",
-      "generated_at": "2026-03-24T21:01:57.099453"
-    },
-    {
-      "english": "This sound breaks language barriers.",
-      "spanish": "Este sonido rompe barreras.",
-      "category": "Courage",
-      "generated_at": "2026-03-24T22:05:36.466695"
-    },
-    {
       "english": "Your next word creates friends.",
       "spanish": "Tu próxima palabra crea amigos.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta palabra abre todas las puertas.",
       "category": "Courage",
       "generated_at": "2026-09-06T22:50:29.197263"
+    },
+    {
+      "english": "Dare to whisper, then shout.",
+      "spanish": "Atrévete a susurrar, luego gritar.",
+      "category": "Hope",
+      "generated_at": "2026-09-07T18:09:06.208697"
+    },
+    {
+      "english": "The sound of progress is here.",
+      "spanish": "El sonido del progreso está aquí.",
+      "category": "Hope",
+      "generated_at": "2026-09-07T18:09:06.208728"
+    },
+    {
+      "english": "Why wait? Speak that phrase.",
+      "spanish": "¿Por qué esperar? Di esa frase.",
+      "category": "Hope",
+      "generated_at": "2026-09-07T18:09:06.208752"
+    },
+    {
+      "english": "Surprise: You understand more!",
+      "spanish": "Sorpresa: ¡Entiendes más!",
+      "category": "Hope",
+      "generated_at": "2026-09-07T18:09:06.208773"
+    },
+    {
+      "english": "Your unique accent is valuable.",
+      "spanish": "Tu acento único es valioso.",
+      "category": "Hope",
+      "generated_at": "2026-09-07T18:09:06.208795"
     }
   ],
-  "last_updated": "2026-09-06T22:50:29.197265",
+  "last_updated": "2026-09-07T18:09:06.208796",
   "used_english": [
-    "your voice? it matters.",
-    "never miss this opportunity.",
-    "curiosity reveals true spanish.",
-    "wisdom: listen, then speak.",
-    "this sound breaks language barriers.",
     "your next word creates friends.",
     "what if speaking is easy?",
     "embrace the learning curve, grow.",
@@ -21002,6 +20997,11 @@
     "this tiny phrase unlocks joy.",
     "dare to understand them.",
     "one attempt, massive growth.",
-    "this word opens all doors."
+    "this word opens all doors.",
+    "dare to whisper, then shout.",
+    "the sound of progress is here.",
+    "why wait? speak that phrase.",
+    "surprise: you understand more!",
+    "your unique accent is valuable."
   ]
 }
