@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word melts hearts.",
-      "spanish": "Esta palabra derrite corazones.",
-      "category": "Love",
-      "generated_at": "2026-03-25T20:58:11.403006"
-    },
-    {
-      "english": "Why they fall in love:",
-      "spanish": "¿Por qué se enamoran?:",
-      "category": "Love",
-      "generated_at": "2026-03-25T20:58:11.403011"
-    },
-    {
-      "english": "Unlock intimacy with this.",
-      "spanish": "Desbloquea intimidad con esto.",
-      "category": "Love",
-      "generated_at": "2026-03-25T20:58:11.403016"
-    },
-    {
-      "english": "Their smile starts here.",
-      "spanish": "Su sonrisa empieza aquí.",
-      "category": "Love",
-      "generated_at": "2026-03-25T20:58:11.403021"
-    },
-    {
-      "english": "Your patience rewards you.",
-      "spanish": "Tu paciencia te recompensa.",
-      "category": "Motivation",
-      "generated_at": "2026-03-25T23:00:16.857848"
-    },
-    {
       "english": "This sound opens doors.",
       "spanish": "Este sonido abre puertas.",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta frase trae conexión instantánea.",
       "category": "Confidence",
       "generated_at": "2026-09-08T17:07:21.057972"
+    },
+    {
+      "english": "Your understanding grows daily.",
+      "spanish": "Tu comprensión crece a diario.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T18:22:42.837655"
+    },
+    {
+      "english": "Embrace the beautiful sounds.",
+      "spanish": "Abraza los sonidos bellos.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T18:22:42.837696"
+    },
+    {
+      "english": "Want to connect deeper? Speak.",
+      "spanish": "¿Quieres conectar más profundo? Habla.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T18:22:42.837727"
+    },
+    {
+      "english": "Your courage, now with words.",
+      "spanish": "Tu coraje, ahora con palabras.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T18:22:42.837755"
+    },
+    {
+      "english": "You're speaking more than you know.",
+      "spanish": "Hablas más de lo que crees.",
+      "category": "Purpose",
+      "generated_at": "2026-09-08T18:22:42.837781"
     }
   ],
-  "last_updated": "2026-09-08T17:07:21.057974",
+  "last_updated": "2026-09-08T18:22:42.837783",
   "used_english": [
-    "this one word melts hearts.",
-    "why they fall in love:",
-    "unlock intimacy with this.",
-    "their smile starts here.",
-    "your patience rewards you.",
     "this sound opens doors.",
     "what if it's easier?",
     "tiny sounds, big world.",
@@ -21002,6 +20997,11 @@
     "feel the rhythm, speak freely.",
     "what if 'ñ' isn't scary?",
     "you're speaking sooner than you think.",
-    "this phrase brings instant connection."
+    "this phrase brings instant connection.",
+    "your understanding grows daily.",
+    "embrace the beautiful sounds.",
+    "want to connect deeper? speak.",
+    "your courage, now with words.",
+    "you're speaking more than you know."
   ]
 }
