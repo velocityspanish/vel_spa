@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if you knew this?",
-      "spanish": "¿Y si supieras esto?",
-      "category": "Positive Life",
-      "generated_at": "2026-03-26T16:46:31.197059"
-    },
-    {
-      "english": "Never doubt your progress",
-      "spanish": "Nunca dudes de tu progreso",
-      "category": "Positive Life",
-      "generated_at": "2026-03-26T16:46:31.197064"
-    },
-    {
-      "english": "Wisdom: Listen more, speak less",
-      "spanish": "Sabiduría: Escucha más, habla menos",
-      "category": "Positive Life",
-      "generated_at": "2026-03-26T16:46:31.197069"
-    },
-    {
-      "english": "Feel the joy of learning",
-      "spanish": "Siente la alegría de aprender",
-      "category": "Positive Life",
-      "generated_at": "2026-03-26T16:46:31.197074"
-    },
-    {
-      "english": "This word? Pure magic.",
-      "spanish": "Esta palabra? Magia pura.",
-      "category": "Joy",
-      "generated_at": "2026-03-26T18:13:23.382395"
-    },
-    {
       "english": "Unlock smiles, say 'Hola'.",
       "spanish": "Desbloquea sonrisas, di 'Hola'.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza la conexión alegre.",
       "category": "Happiness",
       "generated_at": "2026-09-08T19:40:54.545790"
+    },
+    {
+      "english": "Breathe this word, feel peace.",
+      "spanish": "Respira esta palabra, siente paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-08T21:31:14.418509"
+    },
+    {
+      "english": "Whisper 'tranquilo,' find your calm.",
+      "spanish": "Susurra 'tranquilo,' halla tu calma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-08T21:31:14.418541"
+    },
+    {
+      "english": "This feeling: 'serenidad'.",
+      "spanish": "Esta sensación: 'serenidad'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-08T21:31:14.418568"
+    },
+    {
+      "english": "Let go, feel lighter now.",
+      "spanish": "Suelta, siéntete más ligero ahora.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-08T21:31:14.418594"
+    },
+    {
+      "english": "Your peace is a journey.",
+      "spanish": "Tu paz es un viaje.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-08T21:31:14.418619"
     }
   ],
-  "last_updated": "2026-09-08T19:40:54.545792",
+  "last_updated": "2026-09-08T21:31:14.418621",
   "used_english": [
-    "what if you knew this?",
-    "never doubt your progress",
-    "wisdom: listen more, speak less",
-    "feel the joy of learning",
-    "this word? pure magic.",
     "unlock smiles, say 'hola'.",
     "feel this joy? keep going.",
     "one phrase, instant connection.",
@@ -21002,6 +20997,11 @@
     "want to feel alive? speak!",
     "wisdom: happiness is shared.",
     "your journey brings happiness.",
-    "embrace the joyful connection."
+    "embrace the joyful connection.",
+    "breathe this word, feel peace.",
+    "whisper 'tranquilo,' find your calm.",
+    "this feeling: 'serenidad'.",
+    "let go, feel lighter now.",
+    "your peace is a journey."
   ]
 }
