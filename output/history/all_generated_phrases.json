@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sound opens doors.",
-      "spanish": "Este sonido abre puertas.",
-      "category": "Motivation",
-      "generated_at": "2026-03-25T23:00:16.857861"
-    },
-    {
-      "english": "What if it's easier?",
-      "spanish": "¿Y si es más fácil?",
-      "category": "Motivation",
-      "generated_at": "2026-03-25T23:00:16.857866"
-    },
-    {
-      "english": "Tiny sounds, big world.",
-      "spanish": "Sonidos pequeños, gran mundo.",
-      "category": "Motivation",
-      "generated_at": "2026-03-25T23:00:16.857871"
-    },
-    {
-      "english": "Your effort builds fluency.",
-      "spanish": "Tu esfuerzo construye fluidez.",
-      "category": "Motivation",
-      "generated_at": "2026-03-25T23:00:16.857876"
-    },
-    {
-      "english": "Your next step, matters",
-      "spanish": "Tu próximo paso, importa",
-      "category": "Positive Life",
-      "generated_at": "2026-03-26T16:46:31.197046"
-    },
-    {
       "english": "What if you knew this?",
       "spanish": "¿Y si supieras esto?",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Hablas más de lo que crees.",
       "category": "Purpose",
       "generated_at": "2026-09-08T18:22:42.837781"
+    },
+    {
+      "english": "Your happy moment starts now.",
+      "spanish": "Tu momento feliz empieza ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T19:40:54.545670"
+    },
+    {
+      "english": "Want to feel alive? Speak!",
+      "spanish": "¿Quieres sentirte vivo? ¡Habla!",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T19:40:54.545707"
+    },
+    {
+      "english": "Wisdom: Happiness is shared.",
+      "spanish": "Sabiduría: La felicidad se comparte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T19:40:54.545735"
+    },
+    {
+      "english": "Your journey brings happiness.",
+      "spanish": "Tu viaje trae felicidad.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T19:40:54.545762"
+    },
+    {
+      "english": "Embrace the joyful connection.",
+      "spanish": "Abraza la conexión alegre.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T19:40:54.545790"
     }
   ],
-  "last_updated": "2026-09-08T18:22:42.837783",
+  "last_updated": "2026-09-08T19:40:54.545792",
   "used_english": [
-    "this sound opens doors.",
-    "what if it's easier?",
-    "tiny sounds, big world.",
-    "your effort builds fluency.",
-    "your next step, matters",
     "what if you knew this?",
     "never doubt your progress",
     "wisdom: listen more, speak less",
@@ -21002,6 +20997,11 @@
     "embrace the beautiful sounds.",
     "want to connect deeper? speak.",
     "your courage, now with words.",
-    "you're speaking more than you know."
+    "you're speaking more than you know.",
+    "your happy moment starts now.",
+    "want to feel alive? speak!",
+    "wisdom: happiness is shared.",
+    "your journey brings happiness.",
+    "embrace the joyful connection."
   ]
 }
