@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock smiles, say 'Hola'.",
-      "spanish": "Desbloquea sonrisas, di 'Hola'.",
-      "category": "Joy",
-      "generated_at": "2026-03-26T18:13:23.382408"
-    },
-    {
-      "english": "Feel this joy? Keep going.",
-      "spanish": "Sientes esta alegría? Sigue.",
-      "category": "Joy",
-      "generated_at": "2026-03-26T18:13:23.382414"
-    },
-    {
-      "english": "One phrase, instant connection.",
-      "spanish": "Una frase, conexión instantánea.",
-      "category": "Joy",
-      "generated_at": "2026-03-26T18:13:23.382419"
-    },
-    {
-      "english": "Listen. Then speak. Effortless.",
-      "spanish": "Escucha. Luego habla. Sin esfuerzo.",
-      "category": "Joy",
-      "generated_at": "2026-03-26T18:13:23.382424"
-    },
-    {
-      "english": "The pause is your friend.",
-      "spanish": "La pausa es tu amiga.",
-      "category": "Patience",
-      "generated_at": "2026-03-26T19:58:26.530025"
-    },
-    {
       "english": "This sound? Your breakthrough.",
       "spanish": "Este sonido? Tu avance.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu paz es un viaje.",
       "category": "Inner Peace",
       "generated_at": "2026-09-08T21:31:14.418619"
+    },
+    {
+      "english": "Your smile needs this word.",
+      "spanish": "Tu sonrisa necesita esta palabra.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T23:17:40.924291"
+    },
+    {
+      "english": "Unlock inner peace, speak now.",
+      "spanish": "Desbloquea paz interior, habla ya.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T23:17:40.924328"
+    },
+    {
+      "english": "Want magic? Say 'gracias' often.",
+      "spanish": "¿Quieres magia? Di 'gracias' seguido.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T23:17:40.924354"
+    },
+    {
+      "english": "Don't miss this happy vibe.",
+      "spanish": "No te pierdas esta vibra feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T23:17:40.924381"
+    },
+    {
+      "english": "Feel this: 'qué maravilla'.",
+      "spanish": "Siente esto: 'qué maravilla'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-08T23:17:40.924409"
     }
   ],
-  "last_updated": "2026-09-08T21:31:14.418621",
+  "last_updated": "2026-09-08T23:17:40.924411",
   "used_english": [
-    "unlock smiles, say 'hola'.",
-    "feel this joy? keep going.",
-    "one phrase, instant connection.",
-    "listen. then speak. effortless.",
-    "the pause is your friend.",
     "this sound? your breakthrough.",
     "trust the quiet moments.",
     "your effort compounds daily.",
@@ -21002,6 +20997,11 @@
     "whisper 'tranquilo,' find your calm.",
     "this feeling: 'serenidad'.",
     "let go, feel lighter now.",
-    "your peace is a journey."
+    "your peace is a journey.",
+    "your smile needs this word.",
+    "unlock inner peace, speak now.",
+    "want magic? say 'gracias' often.",
+    "don't miss this happy vibe.",
+    "feel this: 'qué maravilla'."
   ]
 }
