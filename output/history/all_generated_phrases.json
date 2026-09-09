@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice matters, speak.",
-      "spanish": "Tu voz importa, habla.",
-      "category": "Success",
-      "generated_at": "2026-03-26T20:06:32.664784"
-    },
-    {
-      "english": "Feel the rhythm, your spanish.",
-      "spanish": "Siente el ritmo, tu español.",
-      "category": "Success",
-      "generated_at": "2026-03-26T20:06:32.664790"
-    },
-    {
-      "english": "Small phrases, big impact.",
-      "spanish": "Frases cortas, gran impacto.",
-      "category": "Success",
-      "generated_at": "2026-03-26T20:06:32.664795"
-    },
-    {
-      "english": "Wisdom: listen more, speak.",
-      "spanish": "Sabiduría: escucha más, habla.",
-      "category": "Success",
-      "generated_at": "2026-03-26T20:06:32.664800"
-    },
-    {
-      "english": "Your voice matters, start speaking.",
-      "spanish": "Tu voz importa, empieza a hablar.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-26T21:56:35.507345"
-    },
-    {
       "english": "This one sound surprises them.",
       "spanish": "Este sonido las/los sorprende.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Perdón: tu superpoder.",
       "category": "Forgiveness",
       "generated_at": "2026-09-09T17:04:54.582982"
+    },
+    {
+      "english": "Your new bestie awaits, say 'hola'.",
+      "spanish": "Tu nuevo mejor amigo espera, di 'hola'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T18:21:02.852466"
+    },
+    {
+      "english": "Want to connect? Learn this.",
+      "spanish": "¿Quieres conectar? Aprende esto.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T18:21:02.852508"
+    },
+    {
+      "english": "Feel the vibe: 'qué padre'.",
+      "spanish": "Siente la vibra: 'qué padre'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T18:21:02.852539"
+    },
+    {
+      "english": "One simple word, instant friends.",
+      "spanish": "Una palabra simple, amigos instantáneos.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T18:21:02.852567"
+    },
+    {
+      "english": "Embrace this sound: 'll'.",
+      "spanish": "Abraza este sonido: 'll'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T18:21:02.852595"
     }
   ],
-  "last_updated": "2026-09-09T17:04:54.582984",
+  "last_updated": "2026-09-09T18:21:02.852597",
   "used_english": [
-    "your voice matters, speak.",
-    "feel the rhythm, your spanish.",
-    "small phrases, big impact.",
-    "wisdom: listen more, speak.",
-    "your voice matters, start speaking.",
     "this one sound surprises them.",
     "wisdom: speak with feeling, always.",
     "what if speaking feels natural?",
@@ -21002,6 +20997,11 @@
     "embrace the calm within.",
     "let go. be lighter.",
     "your burden lifted, finally.",
-    "forgiveness: your superpower."
+    "forgiveness: your superpower.",
+    "your new bestie awaits, say 'hola'.",
+    "want to connect? learn this.",
+    "feel the vibe: 'qué padre'.",
+    "one simple word, instant friends.",
+    "embrace this sound: 'll'."
   ]
 }
