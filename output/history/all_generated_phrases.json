@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity opens doors, try.",
-      "spanish": "La curiosidad abre puertas, intenta.",
-      "category": "Confidence",
-      "generated_at": "2026-03-27T18:04:33.525270"
-    },
-    {
-      "english": "This rhythm? Your Spanish.",
-      "spanish": "¿Este ritmo? Tu español.",
-      "category": "Confidence",
-      "generated_at": "2026-03-27T18:04:33.525276"
-    },
-    {
-      "english": "Surprise! Your accent shines.",
-      "spanish": "¡Sorpresa! Tu acento brilla.",
-      "category": "Confidence",
-      "generated_at": "2026-03-27T18:04:33.525281"
-    },
-    {
-      "english": "Small efforts build fluency.",
-      "spanish": "Pequeños esfuerzos construyen fluidez.",
-      "category": "Confidence",
-      "generated_at": "2026-03-27T18:04:33.525286"
-    },
-    {
-      "english": "This one sound, pure magic.",
-      "spanish": "Este sonido, pura magia.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-27T19:33:21.675647"
-    },
-    {
       "english": "Your brain learns faster now.",
       "spanish": "Tu cerebro aprende más rápido.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a errar con valentía.",
       "category": "Perseverance",
       "generated_at": "2026-09-09T21:23:51.116288"
+    },
+    {
+      "english": "Unlock your confidence, speak up!",
+      "spanish": "Desbloquea tu confianza, ¡habla!",
+      "category": "Growth",
+      "generated_at": "2026-09-09T23:07:44.291442"
+    },
+    {
+      "english": "This sound? Easier than you think.",
+      "spanish": "Este sonido, ¿más fácil de lo que crees?",
+      "category": "Growth",
+      "generated_at": "2026-09-09T23:07:44.291480"
+    },
+    {
+      "english": "One phrase, instant connection.",
+      "spanish": "Una frase, conexión instantánea.",
+      "category": "Growth",
+      "generated_at": "2026-09-09T23:07:44.291505"
+    },
+    {
+      "english": "Want to understand? Listen more.",
+      "spanish": "¿Quieres entender? Escucha más.",
+      "category": "Growth",
+      "generated_at": "2026-09-09T23:07:44.291529"
+    },
+    {
+      "english": "Your progress is beautiful.",
+      "spanish": "Tu progreso es hermoso.",
+      "category": "Growth",
+      "generated_at": "2026-09-09T23:07:44.291553"
     }
   ],
-  "last_updated": "2026-09-09T21:23:51.116290",
+  "last_updated": "2026-09-09T23:07:44.291555",
   "used_english": [
-    "curiosity opens doors, try.",
-    "this rhythm? your spanish.",
-    "surprise! your accent shines.",
-    "small efforts build fluency.",
-    "this one sound, pure magic.",
     "your brain learns faster now.",
     "feel the words, connect deeply.",
     "don't fear the silence.",
@@ -21002,6 +20997,11 @@
     "the secret? just keep speaking.",
     "this sound? master it now.",
     "your brain is adapting, yes!",
-    "dare to make mistakes bravely."
+    "dare to make mistakes bravely.",
+    "unlock your confidence, speak up!",
+    "this sound? easier than you think.",
+    "one phrase, instant connection.",
+    "want to understand? listen more.",
+    "your progress is beautiful."
   ]
 }
