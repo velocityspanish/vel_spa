@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one sound surprises them.",
-      "spanish": "Este sonido las/los sorprende.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-26T21:56:35.507361"
-    },
-    {
-      "english": "Wisdom: Speak with feeling, always.",
-      "spanish": "Sabiduría: Habla con sentimiento, siempre.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-26T21:56:35.507367"
-    },
-    {
-      "english": "What if speaking feels natural?",
-      "spanish": "¿Y si hablar se siente natural?",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-26T21:56:35.507373"
-    },
-    {
-      "english": "Tiny moments build fluent speakers.",
-      "spanish": "Pequeños momentos crean hablantes fluidos.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-26T21:56:35.507378"
-    },
-    {
-      "english": "Your pronunciation? Surprisingly good!",
-      "spanish": "¿Tu pronunciación? ¡Sorprendentemente buena!",
-      "category": "Confidence",
-      "generated_at": "2026-03-27T15:39:06.613810"
-    },
-    {
       "english": "One tiny phrase, big impact.",
       "spanish": "Una frase pequeña, gran impacto.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza este sonido: 'll'.",
       "category": "Friendship",
       "generated_at": "2026-09-09T18:21:02.852595"
+    },
+    {
+      "english": "Feel this warmth, 'te quiero'.",
+      "spanish": "Siente este calor, 'te quiero'.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:34:14.383573"
+    },
+    {
+      "english": "Love's secret? 'Contigo', always.",
+      "spanish": "El secreto del amor: 'contigo'.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:34:14.383605"
+    },
+    {
+      "english": "Your soulmate is waiting, say...",
+      "spanish": "Tu alma gemela espera, di...",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:34:14.383627"
+    },
+    {
+      "english": "This phrase whispers 'forever'.",
+      "spanish": "Esta frase susurra 'para siempre'.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:34:14.383648"
+    },
+    {
+      "english": "Feel it: 'Me encantas'.",
+      "spanish": "Siente esto: 'me encantas'.",
+      "category": "Love",
+      "generated_at": "2026-09-09T19:34:14.383668"
     }
   ],
-  "last_updated": "2026-09-09T18:21:02.852597",
+  "last_updated": "2026-09-09T19:34:14.383670",
   "used_english": [
-    "this one sound surprises them.",
-    "wisdom: speak with feeling, always.",
-    "what if speaking feels natural?",
-    "tiny moments build fluent speakers.",
-    "your pronunciation? surprisingly good!",
     "one tiny phrase, big impact.",
     "this sound connects everyone.",
     "surprise: your spanish is growing!",
@@ -21002,6 +20997,11 @@
     "want to connect? learn this.",
     "feel the vibe: 'qué padre'.",
     "one simple word, instant friends.",
-    "embrace this sound: 'll'."
+    "embrace this sound: 'll'.",
+    "feel this warmth, 'te quiero'.",
+    "love's secret? 'contigo', always.",
+    "your soulmate is waiting, say...",
+    "this phrase whispers 'forever'.",
+    "feel it: 'me encantas'."
   ]
 }
