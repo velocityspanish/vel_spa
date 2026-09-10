@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your accent? Totally charming.",
-      "spanish": "¿Tu acento? Totalmente encantador.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-28T14:54:59.783650"
-    },
-    {
-      "english": "Why silence? Speak your truth.",
-      "spanish": "¿Por qué el silencio? Di tu verdad.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-28T14:54:59.783656"
-    },
-    {
-      "english": "Tiny phrase, big connections.",
-      "spanish": "Frase corta, grandes conexiones.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-28T14:54:59.783662"
-    },
-    {
-      "english": "Surprise: fluency is gradual.",
-      "spanish": "Sorpresa: la fluidez es gradual.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-28T14:54:59.783667"
-    },
-    {
-      "english": "Future you will thank you.",
-      "spanish": "Tu yo futuro te lo agradecerá.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-28T16:00:18.463238"
-    },
-    {
       "english": "This small sound opens worlds.",
       "spanish": "Este pequeño sonido abre mundos.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "El arma secreta de tu viaje.",
       "category": "Growth",
       "generated_at": "2026-09-10T19:22:25.091193"
+    },
+    {
+      "english": "Hear this? It's fluency.",
+      "spanish": "Escucha esto: es fluidez.",
+      "category": "Success",
+      "generated_at": "2026-09-10T21:18:44.271924"
+    },
+    {
+      "english": "Feel this flow: 'así es'.",
+      "spanish": "Siente este flujo: 'así es'.",
+      "category": "Success",
+      "generated_at": "2026-09-10T21:18:44.271965"
+    },
+    {
+      "english": "The key? Listen carefully.",
+      "spanish": "¿La clave? Escucha atentamente.",
+      "category": "Success",
+      "generated_at": "2026-09-10T21:18:44.271994"
+    },
+    {
+      "english": "Dare to sound it out.",
+      "spanish": "Atrévete a pronunciarlo.",
+      "category": "Success",
+      "generated_at": "2026-09-10T21:18:44.272020"
+    },
+    {
+      "english": "This phrase? Unlock conversations.",
+      "spanish": "¿Esta frase? Desbloquea conversaciones.",
+      "category": "Success",
+      "generated_at": "2026-09-10T21:18:44.272047"
     }
   ],
-  "last_updated": "2026-09-10T19:22:25.091195",
+  "last_updated": "2026-09-10T21:18:44.272049",
   "used_english": [
-    "your accent? totally charming.",
-    "why silence? speak your truth.",
-    "tiny phrase, big connections.",
-    "surprise: fluency is gradual.",
-    "future you will thank you.",
     "this small sound opens worlds.",
     "why are you holding back?",
     "wisdom: embrace awkwardness, learn.",
@@ -21002,6 +20997,11 @@
     "never miss this key phrase.",
     "surprise! you understand more.",
     "this one word? instant friends.",
-    "your journey's secret weapon."
+    "your journey's secret weapon.",
+    "hear this? it's fluency.",
+    "feel this flow: 'así es'.",
+    "the key? listen carefully.",
+    "dare to sound it out.",
+    "this phrase? unlock conversations."
   ]
 }
