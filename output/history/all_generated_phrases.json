@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your brain learns faster now.",
-      "spanish": "Tu cerebro aprende más rápido.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-27T19:33:21.675660"
-    },
-    {
-      "english": "Feel the words, connect deeply.",
-      "spanish": "Siente las palabras, conecta profundo.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-27T19:33:21.675667"
-    },
-    {
-      "english": "Don't fear the silence.",
-      "spanish": "No temas el silencio.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-27T19:33:21.675672"
-    },
-    {
-      "english": "This rhythm, your own voice.",
-      "spanish": "Este ritmo, tu propia voz.",
-      "category": "Perseverance",
-      "generated_at": "2026-03-27T19:33:21.675678"
-    },
-    {
-      "english": "Quietly, your spanish grows.",
-      "spanish": "Silenciosamente, tu español crece.",
-      "category": "Patience",
-      "generated_at": "2026-03-27T20:05:29.323616"
-    },
-    {
       "english": "This rhythm unlocks fluency.",
       "spanish": "Este ritmo desbloquea fluidez.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu progreso es hermoso.",
       "category": "Growth",
       "generated_at": "2026-09-09T23:07:44.291553"
+    },
+    {
+      "english": "Your future self is listening.",
+      "spanish": "Tu yo futuro está escuchando.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-10T16:55:41.790561"
+    },
+    {
+      "english": "Struggle today, strength tomorrow.",
+      "spanish": "Lucha hoy, fuerza mañana.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-10T16:55:41.790597"
+    },
+    {
+      "english": "Momentum builds with each sound.",
+      "spanish": "El impulso se construye con cada sonido.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-10T16:55:41.790624"
+    },
+    {
+      "english": "Don't quit before the breakthrough.",
+      "spanish": "No renuncies antes del avance.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-10T16:55:41.790649"
+    },
+    {
+      "english": "This challenge? Your growth zone.",
+      "spanish": "¿Este desafío? Tu zona de crecimiento.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-10T16:55:41.790675"
     }
   ],
-  "last_updated": "2026-09-09T23:07:44.291555",
+  "last_updated": "2026-09-10T16:55:41.790677",
   "used_english": [
-    "your brain learns faster now.",
-    "feel the words, connect deeply.",
-    "don't fear the silence.",
-    "this rhythm, your own voice.",
-    "quietly, your spanish grows.",
     "this rhythm unlocks fluency.",
     "your next word builds trust.",
     "wisdom: listen before you leap.",
@@ -21002,6 +20997,11 @@
     "this sound? easier than you think.",
     "one phrase, instant connection.",
     "want to understand? listen more.",
-    "your progress is beautiful."
+    "your progress is beautiful.",
+    "your future self is listening.",
+    "struggle today, strength tomorrow.",
+    "momentum builds with each sound.",
+    "don't quit before the breakthrough.",
+    "this challenge? your growth zone."
   ]
 }
