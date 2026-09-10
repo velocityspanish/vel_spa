@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why wait? Speak today.",
-      "spanish": "¿Por qué esperar? Habla hoy.",
-      "category": "Courage",
-      "generated_at": "2026-03-27T22:01:03.802355"
-    },
-    {
-      "english": "Your voice is powerful, use it.",
-      "spanish": "Tu voz es potente, úsala.",
-      "category": "Courage",
-      "generated_at": "2026-03-27T22:01:03.802363"
-    },
-    {
-      "english": "Breathe in, speak out.",
-      "spanish": "Inhala, exhala hablando.",
-      "category": "Courage",
-      "generated_at": "2026-03-27T22:01:03.802368"
-    },
-    {
-      "english": "Small talk, big adventures.",
-      "spanish": "Charla, grandes aventuras.",
-      "category": "Courage",
-      "generated_at": "2026-03-27T22:01:03.802374"
-    },
-    {
-      "english": "One sound, opens everything.",
-      "spanish": "Un sonido, lo abre todo.",
-      "category": "Inspiration",
-      "generated_at": "2026-03-28T14:54:59.783638"
-    },
-    {
       "english": "Your accent? Totally charming.",
       "spanish": "¿Tu acento? Totalmente encantador.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Sorpresa! Estás hablando español.",
       "category": "Confidence",
       "generated_at": "2026-09-10T18:11:41.989917"
+    },
+    {
+      "english": "This sound? It's actually easy.",
+      "spanish": "Este sonido, ¡es fácil!",
+      "category": "Growth",
+      "generated_at": "2026-09-10T19:22:25.091099"
+    },
+    {
+      "english": "Never miss this key phrase.",
+      "spanish": "Nunca pierdas esta frase clave.",
+      "category": "Growth",
+      "generated_at": "2026-09-10T19:22:25.091128"
+    },
+    {
+      "english": "Surprise! You understand more.",
+      "spanish": "¡Sorpresa! Entiendes más.",
+      "category": "Growth",
+      "generated_at": "2026-09-10T19:22:25.091150"
+    },
+    {
+      "english": "This one word? Instant friends.",
+      "spanish": "¿Esta palabra? Amigos instantáneos.",
+      "category": "Growth",
+      "generated_at": "2026-09-10T19:22:25.091171"
+    },
+    {
+      "english": "Your journey's secret weapon.",
+      "spanish": "El arma secreta de tu viaje.",
+      "category": "Growth",
+      "generated_at": "2026-09-10T19:22:25.091193"
     }
   ],
-  "last_updated": "2026-09-10T18:11:41.989919",
+  "last_updated": "2026-09-10T19:22:25.091195",
   "used_english": [
-    "why wait? speak today.",
-    "your voice is powerful, use it.",
-    "breathe in, speak out.",
-    "small talk, big adventures.",
-    "one sound, opens everything.",
     "your accent? totally charming.",
     "why silence? speak your truth.",
     "tiny phrase, big connections.",
@@ -21002,6 +20997,11 @@
     "your progress is beautiful, really.",
     "this phrase? instant connection.",
     "dare to say 'hola' first.",
-    "surprise! you're speaking spanish."
+    "surprise! you're speaking spanish.",
+    "this sound? it's actually easy.",
+    "never miss this key phrase.",
+    "surprise! you understand more.",
+    "this one word? instant friends.",
+    "your journey's secret weapon."
   ]
 }
