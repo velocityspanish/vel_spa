@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This rhythm unlocks fluency.",
-      "spanish": "Este ritmo desbloquea fluidez.",
-      "category": "Patience",
-      "generated_at": "2026-03-27T20:05:29.323635"
-    },
-    {
-      "english": "Your next word builds trust.",
-      "spanish": "Tu próxima palabra construye confianza.",
-      "category": "Patience",
-      "generated_at": "2026-03-27T20:05:29.323645"
-    },
-    {
-      "english": "Wisdom: listen before you leap.",
-      "spanish": "Sabiduría: escucha antes de saltar.",
-      "category": "Patience",
-      "generated_at": "2026-03-27T20:05:29.323654"
-    },
-    {
-      "english": "This pause, your power.",
-      "spanish": "Esta pausa, tu poder.",
-      "category": "Patience",
-      "generated_at": "2026-03-27T20:05:29.323663"
-    },
-    {
-      "english": "Your fear? Just a whisper.",
-      "spanish": "Tu miedo, solo un susurro.",
-      "category": "Courage",
-      "generated_at": "2026-03-27T22:01:03.802340"
-    },
-    {
       "english": "Why wait? Speak today.",
       "spanish": "¿Por qué esperar? Habla hoy.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Este desafío? Tu zona de crecimiento.",
       "category": "Perseverance",
       "generated_at": "2026-09-10T16:55:41.790675"
+    },
+    {
+      "english": "This one word unlocks confidence.",
+      "spanish": "Esta palabra desbloquea confianza.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T18:11:41.989803"
+    },
+    {
+      "english": "Your progress is beautiful, really.",
+      "spanish": "Tu progreso es hermoso, de verdad.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T18:11:41.989838"
+    },
+    {
+      "english": "This phrase? Instant connection.",
+      "spanish": "¿Esta frase? Conexión instantánea.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T18:11:41.989865"
+    },
+    {
+      "english": "Dare to say 'hola' first.",
+      "spanish": "Atrévete a decir 'hola' primero.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T18:11:41.989891"
+    },
+    {
+      "english": "Surprise! You're speaking Spanish.",
+      "spanish": "¡Sorpresa! Estás hablando español.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T18:11:41.989917"
     }
   ],
-  "last_updated": "2026-09-10T16:55:41.790677",
+  "last_updated": "2026-09-10T18:11:41.989919",
   "used_english": [
-    "this rhythm unlocks fluency.",
-    "your next word builds trust.",
-    "wisdom: listen before you leap.",
-    "this pause, your power.",
-    "your fear? just a whisper.",
     "why wait? speak today.",
     "your voice is powerful, use it.",
     "breathe in, speak out.",
@@ -21002,6 +20997,11 @@
     "struggle today, strength tomorrow.",
     "momentum builds with each sound.",
     "don't quit before the breakthrough.",
-    "this challenge? your growth zone."
+    "this challenge? your growth zone.",
+    "this one word unlocks confidence.",
+    "your progress is beautiful, really.",
+    "this phrase? instant connection.",
+    "dare to say 'hola' first.",
+    "surprise! you're speaking spanish."
   ]
 }
