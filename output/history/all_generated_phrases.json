@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Whisper this, watch them blush.",
-      "spanish": "Susurra esto, vélos sonrojarse.",
-      "category": "Love",
-      "generated_at": "2026-03-28T17:59:47.298060"
-    },
-    {
-      "english": "One phrase, pure romance.",
-      "spanish": "Una frase, romance puro.",
-      "category": "Love",
-      "generated_at": "2026-03-28T17:59:47.298066"
-    },
-    {
-      "english": "Why they fall? Simple.",
-      "spanish": "¿Por qué se enamoran? Simple.",
-      "category": "Love",
-      "generated_at": "2026-03-28T17:59:47.298071"
-    },
-    {
-      "english": "Unlock smiles, just say 'te amo'.",
-      "spanish": "Desbloquea sonrisas, solo di 'te amo'.",
-      "category": "Love",
-      "generated_at": "2026-03-28T17:59:47.298077"
-    },
-    {
-      "english": "Curiosity reveals the rhythm.",
-      "spanish": "La curiosidad revela el ritmo.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-28T19:55:24.740139"
-    },
-    {
       "english": "Your accent? A charming superpower.",
       "spanish": "¿Tu acento? Un superpoder encantador.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Este sentimiento? 'Mi amor' por ti.",
       "category": "Love",
       "generated_at": "2026-09-10T23:03:13.098077"
+    },
+    {
+      "english": "This one sound? Unlocks fluency.",
+      "spanish": "Este sonido, ¿desbloquea fluidez?",
+      "category": "Creativity",
+      "generated_at": "2026-09-11T16:58:06.157790"
+    },
+    {
+      "english": "Surprise: You speak more than you think!",
+      "spanish": "Sorpresa: ¡hablas más de lo que crees!",
+      "category": "Creativity",
+      "generated_at": "2026-09-11T16:58:06.157819"
+    },
+    {
+      "english": "Hear this? Fluency is coming.",
+      "spanish": "¿Oyes esto? La fluidez llega.",
+      "category": "Creativity",
+      "generated_at": "2026-09-11T16:58:06.157838"
+    },
+    {
+      "english": "Your mind is already translating.",
+      "spanish": "Tu mente ya está traduciendo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-11T16:58:06.157855"
+    },
+    {
+      "english": "This phrase means 'so cool'.",
+      "spanish": "Esta frase significa 'qué guay'.",
+      "category": "Creativity",
+      "generated_at": "2026-09-11T16:58:06.157874"
     }
   ],
-  "last_updated": "2026-09-10T23:03:13.098079",
+  "last_updated": "2026-09-11T16:58:06.157876",
   "used_english": [
-    "whisper this, watch them blush.",
-    "one phrase, pure romance.",
-    "why they fall? simple.",
-    "unlock smiles, just say 'te amo'.",
-    "curiosity reveals the rhythm.",
     "your accent? a charming superpower.",
     "the secret? daily practice.",
     "encouragement: you're not alone.",
@@ -21002,6 +20997,11 @@
     "your heart beats 'te quiero', right?",
     "want to feel cherished? say this.",
     "wisdom: true love listens.",
-    "this feeling? 'mi amor' you."
+    "this feeling? 'mi amor' you.",
+    "this one sound? unlocks fluency.",
+    "surprise: you speak more than you think!",
+    "hear this? fluency is coming.",
+    "your mind is already translating.",
+    "this phrase means 'so cool'."
   ]
 }
