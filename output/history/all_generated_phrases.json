@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your accent? A charming superpower.",
-      "spanish": "¿Tu acento? Un superpoder encantador.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-28T19:55:24.740153"
-    },
-    {
-      "english": "The secret? Daily practice.",
-      "spanish": "El secreto? Práctica diaria.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-28T19:55:24.740159"
-    },
-    {
-      "english": "Encouragement: You're not alone.",
-      "spanish": "Ánimo: No estás solo/a.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-28T19:55:24.740165"
-    },
-    {
-      "english": "Hear this sound, unlock meaning.",
-      "spanish": "Oye este sonido, desbloquea sentido.",
-      "category": "Wisdom",
-      "generated_at": "2026-03-28T19:55:24.740170"
-    },
-    {
-      "english": "This one sound? pure understanding.",
-      "spanish": "Este sonido único, pura comprensión.",
-      "category": "Joy",
-      "generated_at": "2026-03-28T21:56:24.545683"
-    },
-    {
       "english": "Your effort compounds daily, amazing!",
       "spanish": "Tu esfuerzo se acumula diario, ¡increíble!",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta frase significa 'qué guay'.",
       "category": "Creativity",
       "generated_at": "2026-09-11T16:58:06.157874"
+    },
+    {
+      "english": "Why fear the 'r' roll?",
+      "spanish": "¿Por qué temer la 'r' vibrante?",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T18:13:05.449987"
+    },
+    {
+      "english": "One word, pure magic: 'Ojalá'.",
+      "spanish": "Una palabra, pura magia: 'Ojalá'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T18:13:05.450030"
+    },
+    {
+      "english": "Your accent tells stories.",
+      "spanish": "Tu acento cuenta historias.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T18:13:05.450059"
+    },
+    {
+      "english": "Wisdom: Speak, then understand.",
+      "spanish": "Sabiduría: Habla, luego entiende.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T18:13:05.450088"
+    },
+    {
+      "english": "Unlock phrases with this.",
+      "spanish": "Desbloquea frases con esto.",
+      "category": "Motivation",
+      "generated_at": "2026-09-11T18:13:05.450115"
     }
   ],
-  "last_updated": "2026-09-11T16:58:06.157876",
+  "last_updated": "2026-09-11T18:13:05.450118",
   "used_english": [
-    "your accent? a charming superpower.",
-    "the secret? daily practice.",
-    "encouragement: you're not alone.",
-    "hear this sound, unlock meaning.",
-    "this one sound? pure understanding.",
     "your effort compounds daily, amazing!",
     "want connection? say this word.",
     "tiny sparks ignite conversations, wow!",
@@ -21002,6 +20997,11 @@
     "surprise: you speak more than you think!",
     "hear this? fluency is coming.",
     "your mind is already translating.",
-    "this phrase means 'so cool'."
+    "this phrase means 'so cool'.",
+    "why fear the 'r' roll?",
+    "one word, pure magic: 'ojalá'.",
+    "your accent tells stories.",
+    "wisdom: speak, then understand.",
+    "unlock phrases with this."
   ]
 }
