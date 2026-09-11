@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word breaks ice.",
-      "spanish": "Esta palabra rompe el hielo.",
-      "category": "Balance",
-      "generated_at": "2026-03-29T14:56:39.849010"
-    },
-    {
-      "english": "Feel the connection growing.",
-      "spanish": "Siente la conexión creciendo.",
-      "category": "Balance",
-      "generated_at": "2026-03-29T14:56:39.849017"
-    },
-    {
-      "english": "What if it’s easy?",
-      "spanish": "¿Y si fuera fácil?",
-      "category": "Balance",
-      "generated_at": "2026-03-29T14:56:39.849023"
-    },
-    {
-      "english": "Tiny efforts, big leaps.",
-      "spanish": "Pequeños esfuerzos, grandes saltos.",
-      "category": "Balance",
-      "generated_at": "2026-03-29T14:56:39.849028"
-    },
-    {
-      "english": "Surprise: they understand you!",
-      "spanish": "¡Sorpresa: te entienden!",
-      "category": "Growth",
-      "generated_at": "2026-03-29T16:00:54.743508"
-    },
-    {
       "english": "Curiosity: how to sound natural?",
       "spanish": "Curiosidad: ¿suena natural?",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Susurra esto para magia.",
       "category": "Love",
       "generated_at": "2026-09-11T19:22:16.183754"
+    },
+    {
+      "english": "This sounds weird, but it works.",
+      "spanish": "Suena raro, pero funciona.",
+      "category": "Hope",
+      "generated_at": "2026-09-11T21:26:48.343685"
+    },
+    {
+      "english": "The magic word? 'Por favor'.",
+      "spanish": "La palabra mágica: 'Por favor'.",
+      "category": "Hope",
+      "generated_at": "2026-09-11T21:26:48.343723"
+    },
+    {
+      "english": "Can you say 'desayuno' yet?",
+      "spanish": "¿Ya puedes decir 'desayuno'?",
+      "category": "Hope",
+      "generated_at": "2026-09-11T21:26:48.343751"
+    },
+    {
+      "english": "Unlock confidence, one word daily.",
+      "spanish": "Desbloquea confianza, una palabra diaria.",
+      "category": "Hope",
+      "generated_at": "2026-09-11T21:26:48.343776"
+    },
+    {
+      "english": "This feeling? 'Qué bien!'",
+      "spanish": "Este sentimiento: '¡Qué bien!'",
+      "category": "Hope",
+      "generated_at": "2026-09-11T21:26:48.343803"
     }
   ],
-  "last_updated": "2026-09-11T19:22:16.183756",
+  "last_updated": "2026-09-11T21:26:48.343805",
   "used_english": [
-    "this one word breaks ice.",
-    "feel the connection growing.",
-    "what if it’s easy?",
-    "tiny efforts, big leaps.",
-    "surprise: they understand you!",
     "curiosity: how to sound natural?",
     "this rhythm wins hearts.",
     "want their attention? listen.",
@@ -21002,6 +20997,11 @@
     "feel this? 'te adoro' truly.",
     "want to melt a heart?",
     "this sounds like real love.",
-    "whisper this for magic."
+    "whisper this for magic.",
+    "this sounds weird, but it works.",
+    "the magic word? 'por favor'.",
+    "can you say 'desayuno' yet?",
+    "unlock confidence, one word daily.",
+    "this feeling? 'qué bien!'"
   ]
 }
