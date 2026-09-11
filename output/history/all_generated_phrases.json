@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your effort compounds daily, amazing!",
-      "spanish": "Tu esfuerzo se acumula diario, ¡increíble!",
-      "category": "Joy",
-      "generated_at": "2026-03-28T21:56:24.545698"
-    },
-    {
-      "english": "Want connection? say this word.",
-      "spanish": "¿Quieres conexión? di esta palabra.",
-      "category": "Joy",
-      "generated_at": "2026-03-28T21:56:24.545704"
-    },
-    {
-      "english": "Tiny sparks ignite conversations, wow!",
-      "spanish": "Pequeñas chispas encienden charlas, ¡wow!",
-      "category": "Joy",
-      "generated_at": "2026-03-28T21:56:24.545709"
-    },
-    {
-      "english": "Hear this, then speak easily.",
-      "spanish": "Escucha esto, luego habla fácil.",
-      "category": "Joy",
-      "generated_at": "2026-03-28T21:56:24.545715"
-    },
-    {
-      "english": "Your inner voice matters.",
-      "spanish": "Tu voz interior importa.",
-      "category": "Balance",
-      "generated_at": "2026-03-29T14:56:39.848995"
-    },
-    {
       "english": "This one word breaks ice.",
       "spanish": "Esta palabra rompe el hielo.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea frases con esto.",
       "category": "Motivation",
       "generated_at": "2026-09-11T18:13:05.450115"
+    },
+    {
+      "english": "One phrase: pure affection.",
+      "spanish": "Una frase: afecto puro.",
+      "category": "Love",
+      "generated_at": "2026-09-11T19:22:16.183659"
+    },
+    {
+      "english": "Feel this? 'te adoro' truly.",
+      "spanish": "Sentir esto? 'te adoro' de verdad.",
+      "category": "Love",
+      "generated_at": "2026-09-11T19:22:16.183694"
+    },
+    {
+      "english": "Want to melt a heart?",
+      "spanish": "¿Quieres derretir un corazón?",
+      "category": "Love",
+      "generated_at": "2026-09-11T19:22:16.183714"
+    },
+    {
+      "english": "This sounds like real love.",
+      "spanish": "Esto suena a amor real.",
+      "category": "Love",
+      "generated_at": "2026-09-11T19:22:16.183735"
+    },
+    {
+      "english": "Whisper this for magic.",
+      "spanish": "Susurra esto para magia.",
+      "category": "Love",
+      "generated_at": "2026-09-11T19:22:16.183754"
     }
   ],
-  "last_updated": "2026-09-11T18:13:05.450118",
+  "last_updated": "2026-09-11T19:22:16.183756",
   "used_english": [
-    "your effort compounds daily, amazing!",
-    "want connection? say this word.",
-    "tiny sparks ignite conversations, wow!",
-    "hear this, then speak easily.",
-    "your inner voice matters.",
     "this one word breaks ice.",
     "feel the connection growing.",
     "what if it’s easy?",
@@ -21002,6 +20997,11 @@
     "one word, pure magic: 'ojalá'.",
     "your accent tells stories.",
     "wisdom: speak, then understand.",
-    "unlock phrases with this."
+    "unlock phrases with this.",
+    "one phrase: pure affection.",
+    "feel this? 'te adoro' truly.",
+    "want to melt a heart?",
+    "this sounds like real love.",
+    "whisper this for magic."
   ]
 }
