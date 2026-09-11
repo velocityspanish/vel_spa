@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity: how to sound natural?",
-      "spanish": "Curiosidad: ¿suena natural?",
-      "category": "Growth",
-      "generated_at": "2026-03-29T16:00:54.743522"
-    },
-    {
-      "english": "This rhythm wins hearts.",
-      "spanish": "Este ritmo gana corazones.",
-      "category": "Growth",
-      "generated_at": "2026-03-29T16:00:54.743528"
-    },
-    {
-      "english": "Want their attention? Listen.",
-      "spanish": "¿Quieres su atención? Escucha.",
-      "category": "Growth",
-      "generated_at": "2026-03-29T16:00:54.743534"
-    },
-    {
-      "english": "Wisdom: mistakes are lessons.",
-      "spanish": "Sabiduría: errores son lecciones.",
-      "category": "Growth",
-      "generated_at": "2026-03-29T16:00:54.743540"
-    },
-    {
-      "english": "Feeling stuck? Try this.",
-      "spanish": "¿Te sientes atascado? Prueba esto.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-29T18:02:09.968481"
-    },
-    {
       "english": "Your brain is wiring.",
       "spanish": "Tu cerebro se está cableando.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Este sentimiento: '¡Qué bien!'",
       "category": "Hope",
       "generated_at": "2026-09-11T21:26:48.343803"
+    },
+    {
+      "english": "Just breathe. It's enough.",
+      "spanish": "Solo respira. Es suficiente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-11T23:09:39.950191"
+    },
+    {
+      "english": "This moment is precious.",
+      "spanish": "Este momento es valioso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-11T23:09:39.950224"
+    },
+    {
+      "english": "Feel this. Pure presence.",
+      "spanish": "Siente esto. Presencia pura.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-11T23:09:39.950245"
+    },
+    {
+      "english": "What if you're okay?",
+      "spanish": "¿Y si estás bien?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-11T23:09:39.950272"
+    },
+    {
+      "english": "Your truth is valid.",
+      "spanish": "Tu verdad es válida.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-11T23:09:39.950293"
     }
   ],
-  "last_updated": "2026-09-11T21:26:48.343805",
+  "last_updated": "2026-09-11T23:09:39.950295",
   "used_english": [
-    "curiosity: how to sound natural?",
-    "this rhythm wins hearts.",
-    "want their attention? listen.",
-    "wisdom: mistakes are lessons.",
-    "feeling stuck? try this.",
     "your brain is wiring.",
     "this unlocks listening power.",
     "why does this work?",
@@ -21002,6 +20997,11 @@
     "the magic word? 'por favor'.",
     "can you say 'desayuno' yet?",
     "unlock confidence, one word daily.",
-    "this feeling? 'qué bien!'"
+    "this feeling? 'qué bien!'",
+    "just breathe. it's enough.",
+    "this moment is precious.",
+    "feel this. pure presence.",
+    "what if you're okay?",
+    "your truth is valid."
   ]
 }
