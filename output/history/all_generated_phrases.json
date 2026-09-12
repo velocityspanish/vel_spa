@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity opens every door.",
-      "spanish": "La curiosidad abre puertas.",
-      "category": "Kindness",
-      "generated_at": "2026-03-29T21:59:43.246957"
-    },
-    {
-      "english": "Your voice is welcome here.",
-      "spanish": "Tu voz es bienvenida aquí.",
-      "category": "Kindness",
-      "generated_at": "2026-03-29T21:59:43.246963"
-    },
-    {
-      "english": "This sound? Pure connection.",
-      "spanish": "¿Este sonido? Conexión pura.",
-      "category": "Kindness",
-      "generated_at": "2026-03-29T21:59:43.246969"
-    },
-    {
-      "english": "Wisdom: Speak with heart.",
-      "spanish": "Sabiduría: Habla con corazón.",
-      "category": "Kindness",
-      "generated_at": "2026-03-29T21:59:43.246974"
-    },
-    {
-      "english": "Your bravery speaks volumes.",
-      "spanish": "Tu valentía dice mucho.",
-      "category": "Strength",
-      "generated_at": "2026-03-30T16:17:08.752683"
-    },
-    {
       "english": "Why are you so brave?",
       "spanish": "¿Por qué eres tan valiente?",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca olvides ser agradecido.",
       "category": "Gratitude",
       "generated_at": "2026-09-12T17:42:28.938862"
+    },
+    {
+      "english": "Mistakes? They build you.",
+      "spanish": "Errores, te construyen.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-12T18:53:29.933015"
+    },
+    {
+      "english": "One word, unlock courage.",
+      "spanish": "Una palabra, destapa coraje.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-12T18:53:29.933046"
+    },
+    {
+      "english": "Progress isn't perfect, it's progress.",
+      "spanish": "Progreso no es perfecto, es progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-12T18:53:29.933067"
+    },
+    {
+      "english": "Listen closely, understanding follows.",
+      "spanish": "Escucha atento, entiende luego.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-12T18:53:29.933086"
+    },
+    {
+      "english": "Don't stop at 'almost there'.",
+      "spanish": "No pares en 'casi listo'.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-12T18:53:29.933109"
     }
   ],
-  "last_updated": "2026-09-12T17:42:28.938865",
+  "last_updated": "2026-09-12T18:53:29.933110",
   "used_english": [
-    "curiosity opens every door.",
-    "your voice is welcome here.",
-    "this sound? pure connection.",
-    "wisdom: speak with heart.",
-    "your bravery speaks volumes.",
     "why are you so brave?",
     "listen. then your words flow.",
     "this single word connects.",
@@ -21002,6 +20997,11 @@
     "your happy moments multiply.",
     "share this: 'mil gracias'.",
     "what's your blessing now?",
-    "never forget to be thankful."
+    "never forget to be thankful.",
+    "mistakes? they build you.",
+    "one word, unlock courage.",
+    "progress isn't perfect, it's progress.",
+    "listen closely, understanding follows.",
+    "don't stop at 'almost there'."
   ]
 }
