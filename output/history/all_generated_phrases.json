@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your brain is wiring.",
-      "spanish": "Tu cerebro se está cableando.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-29T18:02:09.968496"
-    },
-    {
-      "english": "This unlocks listening power.",
-      "spanish": "Esto desbloquea el poder de escuchar.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-29T18:02:09.968502"
-    },
-    {
-      "english": "Why does this work?",
-      "spanish": "¿Por qué funciona esto?",
-      "category": "Gratitude",
-      "generated_at": "2026-03-29T18:02:09.968508"
-    },
-    {
-      "english": "Embrace the pause, speak.",
-      "spanish": "Abraza la pausa, habla.",
-      "category": "Gratitude",
-      "generated_at": "2026-03-29T18:02:09.968513"
-    },
-    {
-      "english": "Surprise! You're learning faster.",
-      "spanish": "¡Sorpresa! Aprendes más rápido.",
-      "category": "Joy",
-      "generated_at": "2026-03-29T19:58:31.097915"
-    },
-    {
       "english": "Want a real smile? Try this.",
       "spanish": "¿Quieres sonrisa real? Prueba esto.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu verdad es válida.",
       "category": "Mindfulness",
       "generated_at": "2026-09-11T23:09:39.950293"
+    },
+    {
+      "english": "Want real friends? Learn this.",
+      "spanish": "¿Quieres amigos reales? Aprende esto.",
+      "category": "Friendship",
+      "generated_at": "2026-09-12T16:04:37.609921"
+    },
+    {
+      "english": "Your vibe attracts them, say this.",
+      "spanish": "Tu vibra los atrae, di esto.",
+      "category": "Friendship",
+      "generated_at": "2026-09-12T16:04:37.609954"
+    },
+    {
+      "english": "One word, instant connection found.",
+      "spanish": "Una palabra, conexión instantánea hallada.",
+      "category": "Friendship",
+      "generated_at": "2026-09-12T16:04:37.609979"
+    },
+    {
+      "english": "They miss this secret handshake word.",
+      "spanish": "Se pierden esta palabra secreta.",
+      "category": "Friendship",
+      "generated_at": "2026-09-12T16:04:37.610004"
+    },
+    {
+      "english": "Unlock deeper talks, say 'cuéntame'.",
+      "spanish": "Desbloquea charlas profundas, di 'cuéntame'.",
+      "category": "Friendship",
+      "generated_at": "2026-09-12T16:04:37.610029"
     }
   ],
-  "last_updated": "2026-09-11T23:09:39.950295",
+  "last_updated": "2026-09-12T16:04:37.610031",
   "used_english": [
-    "your brain is wiring.",
-    "this unlocks listening power.",
-    "why does this work?",
-    "embrace the pause, speak.",
-    "surprise! you're learning faster.",
     "want a real smile? try this.",
     "your voice finds its rhythm.",
     "one sound opens your ears.",
@@ -21002,6 +20997,11 @@
     "this moment is precious.",
     "feel this. pure presence.",
     "what if you're okay?",
-    "your truth is valid."
+    "your truth is valid.",
+    "want real friends? learn this.",
+    "your vibe attracts them, say this.",
+    "one word, instant connection found.",
+    "they miss this secret handshake word.",
+    "unlock deeper talks, say 'cuéntame'."
   ]
 }
