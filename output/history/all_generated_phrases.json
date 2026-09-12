@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Want a real smile? Try this.",
-      "spanish": "¿Quieres sonrisa real? Prueba esto.",
-      "category": "Joy",
-      "generated_at": "2026-03-29T19:58:31.097930"
-    },
-    {
-      "english": "Your voice finds its rhythm.",
-      "spanish": "Tu voz encuentra su ritmo.",
-      "category": "Joy",
-      "generated_at": "2026-03-29T19:58:31.097937"
-    },
-    {
-      "english": "One sound opens your ears.",
-      "spanish": "Un sonido abre tus oídos.",
-      "category": "Joy",
-      "generated_at": "2026-03-29T19:58:31.097944"
-    },
-    {
-      "english": "Here's the secret to joy.",
-      "spanish": "Aquí el secreto de alegría.",
-      "category": "Joy",
-      "generated_at": "2026-03-29T19:58:31.097950"
-    },
-    {
-      "english": "This feeling? Pure progress.",
-      "spanish": "Este sentimiento? Progreso puro.",
-      "category": "Kindness",
-      "generated_at": "2026-03-29T21:59:43.246944"
-    },
-    {
       "english": "Curiosity opens every door.",
       "spanish": "La curiosidad abre puertas.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea charlas profundas, di 'cuéntame'.",
       "category": "Friendship",
       "generated_at": "2026-09-12T16:04:37.610029"
+    },
+    {
+      "english": "Why are you grateful today?",
+      "spanish": "¿Por qué estás agradecido hoy?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T17:42:28.938626"
+    },
+    {
+      "english": "Your happy moments multiply.",
+      "spanish": "Tus momentos felices se multiplican.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T17:42:28.938680"
+    },
+    {
+      "english": "Share this: 'Mil gracias'.",
+      "spanish": "Comparte esto: 'Mil gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T17:42:28.938727"
+    },
+    {
+      "english": "What's your blessing now?",
+      "spanish": "¿Cuál es tu bendición ahora?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T17:42:28.938815"
+    },
+    {
+      "english": "Never forget to be thankful.",
+      "spanish": "Nunca olvides ser agradecido.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T17:42:28.938862"
     }
   ],
-  "last_updated": "2026-09-12T16:04:37.610031",
+  "last_updated": "2026-09-12T17:42:28.938865",
   "used_english": [
-    "want a real smile? try this.",
-    "your voice finds its rhythm.",
-    "one sound opens your ears.",
-    "here's the secret to joy.",
-    "this feeling? pure progress.",
     "curiosity opens every door.",
     "your voice is welcome here.",
     "this sound? pure connection.",
@@ -21002,6 +20997,11 @@
     "your vibe attracts them, say this.",
     "one word, instant connection found.",
     "they miss this secret handshake word.",
-    "unlock deeper talks, say 'cuéntame'."
+    "unlock deeper talks, say 'cuéntame'.",
+    "why are you grateful today?",
+    "your happy moments multiply.",
+    "share this: 'mil gracias'.",
+    "what's your blessing now?",
+    "never forget to be thankful."
   ]
 }
