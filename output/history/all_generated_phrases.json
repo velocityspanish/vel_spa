@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why are you so brave?",
-      "spanish": "¿Por qué eres tan valiente?",
-      "category": "Strength",
-      "generated_at": "2026-03-30T16:17:08.752697"
-    },
-    {
-      "english": "Listen. Then your words flow.",
-      "spanish": "Escucha. Luego tus palabras fluyen.",
-      "category": "Strength",
-      "generated_at": "2026-03-30T16:17:08.752703"
-    },
-    {
-      "english": "This single word connects.",
-      "spanish": "Esta sola palabra conecta.",
-      "category": "Strength",
-      "generated_at": "2026-03-30T16:17:08.752709"
-    },
-    {
-      "english": "Your effort, truly admirable.",
-      "spanish": "Tu esfuerzo, realmente admirable.",
-      "category": "Strength",
-      "generated_at": "2026-03-30T16:17:08.752715"
-    },
-    {
-      "english": "This one word, pure courage.",
-      "spanish": "Esta palabra, puro valor.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T18:07:59.019364"
-    },
-    {
       "english": "Your bravery starts now.",
       "spanish": "Tu valentía empieza ahora.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "No pares en 'casi listo'.",
       "category": "Perseverance",
       "generated_at": "2026-09-12T18:53:29.933109"
+    },
+    {
+      "english": "Want this magic? Say 'Ojalá'.",
+      "spanish": "¿Quieres esta magia? Di 'Ojalá'.",
+      "category": "Confidence",
+      "generated_at": "2026-09-12T21:06:57.870710"
+    },
+    {
+      "english": "Speak up, they're listening.",
+      "spanish": "Habla, te escuchan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-12T21:06:57.870747"
+    },
+    {
+      "english": "Master 'ñ'. Unlock fluency.",
+      "spanish": "Domina la 'ñ'. Desbloquea fluidez.",
+      "category": "Confidence",
+      "generated_at": "2026-09-12T21:06:57.870775"
+    },
+    {
+      "english": "This sound? It's simple.",
+      "spanish": "¿Este sonido? Es simple.",
+      "category": "Confidence",
+      "generated_at": "2026-09-12T21:06:57.870801"
+    },
+    {
+      "english": "Your brain loves Spanish now.",
+      "spanish": "Tu cerebro ama español ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-09-12T21:06:57.870829"
     }
   ],
-  "last_updated": "2026-09-12T18:53:29.933110",
+  "last_updated": "2026-09-12T21:06:57.870831",
   "used_english": [
-    "why are you so brave?",
-    "listen. then your words flow.",
-    "this single word connects.",
-    "your effort, truly admirable.",
-    "this one word, pure courage.",
     "your bravery starts now.",
     "dare to speak, you can.",
     "feel that spark? ignite.",
@@ -21002,6 +20997,11 @@
     "one word, unlock courage.",
     "progress isn't perfect, it's progress.",
     "listen closely, understanding follows.",
-    "don't stop at 'almost there'."
+    "don't stop at 'almost there'.",
+    "want this magic? say 'ojalá'.",
+    "speak up, they're listening.",
+    "master 'ñ'. unlock fluency.",
+    "this sound? it's simple.",
+    "your brain loves spanish now."
   ]
 }
