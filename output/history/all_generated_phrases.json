@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your bravery starts now.",
-      "spanish": "Tu valentía empieza ahora.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T18:07:59.019378"
-    },
-    {
-      "english": "Dare to speak, you can.",
-      "spanish": "Atrévete a hablar, puedes.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T18:07:59.019384"
-    },
-    {
-      "english": "Feel that spark? Ignite.",
-      "spanish": "Siente esa chispa? Enciende.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T18:07:59.019389"
-    },
-    {
-      "english": "Your voice is your superpower.",
-      "spanish": "Tu voz es tu superpoder.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T18:07:59.019395"
-    },
-    {
-      "english": "Your first word, matters.",
-      "spanish": "Tu primera palabra, importa.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T20:00:34.774794"
-    },
-    {
       "english": "This small fear? conquer it.",
       "spanish": "Este pequeño miedo? conquístalo.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu cerebro ama español ahora.",
       "category": "Confidence",
       "generated_at": "2026-09-12T21:06:57.870829"
+    },
+    {
+      "english": "Want calm? Say 'tranquilo'.",
+      "spanish": "Quiere calma? Diga 'tranquilo'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-12T22:56:03.816803"
+    },
+    {
+      "english": "This phrase unlocks relief.",
+      "spanish": "Esta frase desbloquea alivio.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-12T22:56:03.816844"
+    },
+    {
+      "english": "Feeling overwhelmed? Try 'poco a poco'.",
+      "spanish": "Se siente abrumado? Intente 'poco a poco'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-12T22:56:03.816870"
+    },
+    {
+      "english": "Breathe easy with 'despacio'.",
+      "spanish": "Respire fácil con 'despacio'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-12T22:56:03.816900"
+    },
+    {
+      "english": "Inner quiet is reachable, yes?",
+      "spanish": "El silencio interior es alcanzable, ¿verdad?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-12T22:56:03.816929"
     }
   ],
-  "last_updated": "2026-09-12T21:06:57.870831",
+  "last_updated": "2026-09-12T22:56:03.816931",
   "used_english": [
-    "your bravery starts now.",
-    "dare to speak, you can.",
-    "feel that spark? ignite.",
-    "your voice is your superpower.",
-    "your first word, matters.",
     "this small fear? conquer it.",
     "what if you're ready now?",
     "brave steps create your path.",
@@ -21002,6 +20997,11 @@
     "speak up, they're listening.",
     "master 'ñ'. unlock fluency.",
     "this sound? it's simple.",
-    "your brain loves spanish now."
+    "your brain loves spanish now.",
+    "want calm? say 'tranquilo'.",
+    "this phrase unlocks relief.",
+    "feeling overwhelmed? try 'poco a poco'.",
+    "breathe easy with 'despacio'.",
+    "inner quiet is reachable, yes?"
   ]
 }
