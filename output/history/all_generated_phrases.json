@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why pause? Speak it.",
-      "spanish": "¿Por qué pausar? Dilo.",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-31T16:37:05.315173"
-    },
-    {
-      "english": "Hear this, then reply.",
-      "spanish": "Escucha esto, luego responde.",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-31T16:37:05.315179"
-    },
-    {
-      "english": "Tiny wins build fluency.",
-      "spanish": "Pequeñas victorias construyen fluidez.",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-31T16:37:05.315185"
-    },
-    {
-      "english": "Never fear the listener.",
-      "spanish": "Nunca temas al oyente.",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-31T16:37:05.315191"
-    },
-    {
-      "english": "Feel it? Fluency is near.",
-      "spanish": "¿Lo sientes? Fluidez está cerca.",
-      "category": "Strength",
-      "generated_at": "2026-03-31T18:08:11.269846"
-    },
-    {
       "english": "Your brain is learning now.",
       "spanish": "Tu cerebro está aprendiendo.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza el desafío valientemente.",
       "category": "Courage",
       "generated_at": "2026-09-13T19:08:10.736180"
+    },
+    {
+      "english": "Feeling lost? Try 'por favor'.",
+      "spanish": "¿Te sientes perdido? Prueba 'por favor'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-13T21:12:56.217780"
+    },
+    {
+      "english": "The secret? Embrace the 'ñ'.",
+      "spanish": "El secreto? Abraza la 'ñ'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-13T21:12:56.217812"
+    },
+    {
+      "english": "They miss this simple greeting.",
+      "spanish": "Se pierden este saludo simple.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-13T21:12:56.217831"
+    },
+    {
+      "english": "Your courage grows with each 'sí'.",
+      "spanish": "Tu coraje crece con cada 'sí'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-13T21:12:56.217848"
+    },
+    {
+      "english": "This word means 'I'm listening'.",
+      "spanish": "Esta palabra significa 'te escucho'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-13T21:12:56.217866"
     }
   ],
-  "last_updated": "2026-09-13T19:08:10.736182",
+  "last_updated": "2026-09-13T21:12:56.217868",
   "used_english": [
-    "why pause? speak it.",
-    "hear this, then reply.",
-    "tiny wins build fluency.",
-    "never fear the listener.",
-    "feel it? fluency is near.",
     "your brain is learning now.",
     "one word starts your story.",
     "curiosity: what's next, amigo?",
@@ -21002,6 +20997,11 @@
     "fearless starts now, yes?",
     "one bold word: 'adelante'.",
     "your potential? limitless, believe.",
-    "embrace the challenge bravely."
+    "embrace the challenge bravely.",
+    "feeling lost? try 'por favor'.",
+    "the secret? embrace the 'ñ'.",
+    "they miss this simple greeting.",
+    "your courage grows with each 'sí'.",
+    "this word means 'i'm listening'."
   ]
 }
