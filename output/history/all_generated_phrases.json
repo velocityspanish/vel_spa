@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your brain is learning now.",
-      "spanish": "Tu cerebro está aprendiendo.",
-      "category": "Strength",
-      "generated_at": "2026-03-31T18:08:11.269861"
-    },
-    {
-      "english": "One word starts your story.",
-      "spanish": "Una palabra inicia tu historia.",
-      "category": "Strength",
-      "generated_at": "2026-03-31T18:08:11.269868"
-    },
-    {
-      "english": "Curiosity: what's next, amigo?",
-      "spanish": "¿Curiosidad: qué sigue, amigo?",
-      "category": "Strength",
-      "generated_at": "2026-03-31T18:08:11.269874"
-    },
-    {
-      "english": "Surprise! Your accent is unique.",
-      "spanish": "¡Sorpresa! Tu acento es único.",
-      "category": "Strength",
-      "generated_at": "2026-03-31T18:08:11.269880"
-    },
-    {
-      "english": "Your mind is a sponge, soak it.",
-      "spanish": "Tu mente es esponja, empápala.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-31T19:59:38.340656"
-    },
-    {
       "english": "One word, big feelings unlocked.",
       "spanish": "Una palabra, grandes sentimientos liberados.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta palabra significa 'te escucho'.",
       "category": "Positive Life",
       "generated_at": "2026-09-13T21:12:56.217866"
+    },
+    {
+      "english": "Hear this? Spanish secrets revealed.",
+      "spanish": "¿Oyes esto? Secretos españoles revelados.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T23:03:56.169893"
+    },
+    {
+      "english": "Your accent is your superpower.",
+      "spanish": "Tu acento es tu superpoder.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T23:03:56.169929"
+    },
+    {
+      "english": "Feel this? Spanish rhythm unlocked.",
+      "spanish": "¿Sientes esto? Ritmo español desbloqueado.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T23:03:56.169955"
+    },
+    {
+      "english": "The magic word? 'Gracias' matters.",
+      "spanish": "¿La palabra mágica? 'Gracias' importa.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T23:03:56.169981"
+    },
+    {
+      "english": "This phrase, pure connection.",
+      "spanish": "Esta frase, pura conexión.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-13T23:03:56.170008"
     }
   ],
-  "last_updated": "2026-09-13T21:12:56.217868",
+  "last_updated": "2026-09-13T23:03:56.170010",
   "used_english": [
-    "your brain is learning now.",
-    "one word starts your story.",
-    "curiosity: what's next, amigo?",
-    "surprise! your accent is unique.",
-    "your mind is a sponge, soak it.",
     "one word, big feelings unlocked.",
     "your patience is beautiful, bloom.",
     "curiosity unlocks the next level.",
@@ -21002,6 +20997,11 @@
     "the secret? embrace the 'ñ'.",
     "they miss this simple greeting.",
     "your courage grows with each 'sí'.",
-    "this word means 'i'm listening'."
+    "this word means 'i'm listening'.",
+    "hear this? spanish secrets revealed.",
+    "your accent is your superpower.",
+    "feel this? spanish rhythm unlocked.",
+    "the magic word? 'gracias' matters.",
+    "this phrase, pure connection."
   ]
 }
