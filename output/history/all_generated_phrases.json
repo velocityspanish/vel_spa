@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Surprise! Your brain learns faster.",
-      "spanish": "¡Sorpresa! Tu cerebro aprende más rápido.",
-      "category": "Success",
-      "generated_at": "2026-03-30T23:00:47.310600"
-    },
-    {
-      "english": "Wisdom: Embrace the unknown, speak.",
-      "spanish": "Sabiduría: Abraza lo desconocido, habla.",
-      "category": "Success",
-      "generated_at": "2026-03-30T23:00:47.310607"
-    },
-    {
-      "english": "Feel the rhythm, connect instantly.",
-      "spanish": "Siente el ritmo, conecta al instante.",
-      "category": "Success",
-      "generated_at": "2026-03-30T23:00:47.310612"
-    },
-    {
-      "english": "Your courage shines, speak bravely.",
-      "spanish": "Tu coraje brilla, habla valientemente.",
-      "category": "Success",
-      "generated_at": "2026-03-30T23:00:47.310618"
-    },
-    {
-      "english": "Surprise! You're fluent already.",
-      "spanish": "¡Sorpresa! Ya eres fluido.",
-      "category": "Mindfulness",
-      "generated_at": "2026-03-31T16:37:05.315158"
-    },
-    {
       "english": "Why pause? Speak it.",
       "spanish": "¿Por qué pausar? Dilo.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres paz? Aprende 'serenidad'.",
       "category": "Happiness",
       "generated_at": "2026-09-13T17:57:56.088557"
+    },
+    {
+      "english": "Unlock bravery, say 'atrevete'.",
+      "spanish": "Desbloquea la valentía, di 'atrevete'.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T19:08:10.736095"
+    },
+    {
+      "english": "Fearless starts now, yes?",
+      "spanish": "El intrépido empieza ahora, ¿sí?",
+      "category": "Courage",
+      "generated_at": "2026-09-13T19:08:10.736127"
+    },
+    {
+      "english": "One bold word: 'adelante'.",
+      "spanish": "Una palabra audaz: 'adelante'.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T19:08:10.736144"
+    },
+    {
+      "english": "Your potential? Limitless, believe.",
+      "spanish": "¿Tu potencial? Sin límites, cree.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T19:08:10.736161"
+    },
+    {
+      "english": "Embrace the challenge bravely.",
+      "spanish": "Abraza el desafío valientemente.",
+      "category": "Courage",
+      "generated_at": "2026-09-13T19:08:10.736180"
     }
   ],
-  "last_updated": "2026-09-13T17:57:56.088559",
+  "last_updated": "2026-09-13T19:08:10.736182",
   "used_english": [
-    "surprise! your brain learns faster.",
-    "wisdom: embrace the unknown, speak.",
-    "feel the rhythm, connect instantly.",
-    "your courage shines, speak bravely.",
-    "surprise! you're fluent already.",
     "why pause? speak it.",
     "hear this, then reply.",
     "tiny wins build fluency.",
@@ -21002,6 +20997,11 @@
     "unlock joy: 'alegría' flows.",
     "this word means pure bliss.",
     "feeling good? say 'genial'.",
-    "want peace? learn 'serenidad'."
+    "want peace? learn 'serenidad'.",
+    "unlock bravery, say 'atrevete'.",
+    "fearless starts now, yes?",
+    "one bold word: 'adelante'.",
+    "your potential? limitless, believe.",
+    "embrace the challenge bravely."
   ]
 }
