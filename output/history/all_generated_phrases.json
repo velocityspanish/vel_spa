@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if talking felt easy?",
-      "spanish": "¿Y si hablar se sintiera fácil?",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-30T21:27:58.022635"
-    },
-    {
-      "english": "Your courage unlocks new worlds.",
-      "spanish": "Tu coraje desbloquea mundos nuevos.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-30T21:27:58.022642"
-    },
-    {
-      "english": "Listen. Then speak from heart.",
-      "spanish": "Escucha. Luego habla de corazón.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-30T21:27:58.022648"
-    },
-    {
-      "english": "This small change transforms you.",
-      "spanish": "Este pequeño cambio te transforma.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-30T21:27:58.022654"
-    },
-    {
-      "english": "Their ears are ready, listen.",
-      "spanish": "Sus oídos están listos, escucha.",
-      "category": "Success",
-      "generated_at": "2026-03-30T23:00:47.310587"
-    },
-    {
       "english": "Surprise! Your brain learns faster.",
       "spanish": "¡Sorpresa! Tu cerebro aprende más rápido.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu lugar feliz: esta palabra.",
       "category": "Gratitude",
       "generated_at": "2026-09-13T16:53:05.072085"
+    },
+    {
+      "english": "Your happy place, found: 'hogar'.",
+      "spanish": "Tu lugar feliz, encontrado: 'hogar'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-13T17:57:56.088437"
+    },
+    {
+      "english": "Unlock joy: 'alegría' flows.",
+      "spanish": "Desbloquea la alegría: 'alegría' fluye.",
+      "category": "Happiness",
+      "generated_at": "2026-09-13T17:57:56.088474"
+    },
+    {
+      "english": "This word means pure bliss.",
+      "spanish": "Esta palabra significa dicha pura.",
+      "category": "Happiness",
+      "generated_at": "2026-09-13T17:57:56.088502"
+    },
+    {
+      "english": "Feeling good? Say 'genial'.",
+      "spanish": "¿Te sientes bien? Di 'genial'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-13T17:57:56.088529"
+    },
+    {
+      "english": "Want peace? Learn 'serenidad'.",
+      "spanish": "¿Quieres paz? Aprende 'serenidad'.",
+      "category": "Happiness",
+      "generated_at": "2026-09-13T17:57:56.088557"
     }
   ],
-  "last_updated": "2026-09-13T16:53:05.072088",
+  "last_updated": "2026-09-13T17:57:56.088559",
   "used_english": [
-    "what if talking felt easy?",
-    "your courage unlocks new worlds.",
-    "listen. then speak from heart.",
-    "this small change transforms you.",
-    "their ears are ready, listen.",
     "surprise! your brain learns faster.",
     "wisdom: embrace the unknown, speak.",
     "feel the rhythm, connect instantly.",
@@ -21002,6 +20997,11 @@
     "what fills your heart?",
     "this feeling? pure contentment.",
     "smile, it's contagious, say 'sonríe'.",
-    "your happy place: this word."
+    "your happy place: this word.",
+    "your happy place, found: 'hogar'.",
+    "unlock joy: 'alegría' flows.",
+    "this word means pure bliss.",
+    "feeling good? say 'genial'.",
+    "want peace? learn 'serenidad'."
   ]
 }
