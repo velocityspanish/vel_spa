@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This small fear? conquer it.",
-      "spanish": "Este pequeño miedo? conquístalo.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T20:00:34.774809"
-    },
-    {
-      "english": "What if you're ready now?",
-      "spanish": "¿Y si estás listo/a ahora?",
-      "category": "Courage",
-      "generated_at": "2026-03-30T20:00:34.774816"
-    },
-    {
-      "english": "Brave steps create your path.",
-      "spanish": "Pasos valientes crean tu senda.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T20:00:34.774822"
-    },
-    {
-      "english": "One 'hola' changes everything.",
-      "spanish": "Un 'hola' cambia todo.",
-      "category": "Courage",
-      "generated_at": "2026-03-30T20:00:34.774828"
-    },
-    {
-      "english": "One word, endless smiles.",
-      "spanish": "Una palabra, sonrisas infinitas.",
-      "category": "Self Improvement",
-      "generated_at": "2026-03-30T21:27:58.022618"
-    },
-    {
       "english": "What if talking felt easy?",
       "spanish": "¿Y si hablar se sintiera fácil?",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "El silencio interior es alcanzable, ¿verdad?",
       "category": "Mindfulness",
       "generated_at": "2026-09-12T22:56:03.816929"
+    },
+    {
+      "english": "Feel this inner peace.",
+      "spanish": "Siente esta paz interior.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-13T16:53:05.071966"
+    },
+    {
+      "english": "What fills your heart?",
+      "spanish": "¿Qué llena tu corazón?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-13T16:53:05.072003"
+    },
+    {
+      "english": "This feeling? Pure contentment.",
+      "spanish": "¿Este sentimiento? Pura satisfacción.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-13T16:53:05.072031"
+    },
+    {
+      "english": "Smile, it's contagious, say 'sonríe'.",
+      "spanish": "Sonríe, es contagioso, di 'sonríe'.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-13T16:53:05.072057"
+    },
+    {
+      "english": "Your happy place: this word.",
+      "spanish": "Tu lugar feliz: esta palabra.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-13T16:53:05.072085"
     }
   ],
-  "last_updated": "2026-09-12T22:56:03.816931",
+  "last_updated": "2026-09-13T16:53:05.072088",
   "used_english": [
-    "this small fear? conquer it.",
-    "what if you're ready now?",
-    "brave steps create your path.",
-    "one 'hola' changes everything.",
-    "one word, endless smiles.",
     "what if talking felt easy?",
     "your courage unlocks new worlds.",
     "listen. then speak from heart.",
@@ -21002,6 +20997,11 @@
     "this phrase unlocks relief.",
     "feeling overwhelmed? try 'poco a poco'.",
     "breathe easy with 'despacio'.",
-    "inner quiet is reachable, yes?"
+    "inner quiet is reachable, yes?",
+    "feel this inner peace.",
+    "what fills your heart?",
+    "this feeling? pure contentment.",
+    "smile, it's contagious, say 'sonríe'.",
+    "your happy place: this word."
   ]
 }
