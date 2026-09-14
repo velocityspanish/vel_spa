@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One word, big feelings unlocked.",
-      "spanish": "Una palabra, grandes sentimientos liberados.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-31T19:59:38.340671"
-    },
-    {
-      "english": "Your patience is beautiful, bloom.",
-      "spanish": "Tu paciencia es hermosa, florece.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-31T19:59:38.340678"
-    },
-    {
-      "english": "Curiosity unlocks the next level.",
-      "spanish": "La curiosidad desbloquea el siguiente nivel.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-31T19:59:38.340684"
-    },
-    {
-      "english": "Here’s the quiet superpower.",
-      "spanish": "Aquí está el superpoder silencioso.",
-      "category": "Inner Peace",
-      "generated_at": "2026-03-31T19:59:38.340691"
-    },
-    {
-      "english": "Your brain's rewiring now.",
-      "spanish": "Tu cerebro se recablea ahora.",
-      "category": "Hope",
-      "generated_at": "2026-03-31T21:00:45.030890"
-    },
-    {
       "english": "Curiosity unlocks new worlds.",
       "spanish": "La curiosidad abre mundos nuevos.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta frase, pura conexión.",
       "category": "Inspiration",
       "generated_at": "2026-09-13T23:03:56.170008"
+    },
+    {
+      "english": "Hear this? It feels right.",
+      "spanish": "¿Escuchas esto? Se siente bien.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T18:25:06.988581"
+    },
+    {
+      "english": "Unlock connections, say 'hola'.",
+      "spanish": "Desbloquea conexiones, di 'hola'.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T18:25:06.988619"
+    },
+    {
+      "english": "This sound? Easy for you.",
+      "spanish": "¿Este sonido? Fácil para ti.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T18:25:06.988647"
+    },
+    {
+      "english": "Believe you can, yes!",
+      "spanish": "¡Cree que puedes, sí!",
+      "category": "Growth",
+      "generated_at": "2026-09-14T18:25:06.988672"
+    },
+    {
+      "english": "Your journey has a rhythm.",
+      "spanish": "Tu viaje tiene un ritmo.",
+      "category": "Growth",
+      "generated_at": "2026-09-14T18:25:06.988698"
     }
   ],
-  "last_updated": "2026-09-13T23:03:56.170010",
+  "last_updated": "2026-09-14T18:25:06.988701",
   "used_english": [
-    "one word, big feelings unlocked.",
-    "your patience is beautiful, bloom.",
-    "curiosity unlocks the next level.",
-    "here’s the quiet superpower.",
-    "your brain's rewiring now.",
     "curiosity unlocks new worlds.",
     "this one sound, big impact.",
     "your small effort, matters.",
@@ -21002,6 +20997,11 @@
     "your accent is your superpower.",
     "feel this? spanish rhythm unlocked.",
     "the magic word? 'gracias' matters.",
-    "this phrase, pure connection."
+    "this phrase, pure connection.",
+    "hear this? it feels right.",
+    "unlock connections, say 'hola'.",
+    "this sound? easy for you.",
+    "believe you can, yes!",
+    "your journey has a rhythm."
   ]
 }
