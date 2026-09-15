@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Tiny habits, massive fluency.",
-      "spanish": "Pequeños hábitos, gran fluidez.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-19T21:44:20.967573"
-    },
-    {
-      "english": "Hear this, speak better.",
-      "spanish": "Escucha esto, habla mejor.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-19T21:44:20.967579"
-    },
-    {
-      "english": "Your brain's glowing brighter.",
-      "spanish": "Tu cerebro brilla más.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-19T21:44:20.967586"
-    },
-    {
-      "english": "One word opens dialogue.",
-      "spanish": "Una palabra abre diálogo.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-19T21:44:20.967592"
-    },
-    {
-      "english": "Surprise! They understood you.",
-      "spanish": "¡Sorpresa! Te entendieron.",
-      "category": "Joy",
-      "generated_at": "2026-04-20T14:54:27.512965"
-    },
-    {
       "english": "Your brain is creating magic.",
       "spanish": "Tu cerebro crea magia.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea la felicidad, palabra simple.",
       "category": "Happiness",
       "generated_at": "2026-09-15T18:44:59.515101"
+    },
+    {
+      "english": "Your calm begins now, yes?",
+      "spanish": "Tu calma empieza ahora, ¿sí?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-15T19:56:00.976893"
+    },
+    {
+      "english": "One word, pure connection, feel.",
+      "spanish": "Una palabra, conexión pura, siente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-15T19:56:00.976939"
+    },
+    {
+      "english": "This feeling? It's 'tranquilo'.",
+      "spanish": "¿Este sentimiento? Es 'tranquilo'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-15T19:56:00.976962"
+    },
+    {
+      "english": "Your peace is reachable, breathe.",
+      "spanish": "Tu paz es alcanzable, respira.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-15T19:56:00.976984"
+    },
+    {
+      "english": "This moment? Just be here.",
+      "spanish": "¿Este momento? Solo está aquí.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-15T19:56:00.977006"
     }
   ],
-  "last_updated": "2026-09-15T18:44:59.515102",
+  "last_updated": "2026-09-15T19:56:00.977008",
   "used_english": [
-    "tiny habits, massive fluency.",
-    "hear this, speak better.",
-    "your brain's glowing brighter.",
-    "one word opens dialogue.",
-    "surprise! they understood you.",
     "your brain is creating magic.",
     "why is this so easy?",
     "feel the connection grow, friends.",
@@ -21002,6 +20997,11 @@
     "this word brings inner peace.",
     "want a brighter, better day?",
     "this feeling is pure joy.",
-    "unlock happiness, simple word."
+    "unlock happiness, simple word.",
+    "your calm begins now, yes?",
+    "one word, pure connection, feel.",
+    "this feeling? it's 'tranquilo'.",
+    "your peace is reachable, breathe.",
+    "this moment? just be here."
   ]
 }
