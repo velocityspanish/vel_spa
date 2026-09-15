@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your brain is creating magic.",
-      "spanish": "Tu cerebro crea magia.",
-      "category": "Joy",
-      "generated_at": "2026-04-20T14:54:27.512982"
-    },
-    {
-      "english": "Why is this so easy?",
-      "spanish": "¿Por qué es tan fácil?",
-      "category": "Joy",
-      "generated_at": "2026-04-20T14:54:27.512989"
-    },
-    {
-      "english": "Feel the connection grow, friends.",
-      "spanish": "Siente la conexión crecer.",
-      "category": "Joy",
-      "generated_at": "2026-04-20T14:54:27.512995"
-    },
-    {
-      "english": "Want attention? Listen first.",
-      "spanish": "¿Quieres atención? Escucha.",
-      "category": "Joy",
-      "generated_at": "2026-04-20T14:54:27.513002"
-    },
-    {
-      "english": "Surprise! They'll love this.",
-      "spanish": "¡Sorpresa! Les encantará esto.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-20T16:12:35.029883"
-    },
-    {
       "english": "Wisdom: Kindness costs nothing.",
       "spanish": "Sabiduría: La amabilidad no cuesta.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Este momento? Solo está aquí.",
       "category": "Mindfulness",
       "generated_at": "2026-09-15T19:56:00.977006"
+    },
+    {
+      "english": "Unlock courage: 'atrevete' now.",
+      "spanish": "Desbloquea coraje: 'atrevete' ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-15T21:49:57.065651"
+    },
+    {
+      "english": "Small progress, big joy awaits.",
+      "spanish": "Pequeño progreso, gran gozo espera.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-15T21:49:57.065689"
+    },
+    {
+      "english": "Your effort is not wasted.",
+      "spanish": "Tu esfuerzo no es en vano.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-15T21:49:57.065716"
+    },
+    {
+      "english": "Hear this? Spanish beauty flows.",
+      "spanish": "¿Escuchas esto? La belleza española fluye.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-15T21:49:57.065758"
+    },
+    {
+      "english": "Believe you can, say 'sí'.",
+      "spanish": "Cree que puedes, di 'sí'.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-15T21:49:57.065787"
     }
   ],
-  "last_updated": "2026-09-15T19:56:00.977008",
+  "last_updated": "2026-09-15T21:49:57.065789",
   "used_english": [
-    "your brain is creating magic.",
-    "why is this so easy?",
-    "feel the connection grow, friends.",
-    "want attention? listen first.",
-    "surprise! they'll love this.",
     "wisdom: kindness costs nothing.",
     "want real connection? listen.",
     "encouragement: your smile, powerful.",
@@ -21002,6 +20997,11 @@
     "one word, pure connection, feel.",
     "this feeling? it's 'tranquilo'.",
     "your peace is reachable, breathe.",
-    "this moment? just be here."
+    "this moment? just be here.",
+    "unlock courage: 'atrevete' now.",
+    "small progress, big joy awaits.",
+    "your effort is not wasted.",
+    "hear this? spanish beauty flows.",
+    "believe you can, say 'sí'."
   ]
 }
