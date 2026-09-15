@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This tiny habit? Fluency.",
-      "spanish": "Este hábito diminuto? Fluidez.",
-      "category": "Strength",
-      "generated_at": "2026-04-19T17:29:32.918267"
-    },
-    {
-      "english": "Your brain's building bridges.",
-      "spanish": "Tu cerebro construye puentes.",
-      "category": "Strength",
-      "generated_at": "2026-04-19T17:29:32.918274"
-    },
-    {
-      "english": "Small practice, massive joy.",
-      "spanish": "Pequeña práctica, alegría masiva.",
-      "category": "Strength",
-      "generated_at": "2026-04-19T17:29:32.918281"
-    },
-    {
-      "english": "Curiosity unlocks conversation.",
-      "spanish": "La curiosidad abre conversación.",
-      "category": "Strength",
-      "generated_at": "2026-04-19T17:29:32.918287"
-    },
-    {
-      "english": "Whispers turn into vows.",
-      "spanish": "Susurros se vuelven votos.",
-      "category": "Love",
-      "generated_at": "2026-04-19T19:35:53.454122"
-    },
-    {
       "english": "Your heart knows the rhythm.",
       "spanish": "Tu corazón sabe el ritmo.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Y si el silencio es poder?",
       "category": "Inner Peace",
       "generated_at": "2026-09-14T23:48:47.647526"
+    },
+    {
+      "english": "Your progress is amazing, truly.",
+      "spanish": "Tu progreso es asombroso, de verdad.",
+      "category": "Motivation",
+      "generated_at": "2026-09-15T17:32:01.411243"
+    },
+    {
+      "english": "One word, instant warmth: 'calor'.",
+      "spanish": "Una palabra, calidez instantánea: 'calor'.",
+      "category": "Motivation",
+      "generated_at": "2026-09-15T17:32:01.411279"
+    },
+    {
+      "english": "Unlock connection with this greeting.",
+      "spanish": "Desbloquea conexión con este saludo.",
+      "category": "Motivation",
+      "generated_at": "2026-09-15T17:32:01.411337"
+    },
+    {
+      "english": "Believe you can, sí, you can!",
+      "spanish": "¡Cree que puedes, sí, puedes!",
+      "category": "Motivation",
+      "generated_at": "2026-09-15T17:32:01.411369"
+    },
+    {
+      "english": "Never doubt your spoken words.",
+      "spanish": "Nunca dudes tus palabras dichas.",
+      "category": "Motivation",
+      "generated_at": "2026-09-15T17:32:01.411398"
     }
   ],
-  "last_updated": "2026-09-14T23:48:47.647528",
+  "last_updated": "2026-09-15T17:32:01.411400",
   "used_english": [
-    "this tiny habit? fluency.",
-    "your brain's building bridges.",
-    "small practice, massive joy.",
-    "curiosity unlocks conversation.",
-    "whispers turn into vows.",
     "your heart knows the rhythm.",
     "one look, forever.",
     "feel their soul speak.",
@@ -21002,6 +20997,11 @@
     "inner quiet? yes, you can.",
     "this feeling? pure bliss awaits.",
     "unlock peace. say 'shhh'.",
-    "what if stillness is power?"
+    "what if stillness is power?",
+    "your progress is amazing, truly.",
+    "one word, instant warmth: 'calor'.",
+    "unlock connection with this greeting.",
+    "believe you can, sí, you can!",
+    "never doubt your spoken words."
   ]
 }
