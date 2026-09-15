@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Kindness costs nothing.",
-      "spanish": "Sabiduría: La amabilidad no cuesta.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-20T16:12:35.029900"
-    },
-    {
-      "english": "Want real connection? Listen.",
-      "spanish": "¿Quieres conexión real? Escucha.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-20T16:12:35.029907"
-    },
-    {
-      "english": "Encouragement: Your smile, powerful.",
-      "spanish": "Ánimo: Tu sonrisa, poderosa.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-20T16:12:35.029915"
-    },
-    {
-      "english": "What if this helps everyone?",
-      "spanish": "¿Y si esto ayuda a todos?",
-      "category": "Gratitude",
-      "generated_at": "2026-04-20T16:12:35.029922"
-    },
-    {
-      "english": "Why this word connects you.",
-      "spanish": "¿Por qué esta palabra te conecta?",
-      "category": "Strength",
-      "generated_at": "2026-04-20T17:52:06.711733"
-    },
-    {
       "english": "Your bravery, they're hearing.",
       "spanish": "Tu valentía, la están oyendo.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Cree que puedes, di 'sí'.",
       "category": "Positive Life",
       "generated_at": "2026-09-15T21:49:57.065787"
+    },
+    {
+      "english": "One phrase, instant warmth found.",
+      "spanish": "Una frase, calidez instantánea encontrada.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T23:29:03.267206"
+    },
+    {
+      "english": "Your happy moments are brewing.",
+      "spanish": "Tus momentos felices se están gestando.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T23:29:03.267248"
+    },
+    {
+      "english": "Feel this? Spanish magic awaits.",
+      "spanish": "¿Sientes esto? La magia española espera.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T23:29:03.267276"
+    },
+    {
+      "english": "Your best self is learning.",
+      "spanish": "Tu mejor yo está aprendiendo.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T23:29:03.267306"
+    },
+    {
+      "english": "One word, instant understanding gained.",
+      "spanish": "Una palabra, entendimiento instantáneo ganado.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T23:29:03.267331"
     }
   ],
-  "last_updated": "2026-09-15T21:49:57.065789",
+  "last_updated": "2026-09-15T23:29:03.267333",
   "used_english": [
-    "wisdom: kindness costs nothing.",
-    "want real connection? listen.",
-    "encouragement: your smile, powerful.",
-    "what if this helps everyone?",
-    "why this word connects you.",
     "your bravery, they're hearing.",
     "feel your progress bloom.",
     "curiosity fuels every word.",
@@ -21002,6 +20997,11 @@
     "small progress, big joy awaits.",
     "your effort is not wasted.",
     "hear this? spanish beauty flows.",
-    "believe you can, say 'sí'."
+    "believe you can, say 'sí'.",
+    "one phrase, instant warmth found.",
+    "your happy moments are brewing.",
+    "feel this? spanish magic awaits.",
+    "your best self is learning.",
+    "one word, instant understanding gained."
   ]
 }
