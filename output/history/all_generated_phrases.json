@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your heart knows the rhythm.",
-      "spanish": "Tu corazón sabe el ritmo.",
-      "category": "Love",
-      "generated_at": "2026-04-19T19:35:53.454137"
-    },
-    {
-      "english": "One look, forever.",
-      "spanish": "Una mirada, para siempre.",
-      "category": "Love",
-      "generated_at": "2026-04-19T19:35:53.454143"
-    },
-    {
-      "english": "Feel their soul speak.",
-      "spanish": "Siente su alma hablar.",
-      "category": "Love",
-      "generated_at": "2026-04-19T19:35:53.454149"
-    },
-    {
-      "english": "This song? Their love.",
-      "spanish": "¿Esta canción? Su amor.",
-      "category": "Love",
-      "generated_at": "2026-04-19T19:35:53.454155"
-    },
-    {
-      "english": "One sound, big confidence.",
-      "spanish": "Un sonido, gran confianza.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-19T21:44:20.967559"
-    },
-    {
       "english": "Tiny habits, massive fluency.",
       "spanish": "Pequeños hábitos, gran fluidez.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca dudes tus palabras dichas.",
       "category": "Motivation",
       "generated_at": "2026-09-15T17:32:01.411398"
+    },
+    {
+      "english": "Your happy place awaits you.",
+      "spanish": "Tu lugar feliz te espera.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T18:44:59.515028"
+    },
+    {
+      "english": "This word brings inner peace.",
+      "spanish": "Esta palabra trae paz interior.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T18:44:59.515054"
+    },
+    {
+      "english": "Want a brighter, better day?",
+      "spanish": "¿Quieres un día más brillante?",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T18:44:59.515070"
+    },
+    {
+      "english": "This feeling is pure joy.",
+      "spanish": "Esta sensación es pura alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T18:44:59.515085"
+    },
+    {
+      "english": "Unlock happiness, simple word.",
+      "spanish": "Desbloquea la felicidad, palabra simple.",
+      "category": "Happiness",
+      "generated_at": "2026-09-15T18:44:59.515101"
     }
   ],
-  "last_updated": "2026-09-15T17:32:01.411400",
+  "last_updated": "2026-09-15T18:44:59.515102",
   "used_english": [
-    "your heart knows the rhythm.",
-    "one look, forever.",
-    "feel their soul speak.",
-    "this song? their love.",
-    "one sound, big confidence.",
     "tiny habits, massive fluency.",
     "hear this, speak better.",
     "your brain's glowing brighter.",
@@ -21002,6 +20997,11 @@
     "one word, instant warmth: 'calor'.",
     "unlock connection with this greeting.",
     "believe you can, sí, you can!",
-    "never doubt your spoken words."
+    "never doubt your spoken words.",
+    "your happy place awaits you.",
+    "this word brings inner peace.",
+    "want a brighter, better day?",
+    "this feeling is pure joy.",
+    "unlock happiness, simple word."
   ]
 }
