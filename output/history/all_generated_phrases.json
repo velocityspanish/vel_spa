@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice will resonate.",
-      "spanish": "Tu voz resonará.",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-20T21:55:00.115751"
-    },
-    {
-      "english": "Listen: a softer tone.",
-      "spanish": "Escucha: un tono suave.",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-20T21:55:00.115758"
-    },
-    {
-      "english": "What if peace sounds Spanish?",
-      "spanish": "¿Qué si paz suena español?",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-20T21:55:00.115765"
-    },
-    {
-      "english": "Your mind will relax.",
-      "spanish": "Tu mente se relajará.",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-20T21:55:00.115775"
-    },
-    {
-      "english": "Why quit now? Keep going.",
-      "spanish": "¿Por qué renunciar? Sigue.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-21T14:48:52.160086"
-    },
-    {
       "english": "This one trick, unlocks understanding.",
       "spanish": "Este truco, desbloquea entender.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea mundos nuevos: habla español.",
       "category": "Creativity",
       "generated_at": "2026-09-16T18:44:55.864135"
+    },
+    {
+      "english": "Your resilience is growing, see?",
+      "spanish": "Tu resiliencia crece, ¿ves?",
+      "category": "Strength",
+      "generated_at": "2026-09-16T19:49:04.975367"
+    },
+    {
+      "english": "This feeling? Unstoppable power.",
+      "spanish": "¿Esta sensación? Poder imparable.",
+      "category": "Strength",
+      "generated_at": "2026-09-16T19:49:04.975404"
+    },
+    {
+      "english": "Don't quit. Try 'otra vez'.",
+      "spanish": "No renuncies. Prueba 'otra vez'.",
+      "category": "Strength",
+      "generated_at": "2026-09-16T19:49:04.975431"
+    },
+    {
+      "english": "Your spirit is unbreakable, remember.",
+      "spanish": "Tu espíritu es irrompible, recuerda.",
+      "category": "Strength",
+      "generated_at": "2026-09-16T19:49:04.975456"
+    },
+    {
+      "english": "Feel this? You are a survivor.",
+      "spanish": "¿Sientes esto? Eres un superviviente.",
+      "category": "Strength",
+      "generated_at": "2026-09-16T19:49:04.975483"
     }
   ],
-  "last_updated": "2026-09-16T18:44:55.864137",
+  "last_updated": "2026-09-16T19:49:04.975485",
   "used_english": [
-    "your voice will resonate.",
-    "listen: a softer tone.",
-    "what if peace sounds spanish?",
-    "your mind will relax.",
-    "why quit now? keep going.",
     "this one trick, unlocks understanding.",
     "your brain remembers, trust it.",
     "small progress, huge rewards.",
@@ -21002,6 +20997,11 @@
     "one word connects everyone, listen.",
     "want easy spanish? try this.",
     "hear this? spanish is art.",
-    "unlock new worlds: speak spanish."
+    "unlock new worlds: speak spanish.",
+    "your resilience is growing, see?",
+    "this feeling? unstoppable power.",
+    "don't quit. try 'otra vez'.",
+    "your spirit is unbreakable, remember.",
+    "feel this? you are a survivor."
   ]
 }
