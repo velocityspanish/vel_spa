@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your bravery, they're hearing.",
-      "spanish": "Tu valentía, la están oyendo.",
-      "category": "Strength",
-      "generated_at": "2026-04-20T17:52:06.711747"
-    },
-    {
-      "english": "Feel your progress bloom.",
-      "spanish": "Siente tu progreso florecer.",
-      "category": "Strength",
-      "generated_at": "2026-04-20T17:52:06.711754"
-    },
-    {
-      "english": "Curiosity fuels every word.",
-      "spanish": "La curiosidad alimenta cada palabra.",
-      "category": "Strength",
-      "generated_at": "2026-04-20T17:52:06.711761"
-    },
-    {
-      "english": "One phrase, new friendship starts.",
-      "spanish": "Una frase, nueva amistad comienza.",
-      "category": "Strength",
-      "generated_at": "2026-04-20T17:52:06.711767"
-    },
-    {
-      "english": "One 'hello' sparks connection.",
-      "spanish": "Un 'hola' crea conexión.",
-      "category": "Kindness",
-      "generated_at": "2026-04-20T19:56:00.466940"
-    },
-    {
       "english": "Feel this? Your fluency blooms.",
       "spanish": "¿Sientes esto? Tu fluidez florece.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Una palabra, entendimiento instantáneo ganado.",
       "category": "Happiness",
       "generated_at": "2026-09-15T23:29:03.267331"
+    },
+    {
+      "english": "This word sparks joy, always.",
+      "spanish": "Esta palabra evoca alegría, siempre.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:12.868922"
+    },
+    {
+      "english": "Unlock understanding with 'entiendo'.",
+      "spanish": "Desbloquea entendimiento con 'entiendo'.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:12.868962"
+    },
+    {
+      "english": "Your patience has a reward.",
+      "spanish": "Tu paciencia tiene recompensa.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:12.868996"
+    },
+    {
+      "english": "Feel this ease? 'Despacio' works.",
+      "spanish": "¿Sientes esta calma? 'Despacio' funciona.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:12.869024"
+    },
+    {
+      "english": "Dare to speak Spanish, now.",
+      "spanish": "Atrévete a hablar español, ahora.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-16T17:32:12.869051"
     }
   ],
-  "last_updated": "2026-09-15T23:29:03.267333",
+  "last_updated": "2026-09-16T17:32:12.869053",
   "used_english": [
-    "your bravery, they're hearing.",
-    "feel your progress bloom.",
-    "curiosity fuels every word.",
-    "one phrase, new friendship starts.",
-    "one 'hello' sparks connection.",
     "feel this? your fluency blooms.",
     "curiosity leads, speak.",
     "small word, huge impact.",
@@ -21002,6 +20997,11 @@
     "your happy moments are brewing.",
     "feel this? spanish magic awaits.",
     "your best self is learning.",
-    "one word, instant understanding gained."
+    "one word, instant understanding gained.",
+    "this word sparks joy, always.",
+    "unlock understanding with 'entiendo'.",
+    "your patience has a reward.",
+    "feel this ease? 'despacio' works.",
+    "dare to speak spanish, now."
   ]
 }
