@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this? Your fluency blooms.",
-      "spanish": "¿Sientes esto? Tu fluidez florece.",
-      "category": "Kindness",
-      "generated_at": "2026-04-20T19:56:00.466954"
-    },
-    {
-      "english": "Curiosity leads, speak.",
-      "spanish": "La curiosidad guía, habla.",
-      "category": "Kindness",
-      "generated_at": "2026-04-20T19:56:00.466961"
-    },
-    {
-      "english": "Small word, huge impact.",
-      "spanish": "Palabra pequeña, gran impacto.",
-      "category": "Kindness",
-      "generated_at": "2026-04-20T19:56:00.466967"
-    },
-    {
-      "english": "What if you could now?",
-      "spanish": "¿Y si pudieras ahora?",
-      "category": "Kindness",
-      "generated_at": "2026-04-20T19:56:00.466973"
-    },
-    {
-      "english": "This calm? pure Spanish.",
-      "spanish": "Esta calma? puro español.",
-      "category": "Inner Peace",
-      "generated_at": "2026-04-20T21:55:00.115737"
-    },
-    {
       "english": "Your voice will resonate.",
       "spanish": "Tu voz resonará.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a hablar español, ahora.",
       "category": "Inspiration",
       "generated_at": "2026-09-16T17:32:12.869051"
+    },
+    {
+      "english": "What if you're fluent tomorrow?",
+      "spanish": "¿Y si hablas fluido mañana?",
+      "category": "Creativity",
+      "generated_at": "2026-09-16T18:44:55.864052"
+    },
+    {
+      "english": "One word connects everyone, listen.",
+      "spanish": "Una palabra une a todos, escucha.",
+      "category": "Creativity",
+      "generated_at": "2026-09-16T18:44:55.864081"
+    },
+    {
+      "english": "Want easy Spanish? Try this.",
+      "spanish": "¿Quieres español fácil? Prueba esto.",
+      "category": "Creativity",
+      "generated_at": "2026-09-16T18:44:55.864100"
+    },
+    {
+      "english": "Hear this? Spanish is art.",
+      "spanish": "¿Escuchas esto? El español es arte.",
+      "category": "Creativity",
+      "generated_at": "2026-09-16T18:44:55.864118"
+    },
+    {
+      "english": "Unlock new worlds: speak Spanish.",
+      "spanish": "Desbloquea mundos nuevos: habla español.",
+      "category": "Creativity",
+      "generated_at": "2026-09-16T18:44:55.864135"
     }
   ],
-  "last_updated": "2026-09-16T17:32:12.869053",
+  "last_updated": "2026-09-16T18:44:55.864137",
   "used_english": [
-    "feel this? your fluency blooms.",
-    "curiosity leads, speak.",
-    "small word, huge impact.",
-    "what if you could now?",
-    "this calm? pure spanish.",
     "your voice will resonate.",
     "listen: a softer tone.",
     "what if peace sounds spanish?",
@@ -21002,6 +20997,11 @@
     "unlock understanding with 'entiendo'.",
     "your patience has a reward.",
     "feel this ease? 'despacio' works.",
-    "dare to speak spanish, now."
+    "dare to speak spanish, now.",
+    "what if you're fluent tomorrow?",
+    "one word connects everyone, listen.",
+    "want easy spanish? try this.",
+    "hear this? spanish is art.",
+    "unlock new worlds: speak spanish."
   ]
 }
