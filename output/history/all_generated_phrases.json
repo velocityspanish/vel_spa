@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one trick, unlocks understanding.",
-      "spanish": "Este truco, desbloquea entender.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-21T14:48:52.160102"
-    },
-    {
-      "english": "Your brain remembers, trust it.",
-      "spanish": "Tu cerebro recuerda, confía.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-21T14:48:52.160110"
-    },
-    {
-      "english": "Small progress, huge rewards.",
-      "spanish": "Pequeño progreso, grandes recompensas.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-21T14:48:52.160116"
-    },
-    {
-      "english": "Don't stop at 'hello'.",
-      "spanish": "No pares en 'hola'.",
-      "category": "Perseverance",
-      "generated_at": "2026-04-21T14:48:52.160123"
-    },
-    {
-      "english": "Your brain is ready, yes?",
-      "spanish": "Tu cerebro está listo, ¿verdad?",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-21T16:12:38.658056"
-    },
-    {
       "english": "One sentence, pure magic.",
       "spanish": "Una frase, pura magia.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes esto? Eres un superviviente.",
       "category": "Strength",
       "generated_at": "2026-09-16T19:49:04.975483"
+    },
+    {
+      "english": "Feeling stuck? Just listen.",
+      "spanish": "¿Atascado? Solo escucha.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T21:48:40.452252"
+    },
+    {
+      "english": "This tiny word means 'wow'.",
+      "spanish": "Esta palabrita significa 'guau'.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T21:48:40.452293"
+    },
+    {
+      "english": "This feeling? Pure magic. Learn.",
+      "spanish": "¿Este sentimiento? Pura magia. Aprende.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T21:48:40.452322"
+    },
+    {
+      "english": "Unlock doors with this whisper.",
+      "spanish": "Abre puertas con este susurro.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T21:48:40.452350"
+    },
+    {
+      "english": "Your potential is unfolding now.",
+      "spanish": "Tu potencial se despliega ahora.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T21:48:40.452377"
     }
   ],
-  "last_updated": "2026-09-16T19:49:04.975485",
+  "last_updated": "2026-09-16T21:48:40.452379",
   "used_english": [
-    "this one trick, unlocks understanding.",
-    "your brain remembers, trust it.",
-    "small progress, huge rewards.",
-    "don't stop at 'hello'.",
-    "your brain is ready, yes?",
     "one sentence, pure magic.",
     "listen first, then speak.",
     "feel the words, connect.",
@@ -21002,6 +20997,11 @@
     "this feeling? unstoppable power.",
     "don't quit. try 'otra vez'.",
     "your spirit is unbreakable, remember.",
-    "feel this? you are a survivor."
+    "feel this? you are a survivor.",
+    "feeling stuck? just listen.",
+    "this tiny word means 'wow'.",
+    "this feeling? pure magic. learn.",
+    "unlock doors with this whisper.",
+    "your potential is unfolding now."
   ]
 }
