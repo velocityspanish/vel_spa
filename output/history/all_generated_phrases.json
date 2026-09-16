@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One sentence, pure magic.",
-      "spanish": "Una frase, pura magia.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-21T16:12:38.658071"
-    },
-    {
-      "english": "Listen first, then speak.",
-      "spanish": "Escucha primero, luego habla.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-21T16:12:38.658078"
-    },
-    {
-      "english": "Feel the words, connect.",
-      "spanish": "Siente las palabras, conecta.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-21T16:12:38.658085"
-    },
-    {
-      "english": "Your voice, a new power.",
-      "spanish": "Tu voz, un nuevo poder.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-21T16:12:38.658091"
-    },
-    {
-      "english": "Her smile? Pure magic.",
-      "spanish": "Su sonrisa, pura magia.",
-      "category": "Love",
-      "generated_at": "2026-04-21T17:54:09.037948"
-    },
-    {
       "english": "One 'te amo' changes.",
       "spanish": "Un 'te amo' lo cambia.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu potencial se despliega ahora.",
       "category": "Wisdom",
       "generated_at": "2026-09-16T21:48:40.452377"
+    },
+    {
+      "english": "Your spirit is strong. Believe.",
+      "spanish": "Tu espíritu es fuerte. Cree.",
+      "category": "Hope",
+      "generated_at": "2026-09-16T23:36:14.308319"
+    },
+    {
+      "english": "This word means 'I can', sí.",
+      "spanish": "Esta palabra significa 'puedo', sí.",
+      "category": "Hope",
+      "generated_at": "2026-09-16T23:36:14.308341"
+    },
+    {
+      "english": "Never stop chasing your dreams, ¿vale?",
+      "spanish": "Nunca dejes de perseguir tus sueños, ¿vale?",
+      "category": "Hope",
+      "generated_at": "2026-09-16T23:36:14.308354"
+    },
+    {
+      "english": "Your effort is seen, celebrated.",
+      "spanish": "Tu esfuerzo es visto, celebrado.",
+      "category": "Hope",
+      "generated_at": "2026-09-16T23:36:14.308368"
+    },
+    {
+      "english": "The journey is worth it, trust.",
+      "spanish": "El viaje vale la pena, confía.",
+      "category": "Hope",
+      "generated_at": "2026-09-16T23:36:14.308382"
     }
   ],
-  "last_updated": "2026-09-16T21:48:40.452379",
+  "last_updated": "2026-09-16T23:36:14.308384",
   "used_english": [
-    "one sentence, pure magic.",
-    "listen first, then speak.",
-    "feel the words, connect.",
-    "your voice, a new power.",
-    "her smile? pure magic.",
     "one 'te amo' changes.",
     "eyes meet? instant connection.",
     "why is love so powerful?",
@@ -21002,6 +20997,11 @@
     "this tiny word means 'wow'.",
     "this feeling? pure magic. learn.",
     "unlock doors with this whisper.",
-    "your potential is unfolding now."
+    "your potential is unfolding now.",
+    "your spirit is strong. believe.",
+    "this word means 'i can', sí.",
+    "never stop chasing your dreams, ¿vale?",
+    "your effort is seen, celebrated.",
+    "the journey is worth it, trust."
   ]
 }
