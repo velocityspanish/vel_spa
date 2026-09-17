@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This word means 'my people'.",
-      "spanish": "Esta palabra significa 'mi gente'.",
-      "category": "Friendship",
-      "generated_at": "2026-04-22T17:53:49.683931"
-    },
-    {
-      "english": "Want them to listen? Try this.",
-      "spanish": "¿Quieres que escuchen? Prueba esto.",
-      "category": "Friendship",
-      "generated_at": "2026-04-22T17:53:49.683939"
-    },
-    {
-      "english": "A toast to new friendships!",
-      "spanish": "¡Un brindis por las nuevas amistades!",
-      "category": "Friendship",
-      "generated_at": "2026-04-22T17:53:49.683946"
-    },
-    {
-      "english": "Friendship's magic? Shared moments.",
-      "spanish": "¿La magia de la amistad? Momentos compartidos.",
-      "category": "Friendship",
-      "generated_at": "2026-04-22T17:53:49.683953"
-    },
-    {
-      "english": "Your happiness, now unlocked.",
-      "spanish": "Tu felicidad, ahora desbloqueada.",
-      "category": "Joy",
-      "generated_at": "2026-04-22T20:01:18.883931"
-    },
-    {
       "english": "This sound makes smiles bloom.",
       "spanish": "Este sonido hace sonrisas florecer.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente la fluidez creciendo.",
       "category": "Mindfulness",
       "generated_at": "2026-09-17T21:50:39.284425"
+    },
+    {
+      "english": "Peace begins with this.",
+      "spanish": "La paz comienza con esto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-17T23:29:59.098983"
+    },
+    {
+      "english": "Letting go feels so good.",
+      "spanish": "Soltar se siente tan bien.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-17T23:29:59.099015"
+    },
+    {
+      "english": "What if you forgave now?",
+      "spanish": "¿Y si perdonaras ahora?",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-17T23:29:59.099041"
+    },
+    {
+      "english": "Your heart needs this release.",
+      "spanish": "Tu corazón necesita este alivio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-17T23:29:59.099069"
+    },
+    {
+      "english": "Unburden yourself, feel lighter.",
+      "spanish": "Libérate, siéntete más ligero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-17T23:29:59.099096"
     }
   ],
-  "last_updated": "2026-09-17T21:50:39.284427",
+  "last_updated": "2026-09-17T23:29:59.099098",
   "used_english": [
-    "this word means 'my people'.",
-    "want them to listen? try this.",
-    "a toast to new friendships!",
-    "friendship's magic? shared moments.",
-    "your happiness, now unlocked.",
     "this sound makes smiles bloom.",
     "why wait? start learning today.",
     "small words, big world opened.",
@@ -21002,6 +20997,11 @@
     "dare to sound different.",
     "your journey has magic.",
     "surprise: it's simpler than imagined.",
-    "feel the fluency growing."
+    "feel the fluency growing.",
+    "peace begins with this.",
+    "letting go feels so good.",
+    "what if you forgave now?",
+    "your heart needs this release.",
+    "unburden yourself, feel lighter."
   ]
 }
