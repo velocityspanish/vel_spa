@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sound changes everything.",
-      "spanish": "Este sonido cambia todo.",
-      "category": "Balance",
-      "generated_at": "2026-04-21T21:52:52.274522"
-    },
-    {
-      "english": "Curiosity: what's the next word?",
-      "spanish": "Curiosidad: ¿qué sigue?",
-      "category": "Balance",
-      "generated_at": "2026-04-21T21:52:52.274529"
-    },
-    {
-      "english": "Believe it, you can speak.",
-      "spanish": "Créelo, puedes hablar.",
-      "category": "Balance",
-      "generated_at": "2026-04-21T21:52:52.274536"
-    },
-    {
-      "english": "Tiny habit, huge fluency.",
-      "spanish": "Hábito pequeño, gran fluidez.",
-      "category": "Balance",
-      "generated_at": "2026-04-21T21:52:52.274542"
-    },
-    {
-      "english": "Want fluent Spanish? Breathe.",
-      "spanish": "¿Quieres español fluido? Respira.",
-      "category": "Patience",
-      "generated_at": "2026-04-22T15:28:18.599409"
-    },
-    {
       "english": "This makes speaking easier.",
       "spanish": "Esto hace hablar más fácil.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Una pregunta desbloquea.",
       "category": "Success",
       "generated_at": "2026-09-17T18:50:54.668881"
+    },
+    {
+      "english": "This little word, pure delight.",
+      "spanish": "Esta palabrita, puro gozo.",
+      "category": "Joy",
+      "generated_at": "2026-09-17T19:56:44.741564"
+    },
+    {
+      "english": "Feel this? Spanish smiles.",
+      "spanish": "¿Sientes esto? Sonrisas españolas.",
+      "category": "Joy",
+      "generated_at": "2026-09-17T19:56:44.741604"
+    },
+    {
+      "english": "Your happy language unlocked.",
+      "spanish": "Tu idioma feliz desbloqueado.",
+      "category": "Joy",
+      "generated_at": "2026-09-17T19:56:44.741635"
+    },
+    {
+      "english": "One sound, instant cheer.",
+      "spanish": "Un sonido, ánimo instantáneo.",
+      "category": "Joy",
+      "generated_at": "2026-09-17T19:56:44.741662"
+    },
+    {
+      "english": "Unlock joy in three letters.",
+      "spanish": "Desbloquea la alegría en tres letras.",
+      "category": "Joy",
+      "generated_at": "2026-09-17T19:56:44.741692"
     }
   ],
-  "last_updated": "2026-09-17T18:50:54.668883",
+  "last_updated": "2026-09-17T19:56:44.741694",
   "used_english": [
-    "this sound changes everything.",
-    "curiosity: what's the next word?",
-    "believe it, you can speak.",
-    "tiny habit, huge fluency.",
-    "want fluent spanish? breathe.",
     "this makes speaking easier.",
     "your slow progress? normal.",
     "surprise! your ear is sharp.",
@@ -21002,6 +20997,11 @@
     "shh, hear the whisper?",
     "never too late, try.",
     "feel this easy flow.",
-    "one question unlocks progress."
+    "one question unlocks progress.",
+    "this little word, pure delight.",
+    "feel this? spanish smiles.",
+    "your happy language unlocked.",
+    "one sound, instant cheer.",
+    "unlock joy in three letters."
   ]
 }
