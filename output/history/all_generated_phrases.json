@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if this unlocked you?",
-      "spanish": "¿Y si esto te desbloquea?",
-      "category": "Joy",
-      "generated_at": "2026-04-21T19:59:54.039856"
-    },
-    {
-      "english": "Joy is a muscle, train it.",
-      "spanish": "La alegría es músculo, entrénalo.",
-      "category": "Joy",
-      "generated_at": "2026-04-21T19:59:54.039863"
-    },
-    {
-      "english": "Their smiles, your motivation.",
-      "spanish": "Sus sonrisas, tu motivación.",
-      "category": "Joy",
-      "generated_at": "2026-04-21T19:59:54.039870"
-    },
-    {
-      "english": "Feel it? You're speaking it.",
-      "spanish": "¿Lo sientes? Lo estás diciendo.",
-      "category": "Joy",
-      "generated_at": "2026-04-21T19:59:54.039877"
-    },
-    {
-      "english": "Your courage, amplified.",
-      "spanish": "Tu coraje, amplificado.",
-      "category": "Balance",
-      "generated_at": "2026-04-21T21:52:52.274506"
-    },
-    {
       "english": "This sound changes everything.",
       "spanish": "Este sonido cambia todo.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres más confianza? Di 'así'.",
       "category": "Purpose",
       "generated_at": "2026-09-17T17:31:39.007673"
+    },
+    {
+      "english": "This one word? Magic.",
+      "spanish": "Esta palabra, ¿magia?",
+      "category": "Success",
+      "generated_at": "2026-09-17T18:50:54.668771"
+    },
+    {
+      "english": "Shh, hear the whisper?",
+      "spanish": "Shh, ¿escuchas el susurro?",
+      "category": "Success",
+      "generated_at": "2026-09-17T18:50:54.668803"
+    },
+    {
+      "english": "Never too late, try.",
+      "spanish": "Nunca es tarde, intenta.",
+      "category": "Success",
+      "generated_at": "2026-09-17T18:50:54.668828"
+    },
+    {
+      "english": "Feel this easy flow.",
+      "spanish": "Siente esta facilidad.",
+      "category": "Success",
+      "generated_at": "2026-09-17T18:50:54.668852"
+    },
+    {
+      "english": "One question unlocks progress.",
+      "spanish": "Una pregunta desbloquea.",
+      "category": "Success",
+      "generated_at": "2026-09-17T18:50:54.668881"
     }
   ],
-  "last_updated": "2026-09-17T17:31:39.007675",
+  "last_updated": "2026-09-17T18:50:54.668883",
   "used_english": [
-    "what if this unlocked you?",
-    "joy is a muscle, train it.",
-    "their smiles, your motivation.",
-    "feel it? you're speaking it.",
-    "your courage, amplified.",
     "this sound changes everything.",
     "curiosity: what's the next word?",
     "believe it, you can speak.",
@@ -21002,6 +20997,11 @@
     "your accent? it's beautiful, truly.",
     "hear this? spanish feels easy.",
     "the surprise? you can do it.",
-    "want more confidence? say 'así'."
+    "want more confidence? say 'así'.",
+    "this one word? magic.",
+    "shh, hear the whisper?",
+    "never too late, try.",
+    "feel this easy flow.",
+    "one question unlocks progress."
   ]
 }
