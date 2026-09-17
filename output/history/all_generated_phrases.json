@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This makes speaking easier.",
-      "spanish": "Esto hace hablar más fácil.",
-      "category": "Patience",
-      "generated_at": "2026-04-22T15:28:18.599424"
-    },
-    {
-      "english": "Your slow progress? Normal.",
-      "spanish": "¿Tu progreso lento? Normal.",
-      "category": "Patience",
-      "generated_at": "2026-04-22T15:28:18.599432"
-    },
-    {
-      "english": "Surprise! Your ear is sharp.",
-      "spanish": "¡Sorpresa! Tu oído es agudo.",
-      "category": "Patience",
-      "generated_at": "2026-04-22T15:28:18.599439"
-    },
-    {
-      "english": "Patience: your best tool.",
-      "spanish": "Paciencia: tu mejor herramienta.",
-      "category": "Patience",
-      "generated_at": "2026-04-22T15:28:18.599446"
-    },
-    {
-      "english": "Your true friends will understand.",
-      "spanish": "Tus verdaderos amigos entenderán.",
-      "category": "Friendship",
-      "generated_at": "2026-04-22T17:53:49.683916"
-    },
-    {
       "english": "This word means 'my people'.",
       "spanish": "Esta palabra significa 'mi gente'.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea la alegría en tres letras.",
       "category": "Joy",
       "generated_at": "2026-09-17T19:56:44.741692"
+    },
+    {
+      "english": "Your voice matters, speak.",
+      "spanish": "Tu voz importa, habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-17T21:50:39.284315"
+    },
+    {
+      "english": "Dare to sound different.",
+      "spanish": "Atrévete a sonar diferente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-17T21:50:39.284349"
+    },
+    {
+      "english": "Your journey has magic.",
+      "spanish": "Tu viaje tiene magia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-17T21:50:39.284375"
+    },
+    {
+      "english": "Surprise: it's simpler than imagined.",
+      "spanish": "Sorpresa: es más simple de lo imaginado.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-17T21:50:39.284399"
+    },
+    {
+      "english": "Feel the fluency growing.",
+      "spanish": "Siente la fluidez creciendo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-17T21:50:39.284425"
     }
   ],
-  "last_updated": "2026-09-17T19:56:44.741694",
+  "last_updated": "2026-09-17T21:50:39.284427",
   "used_english": [
-    "this makes speaking easier.",
-    "your slow progress? normal.",
-    "surprise! your ear is sharp.",
-    "patience: your best tool.",
-    "your true friends will understand.",
     "this word means 'my people'.",
     "want them to listen? try this.",
     "a toast to new friendships!",
@@ -21002,6 +20997,11 @@
     "feel this? spanish smiles.",
     "your happy language unlocked.",
     "one sound, instant cheer.",
-    "unlock joy in three letters."
+    "unlock joy in three letters.",
+    "your voice matters, speak.",
+    "dare to sound different.",
+    "your journey has magic.",
+    "surprise: it's simpler than imagined.",
+    "feel the fluency growing."
   ]
 }
