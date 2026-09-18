@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why this makes you confident?",
-      "spanish": "¿Por qué esto te da confianza?",
-      "category": "Positive Life",
-      "generated_at": "2026-04-23T15:15:06.402077"
-    },
-    {
-      "english": "One sentence, more connections.",
-      "spanish": "Una frase, más conexiones.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-23T15:15:06.402085"
-    },
-    {
-      "english": "Never fear new words.",
-      "spanish": "Nunca temas palabras nuevas.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-23T15:15:06.402091"
-    },
-    {
-      "english": "Unlock smiles easily.",
-      "spanish": "Desbloquea sonrisas fácil.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-23T15:15:06.402098"
-    },
-    {
-      "english": "Your progress is coming, trust.",
-      "spanish": "Tu progreso llega, confía.",
-      "category": "Patience",
-      "generated_at": "2026-04-23T16:45:13.992473"
-    },
-    {
       "english": "Why stop now? Almost there!",
       "spanish": "¿Por qué parar? ¡Ya casi!",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente este momento, verdaderamente libre.",
       "category": "Inner Peace",
       "generated_at": "2026-09-18T18:06:55.390947"
+    },
+    {
+      "english": "This ONE sound, unlock fluency.",
+      "spanish": "Este SONIDO, desbloquea fluidez.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T19:20:00.953064"
+    },
+    {
+      "english": "Your courage? It's waiting. Speak.",
+      "spanish": "Tu coraje, espera. Habla.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T19:20:00.953100"
+    },
+    {
+      "english": "The easiest Spanish word ever?",
+      "spanish": "¿La palabra española más fácil?",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T19:20:00.953128"
+    },
+    {
+      "english": "Feel this spark? It's progress.",
+      "spanish": "¿Sientes esta chispa? Es progreso.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T19:20:00.953155"
+    },
+    {
+      "english": "Tiny habits build fluency, believe.",
+      "spanish": "Pequeños hábitos crean fluidez, cree.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T19:20:00.953198"
     }
   ],
-  "last_updated": "2026-09-18T18:06:55.390948",
+  "last_updated": "2026-09-18T19:20:00.953202",
   "used_english": [
-    "why this makes you confident?",
-    "one sentence, more connections.",
-    "never fear new words.",
-    "unlock smiles easily.",
-    "your progress is coming, trust.",
     "why stop now? almost there!",
     "this quiet power, it's yours.",
     "one more attempt, feel it.",
@@ -21002,6 +20997,11 @@
     "breathe this in, find your 'hoy'.",
     "tiny word, immense peace: 'paz'.",
     "your inner silence is gold.",
-    "feel this moment, truly free."
+    "feel this moment, truly free.",
+    "this one sound, unlock fluency.",
+    "your courage? it's waiting. speak.",
+    "the easiest spanish word ever?",
+    "feel this spark? it's progress.",
+    "tiny habits build fluency, believe."
   ]
 }
