@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Let go, breathe again.",
-      "spanish": "Suelta, respira de nuevo.",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-23T18:03:20.838447"
-    },
-    {
-      "english": "Wisdom: Forgiveness sets free.",
-      "spanish": "Sabiduría: El perdón libera.",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-23T18:03:20.838456"
-    },
-    {
-      "english": "Your freedom starts here.",
-      "spanish": "Tu libertad empieza aquí.",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-23T18:03:20.838463"
-    },
-    {
-      "english": "Surprise! You are lighter.",
-      "spanish": "¡Sorpresa! Estás más ligero.",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-23T18:03:20.838471"
-    },
-    {
-      "english": "Your intuition knows Spanish.",
-      "spanish": "Tu intuición sabe español.",
-      "category": "Balance",
-      "generated_at": "2026-04-23T20:03:01.912351"
-    },
-    {
       "english": "Never doubt your progress, friend.",
       "spanish": "Nunca dudes tu progreso, amigo.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes esto? El español encaja.",
       "category": "Wisdom",
       "generated_at": "2026-09-18T21:22:17.450738"
+    },
+    {
+      "english": "Friendship's echo, you'll hear it.",
+      "spanish": "El eco de la amistad, lo oirás.",
+      "category": "Friendship",
+      "generated_at": "2026-09-18T23:09:46.475449"
+    },
+    {
+      "english": "This word means 'together', truly.",
+      "spanish": "Esta palabra significa 'juntos', de verdad.",
+      "category": "Friendship",
+      "generated_at": "2026-09-18T23:09:46.475484"
+    },
+    {
+      "english": "Want to connect deeply? Listen.",
+      "spanish": "¿Quieres conectar profundamente? Escucha.",
+      "category": "Friendship",
+      "generated_at": "2026-09-18T23:09:46.475513"
+    },
+    {
+      "english": "Your Spanish family awaits you.",
+      "spanish": "Tu familia española te espera.",
+      "category": "Friendship",
+      "generated_at": "2026-09-18T23:09:46.475539"
+    },
+    {
+      "english": "Your loyalty has a Spanish name.",
+      "spanish": "Tu lealtad tiene un nombre español.",
+      "category": "Friendship",
+      "generated_at": "2026-09-18T23:09:46.475566"
     }
   ],
-  "last_updated": "2026-09-18T21:22:17.450740",
+  "last_updated": "2026-09-18T23:09:46.475568",
   "used_english": [
-    "let go, breathe again.",
-    "wisdom: forgiveness sets free.",
-    "your freedom starts here.",
-    "surprise! you are lighter.",
-    "your intuition knows spanish.",
     "never doubt your progress, friend.",
     "this rhythm feels like home.",
     "your courage speaks volumes, listen.",
@@ -21002,6 +20997,11 @@
     "spanish feels easy, this word.",
     "your progress is showing, amazing!",
     "one sound, pure connection found.",
-    "feel this? spanish just clicks."
+    "feel this? spanish just clicks.",
+    "friendship's echo, you'll hear it.",
+    "this word means 'together', truly.",
+    "want to connect deeply? listen.",
+    "your spanish family awaits you.",
+    "your loyalty has a spanish name."
   ]
 }
