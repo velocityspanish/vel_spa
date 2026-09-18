@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why stop now? Almost there!",
-      "spanish": "¿Por qué parar? ¡Ya casi!",
-      "category": "Patience",
-      "generated_at": "2026-04-23T16:45:13.992489"
-    },
-    {
-      "english": "This quiet power, it's yours.",
-      "spanish": "Este poder callado, es tuyo.",
-      "category": "Patience",
-      "generated_at": "2026-04-23T16:45:13.992496"
-    },
-    {
-      "english": "One more attempt, feel it.",
-      "spanish": "Un intento más, siéntelo.",
-      "category": "Patience",
-      "generated_at": "2026-04-23T16:45:13.992503"
-    },
-    {
-      "english": "Little by little, you'll bloom.",
-      "spanish": "Poco a poco, florecerás.",
-      "category": "Patience",
-      "generated_at": "2026-04-23T16:45:13.992510"
-    },
-    {
-      "english": "Forgive yourself, first.",
-      "spanish": "Perdónate, primero.",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-23T18:03:20.838428"
-    },
-    {
       "english": "Let go, breathe again.",
       "spanish": "Suelta, respira de nuevo.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeños hábitos crean fluidez, cree.",
       "category": "Wisdom",
       "generated_at": "2026-09-18T19:20:00.953198"
+    },
+    {
+      "english": "Unlock your voice, speak now.",
+      "spanish": "Desbloquea tu voz, habla ya.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T21:22:17.450638"
+    },
+    {
+      "english": "Spanish feels easy, this word.",
+      "spanish": "Español se siente fácil, esta palabra.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T21:22:17.450673"
+    },
+    {
+      "english": "Your progress is showing, amazing!",
+      "spanish": "Tu progreso se nota, ¡increíble!",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T21:22:17.450695"
+    },
+    {
+      "english": "One sound, pure connection found.",
+      "spanish": "Un sonido, pura conexión encontrada.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T21:22:17.450716"
+    },
+    {
+      "english": "Feel this? Spanish just clicks.",
+      "spanish": "¿Sientes esto? El español encaja.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-18T21:22:17.450738"
     }
   ],
-  "last_updated": "2026-09-18T19:20:00.953202",
+  "last_updated": "2026-09-18T21:22:17.450740",
   "used_english": [
-    "why stop now? almost there!",
-    "this quiet power, it's yours.",
-    "one more attempt, feel it.",
-    "little by little, you'll bloom.",
-    "forgive yourself, first.",
     "let go, breathe again.",
     "wisdom: forgiveness sets free.",
     "your freedom starts here.",
@@ -21002,6 +20997,11 @@
     "your courage? it's waiting. speak.",
     "the easiest spanish word ever?",
     "feel this spark? it's progress.",
-    "tiny habits build fluency, believe."
+    "tiny habits build fluency, believe.",
+    "unlock your voice, speak now.",
+    "spanish feels easy, this word.",
+    "your progress is showing, amazing!",
+    "one sound, pure connection found.",
+    "feel this? spanish just clicks."
   ]
 }
