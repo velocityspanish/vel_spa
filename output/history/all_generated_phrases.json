@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your vibe attracts them.",
-      "spanish": "Tu vibra los atrae.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-22T21:56:56.955949"
-    },
-    {
-      "english": "Want to connect? Listen first.",
-      "spanish": "¿Quieres conectar? Escucha primero.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-22T21:56:56.955957"
-    },
-    {
-      "english": "Embrace the awkward moments.",
-      "spanish": "Abraza los momentos incómodos.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-22T21:56:56.955965"
-    },
-    {
-      "english": "This sound calms your nerves.",
-      "spanish": "Este sonido calma tus nervios.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-22T21:56:56.955972"
-    },
-    {
-      "english": "Hear this, feel the joy.",
-      "spanish": "Escucha esto, siente la alegría.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-23T15:15:06.402062"
-    },
-    {
       "english": "Why this makes you confident?",
       "spanish": "¿Por qué esto te da confianza?",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu mundo interior es vasto.",
       "category": "Inner Peace",
       "generated_at": "2026-09-18T16:59:18.331028"
+    },
+    {
+      "english": "Your mind, a quiet garden.",
+      "spanish": "Tu mente, un jardín tranquilo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-18T18:06:55.390822"
+    },
+    {
+      "english": "Breathe this in, find your 'hoy'.",
+      "spanish": "Respira esto, encuentra tu 'hoy'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-18T18:06:55.390860"
+    },
+    {
+      "english": "Tiny word, immense peace: 'paz'.",
+      "spanish": "Palabra pequeña, paz inmensa: 'paz'.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-18T18:06:55.390889"
+    },
+    {
+      "english": "Your inner silence is gold.",
+      "spanish": "Tu silencio interior es oro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-18T18:06:55.390918"
+    },
+    {
+      "english": "Feel this moment, truly free.",
+      "spanish": "Siente este momento, verdaderamente libre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-18T18:06:55.390947"
     }
   ],
-  "last_updated": "2026-09-18T16:59:18.331030",
+  "last_updated": "2026-09-18T18:06:55.390948",
   "used_english": [
-    "your vibe attracts them.",
-    "want to connect? listen first.",
-    "embrace the awkward moments.",
-    "this sound calms your nerves.",
-    "hear this, feel the joy.",
     "why this makes you confident?",
     "one sentence, more connections.",
     "never fear new words.",
@@ -21002,6 +20997,11 @@
     "one word unlocks your peace.",
     "dare to be silent, breathe.",
     "this exhale? pure freedom.",
-    "your inner world is vast."
+    "your inner world is vast.",
+    "your mind, a quiet garden.",
+    "breathe this in, find your 'hoy'.",
+    "tiny word, immense peace: 'paz'.",
+    "your inner silence is gold.",
+    "feel this moment, truly free."
   ]
 }
