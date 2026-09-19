@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Never doubt your progress, friend.",
-      "spanish": "Nunca dudes tu progreso, amigo.",
-      "category": "Balance",
-      "generated_at": "2026-04-23T20:03:01.912373"
-    },
-    {
-      "english": "This rhythm feels like home.",
-      "spanish": "Este ritmo se siente hogar.",
-      "category": "Balance",
-      "generated_at": "2026-04-23T20:03:01.912388"
-    },
-    {
-      "english": "Your courage speaks volumes, listen.",
-      "spanish": "Tu coraje habla mucho, escucha.",
-      "category": "Balance",
-      "generated_at": "2026-04-23T20:03:01.912401"
-    },
-    {
-      "english": "One sound creates new worlds.",
-      "spanish": "Un sonido crea mundos nuevos.",
-      "category": "Balance",
-      "generated_at": "2026-04-23T20:03:01.912415"
-    },
-    {
-      "english": "Your mind craves new sounds.",
-      "spanish": "Tu mente ansía sonidos nuevos.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-23T21:54:46.478681"
-    },
-    {
       "english": "What if spanish felt natural?",
       "spanish": "¿Y si el español se sintiera natural?",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu lealtad tiene un nombre español.",
       "category": "Friendship",
       "generated_at": "2026-09-18T23:09:46.475566"
+    },
+    {
+      "english": "What if kindness costs nothing?",
+      "spanish": "¿Y si la amabilidad cuesta nada?",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T16:18:12.397548"
+    },
+    {
+      "english": "Hear this, build bridges.",
+      "spanish": "Oye esto, construye puentes.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T16:18:12.397583"
+    },
+    {
+      "english": "Your empathy is a superpower.",
+      "spanish": "Tu empatía es un superpoder.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T16:18:12.397623"
+    },
+    {
+      "english": "Never underestimate good deeds.",
+      "spanish": "Nunca subestimes buenas acciones.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T16:18:12.397651"
+    },
+    {
+      "english": "Feel the ripple effect.",
+      "spanish": "Siente el efecto dominó.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T16:18:12.397676"
     }
   ],
-  "last_updated": "2026-09-18T23:09:46.475568",
+  "last_updated": "2026-09-19T16:18:12.397679",
   "used_english": [
-    "never doubt your progress, friend.",
-    "this rhythm feels like home.",
-    "your courage speaks volumes, listen.",
-    "one sound creates new worlds.",
-    "your mind craves new sounds.",
     "what if spanish felt natural?",
     "feel that spanish spark ignite?",
     "speak easy, they'll understand.",
@@ -21002,6 +20997,11 @@
     "this word means 'together', truly.",
     "want to connect deeply? listen.",
     "your spanish family awaits you.",
-    "your loyalty has a spanish name."
+    "your loyalty has a spanish name.",
+    "what if kindness costs nothing?",
+    "hear this, build bridges.",
+    "your empathy is a superpower.",
+    "never underestimate good deeds.",
+    "feel the ripple effect."
   ]
 }
