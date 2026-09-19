@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your bravery? They hear it.",
-      "spanish": "¿Tu valentía? La escuchan.",
-      "category": "Joy",
-      "generated_at": "2026-04-24T16:06:35.064499"
-    },
-    {
-      "english": "One small phrase, big connection.",
-      "spanish": "Una frase pequeña, gran conexión.",
-      "category": "Joy",
-      "generated_at": "2026-04-24T16:06:35.064506"
-    },
-    {
-      "english": "Feel the confidence bloom now.",
-      "spanish": "Siente florecer la confianza ahora.",
-      "category": "Joy",
-      "generated_at": "2026-04-24T16:06:35.064514"
-    },
-    {
-      "english": "Your heart understands these words.",
-      "spanish": "Tu corazón entiende estas palabras.",
-      "category": "Joy",
-      "generated_at": "2026-04-24T16:06:35.064521"
-    },
-    {
-      "english": "Your bravery echoes, listen.",
-      "spanish": "Tu valentía resuena, escucha.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T17:44:19.309577"
-    },
-    {
       "english": "Why feel lost? Try this.",
       "spanish": "¿Por qué sentirse perdido? Prueba esto.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu fuerza interior habla español.",
       "category": "Courage",
       "generated_at": "2026-09-19T19:05:43.716832"
+    },
+    {
+      "english": "This word changes perspectives.",
+      "spanish": "Esta palabra cambia perspectivas.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T21:11:10.564722"
+    },
+    {
+      "english": "Surprise! Spanish pronunciation simplified.",
+      "spanish": "¡Sorpresa! Pronunciación española simplificada.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T21:11:10.564751"
+    },
+    {
+      "english": "Your confidence boost starts here.",
+      "spanish": "Tu impulso de confianza empieza aquí.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T21:11:10.564773"
+    },
+    {
+      "english": "Why are learners confused? Listen.",
+      "spanish": "¿Por qué los aprendices se confunden? Escucha.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T21:11:10.564794"
+    },
+    {
+      "english": "Your biggest fear? Gone. Try.",
+      "spanish": "¿Tu mayor miedo? Se fue. Intenta.",
+      "category": "Growth",
+      "generated_at": "2026-09-19T21:11:10.564816"
     }
   ],
-  "last_updated": "2026-09-19T19:05:43.716834",
+  "last_updated": "2026-09-19T21:11:10.564817",
   "used_english": [
-    "your bravery? they hear it.",
-    "one small phrase, big connection.",
-    "feel the confidence bloom now.",
-    "your heart understands these words.",
-    "your bravery echoes, listen.",
     "why feel lost? try this.",
     "embrace mistakes, they teach.",
     "curiosity opens spanish doors.",
@@ -21002,6 +20997,11 @@
     "what if you could? you can!",
     "one phrase unlocks boldness. try.",
     "dare more. speak spanish louder.",
-    "your inner strength speaks spanish."
+    "your inner strength speaks spanish.",
+    "this word changes perspectives.",
+    "surprise! spanish pronunciation simplified.",
+    "your confidence boost starts here.",
+    "why are learners confused? listen.",
+    "your biggest fear? gone. try."
   ]
 }
