@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if spanish felt natural?",
-      "spanish": "¿Y si el español se sintiera natural?",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-23T21:54:46.478697"
-    },
-    {
-      "english": "Feel that spanish spark ignite?",
-      "spanish": "¿Sientes esa chispa española encenderse?",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-23T21:54:46.478705"
-    },
-    {
-      "english": "Speak easy, they'll understand.",
-      "spanish": "Habla fácil, te entenderán.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-23T21:54:46.478713"
-    },
-    {
-      "english": "Your brain remembers it all.",
-      "spanish": "Tu cerebro lo recuerda todo.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-23T21:54:46.478720"
-    },
-    {
-      "english": "Forgive yourself, you're human.",
-      "spanish": "Perdónate, eres humano.",
-      "category": "Forgiveness",
-      "generated_at": "2026-04-24T14:46:39.988405"
-    },
-    {
       "english": "Wisdom: forgiveness is freedom.",
       "spanish": "Sabiduría: perdonar es libertad.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente el efecto dominó.",
       "category": "Kindness",
       "generated_at": "2026-09-19T16:18:12.397676"
+    },
+    {
+      "english": "Hear this? True connection awaits.",
+      "spanish": "Escucha esto? Conexión real espera.",
+      "category": "Purpose",
+      "generated_at": "2026-09-19T17:49:29.390827"
+    },
+    {
+      "english": "Surprise: Spanish is a feeling.",
+      "spanish": "Sorpresa: español es sentimiento.",
+      "category": "Purpose",
+      "generated_at": "2026-09-19T17:49:29.390860"
+    },
+    {
+      "english": "Curiosity: Why is it simple?",
+      "spanish": "Curiosidad: ¿Por qué es fácil?",
+      "category": "Purpose",
+      "generated_at": "2026-09-19T17:49:29.390883"
+    },
+    {
+      "english": "Your journey, one word at time.",
+      "spanish": "Tu viaje, una palabra tiempo.",
+      "category": "Purpose",
+      "generated_at": "2026-09-19T17:49:29.390904"
+    },
+    {
+      "english": "Don't wait, embrace the moment.",
+      "spanish": "No esperes, abraza el momento.",
+      "category": "Purpose",
+      "generated_at": "2026-09-19T17:49:29.390924"
     }
   ],
-  "last_updated": "2026-09-19T16:18:12.397679",
+  "last_updated": "2026-09-19T17:49:29.390925",
   "used_english": [
-    "what if spanish felt natural?",
-    "feel that spanish spark ignite?",
-    "speak easy, they'll understand.",
-    "your brain remembers it all.",
-    "forgive yourself, you're human.",
     "wisdom: forgiveness is freedom.",
     "new beginnings, clear heart.",
     "your burden, lifted now.",
@@ -21002,6 +20997,11 @@
     "hear this, build bridges.",
     "your empathy is a superpower.",
     "never underestimate good deeds.",
-    "feel the ripple effect."
+    "feel the ripple effect.",
+    "hear this? true connection awaits.",
+    "surprise: spanish is a feeling.",
+    "curiosity: why is it simple?",
+    "your journey, one word at time.",
+    "don't wait, embrace the moment."
   ]
 }
