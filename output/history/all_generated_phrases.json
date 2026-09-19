@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Why feel lost? Try this.",
-      "spanish": "¿Por qué sentirse perdido? Prueba esto.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T17:44:19.309593"
-    },
-    {
-      "english": "Embrace mistakes, they teach.",
-      "spanish": "Abraza errores, enseñan.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T17:44:19.309601"
-    },
-    {
-      "english": "Curiosity opens spanish doors.",
-      "spanish": "La curiosidad abre puertas españolas.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T17:44:19.309609"
-    },
-    {
-      "english": "Your courage takes flight now.",
-      "spanish": "Tu coraje despega ahora.",
-      "category": "Courage",
-      "generated_at": "2026-04-24T17:44:19.309616"
-    },
-    {
-      "english": "Your brain loves these sounds.",
-      "spanish": "Tu cerebro ama estos sonidos.",
-      "category": "Confidence",
-      "generated_at": "2026-04-24T19:44:46.669053"
-    },
-    {
       "english": "Wisdom: Embrace the silence first.",
       "spanish": "Sabiduría: Abraza el silencio primero.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Tu mayor miedo? Se fue. Intenta.",
       "category": "Growth",
       "generated_at": "2026-09-19T21:11:10.564816"
+    },
+    {
+      "english": "Friendship's true color, see?",
+      "spanish": "El color real de amistad, ¿ves?",
+      "category": "Friendship",
+      "generated_at": "2026-09-19T22:50:55.873380"
+    },
+    {
+      "english": "What if friends speak Spanish?",
+      "spanish": "¿Y si los amigos hablan español?",
+      "category": "Friendship",
+      "generated_at": "2026-09-19T22:50:55.873412"
+    },
+    {
+      "english": "Your shared laughter, a treasure.",
+      "spanish": "Tu risa compartida, un tesoro.",
+      "category": "Friendship",
+      "generated_at": "2026-09-19T22:50:55.873434"
+    },
+    {
+      "english": "Feel this bond? Unbreakable.",
+      "spanish": "¿Sientes este lazo? Inquebrantable.",
+      "category": "Friendship",
+      "generated_at": "2026-09-19T22:50:55.873457"
+    },
+    {
+      "english": "One word: 'Compañero' = friend.",
+      "spanish": "Una palabra: 'Compañero' = amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-09-19T22:50:55.873479"
     }
   ],
-  "last_updated": "2026-09-19T21:11:10.564817",
+  "last_updated": "2026-09-19T22:50:55.873481",
   "used_english": [
-    "why feel lost? try this.",
-    "embrace mistakes, they teach.",
-    "curiosity opens spanish doors.",
-    "your courage takes flight now.",
-    "your brain loves these sounds.",
     "wisdom: embrace the silence first.",
     "tiny victories build your confidence.",
     "your future self thanks you.",
@@ -21002,6 +20997,11 @@
     "surprise! spanish pronunciation simplified.",
     "your confidence boost starts here.",
     "why are learners confused? listen.",
-    "your biggest fear? gone. try."
+    "your biggest fear? gone. try.",
+    "friendship's true color, see?",
+    "what if friends speak spanish?",
+    "your shared laughter, a treasure.",
+    "feel this bond? unbreakable.",
+    "one word: 'compañero' = friend."
   ]
 }
