@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small progress, big heart.",
-      "spanish": "Pequeño progreso, gran corazón.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-25T14:04:39.485998"
-    },
-    {
-      "english": "Your effort matters, believe it.",
-      "spanish": "Tu esfuerzo importa, créelo.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-25T14:04:39.486006"
-    },
-    {
-      "english": "Hear this: you're doing great.",
-      "spanish": "Escucha esto: lo estás haciendo genial.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-25T14:04:39.486014"
-    },
-    {
-      "english": "Gratitude opens doors, truly.",
-      "spanish": "La gratitud abre puertas, de verdad.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-25T14:04:39.486022"
-    },
-    {
-      "english": "Your brain wants more Spanish.",
-      "spanish": "Tu cerebro quiere más español.",
-      "category": "Creativity",
-      "generated_at": "2026-04-25T15:41:14.952758"
-    },
-    {
       "english": "Embrace the beginner's mindset.",
       "spanish": "Abraza la mentalidad de principiante.",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza los borradores 'feos'.",
       "category": "Growth",
       "generated_at": "2026-09-20T18:03:07.544631"
+    },
+    {
+      "english": "This unlocks fluent conversations.",
+      "spanish": "Esto desbloquea conversaciones fluidas.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T19:11:54.076216"
+    },
+    {
+      "english": "Your voice echoes louder, sí?",
+      "spanish": "Tu voz resuena más fuerte, ¿sí?",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T19:11:54.076252"
+    },
+    {
+      "english": "What if Spanish felt effortless?",
+      "spanish": "¿Y si el español se sintiera sin esfuerzo?",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T19:11:54.076280"
+    },
+    {
+      "english": "Your courage is contagious, spread it.",
+      "spanish": "Tu coraje es contagioso, espárcelo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T19:11:54.076304"
+    },
+    {
+      "english": "Feel this? Connection begins now.",
+      "spanish": "¿Sientes esto? La conexión empieza ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T19:11:54.076330"
     }
   ],
-  "last_updated": "2026-09-20T18:03:07.544633",
+  "last_updated": "2026-09-20T19:11:54.076332",
   "used_english": [
-    "small progress, big heart.",
-    "your effort matters, believe it.",
-    "hear this: you're doing great.",
-    "gratitude opens doors, truly.",
-    "your brain wants more spanish.",
     "embrace the beginner's mindset.",
     "one simple word, big impact.",
     "your confidence grows, listen.",
@@ -21002,6 +20997,11 @@
     "surprise! it’s simpler than you think.",
     "dare to make mistakes. learn.",
     "hear this? your brain is changing.",
-    "embrace the 'ugly' first drafts."
+    "embrace the 'ugly' first drafts.",
+    "this unlocks fluent conversations.",
+    "your voice echoes louder, sí?",
+    "what if spanish felt effortless?",
+    "your courage is contagious, spread it.",
+    "feel this? connection begins now."
   ]
 }
