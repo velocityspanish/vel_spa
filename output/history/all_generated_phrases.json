@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Embrace the beginner's mindset.",
-      "spanish": "Abraza la mentalidad de principiante.",
-      "category": "Creativity",
-      "generated_at": "2026-04-25T15:41:14.952776"
-    },
-    {
-      "english": "One simple word, big impact.",
-      "spanish": "Una palabra simple, gran impacto.",
-      "category": "Creativity",
-      "generated_at": "2026-04-25T15:41:14.952785"
-    },
-    {
-      "english": "Your confidence grows, listen.",
-      "spanish": "Tu confianza crece, escucha.",
-      "category": "Creativity",
-      "generated_at": "2026-04-25T15:41:14.952793"
-    },
-    {
-      "english": "Surprise! You can do this.",
-      "spanish": "¡Sorpresa! Puedes hacer esto.",
-      "category": "Creativity",
-      "generated_at": "2026-04-25T15:41:14.952800"
-    },
-    {
-      "english": "Speak, and they'll hear you.",
-      "spanish": "Habla, y te oirán.",
-      "category": "Strength",
-      "generated_at": "2026-04-25T17:32:09.299858"
-    },
-    {
       "english": "This sound brings calm.",
       "spanish": "Este sonido trae calma.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes esto? La conexión empieza ahora.",
       "category": "Confidence",
       "generated_at": "2026-09-20T19:11:54.076330"
+    },
+    {
+      "english": "Your spirit is strong, keep going.",
+      "spanish": "Tu espíritu es fuerte, sigue.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T21:07:33.305579"
+    },
+    {
+      "english": "This one word: 'ahora'. Now.",
+      "spanish": "Esta palabra: 'ahora'. Ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T21:07:33.305617"
+    },
+    {
+      "english": "Mistakes are learning, embrace them.",
+      "spanish": "Errores son aprendizaje, acéptalos.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T21:07:33.305642"
+    },
+    {
+      "english": "Your progress whispers. Listen closely.",
+      "spanish": "Tu progreso susurra. Escucha bien.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T21:07:33.305666"
+    },
+    {
+      "english": "Why so hesitant? Try 'claro'.",
+      "spanish": "¿Por qué tan dudo? Prueba 'claro'.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-20T21:07:33.305693"
     }
   ],
-  "last_updated": "2026-09-20T19:11:54.076332",
+  "last_updated": "2026-09-20T21:07:33.305696",
   "used_english": [
-    "embrace the beginner's mindset.",
-    "one simple word, big impact.",
-    "your confidence grows, listen.",
-    "surprise! you can do this.",
-    "speak, and they'll hear you.",
     "this sound brings calm.",
     "your understanding is growing.",
     "tiny steps lead somewhere.",
@@ -21002,6 +20997,11 @@
     "your voice echoes louder, sí?",
     "what if spanish felt effortless?",
     "your courage is contagious, spread it.",
-    "feel this? connection begins now."
+    "feel this? connection begins now.",
+    "your spirit is strong, keep going.",
+    "this one word: 'ahora'. now.",
+    "mistakes are learning, embrace them.",
+    "your progress whispers. listen closely.",
+    "why so hesitant? try 'claro'."
   ]
 }
