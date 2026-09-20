@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One more try. You got this.",
-      "spanish": "Un intento más. Tú puedes.",
-      "category": "Patience",
-      "generated_at": "2026-04-24T21:54:41.756511"
-    },
-    {
-      "english": "Wisdom: Forgive your mistakes.",
-      "spanish": "Sabiduría: Perdona tus errores.",
-      "category": "Patience",
-      "generated_at": "2026-04-24T21:54:41.756519"
-    },
-    {
-      "english": "This sound brings pure joy.",
-      "spanish": "Este sonido trae pura alegría.",
-      "category": "Patience",
-      "generated_at": "2026-04-24T21:54:41.756526"
-    },
-    {
-      "english": "Why fear speaking? Just try.",
-      "spanish": "¿Por qué temer hablar? Solo intenta.",
-      "category": "Patience",
-      "generated_at": "2026-04-24T21:54:41.756534"
-    },
-    {
-      "english": "Surprise! Your Spanish is amazing.",
-      "spanish": "¡Sorpresa! Tu español es increíble.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-25T14:04:39.485983"
-    },
-    {
       "english": "Small progress, big heart.",
       "spanish": "Pequeño progreso, gran corazón.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Una palabra: pura comprensión.",
       "category": "Confidence",
       "generated_at": "2026-09-20T16:42:55.684173"
+    },
+    {
+      "english": "Tiny wins, huge progress.",
+      "spanish": "Pequeñas victorias, gran avance.",
+      "category": "Growth",
+      "generated_at": "2026-09-20T18:03:07.544516"
+    },
+    {
+      "english": "Surprise! It’s simpler than you think.",
+      "spanish": "¡Sorpresa! Es más simple de lo que crees.",
+      "category": "Growth",
+      "generated_at": "2026-09-20T18:03:07.544550"
+    },
+    {
+      "english": "Dare to make mistakes. Learn.",
+      "spanish": "Atrévete a equivocarte. Aprende.",
+      "category": "Growth",
+      "generated_at": "2026-09-20T18:03:07.544578"
+    },
+    {
+      "english": "Hear this? Your brain is changing.",
+      "spanish": "¿Oyes esto? Tu cerebro cambia.",
+      "category": "Growth",
+      "generated_at": "2026-09-20T18:03:07.544604"
+    },
+    {
+      "english": "Embrace the 'ugly' first drafts.",
+      "spanish": "Abraza los borradores 'feos'.",
+      "category": "Growth",
+      "generated_at": "2026-09-20T18:03:07.544631"
     }
   ],
-  "last_updated": "2026-09-20T16:42:55.684175",
+  "last_updated": "2026-09-20T18:03:07.544633",
   "used_english": [
-    "one more try. you got this.",
-    "wisdom: forgive your mistakes.",
-    "this sound brings pure joy.",
-    "why fear speaking? just try.",
-    "surprise! your spanish is amazing.",
     "small progress, big heart.",
     "your effort matters, believe it.",
     "hear this: you're doing great.",
@@ -21002,6 +20997,11 @@
     "why are you waiting? speak!",
     "hear this? spanish connects souls.",
     "dare to sound confident today.",
-    "one word: pure understanding."
+    "one word: pure understanding.",
+    "tiny wins, huge progress.",
+    "surprise! it’s simpler than you think.",
+    "dare to make mistakes. learn.",
+    "hear this? your brain is changing.",
+    "embrace the 'ugly' first drafts."
   ]
 }
