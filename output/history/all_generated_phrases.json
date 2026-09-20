@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Embrace the silence first.",
-      "spanish": "Sabiduría: Abraza el silencio primero.",
-      "category": "Confidence",
-      "generated_at": "2026-04-24T19:44:46.669071"
-    },
-    {
-      "english": "Tiny victories build your confidence.",
-      "spanish": "Pequeñas victorias construyen tu confianza.",
-      "category": "Confidence",
-      "generated_at": "2026-04-24T19:44:46.669079"
-    },
-    {
-      "english": "Your future self thanks you.",
-      "spanish": "Tu yo futuro te agradece.",
-      "category": "Confidence",
-      "generated_at": "2026-04-24T19:44:46.669089"
-    },
-    {
-      "english": "This pronunciation trick works.",
-      "spanish": "Este truco de pronunciación funciona.",
-      "category": "Confidence",
-      "generated_at": "2026-04-24T19:44:46.669096"
-    },
-    {
-      "english": "This slow progress? Totally normal.",
-      "spanish": "Este progreso lento? Totalmente normal.",
-      "category": "Patience",
-      "generated_at": "2026-04-24T21:54:41.756495"
-    },
-    {
       "english": "One more try. You got this.",
       "spanish": "Un intento más. Tú puedes.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Una palabra: 'Compañero' = amigo.",
       "category": "Friendship",
       "generated_at": "2026-09-19T22:50:55.873479"
+    },
+    {
+      "english": "Surprise: Spanish feels intuitive.",
+      "spanish": "Sorpresa: español intuitivo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T16:42:55.684056"
+    },
+    {
+      "english": "Why are you waiting? Speak!",
+      "spanish": "¿Por qué esperas? ¡Habla!",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T16:42:55.684092"
+    },
+    {
+      "english": "Hear this? Spanish connects souls.",
+      "spanish": "¿Oyes esto? Español une almas.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T16:42:55.684118"
+    },
+    {
+      "english": "Dare to sound confident today.",
+      "spanish": "Atrévete a sonar seguro hoy.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T16:42:55.684146"
+    },
+    {
+      "english": "One word: pure understanding.",
+      "spanish": "Una palabra: pura comprensión.",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T16:42:55.684173"
     }
   ],
-  "last_updated": "2026-09-19T22:50:55.873481",
+  "last_updated": "2026-09-20T16:42:55.684175",
   "used_english": [
-    "wisdom: embrace the silence first.",
-    "tiny victories build your confidence.",
-    "your future self thanks you.",
-    "this pronunciation trick works.",
-    "this slow progress? totally normal.",
     "one more try. you got this.",
     "wisdom: forgive your mistakes.",
     "this sound brings pure joy.",
@@ -21002,6 +20997,11 @@
     "what if friends speak spanish?",
     "your shared laughter, a treasure.",
     "feel this bond? unbreakable.",
-    "one word: 'compañero' = friend."
+    "one word: 'compañero' = friend.",
+    "surprise: spanish feels intuitive.",
+    "why are you waiting? speak!",
+    "hear this? spanish connects souls.",
+    "dare to sound confident today.",
+    "one word: pure understanding."
   ]
 }
