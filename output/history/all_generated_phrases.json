@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sound brings calm.",
-      "spanish": "Este sonido trae calma.",
-      "category": "Strength",
-      "generated_at": "2026-04-25T17:32:09.299875"
-    },
-    {
-      "english": "Your understanding is growing.",
-      "spanish": "Tu comprensión está creciendo.",
-      "category": "Strength",
-      "generated_at": "2026-04-25T17:32:09.299883"
-    },
-    {
-      "english": "Tiny steps lead somewhere.",
-      "spanish": "Pequeños pasos llevan a algún lugar.",
-      "category": "Strength",
-      "generated_at": "2026-04-25T17:32:09.299891"
-    },
-    {
-      "english": "Believe your ears right now.",
-      "spanish": "Cree a tus oídos ahora.",
-      "category": "Strength",
-      "generated_at": "2026-04-25T17:32:09.299899"
-    },
-    {
-      "english": "Hear this, find your voice.",
-      "spanish": "Escucha esto, encuentra tu voz.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-25T19:38:43.681858"
-    },
-    {
       "english": "Slow down, speak clearer.",
       "spanish": "Más lento, habla más claro.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué tan dudo? Prueba 'claro'.",
       "category": "Perseverance",
       "generated_at": "2026-09-20T21:07:33.305693"
+    },
+    {
+      "english": "Your quiet persistence wins.",
+      "spanish": "Tu persistencia silenciosa gana.",
+      "category": "Balance",
+      "generated_at": "2026-09-20T23:07:54.782934"
+    },
+    {
+      "english": "One question, unlocks more.",
+      "spanish": "Una pregunta, desbloquea más.",
+      "category": "Balance",
+      "generated_at": "2026-09-20T23:07:54.782968"
+    },
+    {
+      "english": "Never doubt your voice.",
+      "spanish": "Nunca dudes tu voz.",
+      "category": "Balance",
+      "generated_at": "2026-09-20T23:07:54.782987"
+    },
+    {
+      "english": "Feel this understanding grow.",
+      "spanish": "Siente crecer este entendimiento.",
+      "category": "Balance",
+      "generated_at": "2026-09-20T23:07:54.783010"
+    },
+    {
+      "english": "Why wait? Speak today.",
+      "spanish": "¿Por qué esperar? Habla hoy.",
+      "category": "Balance",
+      "generated_at": "2026-09-20T23:07:54.783029"
     }
   ],
-  "last_updated": "2026-09-20T21:07:33.305696",
+  "last_updated": "2026-09-20T23:07:54.783030",
   "used_english": [
-    "this sound brings calm.",
-    "your understanding is growing.",
-    "tiny steps lead somewhere.",
-    "believe your ears right now.",
-    "hear this, find your voice.",
     "slow down, speak clearer.",
     "tiny progress, immense joy.",
     "breathe, then speak.",
@@ -21002,6 +20997,11 @@
     "this one word: 'ahora'. now.",
     "mistakes are learning, embrace them.",
     "your progress whispers. listen closely.",
-    "why so hesitant? try 'claro'."
+    "why so hesitant? try 'claro'.",
+    "your quiet persistence wins.",
+    "one question, unlocks more.",
+    "never doubt your voice.",
+    "feel this understanding grow.",
+    "why wait? speak today."
   ]
 }
