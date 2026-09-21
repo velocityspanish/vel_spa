@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel that spanish rhythm, yes?",
-      "spanish": "¿Sientes ese ritmo español, sí?",
-      "category": "Strength",
-      "generated_at": "2026-04-26T14:05:51.750987"
-    },
-    {
-      "english": "Wisdom: Speak from your heart.",
-      "spanish": "Sabiduría: Habla desde tu corazón.",
-      "category": "Strength",
-      "generated_at": "2026-04-26T14:05:51.750995"
-    },
-    {
-      "english": "Encouragement: Your voice matters greatly.",
-      "spanish": "Ánimo: Tu voz importa mucho.",
-      "category": "Strength",
-      "generated_at": "2026-04-26T14:05:51.751002"
-    },
-    {
-      "english": "Curiosity: What's this word's secret?",
-      "spanish": "¿Curiosidad: Cuál es el secreto de esta palabra?",
-      "category": "Strength",
-      "generated_at": "2026-04-26T14:05:51.751010"
-    },
-    {
-      "english": "Surprise! Your brain loves Spanish.",
-      "spanish": "¡Sorpresa! Tu cerebro ama español.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-26T15:43:55.681065"
-    },
-    {
       "english": "Your journey starts with 'Hola'.",
       "spanish": "Tu viaje empieza con 'Hola'.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu voz resuena, ¿oyes?",
       "category": "Inspiration",
       "generated_at": "2026-09-21T19:53:47.379569"
+    },
+    {
+      "english": "This one word, immense courage.",
+      "spanish": "Esta palabra, valor inmenso.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-21T20:42:45.202063"
+    },
+    {
+      "english": "Why hesitate? Just try.",
+      "spanish": "¿Por qué dudar? Inténtalo.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-21T20:42:45.202094"
+    },
+    {
+      "english": "Feel this? Learning expands.",
+      "spanish": "¿Sientes esto? Aprender expande.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-21T20:42:45.202118"
+    },
+    {
+      "english": "Never fear the first attempt.",
+      "spanish": "Nunca temas el primer intento.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-21T20:42:45.202140"
+    },
+    {
+      "english": "Surprise: fluency is reachable.",
+      "spanish": "Sorpresa: la fluidez es alcanzable.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-21T20:42:45.202163"
     }
   ],
-  "last_updated": "2026-09-21T19:53:47.379570",
+  "last_updated": "2026-09-21T20:42:45.202164",
   "used_english": [
-    "feel that spanish rhythm, yes?",
-    "wisdom: speak from your heart.",
-    "encouragement: your voice matters greatly.",
-    "curiosity: what's this word's secret?",
-    "surprise! your brain loves spanish.",
     "your journey starts with 'hola'.",
     "feel that spanish magic?",
     "breathe. then speak with ease.",
@@ -21002,6 +20997,11 @@
     "why is this so joyful?",
     "the real secret? practice.",
     "surprise! it's simpler than believed.",
-    "your voice echoes, hear?"
+    "your voice echoes, hear?",
+    "this one word, immense courage.",
+    "why hesitate? just try.",
+    "feel this? learning expands.",
+    "never fear the first attempt.",
+    "surprise: fluency is reachable."
   ]
 }
