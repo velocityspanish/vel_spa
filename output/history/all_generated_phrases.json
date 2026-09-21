@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel that love in spanish?",
-      "spanish": "¿Sientes ese amor en español?",
-      "category": "Love",
-      "generated_at": "2026-04-25T21:45:00.476370"
-    },
-    {
-      "english": "Your courage speaks louder.",
-      "spanish": "Tu valentía habla más.",
-      "category": "Love",
-      "generated_at": "2026-04-25T21:45:00.476378"
-    },
-    {
-      "english": "Speak love, they listen.",
-      "spanish": "Habla amor, te escuchan.",
-      "category": "Love",
-      "generated_at": "2026-04-25T21:45:00.476386"
-    },
-    {
-      "english": "What if spanish feels easy?",
-      "spanish": "¿Y si el español se siente fácil?",
-      "category": "Love",
-      "generated_at": "2026-04-25T21:45:00.476394"
-    },
-    {
-      "english": "Your Spanish journey starts now.",
-      "spanish": "Tu viaje español empieza ahora.",
-      "category": "Strength",
-      "generated_at": "2026-04-26T14:05:51.750969"
-    },
-    {
       "english": "Feel that spanish rhythm, yes?",
       "spanish": "¿Sientes ese ritmo español, sí?",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Atrévete a intentarlo, solo una vez.",
       "category": "Wisdom",
       "generated_at": "2026-09-21T18:32:18.273675"
+    },
+    {
+      "english": "This sound unlocks fluency.",
+      "spanish": "Este sonido desbloquea fluidez.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-21T19:53:47.379473"
+    },
+    {
+      "english": "Why is this so joyful?",
+      "spanish": "¿Por qué esto es tan alegre?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-21T19:53:47.379505"
+    },
+    {
+      "english": "The real secret? Practice.",
+      "spanish": "¿El secreto real? Práctica.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-21T19:53:47.379527"
+    },
+    {
+      "english": "Surprise! It's simpler than believed.",
+      "spanish": "¡Sorpresa! Es más simple de lo creído.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-21T19:53:47.379548"
+    },
+    {
+      "english": "Your voice echoes, hear?",
+      "spanish": "Tu voz resuena, ¿oyes?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-21T19:53:47.379569"
     }
   ],
-  "last_updated": "2026-09-21T18:32:18.273677",
+  "last_updated": "2026-09-21T19:53:47.379570",
   "used_english": [
-    "feel that love in spanish?",
-    "your courage speaks louder.",
-    "speak love, they listen.",
-    "what if spanish feels easy?",
-    "your spanish journey starts now.",
     "feel that spanish rhythm, yes?",
     "wisdom: speak from your heart.",
     "encouragement: your voice matters greatly.",
@@ -21002,6 +20997,11 @@
     "small sounds, big understanding.",
     "this surprise, it's for you.",
     "embrace the journey, enjoy it.",
-    "dare to try, just once."
+    "dare to try, just once.",
+    "this sound unlocks fluency.",
+    "why is this so joyful?",
+    "the real secret? practice.",
+    "surprise! it's simpler than believed.",
+    "your voice echoes, hear?"
   ]
 }
