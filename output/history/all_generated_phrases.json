@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Slow down, speak clearer.",
-      "spanish": "Más lento, habla más claro.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-25T19:38:43.681876"
-    },
-    {
-      "english": "Tiny progress, immense joy.",
-      "spanish": "Progreso pequeño, alegría inmensa.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-25T19:38:43.681884"
-    },
-    {
-      "english": "Breathe, then speak.",
-      "spanish": "Respira, luego habla.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-25T19:38:43.681891"
-    },
-    {
-      "english": "Embrace the stumbles, keep going.",
-      "spanish": "Acepta tropiezos, sigue adelante.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-25T19:38:43.681899"
-    },
-    {
-      "english": "One word opens a new world.",
-      "spanish": "Una palabra abre un mundo.",
-      "category": "Love",
-      "generated_at": "2026-04-25T21:45:00.476352"
-    },
-    {
       "english": "Feel that love in spanish?",
       "spanish": "¿Sientes ese amor en español?",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué esperar? Habla hoy.",
       "category": "Balance",
       "generated_at": "2026-09-20T23:07:54.783029"
+    },
+    {
+      "english": "Never stop learning this.",
+      "spanish": "Nunca dejes de aprender esto.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-21T18:32:18.273559"
+    },
+    {
+      "english": "Small sounds, big understanding.",
+      "spanish": "Sonidos pequeños, gran entendimiento.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-21T18:32:18.273595"
+    },
+    {
+      "english": "This surprise, it's for you.",
+      "spanish": "Esta sorpresa, es para ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-21T18:32:18.273623"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "spanish": "Abraza el viaje, disfrútalo.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-21T18:32:18.273651"
+    },
+    {
+      "english": "Dare to try, just once.",
+      "spanish": "Atrévete a intentarlo, solo una vez.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-21T18:32:18.273675"
     }
   ],
-  "last_updated": "2026-09-20T23:07:54.783030",
+  "last_updated": "2026-09-21T18:32:18.273677",
   "used_english": [
-    "slow down, speak clearer.",
-    "tiny progress, immense joy.",
-    "breathe, then speak.",
-    "embrace the stumbles, keep going.",
-    "one word opens a new world.",
     "feel that love in spanish?",
     "your courage speaks louder.",
     "speak love, they listen.",
@@ -21002,6 +20997,11 @@
     "one question, unlocks more.",
     "never doubt your voice.",
     "feel this understanding grow.",
-    "why wait? speak today."
+    "why wait? speak today.",
+    "never stop learning this.",
+    "small sounds, big understanding.",
+    "this surprise, it's for you.",
+    "embrace the journey, enjoy it.",
+    "dare to try, just once."
   ]
 }
