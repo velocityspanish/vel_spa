@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One simple word, profound connection.",
-      "spanish": "Una palabra simple, conexión profunda.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-27T18:01:31.007369"
-    },
-    {
-      "english": "Feel that spanish rhythm? Yes!",
-      "spanish": "¿Sientes ese ritmo español? ¡Sí!",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-27T18:01:31.007378"
-    },
-    {
-      "english": "Don't hide; your spanish is ready.",
-      "spanish": "No te escondas; tu español está listo.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-27T18:01:31.007386"
-    },
-    {
-      "english": "This tiny step changes everything.",
-      "spanish": "Este pequeño paso cambia todo.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-27T18:01:31.007393"
-    },
-    {
-      "english": "This feeling? Pure spanish joy.",
-      "spanish": "Este sentimiento? Pura alegría española.",
-      "category": "Creativity",
-      "generated_at": "2026-04-27T20:04:10.676159"
-    },
-    {
       "english": "What if sounds felt familiar?",
       "spanish": "¿Y si los sonidos se sintieran familiares?",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "¿La magia? La repetición.",
       "category": "Patience",
       "generated_at": "2026-09-22T21:44:06.877579"
+    },
+    {
+      "english": "Your progress shines. See?",
+      "spanish": "Tu progreso brilla. ¿Ves?",
+      "category": "Hope",
+      "generated_at": "2026-09-22T23:34:31.883580"
+    },
+    {
+      "english": "Surprise! It's happening.",
+      "spanish": "¡Sorpresa! Está sucediendo.",
+      "category": "Hope",
+      "generated_at": "2026-09-22T23:34:31.883616"
+    },
+    {
+      "english": "Tiny wins unlock greatness.",
+      "spanish": "Pequeñas victorias abren grandeza.",
+      "category": "Hope",
+      "generated_at": "2026-09-22T23:34:31.883644"
+    },
+    {
+      "english": "Why struggle? Simpler ways.",
+      "spanish": "¿Por qué luchar? Formas simples.",
+      "category": "Hope",
+      "generated_at": "2026-09-22T23:34:31.883671"
+    },
+    {
+      "english": "Your effort builds worlds.",
+      "spanish": "Tu esfuerzo construye mundos.",
+      "category": "Hope",
+      "generated_at": "2026-09-22T23:34:31.883698"
     }
   ],
-  "last_updated": "2026-09-22T21:44:06.877581",
+  "last_updated": "2026-09-22T23:34:31.883700",
   "used_english": [
-    "one simple word, profound connection.",
-    "feel that spanish rhythm? yes!",
-    "don't hide; your spanish is ready.",
-    "this tiny step changes everything.",
-    "this feeling? pure spanish joy.",
     "what if sounds felt familiar?",
     "unlock your inner spanish voice.",
     "one word, infinite connection, yes?",
@@ -21002,6 +20997,11 @@
     "mistakes are fuel, my friend.",
     "this sound changes everything.",
     "keep going. you're close.",
-    "the magic? repetition."
+    "the magic? repetition.",
+    "your progress shines. see?",
+    "surprise! it's happening.",
+    "tiny wins unlock greatness.",
+    "why struggle? simpler ways.",
+    "your effort builds worlds."
   ]
 }
