@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One word: connect instantly.",
-      "spanish": "Una palabra: conecta al instante.",
-      "category": "Hope",
-      "generated_at": "2026-04-26T21:48:41.596492"
-    },
-    {
-      "english": "Surprise! You're understood.",
-      "spanish": "¡Sorpresa! Eres comprendido.",
-      "category": "Hope",
-      "generated_at": "2026-04-26T21:48:41.596501"
-    },
-    {
-      "english": "Wisdom: patience conquers all.",
-      "spanish": "Sabiduría: paciencia lo conquista todo.",
-      "category": "Hope",
-      "generated_at": "2026-04-26T21:48:41.596509"
-    },
-    {
-      "english": "Embrace the small victories.",
-      "spanish": "Abraza las pequeñas victorias.",
-      "category": "Hope",
-      "generated_at": "2026-04-26T21:48:41.596517"
-    },
-    {
-      "english": "Your courage is seen now.",
-      "spanish": "Tu coraje es visto ahora.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-27T15:09:53.814368"
-    },
-    {
       "english": "Embrace imperfect, speak joy.",
       "spanish": "Abraza imperfecto, habla gozo.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "Una pregunta, desbloquea el aprender. Intenta.",
       "category": "Purpose",
       "generated_at": "2026-09-22T17:33:32.014135"
+    },
+    {
+      "english": "Why pause? Speak it now.",
+      "spanish": "¿Por qué pausar? Dilo ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T18:34:14.735113"
+    },
+    {
+      "english": "Your inner voice, amplify.",
+      "spanish": "Tu voz interior, amplifica.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T18:34:14.735149"
+    },
+    {
+      "english": "Small words, huge impact.",
+      "spanish": "Palabras pequeñas, gran impacto.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T18:34:14.735176"
+    },
+    {
+      "english": "Trust your learning curve.",
+      "spanish": "Confía en tu curva de aprendizaje.",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T18:34:14.735203"
+    },
+    {
+      "english": "This pronunciation shift, wow!",
+      "spanish": "Este cambio de pronunciación, ¡wow!",
+      "category": "Confidence",
+      "generated_at": "2026-09-22T18:34:14.735230"
     }
   ],
-  "last_updated": "2026-09-22T17:33:32.014137",
+  "last_updated": "2026-09-22T18:34:14.735232",
   "used_english": [
-    "one word: connect instantly.",
-    "surprise! you're understood.",
-    "wisdom: patience conquers all.",
-    "embrace the small victories.",
-    "your courage is seen now.",
     "embrace imperfect, speak joy.",
     "this small step changes all.",
     "surprise! your brain thrives.",
@@ -21002,6 +20997,11 @@
     "this sound opens doors. listen.",
     "what if fluency feels easy?",
     "your comfort zone? grow beyond it.",
-    "one question, unlocks learning. try."
+    "one question, unlocks learning. try.",
+    "why pause? speak it now.",
+    "your inner voice, amplify.",
+    "small words, huge impact.",
+    "trust your learning curve.",
+    "this pronunciation shift, wow!"
   ]
 }
