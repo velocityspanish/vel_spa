@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Patience births fluency.",
-      "spanish": "Sabiduría: Paciencia da fluidez.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-27T16:28:25.950039"
-    },
-    {
-      "english": "Encouragement: You're building bridges.",
-      "spanish": "Ánimo: Estás construyendo puentes.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-27T16:28:25.950047"
-    },
-    {
-      "english": "Never doubt this journey.",
-      "spanish": "Nunca dudes de este viaje.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-27T16:28:25.950055"
-    },
-    {
-      "english": "Your effort truly matters.",
-      "spanish": "Tu esfuerzo de verdad importa.",
-      "category": "Mindfulness",
-      "generated_at": "2026-04-27T16:28:25.950063"
-    },
-    {
-      "english": "Your voice, amplified in spanish.",
-      "spanish": "Tu voz, amplificada en español.",
-      "category": "Self Improvement",
-      "generated_at": "2026-04-27T18:01:31.007354"
-    },
-    {
       "english": "One simple word, profound connection.",
       "spanish": "Una palabra simple, conexión profunda.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza los momentos '¡ajá!'",
       "category": "Balance",
       "generated_at": "2026-09-22T19:58:36.128809"
+    },
+    {
+      "english": "Why is learning hard?",
+      "spanish": "¿Por qué es difícil aprender?",
+      "category": "Patience",
+      "generated_at": "2026-09-22T21:44:06.877454"
+    },
+    {
+      "english": "Mistakes are fuel, my friend.",
+      "spanish": "Los errores son combustible, amigo.",
+      "category": "Patience",
+      "generated_at": "2026-09-22T21:44:06.877495"
+    },
+    {
+      "english": "This sound changes everything.",
+      "spanish": "Este sonido cambia todo.",
+      "category": "Patience",
+      "generated_at": "2026-09-22T21:44:06.877525"
+    },
+    {
+      "english": "Keep going. You're close.",
+      "spanish": "Sigue. Estás cerca.",
+      "category": "Patience",
+      "generated_at": "2026-09-22T21:44:06.877553"
+    },
+    {
+      "english": "The magic? Repetition.",
+      "spanish": "¿La magia? La repetición.",
+      "category": "Patience",
+      "generated_at": "2026-09-22T21:44:06.877579"
     }
   ],
-  "last_updated": "2026-09-22T19:58:36.128811",
+  "last_updated": "2026-09-22T21:44:06.877581",
   "used_english": [
-    "wisdom: patience births fluency.",
-    "encouragement: you're building bridges.",
-    "never doubt this journey.",
-    "your effort truly matters.",
-    "your voice, amplified in spanish.",
     "one simple word, profound connection.",
     "feel that spanish rhythm? yes!",
     "don't hide; your spanish is ready.",
@@ -21002,6 +20997,11 @@
     "feeling stuck? try this.",
     "one sound opens new worlds.",
     "hear this? connection ignites.",
-    "embrace the 'aha!' moments."
+    "embrace the 'aha!' moments.",
+    "why is learning hard?",
+    "mistakes are fuel, my friend.",
+    "this sound changes everything.",
+    "keep going. you're close.",
+    "the magic? repetition."
   ]
 }
