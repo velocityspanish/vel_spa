@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One phrase, endless friendships.",
-      "spanish": "Una frase, amistades infinitas.",
-      "category": "Friendship",
-      "generated_at": "2026-04-26T19:39:56.029209"
-    },
-    {
-      "english": "Your heart speaks Spanish, truly.",
-      "spanish": "Tu corazón habla español, de verdad.",
-      "category": "Friendship",
-      "generated_at": "2026-04-26T19:39:56.029218"
-    },
-    {
-      "english": "Tiny phrase, huge impact, watch.",
-      "spanish": "Frase pequeña, gran impacto, mira.",
-      "category": "Friendship",
-      "generated_at": "2026-04-26T19:39:56.029226"
-    },
-    {
-      "english": "Your patience builds strong bonds.",
-      "spanish": "Tu paciencia construye lazos fuertes.",
-      "category": "Friendship",
-      "generated_at": "2026-04-26T19:39:56.029234"
-    },
-    {
-      "english": "Your Spanish is growing, listen.",
-      "spanish": "Tu español crece, escucha.",
-      "category": "Hope",
-      "generated_at": "2026-04-26T21:48:41.596475"
-    },
-    {
       "english": "One word: connect instantly.",
       "spanish": "Una palabra: conecta al instante.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu curiosidad desvela secretos.",
       "category": "Wisdom",
       "generated_at": "2026-09-21T23:59:16.188039"
+    },
+    {
+      "english": "Surprise! Spanish feels like music.",
+      "spanish": "¡Sorpresa! El español suena música.",
+      "category": "Purpose",
+      "generated_at": "2026-09-22T17:33:32.013997"
+    },
+    {
+      "english": "This sound opens doors. Listen.",
+      "spanish": "Este sonido abre puertas. Escucha.",
+      "category": "Purpose",
+      "generated_at": "2026-09-22T17:33:32.014035"
+    },
+    {
+      "english": "What if fluency feels easy?",
+      "spanish": "¿Y si la fluidez se siente fácil?",
+      "category": "Purpose",
+      "generated_at": "2026-09-22T17:33:32.014082"
+    },
+    {
+      "english": "Your comfort zone? Grow beyond it.",
+      "spanish": "¿Tu zona de confort? Crece más allá.",
+      "category": "Purpose",
+      "generated_at": "2026-09-22T17:33:32.014110"
+    },
+    {
+      "english": "One question, unlocks learning. Try.",
+      "spanish": "Una pregunta, desbloquea el aprender. Intenta.",
+      "category": "Purpose",
+      "generated_at": "2026-09-22T17:33:32.014135"
     }
   ],
-  "last_updated": "2026-09-21T23:59:16.188040",
+  "last_updated": "2026-09-22T17:33:32.014137",
   "used_english": [
-    "one phrase, endless friendships.",
-    "your heart speaks spanish, truly.",
-    "tiny phrase, huge impact, watch.",
-    "your patience builds strong bonds.",
-    "your spanish is growing, listen.",
     "one word: connect instantly.",
     "surprise! you're understood.",
     "wisdom: patience conquers all.",
@@ -21002,6 +20997,11 @@
     "one sound, infinite understanding.",
     "feel this? spanish connection blooms.",
     "what if every day? growth.",
-    "your curiosity unlocks secrets."
+    "your curiosity unlocks secrets.",
+    "surprise! spanish feels like music.",
+    "this sound opens doors. listen.",
+    "what if fluency feels easy?",
+    "your comfort zone? grow beyond it.",
+    "one question, unlocks learning. try."
   ]
 }
