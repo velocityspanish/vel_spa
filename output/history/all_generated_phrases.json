@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if sounds felt familiar?",
-      "spanish": "¿Y si los sonidos se sintieran familiares?",
-      "category": "Creativity",
-      "generated_at": "2026-04-27T20:04:10.676179"
-    },
-    {
-      "english": "Unlock your inner Spanish voice.",
-      "spanish": "Desbloquea tu voz interior en español.",
-      "category": "Creativity",
-      "generated_at": "2026-04-27T20:04:10.676188"
-    },
-    {
-      "english": "One word, infinite connection, yes?",
-      "spanish": "Una palabra, conexión infinita, ¿sí?",
-      "category": "Creativity",
-      "generated_at": "2026-04-27T20:04:10.676196"
-    },
-    {
-      "english": "Surprise! You're a natural speaker.",
-      "spanish": "¡Sorpresa! Eres un hablante natural.",
-      "category": "Creativity",
-      "generated_at": "2026-04-27T20:04:10.676204"
-    },
-    {
-      "english": "Your tiny progress? Huge.",
-      "spanish": "Tu pequeño progreso? Enorme.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-27T22:00:35.624273"
-    },
-    {
       "english": "What if words felt like home?",
       "spanish": "¿Qué si las palabras se sintieran hogar?",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu esfuerzo construye mundos.",
       "category": "Hope",
       "generated_at": "2026-09-22T23:34:31.883698"
+    },
+    {
+      "english": "This one word, pure bravery.",
+      "spanish": "Esta palabra, valentía pura.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T17:45:45.446713"
+    },
+    {
+      "english": "The magic? Saying 'sí'.",
+      "spanish": "¿La magia? Decir 'sí'.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T17:45:45.446749"
+    },
+    {
+      "english": "This tiny spark, confidence.",
+      "spanish": "Esta pequeña chispa, confianza.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T17:45:45.446778"
+    },
+    {
+      "english": "Your bravery echoes here.",
+      "spanish": "Tu valentía resuena aquí.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T17:45:45.446804"
+    },
+    {
+      "english": "Never fear sounding imperfect.",
+      "spanish": "Nunca temas sonar imperfecto.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T17:45:45.446832"
     }
   ],
-  "last_updated": "2026-09-22T23:34:31.883700",
+  "last_updated": "2026-09-23T17:45:45.446834",
   "used_english": [
-    "what if sounds felt familiar?",
-    "unlock your inner spanish voice.",
-    "one word, infinite connection, yes?",
-    "surprise! you're a natural speaker.",
-    "your tiny progress? huge.",
     "what if words felt like home?",
     "wisdom: listen first, speak next.",
     "one 'gracias' opens hearts.",
@@ -21002,6 +20997,11 @@
     "surprise! it's happening.",
     "tiny wins unlock greatness.",
     "why struggle? simpler ways.",
-    "your effort builds worlds."
+    "your effort builds worlds.",
+    "this one word, pure bravery.",
+    "the magic? saying 'sí'.",
+    "this tiny spark, confidence.",
+    "your bravery echoes here.",
+    "never fear sounding imperfect."
   ]
 }
