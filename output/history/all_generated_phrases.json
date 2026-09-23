@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Surprise! your ears hear better.",
-      "spanish": "¡Sorpresa! tus oídos oyen mejor.",
-      "category": "Confidence",
-      "generated_at": "2026-04-28T15:35:41.515802"
-    },
-    {
-      "english": "Tiny sound, huge understanding, see?",
-      "spanish": "Sonido diminuto, gran entendimiento, ¿ves?",
-      "category": "Confidence",
-      "generated_at": "2026-04-28T15:35:41.515810"
-    },
-    {
-      "english": "Why hesitate? try this one.",
-      "spanish": "¿Por qué dudar? intenta esto.",
-      "category": "Confidence",
-      "generated_at": "2026-04-28T15:35:41.515818"
-    },
-    {
-      "english": "Embrace the sounds, feel fluent.",
-      "spanish": "Abraza los sonidos, siéntete fluido.",
-      "category": "Confidence",
-      "generated_at": "2026-04-28T15:35:41.515827"
-    },
-    {
-      "english": "Wisdom: Listen deeply first.",
-      "spanish": "Sabiduría: Escucha profundamente primero.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-28T16:54:45.611528"
-    },
-    {
       "english": "Embrace the journey, breathe.",
       "spanish": "Abraza el viaje, respira.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeños sonidos abren entendimiento.",
       "category": "Courage",
       "generated_at": "2026-09-23T18:53:59.391953"
+    },
+    {
+      "english": "This pause, your power.",
+      "spanish": "Esta pausa, tu poder.",
+      "category": "Creativity",
+      "generated_at": "2026-09-23T19:55:31.822839"
+    },
+    {
+      "english": "Small word, huge bravery.",
+      "spanish": "Palabra pequeña, valentía grande.",
+      "category": "Creativity",
+      "generated_at": "2026-09-23T19:55:31.822874"
+    },
+    {
+      "english": "Your journey, worth celebrating.",
+      "spanish": "Tu viaje, merece celebrar.",
+      "category": "Creativity",
+      "generated_at": "2026-09-23T19:55:31.822901"
+    },
+    {
+      "english": "This feeling? Fluent potential.",
+      "spanish": "¿Este sentimiento? Potencial fluido.",
+      "category": "Creativity",
+      "generated_at": "2026-09-23T19:55:31.822929"
+    },
+    {
+      "english": "Listen, your accent shines.",
+      "spanish": "Escucha, tu acento brilla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-23T19:55:31.822960"
     }
   ],
-  "last_updated": "2026-09-23T18:53:59.391955",
+  "last_updated": "2026-09-23T19:55:31.822962",
   "used_english": [
-    "surprise! your ears hear better.",
-    "tiny sound, huge understanding, see?",
-    "why hesitate? try this one.",
-    "embrace the sounds, feel fluent.",
-    "wisdom: listen deeply first.",
     "embrace the journey, breathe.",
     "surprise! you're understood now.",
     "this tiny phrase opens doors.",
@@ -21002,6 +20997,11 @@
     "your inner voice, amplify it.",
     "this one word sparks bravery.",
     "feel this? confidence is building.",
-    "tiny sounds unlock understanding."
+    "tiny sounds unlock understanding.",
+    "this pause, your power.",
+    "small word, huge bravery.",
+    "your journey, worth celebrating.",
+    "this feeling? fluent potential.",
+    "listen, your accent shines."
   ]
 }
