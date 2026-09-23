@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if words felt like home?",
-      "spanish": "¿Qué si las palabras se sintieran hogar?",
-      "category": "Gratitude",
-      "generated_at": "2026-04-27T22:00:35.624288"
-    },
-    {
-      "english": "Wisdom: Listen first, speak next.",
-      "spanish": "Sabiduría: Escucha primero, habla después.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-27T22:00:35.624297"
-    },
-    {
-      "english": "One 'gracias' opens hearts.",
-      "spanish": "Un 'gracias' abre corazones.",
-      "category": "Gratitude",
-      "generated_at": "2026-04-27T22:00:35.624305"
-    },
-    {
-      "english": "Feel that spanish connection grow?",
-      "spanish": "¿Sientes crecer esa conexión española?",
-      "category": "Gratitude",
-      "generated_at": "2026-04-27T22:00:35.624313"
-    },
-    {
-      "english": "Your spanish echo, amplify now.",
-      "spanish": "Tu eco español, amplifica ahora.",
-      "category": "Confidence",
-      "generated_at": "2026-04-28T15:35:41.515786"
-    },
-    {
       "english": "Surprise! your ears hear better.",
       "spanish": "¡Sorpresa! tus oídos oyen mejor.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca temas sonar imperfecto.",
       "category": "Courage",
       "generated_at": "2026-09-23T17:45:45.446832"
+    },
+    {
+      "english": "Why hide? Speak your truth.",
+      "spanish": "¿Por qué ocultar? Di tu verdad.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:53:59.391841"
+    },
+    {
+      "english": "Your inner voice, amplify it.",
+      "spanish": "Tu voz interior, amplifícala.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:53:59.391880"
+    },
+    {
+      "english": "This one word sparks bravery.",
+      "spanish": "Esta palabra enciende valentía.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:53:59.391906"
+    },
+    {
+      "english": "Feel this? Confidence is building.",
+      "spanish": "¿Sientes esto? La confianza crece.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:53:59.391929"
+    },
+    {
+      "english": "Tiny sounds unlock understanding.",
+      "spanish": "Pequeños sonidos abren entendimiento.",
+      "category": "Courage",
+      "generated_at": "2026-09-23T18:53:59.391953"
     }
   ],
-  "last_updated": "2026-09-23T17:45:45.446834",
+  "last_updated": "2026-09-23T18:53:59.391955",
   "used_english": [
-    "what if words felt like home?",
-    "wisdom: listen first, speak next.",
-    "one 'gracias' opens hearts.",
-    "feel that spanish connection grow?",
-    "your spanish echo, amplify now.",
     "surprise! your ears hear better.",
     "tiny sound, huge understanding, see?",
     "why hesitate? try this one.",
@@ -21002,6 +20997,11 @@
     "the magic? saying 'sí'.",
     "this tiny spark, confidence.",
     "your bravery echoes here.",
-    "never fear sounding imperfect."
+    "never fear sounding imperfect.",
+    "why hide? speak your truth.",
+    "your inner voice, amplify it.",
+    "this one word sparks bravery.",
+    "feel this? confidence is building.",
+    "tiny sounds unlock understanding."
   ]
 }
