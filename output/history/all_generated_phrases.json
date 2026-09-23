@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Embrace the journey, breathe.",
-      "spanish": "Abraza el viaje, respira.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-28T16:54:45.611546"
-    },
-    {
-      "english": "Surprise! You're understood now.",
-      "spanish": "¡Sorpresa! Te entienden ahora.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-28T16:54:45.611554"
-    },
-    {
-      "english": "This tiny phrase opens doors.",
-      "spanish": "Esta pequeña frase abre puertas.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-28T16:54:45.611563"
-    },
-    {
-      "english": "Feel that? Spanish connection.",
-      "spanish": "¿Sientes eso? Conexión española.",
-      "category": "Positive Life",
-      "generated_at": "2026-04-28T16:54:45.611571"
-    },
-    {
-      "english": "This moment. Your spanish power.",
-      "spanish": "Este momento. Tu poder español.",
-      "category": "Courage",
-      "generated_at": "2026-04-28T18:14:22.261776"
-    },
-    {
       "english": "Feel the connection, just try.",
       "spanish": "Siente la conexión, solo intenta.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha, tu acento brilla.",
       "category": "Creativity",
       "generated_at": "2026-09-23T19:55:31.822960"
+    },
+    {
+      "english": "Your courage speaks volumes.",
+      "spanish": "Tu coraje dice mucho.",
+      "category": "Kindness",
+      "generated_at": "2026-09-23T21:53:53.360261"
+    },
+    {
+      "english": "This connection, true power.",
+      "spanish": "Esta conexión, poder real.",
+      "category": "Kindness",
+      "generated_at": "2026-09-23T21:53:53.360287"
+    },
+    {
+      "english": "Small acts, big heart.",
+      "spanish": "Pequeños actos, gran corazón.",
+      "category": "Kindness",
+      "generated_at": "2026-09-23T21:53:53.360302"
+    },
+    {
+      "english": "Why hide your light?",
+      "spanish": "¿Por qué esconder tu luz?",
+      "category": "Kindness",
+      "generated_at": "2026-09-23T21:53:53.360316"
+    },
+    {
+      "english": "Your warmth is a gift.",
+      "spanish": "Tu calidez es un regalo.",
+      "category": "Kindness",
+      "generated_at": "2026-09-23T21:53:53.360330"
     }
   ],
-  "last_updated": "2026-09-23T19:55:31.822962",
+  "last_updated": "2026-09-23T21:53:53.360332",
   "used_english": [
-    "embrace the journey, breathe.",
-    "surprise! you're understood now.",
-    "this tiny phrase opens doors.",
-    "feel that? spanish connection.",
-    "this moment. your spanish power.",
     "feel the connection, just try.",
     "wisdom: speak what you feel.",
     "your voice truly matters, yes?",
@@ -21002,6 +20997,11 @@
     "small word, huge bravery.",
     "your journey, worth celebrating.",
     "this feeling? fluent potential.",
-    "listen, your accent shines."
+    "listen, your accent shines.",
+    "your courage speaks volumes.",
+    "this connection, true power.",
+    "small acts, big heart.",
+    "why hide your light?",
+    "your warmth is a gift."
   ]
 }
