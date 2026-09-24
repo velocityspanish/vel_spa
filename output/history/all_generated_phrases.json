@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity: What sounds familiar?",
-      "spanish": "¿Curiosidad? ¿Qué suena familiar?",
-      "category": "Growth",
-      "generated_at": "2026-04-28T22:06:19.546009"
-    },
-    {
-      "english": "One simple sound, total understanding.",
-      "spanish": "Un sonido simple, total entendimiento.",
-      "category": "Growth",
-      "generated_at": "2026-04-28T22:06:19.546018"
-    },
-    {
-      "english": "Wisdom: Listen first, connect.",
-      "spanish": "Sabiduría: Escucha primero, conecta.",
-      "category": "Growth",
-      "generated_at": "2026-04-28T22:06:19.546026"
-    },
-    {
-      "english": "Surprise! Your brain remembers this.",
-      "spanish": "¡Sorpresa! Tu cerebro recuerda esto.",
-      "category": "Growth",
-      "generated_at": "2026-04-28T22:06:19.546035"
-    },
-    {
-      "english": "This word unlocks smiles.",
-      "spanish": "Esta palabra desbloquea sonrisas.",
-      "category": "Joy",
-      "generated_at": "2026-04-29T15:17:49.011714"
-    },
-    {
       "english": "Feel this connection grow?",
       "spanish": "¿Sientes crecer esta conexión?",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Dilo fuerte.",
       "category": "Confidence",
       "generated_at": "2026-09-24T17:47:25.413822"
+    },
+    {
+      "english": "Surprise! your fluency grows daily.",
+      "spanish": "¡Sorpresa! tu fluidez crece a diario.",
+      "category": "Balance",
+      "generated_at": "2026-09-24T18:51:49.907054"
+    },
+    {
+      "english": "Your effort, recognized. ¡Felicidades!",
+      "spanish": "Tu esfuerzo, reconocido. ¡Felicidades!",
+      "category": "Balance",
+      "generated_at": "2026-09-24T18:51:49.907090"
+    },
+    {
+      "english": "Tiny progress, huge confidence boost.",
+      "spanish": "Pequeño progreso, gran confianza.",
+      "category": "Balance",
+      "generated_at": "2026-09-24T18:51:49.907112"
+    },
+    {
+      "english": "Feel this? connection opens wide.",
+      "spanish": "¿Sientes esto? conexión se abre.",
+      "category": "Balance",
+      "generated_at": "2026-09-24T18:51:49.907136"
+    },
+    {
+      "english": "The magic? daily, small words.",
+      "spanish": "¿La magia? palabras pequeñas, diarias.",
+      "category": "Balance",
+      "generated_at": "2026-09-24T18:51:49.907161"
     }
   ],
-  "last_updated": "2026-09-24T17:47:25.413826",
+  "last_updated": "2026-09-24T18:51:49.907163",
   "used_english": [
-    "curiosity: what sounds familiar?",
-    "one simple sound, total understanding.",
-    "wisdom: listen first, connect.",
-    "surprise! your brain remembers this.",
-    "this word unlocks smiles.",
     "feel this connection grow?",
     "your spanish echo amplifies.",
     "wisdom: listen deeply, then speak.",
@@ -21002,6 +20997,11 @@
     "what if you surprised yourself?",
     "feel this learning surge.",
     "your resilience is inspiring.",
-    "curious? speak it loud."
+    "curious? speak it loud.",
+    "surprise! your fluency grows daily.",
+    "your effort, recognized. ¡felicidades!",
+    "tiny progress, huge confidence boost.",
+    "feel this? connection opens wide.",
+    "the magic? daily, small words."
   ]
 }
