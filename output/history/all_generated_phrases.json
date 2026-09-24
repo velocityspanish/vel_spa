@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: fluency needs patience.",
-      "spanish": "Sabiduría: la fluidez necesita paciencia.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T16:29:33.536149"
-    },
-    {
-      "english": "Embrace the struggle, friend.",
-      "spanish": "Abraza la lucha, amigo.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T16:29:33.536158"
-    },
-    {
-      "english": "This sound connection: powerful.",
-      "spanish": "Esta conexión de sonido: poderosa.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T16:29:33.536166"
-    },
-    {
-      "english": "Your effort matters greatly.",
-      "spanish": "Tu esfuerzo importa mucho.",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T16:29:33.536175"
-    },
-    {
-      "english": "Unlock confidence, yes?",
-      "spanish": "Desbloquea confianza, ¿sí?",
-      "category": "Success",
-      "generated_at": "2026-04-29T18:08:55.497407"
-    },
-    {
       "english": "Listen close, understand more.",
       "spanish": "Escucha atentamente, entiende más.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu esfuerzo importa, de verdad.",
       "category": "Strength",
       "generated_at": "2026-09-24T20:13:51.348652"
+    },
+    {
+      "english": "You belong here, speak.",
+      "spanish": "Perteneces aquí, habla.",
+      "category": "Growth",
+      "generated_at": "2026-09-24T21:54:23.585459"
+    },
+    {
+      "english": "This rhythm, your future.",
+      "spanish": "Este ritmo, tu futuro.",
+      "category": "Growth",
+      "generated_at": "2026-09-24T21:54:23.585493"
+    },
+    {
+      "english": "Curious? Say 'quizás'.",
+      "spanish": "¿Curioso? Di 'quizás'.",
+      "category": "Growth",
+      "generated_at": "2026-09-24T21:54:23.585515"
+    },
+    {
+      "english": "Small sound, big world.",
+      "spanish": "Sonido pequeño, mundo grande.",
+      "category": "Growth",
+      "generated_at": "2026-09-24T21:54:23.585535"
+    },
+    {
+      "english": "Never stop exploring words.",
+      "spanish": "Nunca dejes de explorar palabras.",
+      "category": "Growth",
+      "generated_at": "2026-09-24T21:54:23.585574"
     }
   ],
-  "last_updated": "2026-09-24T20:13:51.348654",
+  "last_updated": "2026-09-24T21:54:23.585577",
   "used_english": [
-    "wisdom: fluency needs patience.",
-    "embrace the struggle, friend.",
-    "this sound connection: powerful.",
-    "your effort matters greatly.",
-    "unlock confidence, yes?",
     "listen close, understand more.",
     "why pause? begin now.",
     "surprise! you're connecting.",
@@ -21002,6 +20997,11 @@
     "you're ready. speak now.",
     "here's the shortcut you need.",
     "start simple, expand later.",
-    "your effort matters, truly."
+    "your effort matters, truly.",
+    "you belong here, speak.",
+    "this rhythm, your future.",
+    "curious? say 'quizás'.",
+    "small sound, big world.",
+    "never stop exploring words."
   ]
 }
