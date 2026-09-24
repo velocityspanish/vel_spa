@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Listen close, understand more.",
-      "spanish": "Escucha atentamente, entiende más.",
-      "category": "Success",
-      "generated_at": "2026-04-29T18:08:55.497423"
-    },
-    {
-      "english": "Why pause? Begin now.",
-      "spanish": "¿Por qué pausar? Empieza ahora.",
-      "category": "Success",
-      "generated_at": "2026-04-29T18:08:55.497432"
-    },
-    {
-      "english": "Surprise! You're connecting.",
-      "spanish": "¡Sorpresa! Te conectas.",
-      "category": "Success",
-      "generated_at": "2026-04-29T18:08:55.497440"
-    },
-    {
-      "english": "More smiles, with less words.",
-      "spanish": "Más sonrisas, con menos palabras.",
-      "category": "Success",
-      "generated_at": "2026-04-29T18:08:55.497449"
-    },
-    {
-      "english": "Whisper this word, feel love.",
-      "spanish": "Susurra esta palabra, siente amor.",
-      "category": "Love",
-      "generated_at": "2026-04-29T20:07:34.975948"
-    },
-    {
       "english": "What if hearts spoke spanish?",
       "spanish": "¿Y si los corazones hablaran español?",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca dejes de explorar palabras.",
       "category": "Growth",
       "generated_at": "2026-09-24T21:54:23.585574"
+    },
+    {
+      "english": "Your understanding is growing.",
+      "spanish": "Tu entendimiento crece.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T23:49:51.824036"
+    },
+    {
+      "english": "Your effort shines so bright.",
+      "spanish": "Tu esfuerzo brilla tanto.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T23:49:51.824070"
+    },
+    {
+      "english": "This whisper opens doors.",
+      "spanish": "Este susurro abre puertas.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T23:49:51.824097"
+    },
+    {
+      "english": "Curious? Say 'por favor'.",
+      "spanish": "¿Curioso? Di 'por favor'.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T23:49:51.824123"
+    },
+    {
+      "english": "Hear this rhythm, expand.",
+      "spanish": "Oye este ritmo, expande.",
+      "category": "Creativity",
+      "generated_at": "2026-09-24T23:49:51.824149"
     }
   ],
-  "last_updated": "2026-09-24T21:54:23.585577",
+  "last_updated": "2026-09-24T23:49:51.824151",
   "used_english": [
-    "listen close, understand more.",
-    "why pause? begin now.",
-    "surprise! you're connecting.",
-    "more smiles, with less words.",
-    "whisper this word, feel love.",
     "what if hearts spoke spanish?",
     "your affection, in spanish.",
     "feel that sweet 'te quiero'.",
@@ -21002,6 +20997,11 @@
     "this rhythm, your future.",
     "curious? say 'quizás'.",
     "small sound, big world.",
-    "never stop exploring words."
+    "never stop exploring words.",
+    "your understanding is growing.",
+    "your effort shines so bright.",
+    "this whisper opens doors.",
+    "curious? say 'por favor'.",
+    "hear this rhythm, expand."
   ]
 }
