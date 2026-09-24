@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The real joy of learning.",
-      "spanish": "La verdadera alegría de aprender.",
-      "category": "Kindness",
-      "generated_at": "2026-04-28T20:10:07.000538"
-    },
-    {
-      "english": "Connect instantly with this.",
-      "spanish": "Conecta al instante con esto.",
-      "category": "Kindness",
-      "generated_at": "2026-04-28T20:10:07.000547"
-    },
-    {
-      "english": "Smile more, speak more.",
-      "spanish": "Sonríe más, habla más.",
-      "category": "Kindness",
-      "generated_at": "2026-04-28T20:10:07.000556"
-    },
-    {
-      "english": "Feel this connection, yes?",
-      "spanish": "¿Sientes esta conexión, sí?",
-      "category": "Kindness",
-      "generated_at": "2026-04-28T20:10:07.000564"
-    },
-    {
-      "english": "Feel this? Your spanish grows.",
-      "spanish": "¿Sientes esto? Tu español crece.",
-      "category": "Growth",
-      "generated_at": "2026-04-28T22:06:19.545992"
-    },
-    {
       "english": "Curiosity: What sounds familiar?",
       "spanish": "¿Curiosidad? ¿Qué suena familiar?",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Este hábito impulsa gran progreso.",
       "category": "Growth",
       "generated_at": "2026-09-23T23:32:44.948022"
+    },
+    {
+      "english": "Your brave start matters.",
+      "spanish": "Tu valiente comienzo importa.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T17:47:25.413636"
+    },
+    {
+      "english": "What if you surprised yourself?",
+      "spanish": "¿Qué si te sorprendes?",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T17:47:25.413686"
+    },
+    {
+      "english": "Feel this learning surge.",
+      "spanish": "Siente esta oleada de aprendizaje.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T17:47:25.413734"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "spanish": "Tu resiliencia inspira.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T17:47:25.413782"
+    },
+    {
+      "english": "Curious? Speak it loud.",
+      "spanish": "¿Curioso? Dilo fuerte.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T17:47:25.413822"
     }
   ],
-  "last_updated": "2026-09-23T23:32:44.948023",
+  "last_updated": "2026-09-24T17:47:25.413826",
   "used_english": [
-    "the real joy of learning.",
-    "connect instantly with this.",
-    "smile more, speak more.",
-    "feel this connection, yes?",
-    "feel this? your spanish grows.",
     "curiosity: what sounds familiar?",
     "one simple sound, total understanding.",
     "wisdom: listen first, connect.",
@@ -21002,6 +20997,11 @@
     "one word: 'gracias'. say it.",
     "your effort shows. keep pushing.",
     "dare to sound a little fluent.",
-    "this habit sparks huge progress."
+    "this habit sparks huge progress.",
+    "your brave start matters.",
+    "what if you surprised yourself?",
+    "feel this learning surge.",
+    "your resilience is inspiring.",
+    "curious? speak it loud."
   ]
 }
