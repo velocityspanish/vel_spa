@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this connection grow?",
-      "spanish": "¿Sientes crecer esta conexión?",
-      "category": "Joy",
-      "generated_at": "2026-04-29T15:17:49.011731"
-    },
-    {
-      "english": "Your spanish echo amplifies.",
-      "spanish": "Tu eco español se amplifica.",
-      "category": "Joy",
-      "generated_at": "2026-04-29T15:17:49.011740"
-    },
-    {
-      "english": "Wisdom: Listen deeply, then speak.",
-      "spanish": "Sabiduría: Escucha hondo, luego habla.",
-      "category": "Joy",
-      "generated_at": "2026-04-29T15:17:49.011749"
-    },
-    {
-      "english": "Your tiny progress? Huge impact.",
-      "spanish": "¿Tu pequeño progreso? Impacto enorme.",
-      "category": "Joy",
-      "generated_at": "2026-04-29T15:17:49.011757"
-    },
-    {
-      "english": "Curiosity: what means 'ojalá'?",
-      "spanish": "Curiosidad: ¿qué significa 'ojalá'?",
-      "category": "Wisdom",
-      "generated_at": "2026-04-29T16:29:33.536129"
-    },
-    {
       "english": "Wisdom: fluency needs patience.",
       "spanish": "Sabiduría: la fluidez necesita paciencia.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "¿La magia? palabras pequeñas, diarias.",
       "category": "Balance",
       "generated_at": "2026-09-24T18:51:49.907161"
+    },
+    {
+      "english": "The magic? Daily speaking.",
+      "spanish": "La magia? Hablar diario.",
+      "category": "Strength",
+      "generated_at": "2026-09-24T20:13:51.348537"
+    },
+    {
+      "english": "You're ready. Speak now.",
+      "spanish": "Estás listo/a. Habla ahora.",
+      "category": "Strength",
+      "generated_at": "2026-09-24T20:13:51.348571"
+    },
+    {
+      "english": "Here's the shortcut you need.",
+      "spanish": "Aquí el atajo que necesitas.",
+      "category": "Strength",
+      "generated_at": "2026-09-24T20:13:51.348599"
+    },
+    {
+      "english": "Start simple, expand later.",
+      "spanish": "Empieza simple, expande luego.",
+      "category": "Strength",
+      "generated_at": "2026-09-24T20:13:51.348626"
+    },
+    {
+      "english": "Your effort matters, truly.",
+      "spanish": "Tu esfuerzo importa, de verdad.",
+      "category": "Strength",
+      "generated_at": "2026-09-24T20:13:51.348652"
     }
   ],
-  "last_updated": "2026-09-24T18:51:49.907163",
+  "last_updated": "2026-09-24T20:13:51.348654",
   "used_english": [
-    "feel this connection grow?",
-    "your spanish echo amplifies.",
-    "wisdom: listen deeply, then speak.",
-    "your tiny progress? huge impact.",
-    "curiosity: what means 'ojalá'?",
     "wisdom: fluency needs patience.",
     "embrace the struggle, friend.",
     "this sound connection: powerful.",
@@ -21002,6 +20997,11 @@
     "your effort, recognized. ¡felicidades!",
     "tiny progress, huge confidence boost.",
     "feel this? connection opens wide.",
-    "the magic? daily, small words."
+    "the magic? daily, small words.",
+    "the magic? daily speaking.",
+    "you're ready. speak now.",
+    "here's the shortcut you need.",
+    "start simple, expand later.",
+    "your effort matters, truly."
   ]
 }
