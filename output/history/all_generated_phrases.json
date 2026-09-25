@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if joy felt fluent?",
-      "spanish": "¿Qué si alegría se siente fluida?",
-      "category": "Positive Life",
-      "generated_at": "2026-05-01T17:51:48.308483"
-    },
-    {
-      "english": "Your patience wins the game.",
-      "spanish": "Tu paciencia gana el juego.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-01T17:51:48.308493"
-    },
-    {
-      "english": "Unlock smiles, just listen.",
-      "spanish": "Desbloquea sonrisas, solo escucha.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-01T17:51:48.308502"
-    },
-    {
-      "english": "This tiny step expands.",
-      "spanish": "Este paso diminuto se expande.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-01T17:51:48.308510"
-    },
-    {
-      "english": "Surprise! Your Spanish sounds natural.",
-      "spanish": "¡Sorpresa! Tu español suena natural.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-01T20:01:18.403001"
-    },
-    {
       "english": "What if you already knew?",
       "spanish": "¿Y si ya lo supieras?",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "Aquí está la simple verdad.",
       "category": "Positive Life",
       "generated_at": "2026-09-25T21:55:16.405775"
+    },
+    {
+      "english": "Your moment, breathe it in.",
+      "spanish": "Tu momento, respíralo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T23:55:16.701211"
+    },
+    {
+      "english": "This quiet, pure calm.",
+      "spanish": "Este silencio, calma pura.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T23:55:16.701250"
+    },
+    {
+      "english": "What if stillness spoke volumes?",
+      "spanish": "¿Y si el silencio habla?",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T23:55:16.701271"
+    },
+    {
+      "english": "Just this breath, your anchor.",
+      "spanish": "Solo esta respiración, tu ancla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T23:55:16.701293"
+    },
+    {
+      "english": "Surrender the busy mind.",
+      "spanish": "Rinde la mente ocupada.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-25T23:55:16.701312"
     }
   ],
-  "last_updated": "2026-09-25T21:55:16.405777",
+  "last_updated": "2026-09-25T23:55:16.701313",
   "used_english": [
-    "what if joy felt fluent?",
-    "your patience wins the game.",
-    "unlock smiles, just listen.",
-    "this tiny step expands.",
-    "surprise! your spanish sounds natural.",
     "what if you already knew?",
     "your voice matters here.",
     "embrace the awkward, grow.",
@@ -21002,6 +20997,11 @@
     "your daily whisper, magic.",
     "small bravely, speak boldly.",
     "feel this connection, it's real.",
-    "here's the simple truth."
+    "here's the simple truth.",
+    "your moment, breathe it in.",
+    "this quiet, pure calm.",
+    "what if stillness spoke volumes?",
+    "just this breath, your anchor.",
+    "surrender the busy mind."
   ]
 }
