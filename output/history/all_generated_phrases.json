@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Mistakes are stepping stones.",
-      "spanish": "Errores son peldaños.",
-      "category": "Patience",
-      "generated_at": "2026-05-01T15:59:12.066410"
-    },
-    {
-      "english": "Your ears are learning fast.",
-      "spanish": "Tus oídos, rápidos.",
-      "category": "Patience",
-      "generated_at": "2026-05-01T15:59:12.066420"
-    },
-    {
-      "english": "This whisper builds fluency.",
-      "spanish": "Susurro que da fluidez.",
-      "category": "Patience",
-      "generated_at": "2026-05-01T15:59:12.066429"
-    },
-    {
-      "english": "Don't rush, just absorb.",
-      "spanish": "Sin prisa, solo absorbe.",
-      "category": "Patience",
-      "generated_at": "2026-05-01T15:59:12.066437"
-    },
-    {
-      "english": "Hear this simple truth.",
-      "spanish": "Escucha esta verdad simple.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-01T17:51:48.308466"
-    },
-    {
       "english": "What if joy felt fluent?",
       "spanish": "¿Qué si alegría se siente fluida?",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu oído atento es oro.",
       "category": "Gratitude",
       "generated_at": "2026-09-25T20:11:43.777567"
+    },
+    {
+      "english": "Hear this sound, unlock words.",
+      "spanish": "Escucha este sonido, abre palabras.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T21:55:16.405651"
+    },
+    {
+      "english": "Your daily whisper, magic.",
+      "spanish": "Tu susurro diario, magia.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T21:55:16.405688"
+    },
+    {
+      "english": "Small bravely, speak boldly.",
+      "spanish": "Pequeñamente valiente, habla audazmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T21:55:16.405720"
+    },
+    {
+      "english": "Feel this connection, it's real.",
+      "spanish": "Siente esta conexión, es real.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T21:55:16.405749"
+    },
+    {
+      "english": "Here's the simple truth.",
+      "spanish": "Aquí está la simple verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-25T21:55:16.405775"
     }
   ],
-  "last_updated": "2026-09-25T20:11:43.777569",
+  "last_updated": "2026-09-25T21:55:16.405777",
   "used_english": [
-    "mistakes are stepping stones.",
-    "your ears are learning fast.",
-    "this whisper builds fluency.",
-    "don't rush, just absorb.",
-    "hear this simple truth.",
     "what if joy felt fluent?",
     "your patience wins the game.",
     "unlock smiles, just listen.",
@@ -21002,6 +20997,11 @@
     "curious? try this simple greeting.",
     "your 'aha!' moments await.",
     "one word fuels more words.",
-    "your listening ear is gold."
+    "your listening ear is gold.",
+    "hear this sound, unlock words.",
+    "your daily whisper, magic.",
+    "small bravely, speak boldly.",
+    "feel this connection, it's real.",
+    "here's the simple truth."
   ]
 }
