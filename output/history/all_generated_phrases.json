@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this spanish moment.",
-      "spanish": "Siente este momento español.",
-      "category": "Happiness",
-      "generated_at": "2026-05-01T14:18:45.447761"
-    },
-    {
-      "english": "Curiosity: what's 'mañana'?",
-      "spanish": "Curiosidad: ¿qué es 'mañana'?",
-      "category": "Happiness",
-      "generated_at": "2026-05-01T14:18:45.447771"
-    },
-    {
-      "english": "Encouragement: your voice echoes.",
-      "spanish": "Ánimo: tu voz resuena.",
-      "category": "Happiness",
-      "generated_at": "2026-05-01T14:18:45.447780"
-    },
-    {
-      "english": "Why wait? start small.",
-      "spanish": "¿Por qué esperar? empieza pequeño.",
-      "category": "Happiness",
-      "generated_at": "2026-05-01T14:18:45.447788"
-    },
-    {
-      "english": "Slow down, hear the rhythm.",
-      "spanish": "Baja el ritmo, escucha.",
-      "category": "Patience",
-      "generated_at": "2026-05-01T15:59:12.066391"
-    },
-    {
       "english": "Mistakes are stepping stones.",
       "spanish": "Errores son peldaños.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu coraje habla más fuerte ahora.",
       "category": "Perseverance",
       "generated_at": "2026-09-25T19:09:31.093879"
+    },
+    {
+      "english": "Small effort, big breakthrough.",
+      "spanish": "Pequeño esfuerzo, gran avance.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T20:11:43.777449"
+    },
+    {
+      "english": "Curious? Try this simple greeting.",
+      "spanish": "¿Curioso? Prueba este saludo simple.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T20:11:43.777486"
+    },
+    {
+      "english": "Your 'aha!' moments await.",
+      "spanish": "Tus momentos 'aha!' esperan.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T20:11:43.777513"
+    },
+    {
+      "english": "One word fuels more words.",
+      "spanish": "Una palabra impulsa más palabras.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T20:11:43.777540"
+    },
+    {
+      "english": "Your listening ear is gold.",
+      "spanish": "Tu oído atento es oro.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T20:11:43.777567"
     }
   ],
-  "last_updated": "2026-09-25T19:09:31.093881",
+  "last_updated": "2026-09-25T20:11:43.777569",
   "used_english": [
-    "feel this spanish moment.",
-    "curiosity: what's 'mañana'?",
-    "encouragement: your voice echoes.",
-    "why wait? start small.",
-    "slow down, hear the rhythm.",
     "mistakes are stepping stones.",
     "your ears are learning fast.",
     "this whisper builds fluency.",
@@ -21002,6 +20997,11 @@
     "your daily whispers, fluency's magic.",
     "the real secret? small, brave steps.",
     "never underestimate one word's power.",
-    "your courage speaks louder now."
+    "your courage speaks louder now.",
+    "small effort, big breakthrough.",
+    "curious? try this simple greeting.",
+    "your 'aha!' moments await.",
+    "one word fuels more words.",
+    "your listening ear is gold."
   ]
 }
