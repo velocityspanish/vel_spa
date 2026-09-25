@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if hearts spoke spanish?",
-      "spanish": "¿Y si los corazones hablaran español?",
-      "category": "Love",
-      "generated_at": "2026-04-29T20:07:34.975965"
-    },
-    {
-      "english": "Your affection, in spanish.",
-      "spanish": "Tu afecto, en español.",
-      "category": "Love",
-      "generated_at": "2026-04-29T20:07:34.975975"
-    },
-    {
-      "english": "Feel that sweet 'te quiero'.",
-      "spanish": "Siente ese dulce 'te quiero'.",
-      "category": "Love",
-      "generated_at": "2026-04-29T20:07:34.975987"
-    },
-    {
-      "english": "Learn this for someone special.",
-      "spanish": "Aprende esto por alguien especial.",
-      "category": "Love",
-      "generated_at": "2026-04-29T20:07:34.975995"
-    },
-    {
-      "english": "Stop this if you want confidence.",
-      "spanish": "Deja esto si quieres confianza.",
-      "category": "Confidence",
-      "generated_at": "2026-04-29T22:06:07.398268"
-    },
-    {
       "english": "Fake confidence until you become it.",
       "spanish": "Finge confianza hasta que te conviertas.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Oye este ritmo, expande.",
       "category": "Creativity",
       "generated_at": "2026-09-24T23:49:51.824149"
+    },
+    {
+      "english": "What if progress felt easy?",
+      "spanish": "¿Y si el progreso fuera fácil?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T17:49:12.018148"
+    },
+    {
+      "english": "This sound unlocked understanding.",
+      "spanish": "Este sonido desbloqueó entendimiento.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T17:49:12.018185"
+    },
+    {
+      "english": "Feel this connection bloom?",
+      "spanish": "¿Sientes esta conexión florecer?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T17:49:12.018209"
+    },
+    {
+      "english": "Embrace your learning spark.",
+      "spanish": "Abraza tu chispa de aprendizaje.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T17:49:12.018233"
+    },
+    {
+      "english": "Why not speak today?",
+      "spanish": "¿Por qué no hablar hoy?",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T17:49:12.018253"
     }
   ],
-  "last_updated": "2026-09-24T23:49:51.824151",
+  "last_updated": "2026-09-25T17:49:12.018255",
   "used_english": [
-    "what if hearts spoke spanish?",
-    "your affection, in spanish.",
-    "feel that sweet 'te quiero'.",
-    "learn this for someone special.",
-    "stop this if you want confidence.",
     "fake confidence until you become it.",
     "the body language trick that works.",
     "what confident people never say.",
@@ -21002,6 +20997,11 @@
     "your effort shines so bright.",
     "this whisper opens doors.",
     "curious? say 'por favor'.",
-    "hear this rhythm, expand."
+    "hear this rhythm, expand.",
+    "what if progress felt easy?",
+    "this sound unlocked understanding.",
+    "feel this connection bloom?",
+    "embrace your learning spark.",
+    "why not speak today?"
   ]
 }
