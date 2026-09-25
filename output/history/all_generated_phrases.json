@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Fake confidence until you become it.",
-      "spanish": "Finge confianza hasta que te conviertas.",
-      "category": "Confidence",
-      "generated_at": "2026-04-29T22:06:07.398282"
-    },
-    {
-      "english": "The body language trick that works.",
-      "spanish": "El truco lenguaje corporal que funciona.",
-      "category": "Confidence",
-      "generated_at": "2026-04-29T22:06:07.398291"
-    },
-    {
-      "english": "What confident people never say.",
-      "spanish": "Lo que la gente confiada nunca dice.",
-      "category": "Confidence",
-      "generated_at": "2026-04-29T22:06:07.398299"
-    },
-    {
-      "english": "Your self-talk is shaping you.",
-      "spanish": "Tu diálogo interno te está formando.",
-      "category": "Confidence",
-      "generated_at": "2026-04-29T22:06:07.398308"
-    },
-    {
-      "english": "Smile, spanish unlocks it.",
-      "spanish": "Sonríe, el español lo desbloquea.",
-      "category": "Happiness",
-      "generated_at": "2026-05-01T14:18:45.447742"
-    },
-    {
       "english": "Feel this spanish moment.",
       "spanish": "Siente este momento español.",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué no hablar hoy?",
       "category": "Gratitude",
       "generated_at": "2026-09-25T17:49:12.018253"
+    },
+    {
+      "english": "Why struggle? Try this first.",
+      "spanish": "¿Por qué luchar? Prueba esto primero.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-25T19:09:31.093746"
+    },
+    {
+      "english": "Your daily whispers, fluency's magic.",
+      "spanish": "Tus susurros diarios, magia de fluidez.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-25T19:09:31.093789"
+    },
+    {
+      "english": "The real secret? Small, brave steps.",
+      "spanish": "¿El secreto real? Pequeños pasos valientes.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-25T19:09:31.093819"
+    },
+    {
+      "english": "Never underestimate one word's power.",
+      "spanish": "Nunca subestimes el poder de una palabra.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-25T19:09:31.093847"
+    },
+    {
+      "english": "Your courage speaks louder now.",
+      "spanish": "Tu coraje habla más fuerte ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-25T19:09:31.093879"
     }
   ],
-  "last_updated": "2026-09-25T17:49:12.018255",
+  "last_updated": "2026-09-25T19:09:31.093881",
   "used_english": [
-    "fake confidence until you become it.",
-    "the body language trick that works.",
-    "what confident people never say.",
-    "your self-talk is shaping you.",
-    "smile, spanish unlocks it.",
     "feel this spanish moment.",
     "curiosity: what's 'mañana'?",
     "encouragement: your voice echoes.",
@@ -21002,6 +20997,11 @@
     "this sound unlocked understanding.",
     "feel this connection bloom?",
     "embrace your learning spark.",
-    "why not speak today?"
+    "why not speak today?",
+    "why struggle? try this first.",
+    "your daily whispers, fluency's magic.",
+    "the real secret? small, brave steps.",
+    "never underestimate one word's power.",
+    "your courage speaks louder now."
   ]
 }
