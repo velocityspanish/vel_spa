@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock laughter, one phrase.",
-      "spanish": "Desbloquea risas, una frase.",
-      "category": "Growth",
-      "generated_at": "2026-05-01T21:58:59.158575"
-    },
-    {
-      "english": "Never underestimate small whispers.",
-      "spanish": "Nunca subestimes susurros pequeños.",
-      "category": "Growth",
-      "generated_at": "2026-05-01T21:58:59.158584"
-    },
-    {
-      "english": "Connection starts with this sound.",
-      "spanish": "La conexión empieza con este sonido.",
-      "category": "Growth",
-      "generated_at": "2026-05-01T21:58:59.158593"
-    },
-    {
-      "english": "Can you feel this rhythm?",
-      "spanish": "¿Puedes sentir este ritmo?",
-      "category": "Growth",
-      "generated_at": "2026-05-01T21:58:59.158602"
-    },
-    {
-      "english": "Your fluency secret? Listen.",
-      "spanish": "Tu secreto de fluidez? Escucha.",
-      "category": "Growth",
-      "generated_at": "2026-05-02T14:11:43.189576"
-    },
-    {
       "english": "What if your voice had power?",
       "spanish": "¿Y si tu voz tuviera poder?",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu susurro de aprendizaje, escuchado.",
       "category": "Patience",
       "generated_at": "2026-09-26T16:55:36.389934"
+    },
+    {
+      "english": "One simple sound, total clarity.",
+      "spanish": "Un sonido simple, total claridad.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-26T18:24:25.990770"
+    },
+    {
+      "english": "The real secret? Daily immersion.",
+      "spanish": "El secreto real? Inmersión diaria.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-26T18:24:25.990803"
+    },
+    {
+      "english": "Speak this word. Feel amazing.",
+      "spanish": "Di esta palabra. Siéntete genial.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-26T18:24:25.990834"
+    },
+    {
+      "english": "Feel this sound? You're blooming.",
+      "spanish": "¿Sientes este sonido? Estás floreciendo.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-26T18:24:25.990866"
+    },
+    {
+      "english": "Curious? Try this quick phrase.",
+      "spanish": "¿Curioso? Prueba esta frase rápida.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-26T18:24:25.990893"
     }
   ],
-  "last_updated": "2026-09-26T16:55:36.389936",
+  "last_updated": "2026-09-26T18:24:25.990895",
   "used_english": [
-    "unlock laughter, one phrase.",
-    "never underestimate small whispers.",
-    "connection starts with this sound.",
-    "can you feel this rhythm?",
-    "your fluency secret? listen.",
     "what if your voice had power?",
     "stop fearing, start speaking now.",
     "your persistence unlocks fluency.",
@@ -21002,6 +20997,11 @@
     "this quiet, new sound.",
     "feel this progress building.",
     "tiny steps, huge breakthroughs.",
-    "your learning whisper, heard."
+    "your learning whisper, heard.",
+    "one simple sound, total clarity.",
+    "the real secret? daily immersion.",
+    "speak this word. feel amazing.",
+    "feel this sound? you're blooming.",
+    "curious? try this quick phrase."
   ]
 }
