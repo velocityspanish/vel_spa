@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your understanding is growing now.",
-      "spanish": "Tu comprensión está creciendo ahora.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T15:50:31.080178"
-    },
-    {
-      "english": "Never fear speaking, try.",
-      "spanish": "Nunca temas hablar, intenta.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T15:50:31.080187"
-    },
-    {
-      "english": "Hear the magic in Spanish.",
-      "spanish": "Escucha la magia en español.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T15:50:31.080196"
-    },
-    {
-      "english": "This moment? Your Spanish peak.",
-      "spanish": "Este momento? Tu pico español.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T15:50:31.080205"
-    },
-    {
-      "english": "This whisper opens worlds, truly.",
-      "spanish": "Este susurro abre mundos, en serio.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T17:38:20.485618"
-    },
-    {
       "english": "Your courage? It speaks volumes.",
       "spanish": "¿Tu valentía? Habla muchísimo.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca subestimes una frase.",
       "category": "Creativity",
       "generated_at": "2026-09-26T19:30:15.099421"
+    },
+    {
+      "english": "Curious? Try this new word.",
+      "spanish": "¿Curioso? Prueba esta palabra.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T21:43:29.024638"
+    },
+    {
+      "english": "Your progress, so inspiring.",
+      "spanish": "Tu progreso, inspirador.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T21:43:29.024693"
+    },
+    {
+      "english": "Listen closer. Surprise awaits.",
+      "spanish": "Escucha más. Sorpresa espera.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T21:43:29.024726"
+    },
+    {
+      "english": "Tiny words build big confidence.",
+      "spanish": "Palabras pequeñas, gran confianza.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T21:43:29.024764"
+    },
+    {
+      "english": "This rhythm feels like home.",
+      "spanish": "Este ritmo se siente hogar.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T21:43:29.024810"
     }
   ],
-  "last_updated": "2026-09-26T19:30:15.099422",
+  "last_updated": "2026-09-26T21:43:29.024815",
   "used_english": [
-    "your understanding is growing now.",
-    "never fear speaking, try.",
-    "hear the magic in spanish.",
-    "this moment? your spanish peak.",
-    "this whisper opens worlds, truly.",
     "your courage? it speaks volumes.",
     "one sound connection, immense power.",
     "don't just learn, feel it.",
@@ -21002,6 +20997,11 @@
     "hear this rhythm, you'll soar.",
     "wisdom: brave small, speak big.",
     "your listening ears are sharp.",
-    "never underestimate one phrase."
+    "never underestimate one phrase.",
+    "curious? try this new word.",
+    "your progress, so inspiring.",
+    "listen closer. surprise awaits.",
+    "tiny words build big confidence.",
+    "this rhythm feels like home."
   ]
 }
