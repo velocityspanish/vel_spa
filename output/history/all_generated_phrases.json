@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if you already knew?",
-      "spanish": "¿Y si ya lo supieras?",
-      "category": "Wisdom",
-      "generated_at": "2026-05-01T20:01:18.403017"
-    },
-    {
-      "english": "Your voice matters here.",
-      "spanish": "Tu voz importa aquí.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-01T20:01:18.403026"
-    },
-    {
-      "english": "Embrace the awkward, grow.",
-      "spanish": "Abraza lo incómodo, crece.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-01T20:01:18.403034"
-    },
-    {
-      "english": "Your learning is seen.",
-      "spanish": "Tu aprendizaje es visto.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-01T20:01:18.403043"
-    },
-    {
-      "english": "Your Spanish journey, visualized.",
-      "spanish": "Tu viaje español, visualizado.",
-      "category": "Growth",
-      "generated_at": "2026-05-01T21:58:59.158556"
-    },
-    {
       "english": "Unlock laughter, one phrase.",
       "spanish": "Desbloquea risas, una frase.",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Rinde la mente ocupada.",
       "category": "Mindfulness",
       "generated_at": "2026-09-25T23:55:16.701312"
+    },
+    {
+      "english": "Curious? Speak slowly first.",
+      "spanish": "¿Curioso? Habla lento primero.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T16:55:36.389835"
+    },
+    {
+      "english": "This quiet, new sound.",
+      "spanish": "Este sonido tranquilo, nuevo.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T16:55:36.389866"
+    },
+    {
+      "english": "Feel this progress building.",
+      "spanish": "Siente este progreso construyéndose.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T16:55:36.389889"
+    },
+    {
+      "english": "Tiny steps, huge breakthroughs.",
+      "spanish": "Pasos pequeños, grandes avances.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T16:55:36.389912"
+    },
+    {
+      "english": "Your learning whisper, heard.",
+      "spanish": "Tu susurro de aprendizaje, escuchado.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T16:55:36.389934"
     }
   ],
-  "last_updated": "2026-09-25T23:55:16.701313",
+  "last_updated": "2026-09-26T16:55:36.389936",
   "used_english": [
-    "what if you already knew?",
-    "your voice matters here.",
-    "embrace the awkward, grow.",
-    "your learning is seen.",
-    "your spanish journey, visualized.",
     "unlock laughter, one phrase.",
     "never underestimate small whispers.",
     "connection starts with this sound.",
@@ -21002,6 +20997,11 @@
     "this quiet, pure calm.",
     "what if stillness spoke volumes?",
     "just this breath, your anchor.",
-    "surrender the busy mind."
+    "surrender the busy mind.",
+    "curious? speak slowly first.",
+    "this quiet, new sound.",
+    "feel this progress building.",
+    "tiny steps, huge breakthroughs.",
+    "your learning whisper, heard."
   ]
 }
