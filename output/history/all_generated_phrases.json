@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if your voice had power?",
-      "spanish": "¿Y si tu voz tuviera poder?",
-      "category": "Growth",
-      "generated_at": "2026-05-02T14:11:43.189593"
-    },
-    {
-      "english": "Stop fearing, start speaking now.",
-      "spanish": "Deja de temer, empieza a hablar ahora.",
-      "category": "Growth",
-      "generated_at": "2026-05-02T14:11:43.189602"
-    },
-    {
-      "english": "Your persistence unlocks fluency.",
-      "spanish": "Tu persistencia desbloquea la fluidez.",
-      "category": "Growth",
-      "generated_at": "2026-05-02T14:11:43.189610"
-    },
-    {
-      "english": "Why complicate? Try this phrase.",
-      "spanish": "¿Por qué complicar? Prueba esta frase.",
-      "category": "Growth",
-      "generated_at": "2026-05-02T14:11:43.189619"
-    },
-    {
-      "english": "Unlock joy with this sound.",
-      "spanish": "Desbloquea la alegría con este sonido.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T15:50:31.080160"
-    },
-    {
       "english": "Your understanding is growing now.",
       "spanish": "Tu comprensión está creciendo ahora.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Prueba esta frase rápida.",
       "category": "Positive Life",
       "generated_at": "2026-09-26T18:24:25.990893"
+    },
+    {
+      "english": "One word, giant confidence.",
+      "spanish": "Una palabra, confianza gigante.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:30:15.099301"
+    },
+    {
+      "english": "Hear this rhythm, you'll soar.",
+      "spanish": "Escucha este ritmo, volarás.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:30:15.099337"
+    },
+    {
+      "english": "Wisdom: Brave small, speak big.",
+      "spanish": "Sabiduría: Valiente pequeño, habla grande.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:30:15.099365"
+    },
+    {
+      "english": "Your listening ears are sharp.",
+      "spanish": "Tus oídos son agudos.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:30:15.099393"
+    },
+    {
+      "english": "Never underestimate one phrase.",
+      "spanish": "Nunca subestimes una frase.",
+      "category": "Creativity",
+      "generated_at": "2026-09-26T19:30:15.099421"
     }
   ],
-  "last_updated": "2026-09-26T18:24:25.990895",
+  "last_updated": "2026-09-26T19:30:15.099422",
   "used_english": [
-    "what if your voice had power?",
-    "stop fearing, start speaking now.",
-    "your persistence unlocks fluency.",
-    "why complicate? try this phrase.",
-    "unlock joy with this sound.",
     "your understanding is growing now.",
     "never fear speaking, try.",
     "hear the magic in spanish.",
@@ -21002,6 +20997,11 @@
     "the real secret? daily immersion.",
     "speak this word. feel amazing.",
     "feel this sound? you're blooming.",
-    "curious? try this quick phrase."
+    "curious? try this quick phrase.",
+    "one word, giant confidence.",
+    "hear this rhythm, you'll soar.",
+    "wisdom: brave small, speak big.",
+    "your listening ears are sharp.",
+    "never underestimate one phrase."
   ]
 }
