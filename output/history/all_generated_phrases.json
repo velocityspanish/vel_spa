@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your courage? It speaks volumes.",
-      "spanish": "¿Tu valentía? Habla muchísimo.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T17:38:20.485638"
-    },
-    {
-      "english": "One sound connection, immense power.",
-      "spanish": "Una conexión sonora, inmenso poder.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T17:38:20.485648"
-    },
-    {
-      "english": "Don't just learn, feel it.",
-      "spanish": "No solo aprendas, siéntelo.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T17:38:20.485657"
-    },
-    {
-      "english": "Wisdom: Listen to your heart.",
-      "spanish": "Sabiduría: Escucha a tu corazón.",
-      "category": "Strength",
-      "generated_at": "2026-05-02T17:38:20.485667"
-    },
-    {
-      "english": "Want confidence? Listen up.",
-      "spanish": "¿Quieres confianza? Escucha bien.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-02T19:47:57.456171"
-    },
-    {
       "english": "The sound of understanding.",
       "spanish": "El sonido del entender.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Este ritmo se siente hogar.",
       "category": "Kindness",
       "generated_at": "2026-09-26T21:43:29.024810"
+    },
+    {
+      "english": "Surprise! Your progress is loud.",
+      "spanish": "¡Sorpresa! Tu progreso es ruidoso.",
+      "category": "Balance",
+      "generated_at": "2026-09-26T23:29:02.607434"
+    },
+    {
+      "english": "Why hide? Speak a little.",
+      "spanish": "¿Por qué esconderse? Habla un poco.",
+      "category": "Balance",
+      "generated_at": "2026-09-26T23:29:02.607464"
+    },
+    {
+      "english": "Breathe in. Your Spanish is ready.",
+      "spanish": "Respira. Tu español está listo.",
+      "category": "Balance",
+      "generated_at": "2026-09-26T23:29:02.607481"
+    },
+    {
+      "english": "Small wins unlock big speaking.",
+      "spanish": "Pequeñas victorias abren gran habla.",
+      "category": "Balance",
+      "generated_at": "2026-09-26T23:29:02.607499"
+    },
+    {
+      "english": "Curious? Say 'entonces' now.",
+      "spanish": "¿Curioso? Di 'entonces' ahora.",
+      "category": "Balance",
+      "generated_at": "2026-09-26T23:29:02.607518"
     }
   ],
-  "last_updated": "2026-09-26T21:43:29.024815",
+  "last_updated": "2026-09-26T23:29:02.607520",
   "used_english": [
-    "your courage? it speaks volumes.",
-    "one sound connection, immense power.",
-    "don't just learn, feel it.",
-    "wisdom: listen to your heart.",
-    "want confidence? listen up.",
     "the sound of understanding.",
     "your voice. it’s heard now.",
     "what if you understood more?",
@@ -21002,6 +20997,11 @@
     "your progress, so inspiring.",
     "listen closer. surprise awaits.",
     "tiny words build big confidence.",
-    "this rhythm feels like home."
+    "this rhythm feels like home.",
+    "surprise! your progress is loud.",
+    "why hide? speak a little.",
+    "breathe in. your spanish is ready.",
+    "small wins unlock big speaking.",
+    "curious? say 'entonces' now."
   ]
 }
