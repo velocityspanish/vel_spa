@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This simple sound, pure connection.",
-      "spanish": "Este sonido simple, conexión pura.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-03T15:51:00.383020"
-    },
-    {
-      "english": "Your progress whispers, listen close.",
-      "spanish": "Tu progreso susurra, escucha atento.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-03T15:51:00.383029"
-    },
-    {
-      "english": "Curiosity: What does 'vale' mean?",
-      "spanish": "Curiosidad: ¿Qué significa 'vale'?",
-      "category": "Perseverance",
-      "generated_at": "2026-05-03T15:51:00.383038"
-    },
-    {
-      "english": "Feel this? Spanish is blooming.",
-      "spanish": "¿Sientes esto? El español florece.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-03T15:51:00.383048"
-    },
-    {
-      "english": "Surprise! You'll love this phrase.",
-      "spanish": "¡Sorpresa! Te encantará esta frase.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-03T17:40:03.926052"
-    },
-    {
       "english": "Curiosity: What opens doors?",
       "spanish": "¿Curiosidad? ¿Qué abre puertas?",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Este eco te ayuda a crecer.",
       "category": "Inspiration",
       "generated_at": "2026-09-27T19:56:28.053755"
+    },
+    {
+      "english": "Curious? Say 'curioso' back.",
+      "spanish": "¿Curioso? Di 'curioso'.",
+      "category": "Purpose",
+      "generated_at": "2026-09-27T21:44:26.076433"
+    },
+    {
+      "english": "Your progress is loud, amazing.",
+      "spanish": "Tu progreso es sonoro, genial.",
+      "category": "Purpose",
+      "generated_at": "2026-09-27T21:44:26.076476"
+    },
+    {
+      "english": "Tiny word, giant leap.",
+      "spanish": "Palabra pequeña, gran salto.",
+      "category": "Purpose",
+      "generated_at": "2026-09-27T21:44:26.076514"
+    },
+    {
+      "english": "One phrase, endless possibilities.",
+      "spanish": "Una frase, infinitas posibilidades.",
+      "category": "Purpose",
+      "generated_at": "2026-09-27T21:44:26.076543"
+    },
+    {
+      "english": "Your learning journey: beautiful.",
+      "spanish": "Tu viaje de aprendizaje: bello.",
+      "category": "Purpose",
+      "generated_at": "2026-09-27T21:44:26.076570"
     }
   ],
-  "last_updated": "2026-09-27T19:56:28.053757",
+  "last_updated": "2026-09-27T21:44:26.076572",
   "used_english": [
-    "this simple sound, pure connection.",
-    "your progress whispers, listen close.",
-    "curiosity: what does 'vale' mean?",
-    "feel this? spanish is blooming.",
-    "surprise! you'll love this phrase.",
     "curiosity: what opens doors?",
     "wisdom: forgive, feel lighter.",
     "encouragement: your peace matters most.",
@@ -21002,6 +20997,11 @@
     "what if fluency felt natural?",
     "curious? say 'al menos'.",
     "small courage, huge conversations.",
-    "this echo helps you grow."
+    "this echo helps you grow.",
+    "curious? say 'curioso' back.",
+    "your progress is loud, amazing.",
+    "tiny word, giant leap.",
+    "one phrase, endless possibilities.",
+    "your learning journey: beautiful."
   ]
 }
