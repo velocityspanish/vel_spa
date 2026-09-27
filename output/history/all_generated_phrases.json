@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if joy was a word?",
-      "spanish": "¿Qué si la alegría fuera palabra?",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T14:12:33.347971"
-    },
-    {
-      "english": "Your happiness echoed, beautiful.",
-      "spanish": "Tu felicidad resonó, hermoso.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T14:12:33.347981"
-    },
-    {
-      "english": "This tiny word brings smiles.",
-      "spanish": "Esta palabra pequeña trae sonrisas.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T14:12:33.347991"
-    },
-    {
-      "english": "Feel the calm. Just breathe.",
-      "spanish": "Siente la calma. Solo respira.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T14:12:33.348014"
-    },
-    {
-      "english": "What if you understood? Try this.",
-      "spanish": "¿Y si entendieras? Prueba esto.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-03T15:51:00.383000"
-    },
-    {
       "english": "This simple sound, pure connection.",
       "spanish": "Este sonido simple, conexión pura.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Di 'en serio' ahora.",
       "category": "Success",
       "generated_at": "2026-09-27T18:55:41.779039"
+    },
+    {
+      "english": "Your progress is speaking volumes.",
+      "spanish": "Tu progreso habla mucho.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T19:56:28.053641"
+    },
+    {
+      "english": "What if fluency felt natural?",
+      "spanish": "¿Y si la fluidez se sintiera natural?",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T19:56:28.053677"
+    },
+    {
+      "english": "Curious? Say 'al menos'.",
+      "spanish": "¿Curioso? Di 'al menos'.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T19:56:28.053703"
+    },
+    {
+      "english": "Small courage, huge conversations.",
+      "spanish": "Pequeño coraje, grandes conversaciones.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T19:56:28.053729"
+    },
+    {
+      "english": "This echo helps you grow.",
+      "spanish": "Este eco te ayuda a crecer.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-27T19:56:28.053755"
     }
   ],
-  "last_updated": "2026-09-27T18:55:41.779041",
+  "last_updated": "2026-09-27T19:56:28.053757",
   "used_english": [
-    "what if joy was a word?",
-    "your happiness echoed, beautiful.",
-    "this tiny word brings smiles.",
-    "feel the calm. just breathe.",
-    "what if you understood? try this.",
     "this simple sound, pure connection.",
     "your progress whispers, listen close.",
     "curiosity: what does 'vale' mean?",
@@ -21002,6 +20997,11 @@
     "feel this? fluency is a feeling.",
     "one small sound, big meaning.",
     "your learning pace? it's perfect.",
-    "curious? say 'en serio' now."
+    "curious? say 'en serio' now.",
+    "your progress is speaking volumes.",
+    "what if fluency felt natural?",
+    "curious? say 'al menos'.",
+    "small courage, huge conversations.",
+    "this echo helps you grow."
   ]
 }
