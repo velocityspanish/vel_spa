@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this heart's gentle rhythm.",
-      "spanish": "Siente este suave latido.",
-      "category": "Love",
-      "generated_at": "2026-05-02T21:52:24.001901"
-    },
-    {
-      "english": "This phrase? Pure affection.",
-      "spanish": "Ésta frase: puro afecto.",
-      "category": "Love",
-      "generated_at": "2026-05-02T21:52:24.001911"
-    },
-    {
-      "english": "Wisdom: Love speaks softly.",
-      "spanish": "Sabiduría: Amor habla bajo.",
-      "category": "Love",
-      "generated_at": "2026-05-02T21:52:24.001920"
-    },
-    {
-      "english": "Surprise! Your feelings understood.",
-      "spanish": "¡Sorpresa! Tus sentimientos entendidos.",
-      "category": "Love",
-      "generated_at": "2026-05-02T21:52:24.001929"
-    },
-    {
-      "english": "Hear this laugh, feel alive.",
-      "spanish": "Oye esta risa, siéntete vivo.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T14:12:33.347951"
-    },
-    {
       "english": "What if joy was a word?",
       "spanish": "¿Qué si la alegría fuera palabra?",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "Pasos valientes crean fluidez.",
       "category": "Confidence",
       "generated_at": "2026-09-27T17:35:24.093911"
+    },
+    {
+      "english": "Surprise! Your accent is charming.",
+      "spanish": "¡Sorpresa! Tu acento es encantador.",
+      "category": "Success",
+      "generated_at": "2026-09-27T18:55:41.778965"
+    },
+    {
+      "english": "Feel this? Fluency is a feeling.",
+      "spanish": "¿Sientes esto? La fluidez es un sentimiento.",
+      "category": "Success",
+      "generated_at": "2026-09-27T18:55:41.778990"
+    },
+    {
+      "english": "One small sound, big meaning.",
+      "spanish": "Un sonido pequeño, gran significado.",
+      "category": "Success",
+      "generated_at": "2026-09-27T18:55:41.779007"
+    },
+    {
+      "english": "Your learning pace? It's perfect.",
+      "spanish": "¿Tu ritmo de aprendizaje? Es perfecto.",
+      "category": "Success",
+      "generated_at": "2026-09-27T18:55:41.779023"
+    },
+    {
+      "english": "Curious? Say 'en serio' now.",
+      "spanish": "¿Curioso? Di 'en serio' ahora.",
+      "category": "Success",
+      "generated_at": "2026-09-27T18:55:41.779039"
     }
   ],
-  "last_updated": "2026-09-27T17:35:24.093912",
+  "last_updated": "2026-09-27T18:55:41.779041",
   "used_english": [
-    "feel this heart's gentle rhythm.",
-    "this phrase? pure affection.",
-    "wisdom: love speaks softly.",
-    "surprise! your feelings understood.",
-    "hear this laugh, feel alive.",
     "what if joy was a word?",
     "your happiness echoed, beautiful.",
     "this tiny word brings smiles.",
@@ -21002,6 +20997,11 @@
     "listen for the rhythm.",
     "this whisper builds confidence.",
     "your voice matters here.",
-    "brave steps make fluency."
+    "brave steps make fluency.",
+    "surprise! your accent is charming.",
+    "feel this? fluency is a feeling.",
+    "one small sound, big meaning.",
+    "your learning pace? it's perfect.",
+    "curious? say 'en serio' now."
   ]
 }
