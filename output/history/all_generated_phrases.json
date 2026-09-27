@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The sound of understanding.",
-      "spanish": "El sonido del entender.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-02T19:47:57.456191"
-    },
-    {
-      "english": "Your voice. It’s heard now.",
-      "spanish": "Tu voz. Es escuchada ahora.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-02T19:47:57.456202"
-    },
-    {
-      "english": "What if you understood more?",
-      "spanish": "¿Y si entendieras más?",
-      "category": "Positive Life",
-      "generated_at": "2026-05-02T19:47:57.456212"
-    },
-    {
-      "english": "Small progress. Huge feeling.",
-      "spanish": "Progreso pequeño. Sentimiento enorme.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-02T19:47:57.456222"
-    },
-    {
-      "english": "What if love sounded like this?",
-      "spanish": "¿Y si el amor sonara así?",
-      "category": "Love",
-      "generated_at": "2026-05-02T21:52:24.001881"
-    },
-    {
       "english": "Feel this heart's gentle rhythm.",
       "spanish": "Siente este suave latido.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Di 'entonces' ahora.",
       "category": "Balance",
       "generated_at": "2026-09-26T23:29:02.607518"
+    },
+    {
+      "english": "Curious? Try 'entonces'.",
+      "spanish": "¿Curioso? Prueba 'entonces'.",
+      "category": "Confidence",
+      "generated_at": "2026-09-27T17:35:24.093794"
+    },
+    {
+      "english": "Listen for the rhythm.",
+      "spanish": "Escucha el ritmo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-27T17:35:24.093829"
+    },
+    {
+      "english": "This whisper builds confidence.",
+      "spanish": "Este susurro crea confianza.",
+      "category": "Confidence",
+      "generated_at": "2026-09-27T17:35:24.093858"
+    },
+    {
+      "english": "Your voice matters here.",
+      "spanish": "Tu voz importa aquí.",
+      "category": "Confidence",
+      "generated_at": "2026-09-27T17:35:24.093884"
+    },
+    {
+      "english": "Brave steps make fluency.",
+      "spanish": "Pasos valientes crean fluidez.",
+      "category": "Confidence",
+      "generated_at": "2026-09-27T17:35:24.093911"
     }
   ],
-  "last_updated": "2026-09-26T23:29:02.607520",
+  "last_updated": "2026-09-27T17:35:24.093912",
   "used_english": [
-    "the sound of understanding.",
-    "your voice. it’s heard now.",
-    "what if you understood more?",
-    "small progress. huge feeling.",
-    "what if love sounded like this?",
     "feel this heart's gentle rhythm.",
     "this phrase? pure affection.",
     "wisdom: love speaks softly.",
@@ -21002,6 +20997,11 @@
     "why hide? speak a little.",
     "breathe in. your spanish is ready.",
     "small wins unlock big speaking.",
-    "curious? say 'entonces' now."
+    "curious? say 'entonces' now.",
+    "curious? try 'entonces'.",
+    "listen for the rhythm.",
+    "this whisper builds confidence.",
+    "your voice matters here.",
+    "brave steps make fluency."
   ]
 }
