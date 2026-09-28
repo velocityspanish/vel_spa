@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if this flows easily?",
-      "spanish": "¿Y si esto fluye fácil?",
-      "category": "Wisdom",
-      "generated_at": "2026-05-04T15:11:49.429408"
-    },
-    {
-      "english": "Never underestimate 'gracias'.",
-      "spanish": "Nunca subestimes 'gracias'.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-04T15:11:49.429427"
-    },
-    {
-      "english": "This tiny word feels great.",
-      "spanish": "Esta palabra pequeña se siente genial.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-04T15:11:49.429444"
-    },
-    {
-      "english": "Surprise! You're understanding.",
-      "spanish": "¡Sorpresa! Estás entendiendo.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-04T15:11:49.429461"
-    },
-    {
-      "english": "Your voice starts today.",
-      "spanish": "Tu voz empieza hoy.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T16:48:30.198775"
-    },
-    {
       "english": "This small step, huge gain.",
       "spanish": "Este pequeño paso, gran ganancia.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu ritmo pacífico desbloquea fluidez.",
       "category": "Inner Peace",
       "generated_at": "2026-09-28T21:06:24.675077"
+    },
+    {
+      "english": "Your accent is perfect, embrace it.",
+      "spanish": "Tu acento es perfecto, abrázalo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T22:22:14.080875"
+    },
+    {
+      "english": "This sound unlocks new worlds.",
+      "spanish": "Este sonido abre mundos nuevos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T22:22:14.080941"
+    },
+    {
+      "english": "Curious? Say 'buenos días'.",
+      "spanish": "¿Curioso? Di 'buenos días'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T22:22:14.081000"
+    },
+    {
+      "english": "Your small wins matter most.",
+      "spanish": "Tus pequeñas victorias importan más.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T22:22:14.081052"
+    },
+    {
+      "english": "Listen, learn, then speak.",
+      "spanish": "Escucha, aprende, luego habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-28T22:22:14.081103"
     }
   ],
-  "last_updated": "2026-09-28T21:06:24.675079",
+  "last_updated": "2026-09-28T22:22:14.081106",
   "used_english": [
-    "what if this flows easily?",
-    "never underestimate 'gracias'.",
-    "this tiny word feels great.",
-    "surprise! you're understanding.",
-    "your voice starts today.",
     "this small step, huge gain.",
     "keep whispering. it works.",
     "wisdom: every word counts.",
@@ -21002,6 +20997,11 @@
     "this stillness is your advantage.",
     "hear your inner voice speaking.",
     "wisdom: pause, then speak.",
-    "your peaceful pace unlocks fluency."
+    "your peaceful pace unlocks fluency.",
+    "your accent is perfect, embrace it.",
+    "this sound unlocks new worlds.",
+    "curious? say 'buenos días'.",
+    "your small wins matter most.",
+    "listen, learn, then speak."
   ]
 }
