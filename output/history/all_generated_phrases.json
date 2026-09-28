@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This small step, huge gain.",
-      "spanish": "Este pequeño paso, gran ganancia.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T16:48:30.198793"
-    },
-    {
-      "english": "Keep whispering. It works.",
-      "spanish": "Sigue susurrando. Funciona.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T16:48:30.198803"
-    },
-    {
-      "english": "Wisdom: Every word counts.",
-      "spanish": "Sabiduría: Cada palabra cuenta.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T16:48:30.198812"
-    },
-    {
-      "english": "Unlock progress. Just speak.",
-      "spanish": "Desbloquea el progreso. Solo habla.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T16:48:30.198822"
-    },
-    {
-      "english": "Your effort counts, keep going.",
-      "spanish": "Tu esfuerzo cuenta, sigue.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:10:37.905653"
-    },
-    {
       "english": "Small wins, big motivation.",
       "spanish": "Pequeñas victorias, gran motivación.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha, aprende, luego habla.",
       "category": "Self Improvement",
       "generated_at": "2026-09-28T22:22:14.081103"
+    },
+    {
+      "english": "Hear this truth, speak bravely.",
+      "spanish": "Escucha esta verdad, habla valiente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T23:36:29.704260"
+    },
+    {
+      "english": "Why wait? Your voice calls.",
+      "spanish": "¿Por qué esperar? Tu voz llama.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T23:36:29.704292"
+    },
+    {
+      "english": "Breathe in peace, speak softly.",
+      "spanish": "Respira paz, habla suave.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T23:36:29.704314"
+    },
+    {
+      "english": "Feel this rhythm, find words.",
+      "spanish": "Siente este ritmo, encuentra palabras.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T23:36:29.704336"
+    },
+    {
+      "english": "This calm unlocks your fluency.",
+      "spanish": "Esta calma desbloquea tu fluidez.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T23:36:29.704357"
     }
   ],
-  "last_updated": "2026-09-28T22:22:14.081106",
+  "last_updated": "2026-09-28T23:36:29.704358",
   "used_english": [
-    "this small step, huge gain.",
-    "keep whispering. it works.",
-    "wisdom: every word counts.",
-    "unlock progress. just speak.",
-    "your effort counts, keep going.",
     "small wins, big motivation.",
     "can you guess this sound?",
     "surprise! your accent sounds great.",
@@ -21002,6 +20997,11 @@
     "this sound unlocks new worlds.",
     "curious? say 'buenos días'.",
     "your small wins matter most.",
-    "listen, learn, then speak."
+    "listen, learn, then speak.",
+    "hear this truth, speak bravely.",
+    "why wait? your voice calls.",
+    "breathe in peace, speak softly.",
+    "feel this rhythm, find words.",
+    "this calm unlocks your fluency."
   ]
 }
