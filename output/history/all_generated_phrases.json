@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this gentle connection.",
-      "spanish": "Siente esta dulce conexión.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T21:53:55.150733"
-    },
-    {
-      "english": "Unlock smiles, instantly.",
-      "spanish": "Desbloquea sonrisas, al instante.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T21:53:55.150740"
-    },
-    {
-      "english": "Your progress whispers loud.",
-      "spanish": "Tu progreso susurra fuerte.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T21:53:55.150747"
-    },
-    {
-      "english": "Small moment, big peace.",
-      "spanish": "Momento pequeño, gran paz.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T21:53:55.150754"
-    },
-    {
-      "english": "One word unlocks understanding.",
-      "spanish": "Una palabra desbloquea la comprensión.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-04T15:11:49.429361"
-    },
-    {
       "english": "What if this flows easily?",
       "spanish": "¿Y si esto fluye fácil?",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Abraza el inicio.",
       "category": "Hope",
       "generated_at": "2026-09-28T20:01:47.117761"
+    },
+    {
+      "english": "Quiet mind, fluent thoughts.",
+      "spanish": "Mente quieta, pensamientos fluidos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T21:06:24.674963"
+    },
+    {
+      "english": "This stillness is your advantage.",
+      "spanish": "Esta calma es tu ventaja.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T21:06:24.674998"
+    },
+    {
+      "english": "Hear your inner voice speaking.",
+      "spanish": "Escucha tu voz interior hablando.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T21:06:24.675026"
+    },
+    {
+      "english": "Wisdom: Pause, then speak.",
+      "spanish": "Sabiduría: Pausa, luego habla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T21:06:24.675052"
+    },
+    {
+      "english": "Your peaceful pace unlocks fluency.",
+      "spanish": "Tu ritmo pacífico desbloquea fluidez.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-28T21:06:24.675077"
     }
   ],
-  "last_updated": "2026-09-28T20:01:47.117763",
+  "last_updated": "2026-09-28T21:06:24.675079",
   "used_english": [
-    "feel this gentle connection.",
-    "unlock smiles, instantly.",
-    "your progress whispers loud.",
-    "small moment, big peace.",
-    "one word unlocks understanding.",
     "what if this flows easily?",
     "never underestimate 'gracias'.",
     "this tiny word feels great.",
@@ -21002,6 +20997,11 @@
     "feel this learning spark ignite?",
     "your progress speaks volumes, wow!",
     "listen closely, hear the magic.",
-    "wisdom: embrace the messy start."
+    "wisdom: embrace the messy start.",
+    "quiet mind, fluent thoughts.",
+    "this stillness is your advantage.",
+    "hear your inner voice speaking.",
+    "wisdom: pause, then speak.",
+    "your peaceful pace unlocks fluency."
   ]
 }
