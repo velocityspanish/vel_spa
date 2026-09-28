@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This phrase unlocks inner peace.",
-      "spanish": "Esta frase desbloquea paz interior.",
-      "category": "Growth",
-      "generated_at": "2026-05-03T19:46:53.863234"
-    },
-    {
-      "english": "Encouragement: Your voice echoes loudly.",
-      "spanish": "Animo: Tu voz resuena fuerte.",
-      "category": "Growth",
-      "generated_at": "2026-05-03T19:46:53.863244"
-    },
-    {
-      "english": "Stop fearing, speak this now.",
-      "spanish": "Deja de temer, di esto.",
-      "category": "Growth",
-      "generated_at": "2026-05-03T19:46:53.863253"
-    },
-    {
-      "english": "Wisdom: Flow with the rhythm.",
-      "spanish": "Sabiduría: Fluye con ritmo.",
-      "category": "Growth",
-      "generated_at": "2026-05-03T19:46:53.863263"
-    },
-    {
-      "english": "One sound, pure joy.",
-      "spanish": "Un sonido, pura alegría.",
-      "category": "Happiness",
-      "generated_at": "2026-05-03T21:53:55.150714"
-    },
-    {
       "english": "Feel this gentle connection.",
       "spanish": "Siente esta dulce conexión.",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "Aquí está la conexión que buscas.",
       "category": "Kindness",
       "generated_at": "2026-09-27T23:43:58.818262"
+    },
+    {
+      "english": "Your tiny wins, celebrated loudly.",
+      "spanish": "Tus triunfos, celebrados fuerte.",
+      "category": "Hope",
+      "generated_at": "2026-09-28T20:01:47.117635"
+    },
+    {
+      "english": "Feel this learning spark ignite?",
+      "spanish": "¿Sientes esta chispa?",
+      "category": "Hope",
+      "generated_at": "2026-09-28T20:01:47.117675"
+    },
+    {
+      "english": "Your progress speaks volumes, wow!",
+      "spanish": "Tu avance grita, ¡wow!",
+      "category": "Hope",
+      "generated_at": "2026-09-28T20:01:47.117704"
+    },
+    {
+      "english": "Listen closely, hear the magic.",
+      "spanish": "Escucha, oye la magia.",
+      "category": "Hope",
+      "generated_at": "2026-09-28T20:01:47.117733"
+    },
+    {
+      "english": "Wisdom: Embrace the messy start.",
+      "spanish": "Sabiduría: Abraza el inicio.",
+      "category": "Hope",
+      "generated_at": "2026-09-28T20:01:47.117761"
     }
   ],
-  "last_updated": "2026-09-27T23:43:58.818264",
+  "last_updated": "2026-09-28T20:01:47.117763",
   "used_english": [
-    "this phrase unlocks inner peace.",
-    "encouragement: your voice echoes loudly.",
-    "stop fearing, speak this now.",
-    "wisdom: flow with the rhythm.",
-    "one sound, pure joy.",
     "feel this gentle connection.",
     "unlock smiles, instantly.",
     "your progress whispers loud.",
@@ -21002,6 +20997,11 @@
     "never doubt your progress, ever.",
     "one word today, more tomorrow.",
     "your effort, it truly counts.",
-    "here's the connection you seek."
+    "here's the connection you seek.",
+    "your tiny wins, celebrated loudly.",
+    "feel this learning spark ignite?",
+    "your progress speaks volumes, wow!",
+    "listen closely, hear the magic.",
+    "wisdom: embrace the messy start."
   ]
 }
