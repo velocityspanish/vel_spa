@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your efforts bloom, say 'bien'.",
-      "spanish": "Tus esfuerzos florecen, di 'bien'.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-04T22:09:42.665434"
-    },
-    {
-      "english": "This tiny word builds bridges.",
-      "spanish": "Esta palabra diminuta une.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-04T22:09:42.665445"
-    },
-    {
-      "english": "Want to connect? Say 'hola'.",
-      "spanish": "¿Quieres conectar? Di 'hola'.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-04T22:09:42.665455"
-    },
-    {
-      "english": "Feel welcomed with this sound.",
-      "spanish": "Siéntete bienvenido con esto.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-04T22:09:42.665466"
-    },
-    {
-      "english": "Hear this, connect deeper.",
-      "spanish": "Escucha esto, conecta más profundo.",
-      "category": "Motivation",
-      "generated_at": "2026-05-05T18:08:36.643306"
-    },
-    {
       "english": "Feel this progress, it's yours.",
       "spanish": "Siente este progreso, es tuyo.",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Baja la velocidad, habla.",
       "category": "Patience",
       "generated_at": "2026-09-29T18:30:02.653156"
+    },
+    {
+      "english": "Curious? Speak louder now.",
+      "spanish": "¿Curioso? Habla más alto ahora.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:50:18.625404"
+    },
+    {
+      "english": "This feeling? Fluency starts.",
+      "spanish": "¿Este sentimiento? La fluidez empieza.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:50:18.625436"
+    },
+    {
+      "english": "Your progress, it’s loud.",
+      "spanish": "Tu progreso, es ruidoso.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:50:18.625458"
+    },
+    {
+      "english": "One sound, new worlds open.",
+      "spanish": "Un sonido, nuevos mundos se abren.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:50:18.625482"
+    },
+    {
+      "english": "Feel this rhythm? You’re blooming.",
+      "spanish": "¿Sientes este ritmo? Estás floreciendo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-29T19:50:18.625503"
     }
   ],
-  "last_updated": "2026-09-29T18:30:02.653159",
+  "last_updated": "2026-09-29T19:50:18.625504",
   "used_english": [
-    "your efforts bloom, say 'bien'.",
-    "this tiny word builds bridges.",
-    "want to connect? say 'hola'.",
-    "feel welcomed with this sound.",
-    "hear this, connect deeper.",
     "feel this progress, it's yours.",
     "stop fearing, speak courageously.",
     "your effort echoes loudly.",
@@ -21002,6 +20997,11 @@
     "why rush? savor learning.",
     "your whispers become shouts.",
     "calm moments unlock fluency.",
-    "wisdom: slow down, speak."
+    "wisdom: slow down, speak.",
+    "curious? speak louder now.",
+    "this feeling? fluency starts.",
+    "your progress, it’s loud.",
+    "one sound, new worlds open.",
+    "feel this rhythm? you’re blooming."
   ]
 }
