@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Can you say 'friend' now?",
-      "spanish": "¿Puedes decir 'amigo' ahora?",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:19:20.197807"
-    },
-    {
-      "english": "This word means loyalty.",
-      "spanish": "Esta palabra significa lealtad.",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:19:20.197817"
-    },
-    {
-      "english": "Your true friends listen.",
-      "spanish": "Tus verdaderos amigos escuchan.",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:19:20.197826"
-    },
-    {
-      "english": "Surprise! You can speak it.",
-      "spanish": "¡Sorpresa! Puedes decirlo.",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:19:20.197836"
-    },
-    {
-      "english": "Love whispers, can you hear?",
-      "spanish": "El amor susurra, ¿lo oyes?",
-      "category": "Love",
-      "generated_at": "2026-05-05T22:07:38.315680"
-    },
-    {
       "english": "This one word means 'forever'.",
       "spanish": "Esta palabra significa 'para siempre'.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Aquí está tu impulso de coraje hoy.",
       "category": "Happiness",
       "generated_at": "2026-09-29T21:11:21.793818"
+    },
+    {
+      "english": "Surprise: you're learning fast!",
+      "spanish": "Sorpresa: ¡aprendes rápido!",
+      "category": "Perseverance",
+      "generated_at": "2026-09-29T22:46:21.411729"
+    },
+    {
+      "english": "Don't give up today.",
+      "spanish": "No te rindas hoy.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-29T22:46:21.411764"
+    },
+    {
+      "english": "Why stop learning?",
+      "spanish": "¿Por qué dejar de aprender?",
+      "category": "Perseverance",
+      "generated_at": "2026-09-29T22:46:21.411789"
+    },
+    {
+      "english": "Your voice has power.",
+      "spanish": "Tu voz tiene poder.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-29T22:46:21.411814"
+    },
+    {
+      "english": "Small courage, big talk.",
+      "spanish": "Pequeño coraje, gran charla.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-29T22:46:21.411840"
     }
   ],
-  "last_updated": "2026-09-29T21:11:21.793819",
+  "last_updated": "2026-09-29T22:46:21.411842",
   "used_english": [
-    "can you say 'friend' now?",
-    "this word means loyalty.",
-    "your true friends listen.",
-    "surprise! you can speak it.",
-    "love whispers, can you hear?",
     "this one word means 'forever'.",
     "your heart speaks this language.",
     "what if 'te amo' changes everything?",
@@ -21002,6 +20997,11 @@
     "your tiny wins are giants.",
     "hear this simple joy now.",
     "the secret? daily small sounds.",
-    "here’s your courage boost today."
+    "here’s your courage boost today.",
+    "surprise: you're learning fast!",
+    "don't give up today.",
+    "why stop learning?",
+    "your voice has power.",
+    "small courage, big talk."
   ]
 }
