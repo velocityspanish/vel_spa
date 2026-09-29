@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your progress whispers. Listen.",
-      "spanish": "Tu progreso susurra. Escucha.",
-      "category": "Balance",
-      "generated_at": "2026-05-04T20:11:00.631547"
-    },
-    {
-      "english": "Never underestimate this greeting.",
-      "spanish": "Nunca subestimes este saludo.",
-      "category": "Balance",
-      "generated_at": "2026-05-04T20:11:00.631557"
-    },
-    {
-      "english": "Feel this small victory now.",
-      "spanish": "Siente esta pequeña victoria ahora.",
-      "category": "Balance",
-      "generated_at": "2026-05-04T20:11:00.631567"
-    },
-    {
-      "english": "Stop overthinking. Just say it.",
-      "spanish": "Deja de pensar demasiado. Solo dilo.",
-      "category": "Balance",
-      "generated_at": "2026-05-04T20:11:00.631576"
-    },
-    {
-      "english": "Feel this calm, practice 'gracias'.",
-      "spanish": "Siente calma, practica 'gracias'.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-04T22:09:42.665412"
-    },
-    {
       "english": "Your efforts bloom, say 'bien'.",
       "spanish": "Tus esfuerzos florecen, di 'bien'.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha este ritmo, siéntelo.",
       "category": "Strength",
       "generated_at": "2026-09-29T00:55:15.656089"
+    },
+    {
+      "english": "This pace feels right.",
+      "spanish": "Este ritmo se siente bien.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T18:30:02.653033"
+    },
+    {
+      "english": "Why rush? Savor learning.",
+      "spanish": "¿Por qué apurarse? Saborea aprender.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T18:30:02.653070"
+    },
+    {
+      "english": "Your whispers become shouts.",
+      "spanish": "Tus susurros se vuelven gritos.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T18:30:02.653099"
+    },
+    {
+      "english": "Calm moments unlock fluency.",
+      "spanish": "Momentos tranquilos desbloquean fluidez.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T18:30:02.653128"
+    },
+    {
+      "english": "Wisdom: Slow down, speak.",
+      "spanish": "Sabiduría: Baja la velocidad, habla.",
+      "category": "Patience",
+      "generated_at": "2026-09-29T18:30:02.653156"
     }
   ],
-  "last_updated": "2026-09-29T00:55:15.656091",
+  "last_updated": "2026-09-29T18:30:02.653159",
   "used_english": [
-    "your progress whispers. listen.",
-    "never underestimate this greeting.",
-    "feel this small victory now.",
-    "stop overthinking. just say it.",
-    "feel this calm, practice 'gracias'.",
     "your efforts bloom, say 'bien'.",
     "this tiny word builds bridges.",
     "want to connect? say 'hola'.",
@@ -21002,6 +20997,11 @@
     "the real key? small, consistent wins.",
     "breathe. your words are ready.",
     "your progress speaks louder than doubt.",
-    "listen to this rhythm, feel it."
+    "listen to this rhythm, feel it.",
+    "this pace feels right.",
+    "why rush? savor learning.",
+    "your whispers become shouts.",
+    "calm moments unlock fluency.",
+    "wisdom: slow down, speak."
   ]
 }
