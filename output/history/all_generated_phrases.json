@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small wins, big motivation.",
-      "spanish": "Pequeñas victorias, gran motivación.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:10:37.905670"
-    },
-    {
-      "english": "Can you guess this sound?",
-      "spanish": "¿Puedes adivinar este sonido?",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:10:37.905680"
-    },
-    {
-      "english": "Surprise! Your accent sounds great.",
-      "spanish": "¡Sorpresa! Tu acento suena bien.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:10:37.905690"
-    },
-    {
-      "english": "Never doubt your learning journey.",
-      "spanish": "Nunca dudes tu viaje de aprendizaje.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-04T18:10:37.905699"
-    },
-    {
-      "english": "This word unlocks doors, fast.",
-      "spanish": "Esta palabra abre puertas, rápido.",
-      "category": "Balance",
-      "generated_at": "2026-05-04T20:11:00.631529"
-    },
-    {
       "english": "Your progress whispers. Listen.",
       "spanish": "Tu progreso susurra. Escucha.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta calma desbloquea tu fluidez.",
       "category": "Mindfulness",
       "generated_at": "2026-09-28T23:36:29.704357"
+    },
+    {
+      "english": "Hear this, your courage grows.",
+      "spanish": "Oye esto, tu valor crece.",
+      "category": "Strength",
+      "generated_at": "2026-09-29T00:55:15.655966"
+    },
+    {
+      "english": "The real key? Small, consistent wins.",
+      "spanish": "La clave real: pequeñas victorias constantes.",
+      "category": "Strength",
+      "generated_at": "2026-09-29T00:55:15.656009"
+    },
+    {
+      "english": "Breathe. Your words are ready.",
+      "spanish": "Respira. Tus palabras están listas.",
+      "category": "Strength",
+      "generated_at": "2026-09-29T00:55:15.656038"
+    },
+    {
+      "english": "Your progress speaks louder than doubt.",
+      "spanish": "Tu progreso habla más alto que la duda.",
+      "category": "Strength",
+      "generated_at": "2026-09-29T00:55:15.656062"
+    },
+    {
+      "english": "Listen to this rhythm, feel it.",
+      "spanish": "Escucha este ritmo, siéntelo.",
+      "category": "Strength",
+      "generated_at": "2026-09-29T00:55:15.656089"
     }
   ],
-  "last_updated": "2026-09-28T23:36:29.704358",
+  "last_updated": "2026-09-29T00:55:15.656091",
   "used_english": [
-    "small wins, big motivation.",
-    "can you guess this sound?",
-    "surprise! your accent sounds great.",
-    "never doubt your learning journey.",
-    "this word unlocks doors, fast.",
     "your progress whispers. listen.",
     "never underestimate this greeting.",
     "feel this small victory now.",
@@ -21002,6 +20997,11 @@
     "why wait? your voice calls.",
     "breathe in peace, speak softly.",
     "feel this rhythm, find words.",
-    "this calm unlocks your fluency."
+    "this calm unlocks your fluency.",
+    "hear this, your courage grows.",
+    "the real key? small, consistent wins.",
+    "breathe. your words are ready.",
+    "your progress speaks louder than doubt.",
+    "listen to this rhythm, feel it."
   ]
 }
