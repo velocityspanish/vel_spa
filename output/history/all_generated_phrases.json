@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this progress, it's yours.",
-      "spanish": "Siente este progreso, es tuyo.",
-      "category": "Motivation",
-      "generated_at": "2026-05-05T18:08:36.643329"
-    },
-    {
-      "english": "Stop fearing, speak courageously.",
-      "spanish": "Deja el miedo, habla con coraje.",
-      "category": "Motivation",
-      "generated_at": "2026-05-05T18:08:36.643339"
-    },
-    {
-      "english": "Your effort echoes loudly.",
-      "spanish": "Tu esfuerzo resuena fuerte.",
-      "category": "Motivation",
-      "generated_at": "2026-05-05T18:08:36.643348"
-    },
-    {
-      "english": "One sound, immense power.",
-      "spanish": "Un sonido, poder inmenso.",
-      "category": "Motivation",
-      "generated_at": "2026-05-05T18:08:36.643357"
-    },
-    {
-      "english": "Hear this! Friendship in words.",
-      "spanish": "¡Oye esto! Amistad en palabras.",
-      "category": "Friendship",
-      "generated_at": "2026-05-05T20:19:20.197778"
-    },
-    {
       "english": "Can you say 'friend' now?",
       "spanish": "¿Puedes decir 'amigo' ahora?",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes este ritmo? Estás floreciendo.",
       "category": "Confidence",
       "generated_at": "2026-09-29T19:50:18.625503"
+    },
+    {
+      "english": "Future you will thank you.",
+      "spanish": "Tu yo futuro te lo agradecerá.",
+      "category": "Happiness",
+      "generated_at": "2026-09-29T21:11:21.793701"
+    },
+    {
+      "english": "Your tiny wins are giants.",
+      "spanish": "Tus pequeñas victorias son gigantes.",
+      "category": "Happiness",
+      "generated_at": "2026-09-29T21:11:21.793737"
+    },
+    {
+      "english": "Hear this simple joy now.",
+      "spanish": "Escucha esta simple alegría ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-09-29T21:11:21.793764"
+    },
+    {
+      "english": "The secret? Daily small sounds.",
+      "spanish": "¿El secreto? Pequeños sonidos diarios.",
+      "category": "Happiness",
+      "generated_at": "2026-09-29T21:11:21.793791"
+    },
+    {
+      "english": "Here’s your courage boost today.",
+      "spanish": "Aquí está tu impulso de coraje hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-09-29T21:11:21.793818"
     }
   ],
-  "last_updated": "2026-09-29T19:50:18.625504",
+  "last_updated": "2026-09-29T21:11:21.793819",
   "used_english": [
-    "feel this progress, it's yours.",
-    "stop fearing, speak courageously.",
-    "your effort echoes loudly.",
-    "one sound, immense power.",
-    "hear this! friendship in words.",
     "can you say 'friend' now?",
     "this word means loyalty.",
     "your true friends listen.",
@@ -21002,6 +20997,11 @@
     "this feeling? fluency starts.",
     "your progress, it’s loud.",
     "one sound, new worlds open.",
-    "feel this rhythm? you’re blooming."
+    "feel this rhythm? you’re blooming.",
+    "future you will thank you.",
+    "your tiny wins are giants.",
+    "hear this simple joy now.",
+    "the secret? daily small sounds.",
+    "here’s your courage boost today."
   ]
 }
