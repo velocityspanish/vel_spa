@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word means 'forever'.",
-      "spanish": "Esta palabra significa 'para siempre'.",
-      "category": "Love",
-      "generated_at": "2026-05-05T22:07:38.315703"
-    },
-    {
-      "english": "Your heart speaks this language.",
-      "spanish": "Tu corazón habla este idioma.",
-      "category": "Love",
-      "generated_at": "2026-05-05T22:07:38.315713"
-    },
-    {
-      "english": "What if 'te amo' changes everything?",
-      "spanish": "¿Y si 'te amo' cambia todo?",
-      "category": "Love",
-      "generated_at": "2026-05-05T22:07:38.315723"
-    },
-    {
-      "english": "This phrase means 'you're home'.",
-      "spanish": "Esta frase significa 'estás en casa'.",
-      "category": "Love",
-      "generated_at": "2026-05-05T22:07:38.315732"
-    },
-    {
-      "english": "Your courage sounds beautiful.",
-      "spanish": "Tu coraje suena hermoso.",
-      "category": "Success",
-      "generated_at": "2026-05-06T15:28:37.628700"
-    },
-    {
       "english": "Unlock new worlds, simply.",
       "spanish": "Abre mundos nuevos, simple.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeño coraje, gran charla.",
       "category": "Perseverance",
       "generated_at": "2026-09-29T22:46:21.411840"
+    },
+    {
+      "english": "Forgive yourself, feel free.",
+      "spanish": "Perdónate, siéntete libre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T00:17:14.130917"
+    },
+    {
+      "english": "Who needs this peace?",
+      "spanish": "¿Quién necesita esta paz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T00:17:14.130946"
+    },
+    {
+      "english": "Let go, find your voice.",
+      "spanish": "Suelta, encuentra tu voz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T00:17:14.130963"
+    },
+    {
+      "english": "Worry less, forgive more.",
+      "spanish": "Preocúpate menos, perdona más.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T00:17:14.130981"
+    },
+    {
+      "english": "Start fresh, forgive them.",
+      "spanish": "Empieza de nuevo, perdónalos.",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-30T00:17:14.130999"
     }
   ],
-  "last_updated": "2026-09-29T22:46:21.411842",
+  "last_updated": "2026-09-30T00:17:14.131000",
   "used_english": [
-    "this one word means 'forever'.",
-    "your heart speaks this language.",
-    "what if 'te amo' changes everything?",
-    "this phrase means 'you're home'.",
-    "your courage sounds beautiful.",
     "unlock new worlds, simply.",
     "can you hear this connection?",
     "wisdom: flow with practice.",
@@ -21002,6 +20997,11 @@
     "don't give up today.",
     "why stop learning?",
     "your voice has power.",
-    "small courage, big talk."
+    "small courage, big talk.",
+    "forgive yourself, feel free.",
+    "who needs this peace?",
+    "let go, find your voice.",
+    "worry less, forgive more.",
+    "start fresh, forgive them."
   ]
 }
