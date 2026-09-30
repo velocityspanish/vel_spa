@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your love story starts.",
-      "spanish": "Tu historia de amor empieza.",
-      "category": "Love",
-      "generated_at": "2026-05-06T16:44:12.195002"
-    },
-    {
-      "english": "This phrase means forever.",
-      "spanish": "Esta frase significa para siempre.",
-      "category": "Love",
-      "generated_at": "2026-05-06T16:44:12.195012"
-    },
-    {
-      "english": "Whispers of true affection.",
-      "spanish": "Susurros de amor verdadero.",
-      "category": "Love",
-      "generated_at": "2026-05-06T16:44:12.195021"
-    },
-    {
-      "english": "One word holds your heart.",
-      "spanish": "Una palabra guarda tu corazón.",
-      "category": "Love",
-      "generated_at": "2026-05-06T16:44:12.195031"
-    },
-    {
-      "english": "Your voice echoes louder now.",
-      "spanish": "Tu voz resuena más fuerte.",
-      "category": "Success",
-      "generated_at": "2026-05-06T18:11:32.492542"
-    },
-    {
       "english": "Feel this rhythm, it's Spanish.",
       "spanish": "Siente este ritmo, es español.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Prueba este truco.",
       "category": "Creativity",
       "generated_at": "2026-09-30T18:18:50.816567"
+    },
+    {
+      "english": "This phrase sparks progress.",
+      "spanish": "Esta frase impulsa el progreso.",
+      "category": "Courage",
+      "generated_at": "2026-09-30T19:53:08.002799"
+    },
+    {
+      "english": "Embrace the brave beginnings.",
+      "spanish": "Abraza los valientes comienzos.",
+      "category": "Courage",
+      "generated_at": "2026-09-30T19:53:08.002842"
+    },
+    {
+      "english": "Your learning journey matters.",
+      "spanish": "Tu viaje de aprendizaje importa.",
+      "category": "Courage",
+      "generated_at": "2026-09-30T19:53:08.002869"
+    },
+    {
+      "english": "One tiny whisper, heard everywhere.",
+      "spanish": "Un susurro pequeño, oído en todas partes.",
+      "category": "Courage",
+      "generated_at": "2026-09-30T19:53:08.002891"
+    },
+    {
+      "english": "Never fear the spoken word.",
+      "spanish": "Nunca temas la palabra hablada.",
+      "category": "Courage",
+      "generated_at": "2026-09-30T19:53:08.002917"
     }
   ],
-  "last_updated": "2026-09-30T18:18:50.816568",
+  "last_updated": "2026-09-30T19:53:08.002919",
   "used_english": [
-    "your love story starts.",
-    "this phrase means forever.",
-    "whispers of true affection.",
-    "one word holds your heart.",
-    "your voice echoes louder now.",
     "feel this rhythm, it's spanish.",
     "never fear asking 'cómo'.",
     "curiosity: 'qué pasa' means?",
@@ -21002,6 +20997,11 @@
     "listen close, understand everything.",
     "feel this peace, speak more.",
     "one easy phrase changes your day.",
-    "curious? try this pronunciation trick."
+    "curious? try this pronunciation trick.",
+    "this phrase sparks progress.",
+    "embrace the brave beginnings.",
+    "your learning journey matters.",
+    "one tiny whisper, heard everywhere.",
+    "never fear the spoken word."
   ]
 }
