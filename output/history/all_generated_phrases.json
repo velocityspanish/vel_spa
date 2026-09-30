@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this rhythm, it's Spanish.",
-      "spanish": "Siente este ritmo, es español.",
-      "category": "Success",
-      "generated_at": "2026-05-06T18:11:32.492563"
-    },
-    {
-      "english": "Never fear asking 'cómo'.",
-      "spanish": "Nunca temas preguntar 'cómo'.",
-      "category": "Success",
-      "generated_at": "2026-05-06T18:11:32.492575"
-    },
-    {
-      "english": "Curiosity: 'Qué pasa' means?",
-      "spanish": "Curiosidad: ¿'Qué pasa' significa?",
-      "category": "Success",
-      "generated_at": "2026-05-06T18:11:32.492586"
-    },
-    {
-      "english": "Keep saying 'gracias', feel good.",
-      "spanish": "Sigue diciendo 'gracias', siéntete bien.",
-      "category": "Success",
-      "generated_at": "2026-05-06T18:11:32.492596"
-    },
-    {
-      "english": "Your bravery shines, try 'hola'.",
-      "spanish": "Tu valentía brilla, prueba 'hola'.",
-      "category": "Joy",
-      "generated_at": "2026-05-06T20:19:11.710131"
-    },
-    {
       "english": "One word opens doors: 'gracias'.",
       "spanish": "Una palabra abre puertas: 'gracias'.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca temas la palabra hablada.",
       "category": "Courage",
       "generated_at": "2026-09-30T19:53:08.002917"
+    },
+    {
+      "english": "One simple sound, new worlds.",
+      "spanish": "Un sonido simple, mundos nuevos.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-30T21:06:41.332110"
+    },
+    {
+      "english": "Breathe in confidence, exhale fear.",
+      "spanish": "Respira confianza, exhala miedo.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-30T21:06:41.332143"
+    },
+    {
+      "english": "This rhythm? fluency's secret.",
+      "spanish": "¿Este ritmo? secreto de fluidez.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-30T21:06:41.332167"
+    },
+    {
+      "english": "Feel this connection? you're close.",
+      "spanish": "¿Sientes esta conexión? estás cerca.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-30T21:06:41.332187"
+    },
+    {
+      "english": "This feeling unlocks your voice.",
+      "spanish": "Esta sensación desbloquea tu voz.",
+      "category": "Inspiration",
+      "generated_at": "2026-09-30T21:06:41.332209"
     }
   ],
-  "last_updated": "2026-09-30T19:53:08.002919",
+  "last_updated": "2026-09-30T21:06:41.332211",
   "used_english": [
-    "feel this rhythm, it's spanish.",
-    "never fear asking 'cómo'.",
-    "curiosity: 'qué pasa' means?",
-    "keep saying 'gracias', feel good.",
-    "your bravery shines, try 'hola'.",
     "one word opens doors: 'gracias'.",
     "feel this small win: 'bien'.",
     "what if understanding felt this good?",
@@ -21002,6 +20997,11 @@
     "embrace the brave beginnings.",
     "your learning journey matters.",
     "one tiny whisper, heard everywhere.",
-    "never fear the spoken word."
+    "never fear the spoken word.",
+    "one simple sound, new worlds.",
+    "breathe in confidence, exhale fear.",
+    "this rhythm? fluency's secret.",
+    "feel this connection? you're close.",
+    "this feeling unlocks your voice."
   ]
 }
