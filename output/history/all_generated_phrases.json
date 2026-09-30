@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock new worlds, simply.",
-      "spanish": "Abre mundos nuevos, simple.",
-      "category": "Success",
-      "generated_at": "2026-05-06T15:28:37.628716"
-    },
-    {
-      "english": "Can you hear this connection?",
-      "spanish": "¿Puedes oír esta conexión?",
-      "category": "Success",
-      "generated_at": "2026-05-06T15:28:37.628726"
-    },
-    {
-      "english": "Wisdom: Flow with practice.",
-      "spanish": "Sabiduría: Fluye con práctica.",
-      "category": "Success",
-      "generated_at": "2026-05-06T15:28:37.628735"
-    },
-    {
-      "english": "Stop fearing, start speaking.",
-      "spanish": "Deja el miedo, empieza a hablar.",
-      "category": "Success",
-      "generated_at": "2026-05-06T15:28:37.628745"
-    },
-    {
-      "english": "Hear this heartbeat.",
-      "spanish": "Oye este latido.",
-      "category": "Love",
-      "generated_at": "2026-05-06T16:44:12.194985"
-    },
-    {
       "english": "Your love story starts.",
       "spanish": "Tu historia de amor empieza.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Empieza de nuevo, perdónalos.",
       "category": "Forgiveness",
       "generated_at": "2026-09-30T00:17:14.130999"
+    },
+    {
+      "english": "What if you could speak tonight?",
+      "spanish": "¿Y si pudieras hablar hoy?",
+      "category": "Creativity",
+      "generated_at": "2026-09-30T18:18:50.816455"
+    },
+    {
+      "english": "Listen close, understand everything.",
+      "spanish": "Escucha bien, entiende todo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-30T18:18:50.816488"
+    },
+    {
+      "english": "Feel this peace, speak more.",
+      "spanish": "Siente paz, habla más.",
+      "category": "Creativity",
+      "generated_at": "2026-09-30T18:18:50.816516"
+    },
+    {
+      "english": "One easy phrase changes your day.",
+      "spanish": "Una frase fácil cambia tu día.",
+      "category": "Creativity",
+      "generated_at": "2026-09-30T18:18:50.816542"
+    },
+    {
+      "english": "Curious? Try this pronunciation trick.",
+      "spanish": "¿Curioso? Prueba este truco.",
+      "category": "Creativity",
+      "generated_at": "2026-09-30T18:18:50.816567"
     }
   ],
-  "last_updated": "2026-09-30T00:17:14.131000",
+  "last_updated": "2026-09-30T18:18:50.816568",
   "used_english": [
-    "unlock new worlds, simply.",
-    "can you hear this connection?",
-    "wisdom: flow with practice.",
-    "stop fearing, start speaking.",
-    "hear this heartbeat.",
     "your love story starts.",
     "this phrase means forever.",
     "whispers of true affection.",
@@ -21002,6 +20997,11 @@
     "who needs this peace?",
     "let go, find your voice.",
     "worry less, forgive more.",
-    "start fresh, forgive them."
+    "start fresh, forgive them.",
+    "what if you could speak tonight?",
+    "listen close, understand everything.",
+    "feel this peace, speak more.",
+    "one easy phrase changes your day.",
+    "curious? try this pronunciation trick."
   ]
 }
