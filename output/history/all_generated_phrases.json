@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One word opens doors: 'gracias'.",
-      "spanish": "Una palabra abre puertas: 'gracias'.",
-      "category": "Joy",
-      "generated_at": "2026-05-06T20:19:11.710149"
-    },
-    {
-      "english": "Feel this small win: 'bien'.",
-      "spanish": "Siente esta pequeña victoria: 'bien'.",
-      "category": "Joy",
-      "generated_at": "2026-05-06T20:19:11.710158"
-    },
-    {
-      "english": "What if understanding felt this good?",
-      "spanish": "¿Qué tal si entender se siente así?",
-      "category": "Joy",
-      "generated_at": "2026-05-06T20:19:11.710165"
-    },
-    {
-      "english": "This sound? Pure encouragement. 'vamos'.",
-      "spanish": "¿Este sonido? Puro aliento. 'vamos'.",
-      "category": "Joy",
-      "generated_at": "2026-05-06T20:19:11.710172"
-    },
-    {
-      "english": "What if calm felt like this?",
-      "spanish": "¿Y si la calma se sintiera así?",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-06T22:15:42.925334"
-    },
-    {
       "english": "Your inner peace unlocked.",
       "spanish": "Tu paz interior desbloqueada.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta sensación desbloquea tu voz.",
       "category": "Inspiration",
       "generated_at": "2026-09-30T21:06:41.332209"
+    },
+    {
+      "english": "The secret? Tiny, daily wins.",
+      "spanish": " ¿El secreto? Victorias pequeñas, diarias.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T22:44:07.287751"
+    },
+    {
+      "english": "One small sound, opens worlds.",
+      "spanish": "Un sonido pequeño, abre mundos.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T22:44:07.287784"
+    },
+    {
+      "english": "Embrace the 'not yet' phase.",
+      "spanish": "Acepta la fase 'aún no'.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T22:44:07.287806"
+    },
+    {
+      "english": "Breathe in. Speak softly, friend.",
+      "spanish": "Respira hondo. Habla suave, amigo/a.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T22:44:07.287831"
+    },
+    {
+      "english": "Hear this? You're growing daily.",
+      "spanish": "¿Escuchas esto? Estás creciendo a diario.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T22:44:07.287853"
     }
   ],
-  "last_updated": "2026-09-30T21:06:41.332211",
+  "last_updated": "2026-09-30T22:44:07.287855",
   "used_english": [
-    "one word opens doors: 'gracias'.",
-    "feel this small win: 'bien'.",
-    "what if understanding felt this good?",
-    "this sound? pure encouragement. 'vamos'.",
-    "what if calm felt like this?",
     "your inner peace unlocked.",
     "hear this: a moment's escape.",
     "wisdom: breathe, you're enough.",
@@ -21002,6 +20997,11 @@
     "breathe in confidence, exhale fear.",
     "this rhythm? fluency's secret.",
     "feel this connection? you're close.",
-    "this feeling unlocks your voice."
+    "this feeling unlocks your voice.",
+    "the secret? tiny, daily wins.",
+    "one small sound, opens worlds.",
+    "embrace the 'not yet' phase.",
+    "breathe in. speak softly, friend.",
+    "hear this? you're growing daily."
   ]
 }
