@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One word heals deep wounds.",
-      "spanish": "Una palabra sana heridas profundas.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-07T20:08:35.987731"
-    },
-    {
-      "english": "Let go. Feel this freedom.",
-      "spanish": "Suelta. Siente esta libertad.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-07T20:08:35.987741"
-    },
-    {
-      "english": "This sound melts resentment.",
-      "spanish": "Este sonido derrite resentimiento.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-07T20:08:35.987751"
-    },
-    {
-      "english": "Choose grace, feel lighter.",
-      "spanish": "Elige gracia, siéntete más ligero.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-07T20:08:35.987762"
-    },
-    {
-      "english": "Hear this! Your voice matters.",
-      "spanish": "¡Escucha esto! Tu voz importa.",
-      "category": "Confidence",
-      "generated_at": "2026-05-07T22:08:35.931103"
-    },
-    {
       "english": "Curiosity: What unlocks fluency?",
       "spanish": "¿Curiosidad: Qué desbloquea la fluidez?",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Abraza el habla imperfecta.",
       "category": "Success",
       "generated_at": "2026-10-01T21:30:46.662562"
+    },
+    {
+      "english": "Your journey's next step awaits.",
+      "spanish": "El próximo paso de tu viaje espera.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:04:51.116175"
+    },
+    {
+      "english": "Don't miss this tiny word.",
+      "spanish": "No te pierdas esta palabra diminuta.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:04:51.116210"
+    },
+    {
+      "english": "Hear the magic in this.",
+      "spanish": "Escucha la magia en esto.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:04:51.116236"
+    },
+    {
+      "english": "The secret to quick progress?",
+      "spanish": "¿El secreto para el progreso rápido?",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:04:51.116263"
+    },
+    {
+      "english": "Your breakthrough is coming soon.",
+      "spanish": "Tu gran avance llegará pronto.",
+      "category": "Success",
+      "generated_at": "2026-10-01T23:04:51.116289"
     }
   ],
-  "last_updated": "2026-10-01T21:30:46.662564",
+  "last_updated": "2026-10-01T23:04:51.116291",
   "used_english": [
-    "one word heals deep wounds.",
-    "let go. feel this freedom.",
-    "this sound melts resentment.",
-    "choose grace, feel lighter.",
-    "hear this! your voice matters.",
     "curiosity: what unlocks fluency?",
     "wisdom: patience builds worlds.",
     "feel this connection, speak easy.",
@@ -21002,6 +20997,11 @@
     "the secret? active listening.",
     "curiosity unlocks every door.",
     "feel this connection grow, yes!",
-    "wisdom: embrace imperfect speech."
+    "wisdom: embrace imperfect speech.",
+    "your journey's next step awaits.",
+    "don't miss this tiny word.",
+    "hear the magic in this.",
+    "the secret to quick progress?",
+    "your breakthrough is coming soon."
   ]
 }
