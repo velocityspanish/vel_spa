@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your inner peace unlocked.",
-      "spanish": "Tu paz interior desbloqueada.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-06T22:15:42.925351"
-    },
-    {
-      "english": "Hear this: A moment's escape.",
-      "spanish": "Oye esto: Un escape fugaz.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-06T22:15:42.925362"
-    },
-    {
-      "english": "Wisdom: Breathe, you're enough.",
-      "spanish": "Sabiduría: Respira, eres suficiente.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-06T22:15:42.925371"
-    },
-    {
-      "english": "Feel this joy, instantly.",
-      "spanish": "Siente esta alegría, al instante.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-06T22:15:42.925381"
-    },
-    {
-      "english": "Never fear mistakes, grow.",
-      "spanish": "Nunca temas errores, crece.",
-      "category": "Balance",
-      "generated_at": "2026-05-07T15:31:14.467918"
-    },
-    {
       "english": "Your confidence? It's building.",
       "spanish": "¿Tu confianza? Se está construyendo.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Escuchas esto? Estás creciendo a diario.",
       "category": "Perseverance",
       "generated_at": "2026-09-30T22:44:07.287853"
+    },
+    {
+      "english": "Feel this? You're connecting.",
+      "spanish": "¿Sientes esto? Te conectas.",
+      "category": "Strength",
+      "generated_at": "2026-10-01T00:27:40.377526"
+    },
+    {
+      "english": "One small word, big power.",
+      "spanish": "Una palabra pequeña, gran poder.",
+      "category": "Strength",
+      "generated_at": "2026-10-01T00:27:40.377560"
+    },
+    {
+      "english": "Here's your Spanish magic.",
+      "spanish": "Aquí está tu magia española.",
+      "category": "Strength",
+      "generated_at": "2026-10-01T00:27:40.377580"
+    },
+    {
+      "english": "Let go, speak freely.",
+      "spanish": "Suelta, habla libremente.",
+      "category": "Strength",
+      "generated_at": "2026-10-01T00:27:40.377598"
+    },
+    {
+      "english": "Tomorrow you'll say 'wow'.",
+      "spanish": "Mañana dirás 'guau'.",
+      "category": "Strength",
+      "generated_at": "2026-10-01T00:27:40.377617"
     }
   ],
-  "last_updated": "2026-09-30T22:44:07.287855",
+  "last_updated": "2026-10-01T00:27:40.377619",
   "used_english": [
-    "your inner peace unlocked.",
-    "hear this: a moment's escape.",
-    "wisdom: breathe, you're enough.",
-    "feel this joy, instantly.",
-    "never fear mistakes, grow.",
     "your confidence? it's building.",
     "this rhythm is your journey.",
     "hear this echo of learning.",
@@ -21002,6 +20997,11 @@
     "one small sound, opens worlds.",
     "embrace the 'not yet' phase.",
     "breathe in. speak softly, friend.",
-    "hear this? you're growing daily."
+    "hear this? you're growing daily.",
+    "feel this? you're connecting.",
+    "one small word, big power.",
+    "here's your spanish magic.",
+    "let go, speak freely.",
+    "tomorrow you'll say 'wow'."
   ]
 }
