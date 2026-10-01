@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your confidence? It's building.",
-      "spanish": "¿Tu confianza? Se está construyendo.",
-      "category": "Balance",
-      "generated_at": "2026-05-07T15:31:14.467936"
-    },
-    {
-      "english": "This rhythm is your journey.",
-      "spanish": "Este ritmo es tu viaje.",
-      "category": "Balance",
-      "generated_at": "2026-05-07T15:31:14.467944"
-    },
-    {
-      "english": "Hear this echo of learning.",
-      "spanish": "Escucha este eco de aprendizaje.",
-      "category": "Balance",
-      "generated_at": "2026-05-07T15:31:14.467952"
-    },
-    {
-      "english": "Stop hesitating. Speak now.",
-      "spanish": "Deja de dudar. Habla ahora.",
-      "category": "Balance",
-      "generated_at": "2026-05-07T15:31:14.467960"
-    },
-    {
-      "english": "This sound, your calm.",
-      "spanish": "Este sonido, tu calma.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-07T16:52:46.173500"
-    },
-    {
       "english": "What if patience bloomed?",
       "spanish": "¿Y si la paciencia florece?",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Mañana dirás 'guau'.",
       "category": "Strength",
       "generated_at": "2026-10-01T00:27:40.377617"
+    },
+    {
+      "english": "Wisdom: Embrace the small wins.",
+      "spanish": "Sabiduría: Abraza las pequeñas victorias.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:44:22.845336"
+    },
+    {
+      "english": "Here's your secret Spanish power.",
+      "spanish": "Aquí está tu poder secreto español.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:44:22.845375"
+    },
+    {
+      "english": "Courage? It's inside you, now.",
+      "spanish": "¿Valentía? Está dentro de ti, ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:44:22.845406"
+    },
+    {
+      "english": "One sound changes your whole day.",
+      "spanish": "Un sonido cambia tu día entero.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:44:22.845432"
+    },
+    {
+      "english": "Tiny effort, massive Spanish leap.",
+      "spanish": "Pequeño esfuerzo, salto español masivo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-01T18:44:22.845460"
     }
   ],
-  "last_updated": "2026-10-01T00:27:40.377619",
+  "last_updated": "2026-10-01T18:44:22.845461",
   "used_english": [
-    "your confidence? it's building.",
-    "this rhythm is your journey.",
-    "hear this echo of learning.",
-    "stop hesitating. speak now.",
-    "this sound, your calm.",
     "what if patience bloomed?",
     "your quiet strength revealed.",
     "listen, peace is near.",
@@ -21002,6 +20997,11 @@
     "one small word, big power.",
     "here's your spanish magic.",
     "let go, speak freely.",
-    "tomorrow you'll say 'wow'."
+    "tomorrow you'll say 'wow'.",
+    "wisdom: embrace the small wins.",
+    "here's your secret spanish power.",
+    "courage? it's inside you, now.",
+    "one sound changes your whole day.",
+    "tiny effort, massive spanish leap."
   ]
 }
