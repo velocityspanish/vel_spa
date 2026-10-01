@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Want a real friend?",
-      "spanish": "¿Quieres amigo real?",
-      "category": "Friendship",
-      "generated_at": "2026-05-07T18:20:32.646114"
-    },
-    {
-      "english": "Your loyalty matters. Say...",
-      "spanish": "Tu lealtad, di...",
-      "category": "Friendship",
-      "generated_at": "2026-05-07T18:20:32.646123"
-    },
-    {
-      "english": "What if 'we' is powerful?",
-      "spanish": "¿Si 'nosotros' es fuerte?",
-      "category": "Friendship",
-      "generated_at": "2026-05-07T18:20:32.646131"
-    },
-    {
-      "english": "Curiosity: What's 'compañero'?",
-      "spanish": "¿Qué es 'compañero'?",
-      "category": "Friendship",
-      "generated_at": "2026-05-07T18:20:32.646140"
-    },
-    {
-      "english": "Why forgive? Instant calm.",
-      "spanish": "¿Por qué perdonar? Calma instantánea.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-07T20:08:35.987712"
-    },
-    {
       "english": "One word heals deep wounds.",
       "spanish": "Una palabra sana heridas profundas.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeñas victorias, grandes saltos lingüísticos.",
       "category": "Self Improvement",
       "generated_at": "2026-10-01T20:11:07.179228"
+    },
+    {
+      "english": "Hear this, speak bolder now.",
+      "spanish": "Oye esto, habla más audaz.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:30:46.662445"
+    },
+    {
+      "english": "The secret? Active listening.",
+      "spanish": "¿El secreto? Escucha activa.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:30:46.662480"
+    },
+    {
+      "english": "Curiosity unlocks every door.",
+      "spanish": "La curiosidad abre toda puerta.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:30:46.662508"
+    },
+    {
+      "english": "Feel this connection grow, yes!",
+      "spanish": "Siente esta conexión crecer, ¡sí!",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:30:46.662536"
+    },
+    {
+      "english": "Wisdom: Embrace imperfect speech.",
+      "spanish": "Sabiduría: Abraza el habla imperfecta.",
+      "category": "Success",
+      "generated_at": "2026-10-01T21:30:46.662562"
     }
   ],
-  "last_updated": "2026-10-01T20:11:07.179231",
+  "last_updated": "2026-10-01T21:30:46.662564",
   "used_english": [
-    "want a real friend?",
-    "your loyalty matters. say...",
-    "what if 'we' is powerful?",
-    "curiosity: what's 'compañero'?",
-    "why forgive? instant calm.",
     "one word heals deep wounds.",
     "let go. feel this freedom.",
     "this sound melts resentment.",
@@ -21002,6 +20997,11 @@
     "one sound, new conversations begin.",
     "this simple phrase, a bridge.",
     "your effort unlocks new doors.",
-    "tiny wins, big linguistic leaps."
+    "tiny wins, big linguistic leaps.",
+    "hear this, speak bolder now.",
+    "the secret? active listening.",
+    "curiosity unlocks every door.",
+    "feel this connection grow, yes!",
+    "wisdom: embrace imperfect speech."
   ]
 }
