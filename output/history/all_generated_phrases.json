@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if patience bloomed?",
-      "spanish": "¿Y si la paciencia florece?",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-07T16:52:46.173519"
-    },
-    {
-      "english": "Your quiet strength revealed.",
-      "spanish": "Tu fuerza callada, revelada.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-07T16:52:46.173530"
-    },
-    {
-      "english": "Listen, peace is near.",
-      "spanish": "Escucha, la paz está cerca.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-07T16:52:46.173539"
-    },
-    {
-      "english": "One word heals: 'perdón'.",
-      "spanish": "Una palabra sana: 'perdón'.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-07T16:52:46.173549"
-    },
-    {
-      "english": "Friendship's magic sound?",
-      "spanish": "¿Sonido de amistad?",
-      "category": "Friendship",
-      "generated_at": "2026-05-07T18:20:32.646098"
-    },
-    {
       "english": "Want a real friend?",
       "spanish": "¿Quieres amigo real?",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeño esfuerzo, salto español masivo.",
       "category": "Purpose",
       "generated_at": "2026-10-01T18:44:22.845460"
+    },
+    {
+      "english": "Curious? Say 'así es'.",
+      "spanish": "¿Curioso? Di 'así es'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T20:11:07.179089"
+    },
+    {
+      "english": "One sound, new conversations begin.",
+      "spanish": "Un sonido, nuevas conversaciones empiezan.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T20:11:07.179132"
+    },
+    {
+      "english": "This simple phrase, a bridge.",
+      "spanish": "Esta frase simple, un puente.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T20:11:07.179164"
+    },
+    {
+      "english": "Your effort unlocks new doors.",
+      "spanish": "Tu esfuerzo abre nuevas puertas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T20:11:07.179197"
+    },
+    {
+      "english": "Tiny wins, big linguistic leaps.",
+      "spanish": "Pequeñas victorias, grandes saltos lingüísticos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-01T20:11:07.179228"
     }
   ],
-  "last_updated": "2026-10-01T18:44:22.845461",
+  "last_updated": "2026-10-01T20:11:07.179231",
   "used_english": [
-    "what if patience bloomed?",
-    "your quiet strength revealed.",
-    "listen, peace is near.",
-    "one word heals: 'perdón'.",
-    "friendship's magic sound?",
     "want a real friend?",
     "your loyalty matters. say...",
     "what if 'we' is powerful?",
@@ -21002,6 +20997,11 @@
     "here's your secret spanish power.",
     "courage? it's inside you, now.",
     "one sound changes your whole day.",
-    "tiny effort, massive spanish leap."
+    "tiny effort, massive spanish leap.",
+    "curious? say 'así es'.",
+    "one sound, new conversations begin.",
+    "this simple phrase, a bridge.",
+    "your effort unlocks new doors.",
+    "tiny wins, big linguistic leaps."
   ]
 }
