@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret to connection is simple.",
-      "spanish": "El secreto de la conexión es simple.",
-      "category": "Strength",
-      "generated_at": "2026-05-08T18:05:36.375159"
-    },
-    {
-      "english": "Feel this progress. Now.",
-      "spanish": "Siente este progreso. Ahora.",
-      "category": "Strength",
-      "generated_at": "2026-05-08T18:05:36.375170"
-    },
-    {
-      "english": "Curiosity: What's 'por favor'?",
-      "spanish": "Curiosidad: ¿Qué es 'por favor'?",
-      "category": "Strength",
-      "generated_at": "2026-05-08T18:05:36.375181"
-    },
-    {
-      "english": "Why apologize? Instant peace.",
-      "spanish": "¿Por qué disculparse? Paz instantánea.",
-      "category": "Strength",
-      "generated_at": "2026-05-08T18:05:36.375191"
-    },
-    {
-      "english": "Your voice, their smile.",
-      "spanish": "Tu voz, su sonrisa.",
-      "category": "Success",
-      "generated_at": "2026-05-08T20:04:28.496177"
-    },
-    {
       "english": "Feel this new confidence.",
       "spanish": "Siente esta nueva confianza.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Confía en el proceso. sigue.",
       "category": "Growth",
       "generated_at": "2026-10-02T19:48:05.179856"
+    },
+    {
+      "english": "Your effort echoes, listen.",
+      "spanish": "Tu esfuerzo resuena, escucha.",
+      "category": "Motivation",
+      "generated_at": "2026-10-02T21:06:51.875831"
+    },
+    {
+      "english": "Curious? Say 'sí, quiero'.",
+      "spanish": "¿Curioso? Di 'sí, quiero'.",
+      "category": "Motivation",
+      "generated_at": "2026-10-02T21:06:51.875863"
+    },
+    {
+      "english": "Tomorrow you'll speak fluently.",
+      "spanish": "Mañana hablarás con fluidez.",
+      "category": "Motivation",
+      "generated_at": "2026-10-02T21:06:51.875886"
+    },
+    {
+      "english": "Embrace the 'almost there'.",
+      "spanish": "Abraza el 'casi lo logras'.",
+      "category": "Motivation",
+      "generated_at": "2026-10-02T21:06:51.875906"
+    },
+    {
+      "english": "The secret? Listen, then speak.",
+      "spanish": "El secreto? Escucha, luego habla.",
+      "category": "Motivation",
+      "generated_at": "2026-10-02T21:06:51.875936"
     }
   ],
-  "last_updated": "2026-10-02T19:48:05.179859",
+  "last_updated": "2026-10-02T21:06:51.875939",
   "used_english": [
-    "the secret to connection is simple.",
-    "feel this progress. now.",
-    "curiosity: what's 'por favor'?",
-    "why apologize? instant peace.",
-    "your voice, their smile.",
     "feel this new confidence.",
     "this tiny word, big impact.",
     "the secret? practice daily.",
@@ -21002,6 +20997,11 @@
     "listen. understand everything. now.",
     "your learning journey, vital.",
     "one word, unlocks connections.",
-    "trust the process. keep going."
+    "trust the process. keep going.",
+    "your effort echoes, listen.",
+    "curious? say 'sí, quiero'.",
+    "tomorrow you'll speak fluently.",
+    "embrace the 'almost there'.",
+    "the secret? listen, then speak."
   ]
 }
