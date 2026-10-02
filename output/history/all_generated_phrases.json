@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your accent sounds amazing!",
-      "spanish": "¡Tu acento suena genial!",
-      "category": "Growth",
-      "generated_at": "2026-05-08T14:54:50.808094"
-    },
-    {
-      "english": "One word, total understanding.",
-      "spanish": "Una palabra, total comprensión.",
-      "category": "Growth",
-      "generated_at": "2026-05-08T14:54:50.808104"
-    },
-    {
-      "english": "This phrase melts hearts.",
-      "spanish": "Esta frase derrite corazones.",
-      "category": "Growth",
-      "generated_at": "2026-05-08T14:54:50.808114"
-    },
-    {
-      "english": "Curiosity: what's 'chisme'?",
-      "spanish": "Curiosidad: ¿qué es 'chisme'?",
-      "category": "Growth",
-      "generated_at": "2026-05-08T14:54:50.808124"
-    },
-    {
-      "english": "Your voice is growing stronger.",
-      "spanish": "Tu voz se fortalece.",
-      "category": "Hope",
-      "generated_at": "2026-05-08T16:15:41.260683"
-    },
-    {
       "english": "What if it's easier than you think?",
       "spanish": "¿Y si es más fácil?",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "La siguiente palabra es tuya.",
       "category": "Wisdom",
       "generated_at": "2026-10-02T00:38:31.849390"
+    },
+    {
+      "english": "One phrase, big smiles.",
+      "spanish": "Una frase, grandes sonrisas.",
+      "category": "Happiness",
+      "generated_at": "2026-10-02T18:15:30.799100"
+    },
+    {
+      "english": "Unlock new connections now.",
+      "spanish": "Desbloquea nuevas conexiones ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-10-02T18:15:30.799135"
+    },
+    {
+      "english": "Curious? Say 'hola' first.",
+      "spanish": "¿Curioso? Di 'hola' primero.",
+      "category": "Happiness",
+      "generated_at": "2026-10-02T18:15:30.799157"
+    },
+    {
+      "english": "Your Spanish journey: begin!",
+      "spanish": "Tu viaje español: ¡empieza!",
+      "category": "Happiness",
+      "generated_at": "2026-10-02T18:15:30.799180"
+    },
+    {
+      "english": "Hear this, feel the magic.",
+      "spanish": "Escucha esto, siente la magia.",
+      "category": "Happiness",
+      "generated_at": "2026-10-02T18:15:30.799201"
     }
   ],
-  "last_updated": "2026-10-02T00:38:31.849392",
+  "last_updated": "2026-10-02T18:15:30.799203",
   "used_english": [
-    "your accent sounds amazing!",
-    "one word, total understanding.",
-    "this phrase melts hearts.",
-    "curiosity: what's 'chisme'?",
-    "your voice is growing stronger.",
     "what if it's easier than you think?",
     "this small word unlocks worlds.",
     "feel the progress, embrace it.",
@@ -21002,6 +20997,11 @@
     "feel this learning flow, friend.",
     "what if you understood them?",
     "surprise: you're getting it!",
-    "the next word is yours."
+    "the next word is yours.",
+    "one phrase, big smiles.",
+    "unlock new connections now.",
+    "curious? say 'hola' first.",
+    "your spanish journey: begin!",
+    "hear this, feel the magic."
   ]
 }
