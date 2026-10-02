@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this new confidence.",
-      "spanish": "Siente esta nueva confianza.",
-      "category": "Success",
-      "generated_at": "2026-05-08T20:04:28.496198"
-    },
-    {
-      "english": "This tiny word, big impact.",
-      "spanish": "Esta palabra pequeña, gran impacto.",
-      "category": "Success",
-      "generated_at": "2026-05-08T20:04:28.496209"
-    },
-    {
-      "english": "The secret? Practice daily.",
-      "spanish": "El secreto: Practica a diario.",
-      "category": "Success",
-      "generated_at": "2026-05-08T20:04:28.496219"
-    },
-    {
-      "english": "Your journey, one word.",
-      "spanish": "Tu viaje, una palabra.",
-      "category": "Success",
-      "generated_at": "2026-05-08T20:04:28.496229"
-    },
-    {
-      "english": "Future you thanks you.",
-      "spanish": "Tu yo futuro te agradece.",
-      "category": "Courage",
-      "generated_at": "2026-05-08T22:04:25.407094"
-    },
-    {
       "english": "One word, world unlocked.",
       "spanish": "Una palabra, mundo desbloqueado.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "El secreto? Escucha, luego habla.",
       "category": "Motivation",
       "generated_at": "2026-10-02T21:06:51.875936"
+    },
+    {
+      "english": "Your Spanish journey, unstoppable now.",
+      "spanish": "Tu viaje español, imparable ahora.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-02T22:42:15.673881"
+    },
+    {
+      "english": "The spark? Daily, small efforts.",
+      "spanish": "La chispa? Diarios, pequeños esfuerzos.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-02T22:42:15.673908"
+    },
+    {
+      "english": "Mistakes are stepping stones, learn.",
+      "spanish": "Los errores son escalones, aprende.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-02T22:42:15.673921"
+    },
+    {
+      "english": "Here's your courage boost, ¡dale!",
+      "spanish": "Aquí tu impulso de coraje, ¡dale!",
+      "category": "Perseverance",
+      "generated_at": "2026-10-02T22:42:15.673936"
+    },
+    {
+      "english": "Why fear? Your voice matters.",
+      "spanish": "¿Por qué temer? Tu voz importa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-02T22:42:15.673951"
     }
   ],
-  "last_updated": "2026-10-02T21:06:51.875939",
+  "last_updated": "2026-10-02T22:42:15.673952",
   "used_english": [
-    "feel this new confidence.",
-    "this tiny word, big impact.",
-    "the secret? practice daily.",
-    "your journey, one word.",
-    "future you thanks you.",
     "one word, world unlocked.",
     "mistakes are your teachers.",
     "don't wait. speak it.",
@@ -21002,6 +20997,11 @@
     "curious? say 'sí, quiero'.",
     "tomorrow you'll speak fluently.",
     "embrace the 'almost there'.",
-    "the secret? listen, then speak."
+    "the secret? listen, then speak.",
+    "your spanish journey, unstoppable now.",
+    "the spark? daily, small efforts.",
+    "mistakes are stepping stones, learn.",
+    "here's your courage boost, ¡dale!",
+    "why fear? your voice matters."
   ]
 }
