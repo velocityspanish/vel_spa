@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if it's easier than you think?",
-      "spanish": "¿Y si es más fácil?",
-      "category": "Hope",
-      "generated_at": "2026-05-08T16:15:41.260702"
-    },
-    {
-      "english": "This small word unlocks worlds.",
-      "spanish": "Esta palabra abre mundos.",
-      "category": "Hope",
-      "generated_at": "2026-05-08T16:15:41.260713"
-    },
-    {
-      "english": "Feel the progress, embrace it.",
-      "spanish": "Siente el progreso, acéptalo.",
-      "category": "Hope",
-      "generated_at": "2026-05-08T16:15:41.260723"
-    },
-    {
-      "english": "Never stop learning. Enjoy the ride.",
-      "spanish": "Nunca dejes de aprender. Disfruta.",
-      "category": "Hope",
-      "generated_at": "2026-05-08T16:15:41.260732"
-    },
-    {
-      "english": "Your bravery sounds amazing.",
-      "spanish": "Tu valentía suena increíble.",
-      "category": "Strength",
-      "generated_at": "2026-05-08T18:05:36.375128"
-    },
-    {
       "english": "The secret to connection is simple.",
       "spanish": "El secreto de la conexión es simple.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha esto, siente la magia.",
       "category": "Happiness",
       "generated_at": "2026-10-02T18:15:30.799201"
+    },
+    {
+      "english": "Here's your tiny win.",
+      "spanish": "Aquí tu pequeña victoria.",
+      "category": "Growth",
+      "generated_at": "2026-10-02T19:48:05.179599"
+    },
+    {
+      "english": "Listen. understand everything. now.",
+      "spanish": "Escucha. entiende todo. ahora.",
+      "category": "Growth",
+      "generated_at": "2026-10-02T19:48:05.179670"
+    },
+    {
+      "english": "Your learning journey, vital.",
+      "spanish": "Tu viaje de aprendizaje, vital.",
+      "category": "Growth",
+      "generated_at": "2026-10-02T19:48:05.179733"
+    },
+    {
+      "english": "One word, unlocks connections.",
+      "spanish": "Una palabra, desbloquea conexiones.",
+      "category": "Growth",
+      "generated_at": "2026-10-02T19:48:05.179795"
+    },
+    {
+      "english": "Trust the process. keep going.",
+      "spanish": "Confía en el proceso. sigue.",
+      "category": "Growth",
+      "generated_at": "2026-10-02T19:48:05.179856"
     }
   ],
-  "last_updated": "2026-10-02T18:15:30.799203",
+  "last_updated": "2026-10-02T19:48:05.179859",
   "used_english": [
-    "what if it's easier than you think?",
-    "this small word unlocks worlds.",
-    "feel the progress, embrace it.",
-    "never stop learning. enjoy the ride.",
-    "your bravery sounds amazing.",
     "the secret to connection is simple.",
     "feel this progress. now.",
     "curiosity: what's 'por favor'?",
@@ -21002,6 +20997,11 @@
     "unlock new connections now.",
     "curious? say 'hola' first.",
     "your spanish journey: begin!",
-    "hear this, feel the magic."
+    "hear this, feel the magic.",
+    "here's your tiny win.",
+    "listen. understand everything. now.",
+    "your learning journey, vital.",
+    "one word, unlocks connections.",
+    "trust the process. keep going."
   ]
 }
