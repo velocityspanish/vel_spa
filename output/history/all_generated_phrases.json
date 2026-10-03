@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This word sparks happiness.",
-      "spanish": "Esta palabra chispea felicidad.",
-      "category": "Joy",
-      "generated_at": "2026-05-09T15:55:27.119716"
-    },
-    {
-      "english": "Curious? Say 'qué tal'.",
-      "spanish": "¿Curioso? Di 'qué tal'.",
-      "category": "Joy",
-      "generated_at": "2026-05-09T15:55:27.119727"
-    },
-    {
-      "english": "Your voice is a song.",
-      "spanish": "Tu voz es una canción.",
-      "category": "Joy",
-      "generated_at": "2026-05-09T15:55:27.119737"
-    },
-    {
-      "english": "Embrace the rhythm. Smile.",
-      "spanish": "Abraza el ritmo. Sonríe.",
-      "category": "Joy",
-      "generated_at": "2026-05-09T15:55:27.119747"
-    },
-    {
-      "english": "This word, pure relief. Try it.",
-      "spanish": "Esta palabra, puro alivio. Pruébala.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-09T17:42:51.061393"
-    },
-    {
       "english": "Your effort sounds beautiful, friend.",
       "spanish": "Tu esfuerzo suena hermoso, amigo.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Aquí está tu próximo paso fluido.",
       "category": "Motivation",
       "generated_at": "2026-10-03T17:03:10.501522"
+    },
+    {
+      "english": "Feel this progress? You're shining.",
+      "spanish": "¿Sientes este progreso? Brillando.",
+      "category": "Happiness",
+      "generated_at": "2026-10-03T18:34:30.988072"
+    },
+    {
+      "english": "Want happy vibes? Try this.",
+      "spanish": "¿Quieres buena onda? Prueba esto.",
+      "category": "Happiness",
+      "generated_at": "2026-10-03T18:34:30.988107"
+    },
+    {
+      "english": "Wisdom: Smile more, learn easier.",
+      "spanish": "Sabiduría: Sonríe más, aprende fácil.",
+      "category": "Happiness",
+      "generated_at": "2026-10-03T18:34:30.988134"
+    },
+    {
+      "english": "Here's your happy sound today.",
+      "spanish": "Aquí tu sonido feliz hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-03T18:34:30.988162"
+    },
+    {
+      "english": "Tiny wins feel amazing.",
+      "spanish": "Victorias pequeñas, gran gozo.",
+      "category": "Happiness",
+      "generated_at": "2026-10-03T18:34:30.988186"
     }
   ],
-  "last_updated": "2026-10-03T17:03:10.501524",
+  "last_updated": "2026-10-03T18:34:30.988188",
   "used_english": [
-    "this word sparks happiness.",
-    "curious? say 'qué tal'.",
-    "your voice is a song.",
-    "embrace the rhythm. smile.",
-    "this word, pure relief. try it.",
     "your effort sounds beautiful, friend.",
     "curious? 'lo siento' means sorry.",
     "what if this word felt calm?",
@@ -21002,6 +20997,11 @@
     "feel this new confidence, yes?",
     "tiny sounds unlock big doors.",
     "your progress feels like sunshine.",
-    "here's your next fluent step."
+    "here's your next fluent step.",
+    "feel this progress? you're shining.",
+    "want happy vibes? try this.",
+    "wisdom: smile more, learn easier.",
+    "here's your happy sound today.",
+    "tiny wins feel amazing."
   ]
 }
