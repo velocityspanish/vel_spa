@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your effort sounds beautiful, friend.",
-      "spanish": "Tu esfuerzo suena hermoso, amigo.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-09T17:42:51.061410"
-    },
-    {
-      "english": "Curious? 'Lo siento' means sorry.",
-      "spanish": "Curioso? 'Lo siento' significa perdón.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-09T17:42:51.061420"
-    },
-    {
-      "english": "What if this word felt calm?",
-      "spanish": "¿Y si esta palabra se siente calma?",
-      "category": "Gratitude",
-      "generated_at": "2026-05-09T17:42:51.061431"
-    },
-    {
-      "english": "One sound, deep connection. Hear it.",
-      "spanish": "Un sonido, conexión profunda. Escúchalo.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-09T17:42:51.061441"
-    },
-    {
-      "english": "Your voice has power, unlock it.",
-      "spanish": "Tu voz tiene poder, desatala.",
-      "category": "Balance",
-      "generated_at": "2026-05-09T19:51:37.786148"
-    },
-    {
       "english": "Curious? What does 'disfruta' mean?",
       "spanish": "¿Curioso? ¿Qué significa 'disfruta'?",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Victorias pequeñas, gran gozo.",
       "category": "Happiness",
       "generated_at": "2026-10-03T18:34:30.988186"
+    },
+    {
+      "english": "Future you, proud right now.",
+      "spanish": "Tu yo futuro, orgulloso ahora.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T19:37:27.302539"
+    },
+    {
+      "english": "This small sound, unlocks joy.",
+      "spanish": "Este pequeño sonido, abre alegría.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T19:37:27.302578"
+    },
+    {
+      "english": "Ready for a Spanish surprise?",
+      "spanish": "¿Listo para una sorpresa española?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T19:37:27.302605"
+    },
+    {
+      "english": "One phrase starts connections.",
+      "spanish": "Una frase inicia conexiones.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T19:37:27.302633"
+    },
+    {
+      "english": "Embrace the 'learning' pause.",
+      "spanish": "Abraza la pausa de aprender.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-03T19:37:27.302659"
     }
   ],
-  "last_updated": "2026-10-03T18:34:30.988188",
+  "last_updated": "2026-10-03T19:37:27.302661",
   "used_english": [
-    "your effort sounds beautiful, friend.",
-    "curious? 'lo siento' means sorry.",
-    "what if this word felt calm?",
-    "one sound, deep connection. hear it.",
-    "your voice has power, unlock it.",
     "curious? what does 'disfruta' mean?",
     "feel this rhythm, your spanish journey.",
     "wisdom: learn little, speak daily.",
@@ -21002,6 +20997,11 @@
     "want happy vibes? try this.",
     "wisdom: smile more, learn easier.",
     "here's your happy sound today.",
-    "tiny wins feel amazing."
+    "tiny wins feel amazing.",
+    "future you, proud right now.",
+    "this small sound, unlocks joy.",
+    "ready for a spanish surprise?",
+    "one phrase starts connections.",
+    "embrace the 'learning' pause."
   ]
 }
