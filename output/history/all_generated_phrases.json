@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your mind will thank you.",
-      "spanish": "Tu mente te lo agradecerá.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-09T21:54:47.739904"
-    },
-    {
-      "english": "Never rush your learning.",
-      "spanish": "Nunca apresures tu aprendizaje.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-09T21:54:47.739915"
-    },
-    {
-      "english": "What if 'vale' changes it?",
-      "spanish": "¿Y si 'vale' lo cambia?",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-09T21:54:47.739926"
-    },
-    {
-      "english": "This sound means 'yes'!",
-      "spanish": "¡Este sonido significa 'sí'!",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-09T21:54:47.739937"
-    },
-    {
-      "english": "Curiosity: What is 'besos'?",
-      "spanish": "¿Curiosidad: qué son 'besos'?",
-      "category": "Gratitude",
-      "generated_at": "2026-05-10T14:21:22.729536"
-    },
-    {
       "english": "Unlock a new friendship.",
       "spanish": "Desbloquea una nueva amistad.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Oye este sonido, transfórmate.",
       "category": "Strength",
       "generated_at": "2026-10-03T21:54:19.679580"
+    },
+    {
+      "english": "Your friend group needs this.",
+      "spanish": "Tu grupo de amigos necesita esto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:43:01.057278"
+    },
+    {
+      "english": "Send this to your bestie!",
+      "spanish": "¡Envía esto a tu mejor amiga!",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:43:01.057315"
+    },
+    {
+      "english": "Friendship in one word?",
+      "spanish": "¿Amistad en una palabra?",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:43:01.057341"
+    },
+    {
+      "english": "This word feels like a hug.",
+      "spanish": "Esta palabra se siente como abrazo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:43:01.057369"
+    },
+    {
+      "english": "Your shared laughs, in Spanish.",
+      "spanish": "Tus risas compartidas, en español.",
+      "category": "Friendship",
+      "generated_at": "2026-10-03T23:43:01.057396"
     }
   ],
-  "last_updated": "2026-10-03T21:54:19.679582",
+  "last_updated": "2026-10-03T23:43:01.057398",
   "used_english": [
-    "your mind will thank you.",
-    "never rush your learning.",
-    "what if 'vale' changes it?",
-    "this sound means 'yes'!",
-    "curiosity: what is 'besos'?",
     "unlock a new friendship.",
     "this sound is pure connection.",
     "wisdom: small words, big impact.",
@@ -21002,6 +20997,11 @@
     "this feels like magic.",
     "your journey's vibrant pulse.",
     "tiny efforts, big breakthroughs.",
-    "hear this sound, transform."
+    "hear this sound, transform.",
+    "your friend group needs this.",
+    "send this to your bestie!",
+    "friendship in one word?",
+    "this word feels like a hug.",
+    "your shared laughs, in spanish."
   ]
 }
