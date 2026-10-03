@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curious? What does 'disfruta' mean?",
-      "spanish": "¿Curioso? ¿Qué significa 'disfruta'?",
-      "category": "Balance",
-      "generated_at": "2026-05-09T19:51:37.786168"
-    },
-    {
-      "english": "Feel this rhythm, your Spanish journey.",
-      "spanish": "Siente este ritmo, tu viaje español.",
-      "category": "Balance",
-      "generated_at": "2026-05-09T19:51:37.786178"
-    },
-    {
-      "english": "Wisdom: Learn little, speak daily.",
-      "spanish": "Sabiduria: Aprende poco, habla diario.",
-      "category": "Balance",
-      "generated_at": "2026-05-09T19:51:37.786188"
-    },
-    {
-      "english": "You belong here. Welcome, speak!",
-      "spanish": "Perteneces aquí. ¡Bienvenido, habla!",
-      "category": "Balance",
-      "generated_at": "2026-05-09T19:51:37.786198"
-    },
-    {
-      "english": "Curiosity: What's 'en serio'?",
-      "spanish": "Curiosidad: ¿Qué es 'en serio'?",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-09T21:54:47.739886"
-    },
-    {
       "english": "Your mind will thank you.",
       "spanish": "Tu mente te lo agradecerá.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza la pausa de aprender.",
       "category": "Self Improvement",
       "generated_at": "2026-10-03T19:37:27.302659"
+    },
+    {
+      "english": "Surprise, you're fluent!",
+      "spanish": "¡Sorpresa, hablas fluido!",
+      "category": "Strength",
+      "generated_at": "2026-10-03T21:54:19.679484"
+    },
+    {
+      "english": "This feels like magic.",
+      "spanish": "Esto se siente mágico.",
+      "category": "Strength",
+      "generated_at": "2026-10-03T21:54:19.679512"
+    },
+    {
+      "english": "Your journey's vibrant pulse.",
+      "spanish": "El pulso vibrante de tu viaje.",
+      "category": "Strength",
+      "generated_at": "2026-10-03T21:54:19.679536"
+    },
+    {
+      "english": "Tiny efforts, big breakthroughs.",
+      "spanish": "Esfuerzos pequeños, grandes avances.",
+      "category": "Strength",
+      "generated_at": "2026-10-03T21:54:19.679558"
+    },
+    {
+      "english": "Hear this sound, transform.",
+      "spanish": "Oye este sonido, transfórmate.",
+      "category": "Strength",
+      "generated_at": "2026-10-03T21:54:19.679580"
     }
   ],
-  "last_updated": "2026-10-03T19:37:27.302661",
+  "last_updated": "2026-10-03T21:54:19.679582",
   "used_english": [
-    "curious? what does 'disfruta' mean?",
-    "feel this rhythm, your spanish journey.",
-    "wisdom: learn little, speak daily.",
-    "you belong here. welcome, speak!",
-    "curiosity: what's 'en serio'?",
     "your mind will thank you.",
     "never rush your learning.",
     "what if 'vale' changes it?",
@@ -21002,6 +20997,11 @@
     "this small sound, unlocks joy.",
     "ready for a spanish surprise?",
     "one phrase starts connections.",
-    "embrace the 'learning' pause."
+    "embrace the 'learning' pause.",
+    "surprise, you're fluent!",
+    "this feels like magic.",
+    "your journey's vibrant pulse.",
+    "tiny efforts, big breakthroughs.",
+    "hear this sound, transform."
   ]
 }
