@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This phrase captures pure adoration.",
-      "spanish": "Esta frase captura pura adoración.",
-      "category": "Love",
-      "generated_at": "2026-05-10T15:58:09.219082"
-    },
-    {
-      "english": "Your smile, my favorite Spanish lesson.",
-      "spanish": "Tu sonrisa, mi lección española favorita.",
-      "category": "Love",
-      "generated_at": "2026-05-10T15:58:09.219090"
-    },
-    {
-      "english": "Stop resisting this sweet connection.",
-      "spanish": "Deja de resistir esta dulce conexión.",
-      "category": "Love",
-      "generated_at": "2026-05-10T15:58:09.219098"
-    },
-    {
-      "english": "Feel the warmth in 'mi amor'.",
-      "spanish": "Siente el calor en 'mi amor'.",
-      "category": "Love",
-      "generated_at": "2026-05-10T15:58:09.219110"
-    },
-    {
-      "english": "Curious? 'Hasta luego' means bye.",
-      "spanish": "¿Curioso? 'Hasta luego' es adiós.",
-      "category": "Friendship",
-      "generated_at": "2026-05-10T17:43:41.119968"
-    },
-    {
       "english": "Mistakes are just learning steps.",
       "spanish": "Los errores son pasos de aprendizaje.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Aquí tu chispa diaria.",
       "category": "Confidence",
       "generated_at": "2026-10-04T17:20:46.040698"
+    },
+    {
+      "english": "Your Spanish future looks bright.",
+      "spanish": "Tu futuro español se ve brillante.",
+      "category": "Success",
+      "generated_at": "2026-10-04T18:33:08.593446"
+    },
+    {
+      "english": "Tiny progress, huge leap.",
+      "spanish": "Progreso pequeño, salto enorme.",
+      "category": "Success",
+      "generated_at": "2026-10-04T18:33:08.593482"
+    },
+    {
+      "english": "Feel the rhythm? You're fluent.",
+      "spanish": "¿Sientes el ritmo? Eres fluido.",
+      "category": "Success",
+      "generated_at": "2026-10-04T18:33:08.593510"
+    },
+    {
+      "english": "The secret: listening to this.",
+      "spanish": "El secreto: escucha esto.",
+      "category": "Success",
+      "generated_at": "2026-10-04T18:33:08.593537"
+    },
+    {
+      "english": "Curiosity unlocks fluency, try.",
+      "spanish": "La curiosidad abre fluidez, intenta.",
+      "category": "Success",
+      "generated_at": "2026-10-04T18:33:08.593565"
     }
   ],
-  "last_updated": "2026-10-04T17:20:46.040700",
+  "last_updated": "2026-10-04T18:33:08.593566",
   "used_english": [
-    "this phrase captures pure adoration.",
-    "your smile, my favorite spanish lesson.",
-    "stop resisting this sweet connection.",
-    "feel the warmth in 'mi amor'.",
-    "curious? 'hasta luego' means bye.",
     "mistakes are just learning steps.",
     "one word unlocks deep connection.",
     "what if 'lo siento' felt peaceful?",
@@ -21002,6 +20997,11 @@
     "feel this? progress is real.",
     "one sound, new connections.",
     "courage: it's in your voice.",
-    "here's your daily spanish spark."
+    "here's your daily spanish spark.",
+    "your spanish future looks bright.",
+    "tiny progress, huge leap.",
+    "feel the rhythm? you're fluent.",
+    "the secret: listening to this.",
+    "curiosity unlocks fluency, try."
   ]
 }
