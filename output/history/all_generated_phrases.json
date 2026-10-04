@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock a new friendship.",
-      "spanish": "Desbloquea una nueva amistad.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-10T14:21:22.729555"
-    },
-    {
-      "english": "This sound is pure connection.",
-      "spanish": "Este sonido es pura conexión.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-10T14:21:22.729566"
-    },
-    {
-      "english": "Wisdom: Small words, big impact.",
-      "spanish": "Sabiduría: Palabras pequeñas, gran impacto.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-10T14:21:22.729576"
-    },
-    {
-      "english": "Stop fearing. Start exploring.",
-      "spanish": "Deja de temer. Empieza a explorar.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-10T14:21:22.729587"
-    },
-    {
-      "english": "Her eyes, a silent Spanish poem.",
-      "spanish": "Sus ojos, un poema español mudo.",
-      "category": "Love",
-      "generated_at": "2026-05-10T15:58:09.219064"
-    },
-    {
       "english": "This phrase captures pure adoration.",
       "spanish": "Esta frase captura pura adoración.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Tus risas compartidas, en español.",
       "category": "Friendship",
       "generated_at": "2026-10-03T23:43:01.057396"
+    },
+    {
+      "english": "This tiny word bridges gaps.",
+      "spanish": "Esta palabra une puentes.",
+      "category": "Confidence",
+      "generated_at": "2026-10-04T17:20:46.040575"
+    },
+    {
+      "english": "Feel this? Progress is real.",
+      "spanish": "¿Sientes esto? El progreso es real.",
+      "category": "Confidence",
+      "generated_at": "2026-10-04T17:20:46.040614"
+    },
+    {
+      "english": "One sound, new connections.",
+      "spanish": "Un sonido, nuevas conexiones.",
+      "category": "Confidence",
+      "generated_at": "2026-10-04T17:20:46.040642"
+    },
+    {
+      "english": "Courage: It's in your voice.",
+      "spanish": "Coraje: Está en tu voz.",
+      "category": "Confidence",
+      "generated_at": "2026-10-04T17:20:46.040670"
+    },
+    {
+      "english": "Here's your daily Spanish spark.",
+      "spanish": "Aquí tu chispa diaria.",
+      "category": "Confidence",
+      "generated_at": "2026-10-04T17:20:46.040698"
     }
   ],
-  "last_updated": "2026-10-03T23:43:01.057398",
+  "last_updated": "2026-10-04T17:20:46.040700",
   "used_english": [
-    "unlock a new friendship.",
-    "this sound is pure connection.",
-    "wisdom: small words, big impact.",
-    "stop fearing. start exploring.",
-    "her eyes, a silent spanish poem.",
     "this phrase captures pure adoration.",
     "your smile, my favorite spanish lesson.",
     "stop resisting this sweet connection.",
@@ -21002,6 +20997,11 @@
     "send this to your bestie!",
     "friendship in one word?",
     "this word feels like a hug.",
-    "your shared laughs, in spanish."
+    "your shared laughs, in spanish.",
+    "this tiny word bridges gaps.",
+    "feel this? progress is real.",
+    "one sound, new connections.",
+    "courage: it's in your voice.",
+    "here's your daily spanish spark."
   ]
 }
