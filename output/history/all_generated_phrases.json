@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Mistakes are just learning steps.",
-      "spanish": "Los errores son pasos de aprendizaje.",
-      "category": "Friendship",
-      "generated_at": "2026-05-10T17:43:41.119985"
-    },
-    {
-      "english": "One word unlocks deep connection.",
-      "spanish": "Una palabra desbloquea conexión profunda.",
-      "category": "Friendship",
-      "generated_at": "2026-05-10T17:43:41.119996"
-    },
-    {
-      "english": "What if 'lo siento' felt peaceful?",
-      "spanish": "¿Y si 'lo siento' se sintiera pacífico?",
-      "category": "Friendship",
-      "generated_at": "2026-05-10T17:43:41.120006"
-    },
-    {
-      "english": "Wisdom: Learn small, speak often.",
-      "spanish": "Sabiduría: Aprende poco, habla a menudo.",
-      "category": "Friendship",
-      "generated_at": "2026-05-10T17:43:41.120016"
-    },
-    {
-      "english": "Try this: simple joy.",
-      "spanish": "Prueba esto: gozo simple.",
-      "category": "Courage",
-      "generated_at": "2026-05-10T19:53:34.004131"
-    },
-    {
       "english": "Hear this, feel it.",
       "spanish": "Oye esto, siéntelo.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "La curiosidad abre fluidez, intenta.",
       "category": "Success",
       "generated_at": "2026-10-04T18:33:08.593565"
+    },
+    {
+      "english": "Your words hold pure magic.",
+      "spanish": "Tus palabras tienen magia pura.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-04T19:51:25.028088"
+    },
+    {
+      "english": "Feel this rhythm? fluency unlocked.",
+      "spanish": "¿Sientes este ritmo? fluidez desbloqueada.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-04T19:51:25.028116"
+    },
+    {
+      "english": "Wisdom: Embrace the speaking mess.",
+      "spanish": "Sabiduría: Abraza el desorden al hablar.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-04T19:51:25.028132"
+    },
+    {
+      "english": "Surprise: You understand more now.",
+      "spanish": "Sorpresa: Entiendes más ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-04T19:51:25.028147"
+    },
+    {
+      "english": "This simple greeting, starts friendships.",
+      "spanish": "Este saludo simple, inicia amistades.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-04T19:51:25.028161"
     }
   ],
-  "last_updated": "2026-10-04T18:33:08.593566",
+  "last_updated": "2026-10-04T19:51:25.028162",
   "used_english": [
-    "mistakes are just learning steps.",
-    "one word unlocks deep connection.",
-    "what if 'lo siento' felt peaceful?",
-    "wisdom: learn small, speak often.",
-    "try this: simple joy.",
     "hear this, feel it.",
     "wisdom: patience blooms courage.",
     "feel this small triumph.",
@@ -21002,6 +20997,11 @@
     "tiny progress, huge leap.",
     "feel the rhythm? you're fluent.",
     "the secret: listening to this.",
-    "curiosity unlocks fluency, try."
+    "curiosity unlocks fluency, try.",
+    "your words hold pure magic.",
+    "feel this rhythm? fluency unlocked.",
+    "wisdom: embrace the speaking mess.",
+    "surprise: you understand more now.",
+    "this simple greeting, starts friendships."
   ]
 }
