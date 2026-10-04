@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your mind, expanding now.",
-      "spanish": "Tu mente, expandiéndose ahora.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T21:55:45.837319"
-    },
-    {
-      "english": "Wisdom: Small wins, big leaps.",
-      "spanish": "Sabiduría: Pequeñas victorias, grandes saltos.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T21:55:45.837330"
-    },
-    {
-      "english": "What if learning was fun?",
-      "spanish": "¿Qué si aprender fuera divertido?",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T21:55:45.837341"
-    },
-    {
-      "english": "Here's a quick boost.",
-      "spanish": "Aquí tienes un impulso rápido.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T21:55:45.837351"
-    },
-    {
-      "english": "This word calms the storm.",
-      "spanish": "Esta palabra calma la tormenta.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T15:57:34.374849"
-    },
-    {
       "english": "Your inner voice is awakening.",
       "spanish": "Tu voz interior está despertando.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeñas victorias se sienten sol.",
       "category": "Patience",
       "generated_at": "2026-10-04T22:06:32.259830"
+    },
+    {
+      "english": "Your journey's hidden gem awaits.",
+      "spanish": "La joya oculta de tu viaje.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-04T23:54:59.925768"
+    },
+    {
+      "english": "This connection feels amazing.",
+      "spanish": "Esta conexión se siente increíble.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-04T23:54:59.925806"
+    },
+    {
+      "english": "Here's your daily language boost.",
+      "spanish": "Aquí está tu impulso diario.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-04T23:54:59.925833"
+    },
+    {
+      "english": "Feeling understood is powerful.",
+      "spanish": "Sentirse entendido es poderoso.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-04T23:54:59.925860"
+    },
+    {
+      "english": "Your learning speed is incredible.",
+      "spanish": "Tu velocidad de aprendizaje es increíble.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-04T23:54:59.925886"
     }
   ],
-  "last_updated": "2026-10-04T22:06:32.259832",
+  "last_updated": "2026-10-04T23:54:59.925889",
   "used_english": [
-    "your mind, expanding now.",
-    "wisdom: small wins, big leaps.",
-    "what if learning was fun?",
-    "here's a quick boost.",
-    "this word calms the storm.",
     "your inner voice is awakening.",
     "wisdom: learn with your heart.",
     "this rhythm, your new comfort.",
@@ -21002,6 +20997,11 @@
     "one sound unlocks understanding, listen.",
     "mistakes are growth, embrace them now.",
     "hear this? your accent matters.",
-    "tiny wins feel like sunshine."
+    "tiny wins feel like sunshine.",
+    "your journey's hidden gem awaits.",
+    "this connection feels amazing.",
+    "here's your daily language boost.",
+    "feeling understood is powerful.",
+    "your learning speed is incredible."
   ]
 }
