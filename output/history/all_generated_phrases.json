@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Hear this, feel it.",
-      "spanish": "Oye esto, siéntelo.",
-      "category": "Courage",
-      "generated_at": "2026-05-10T19:53:34.004150"
-    },
-    {
-      "english": "Wisdom: patience blooms courage.",
-      "spanish": "Sabiduría: paciencia florece coraje.",
-      "category": "Courage",
-      "generated_at": "2026-05-10T19:53:34.004169"
-    },
-    {
-      "english": "Feel this small triumph.",
-      "spanish": "Siente este pequeño triunfo.",
-      "category": "Courage",
-      "generated_at": "2026-05-10T19:53:34.004180"
-    },
-    {
-      "english": "Curiosity? What's 'vale'?",
-      "spanish": "¿Curiosidad? ¿Qué es 'vale'?",
-      "category": "Courage",
-      "generated_at": "2026-05-10T19:53:34.004190"
-    },
-    {
-      "english": "Surprise! This word feels good.",
-      "spanish": "¡Sorpresa! Esta palabra se siente bien.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-10T21:55:45.837299"
-    },
-    {
       "english": "Your mind, expanding now.",
       "spanish": "Tu mente, expandiéndose ahora.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Este saludo simple, inicia amistades.",
       "category": "Positive Life",
       "generated_at": "2026-10-04T19:51:25.028161"
+    },
+    {
+      "english": "Future you, speaking confidently, yes?",
+      "spanish": "Futuro tú, hablando con confianza, ¿sí?",
+      "category": "Patience",
+      "generated_at": "2026-10-04T22:06:32.259709"
+    },
+    {
+      "english": "One sound unlocks understanding, listen.",
+      "spanish": "Un sonido desbloquea entendimiento, escucha.",
+      "category": "Patience",
+      "generated_at": "2026-10-04T22:06:32.259745"
+    },
+    {
+      "english": "Mistakes are growth, embrace them now.",
+      "spanish": "Errores son crecimiento, abrázalos ahora.",
+      "category": "Patience",
+      "generated_at": "2026-10-04T22:06:32.259771"
+    },
+    {
+      "english": "Hear this? Your accent matters.",
+      "spanish": "¿Oyes esto? Tu acento importa.",
+      "category": "Patience",
+      "generated_at": "2026-10-04T22:06:32.259801"
+    },
+    {
+      "english": "Tiny wins feel like sunshine.",
+      "spanish": "Pequeñas victorias se sienten sol.",
+      "category": "Patience",
+      "generated_at": "2026-10-04T22:06:32.259830"
     }
   ],
-  "last_updated": "2026-10-04T19:51:25.028162",
+  "last_updated": "2026-10-04T22:06:32.259832",
   "used_english": [
-    "hear this, feel it.",
-    "wisdom: patience blooms courage.",
-    "feel this small triumph.",
-    "curiosity? what's 'vale'?",
-    "surprise! this word feels good.",
     "your mind, expanding now.",
     "wisdom: small wins, big leaps.",
     "what if learning was fun?",
@@ -21002,6 +20997,11 @@
     "feel this rhythm? fluency unlocked.",
     "wisdom: embrace the speaking mess.",
     "surprise: you understand more now.",
-    "this simple greeting, starts friendships."
+    "this simple greeting, starts friendships.",
+    "future you, speaking confidently, yes?",
+    "one sound unlocks understanding, listen.",
+    "mistakes are growth, embrace them now.",
+    "hear this? your accent matters.",
+    "tiny wins feel like sunshine."
   ]
 }
