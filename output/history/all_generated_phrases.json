@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your inner voice is awakening.",
-      "spanish": "Tu voz interior está despertando.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T15:57:34.374870"
-    },
-    {
-      "english": "Wisdom: Learn with your heart.",
-      "spanish": "Sabiduría: Aprende con tu corazón.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T15:57:34.374881"
-    },
-    {
-      "english": "This rhythm, your new comfort.",
-      "spanish": "Este ritmo, tu nuevo consuelo.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T15:57:34.374892"
-    },
-    {
-      "english": "Hear this: your bravery sings.",
-      "spanish": "Escucha esto: tu valentía canta.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T15:57:34.374903"
-    },
-    {
-      "english": "Feel this rhythm, you've got this.",
-      "spanish": "Siente este ritmo, puedes hacerlo.",
-      "category": "Courage",
-      "generated_at": "2026-05-11T17:27:31.934426"
-    },
-    {
       "english": "Unlock new friendships, say hi.",
       "spanish": "Desbloquea nuevas amistades, saluda.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu velocidad de aprendizaje es increíble.",
       "category": "Inspiration",
       "generated_at": "2026-10-04T23:54:59.925886"
+    },
+    {
+      "english": "Curiosity sparks new friends.",
+      "spanish": "La curiosidad crea amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-05T21:11:37.803417"
+    },
+    {
+      "english": "Your effort connects people.",
+      "spanish": "Tu esfuerzo conecta gente.",
+      "category": "Friendship",
+      "generated_at": "2026-10-05T21:11:37.803454"
+    },
+    {
+      "english": "Want shared laughs? Try this.",
+      "spanish": "¿Quieres risas compartidas? Prueba.",
+      "category": "Friendship",
+      "generated_at": "2026-10-05T21:11:37.803482"
+    },
+    {
+      "english": "Your voice builds bridges.",
+      "spanish": "Tu voz construye puentes.",
+      "category": "Friendship",
+      "generated_at": "2026-10-05T21:11:37.803508"
+    },
+    {
+      "english": "Tiny progress, great friendships.",
+      "spanish": "Progreso pequeño, grandes amistades.",
+      "category": "Friendship",
+      "generated_at": "2026-10-05T21:11:37.803534"
     }
   ],
-  "last_updated": "2026-10-04T23:54:59.925889",
+  "last_updated": "2026-10-05T21:11:37.803536",
   "used_english": [
-    "your inner voice is awakening.",
-    "wisdom: learn with your heart.",
-    "this rhythm, your new comfort.",
-    "hear this: your bravery sings.",
-    "feel this rhythm, you've got this.",
     "unlock new friendships, say hi.",
     "curiosity: what's 'que pasa'?",
     "why fear? just breathe, speak.",
@@ -21002,6 +20997,11 @@
     "this connection feels amazing.",
     "here's your daily language boost.",
     "feeling understood is powerful.",
-    "your learning speed is incredible."
+    "your learning speed is incredible.",
+    "curiosity sparks new friends.",
+    "your effort connects people.",
+    "want shared laughs? try this.",
+    "your voice builds bridges.",
+    "tiny progress, great friendships."
   ]
 }
