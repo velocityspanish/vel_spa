@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock smiles. It's easy.",
-      "spanish": "Desbloquea sonrisas. Es fácil.",
-      "category": "Motivation",
-      "generated_at": "2026-05-12T20:26:02.709845"
-    },
-    {
-      "english": "This small 'gracias' matters.",
-      "spanish": "Este pequeño 'gracias' importa.",
-      "category": "Motivation",
-      "generated_at": "2026-05-12T20:26:02.709857"
-    },
-    {
-      "english": "Tiny word, huge comfort.",
-      "spanish": "Palabra pequeña, gran consuelo.",
-      "category": "Motivation",
-      "generated_at": "2026-05-12T20:26:02.709868"
-    },
-    {
-      "english": "Your progress sounds lovely.",
-      "spanish": "Tu progreso suena encantador.",
-      "category": "Motivation",
-      "generated_at": "2026-05-12T20:26:02.709879"
-    },
-    {
-      "english": "This warmth feels amazing, right?",
-      "spanish": "Este calor se siente increíble, ¿verdad?",
-      "category": "Gratitude",
-      "generated_at": "2026-05-12T22:18:16.504812"
-    },
-    {
       "english": "What if this brings you joy?",
       "spanish": "¿Y si esto te trae alegría?",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Una palabra: 'mi vida'.",
       "category": "Love",
       "generated_at": "2026-10-06T21:24:03.359698"
+    },
+    {
+      "english": "Surprise, fluency is closer than you think.",
+      "spanish": "Sorpresa, la fluidez está más cerca de lo que crees.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-06T22:50:49.941777"
+    },
+    {
+      "english": "This feeling? It's your progress speaking.",
+      "spanish": "¿Esta sensación? Es tu progreso hablando.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-06T22:50:49.941810"
+    },
+    {
+      "english": "Unlock understanding with this sound.",
+      "spanish": "Desbloquea la comprensión con este sonido.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-06T22:50:49.941834"
+    },
+    {
+      "english": "Your spanish journey: feel the momentum.",
+      "spanish": "Tu viaje español: siente el impulso.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-06T22:50:49.941855"
+    },
+    {
+      "english": "This vibration? It's your new skill.",
+      "spanish": "¿Esta vibración? Es tu nueva habilidad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-06T22:50:49.941878"
     }
   ],
-  "last_updated": "2026-10-06T21:24:03.359700",
+  "last_updated": "2026-10-06T22:50:49.941880",
   "used_english": [
-    "unlock smiles. it's easy.",
-    "this small 'gracias' matters.",
-    "tiny word, huge comfort.",
-    "your progress sounds lovely.",
-    "this warmth feels amazing, right?",
     "what if this brings you joy?",
     "a little gratitude, a lot.",
     "you can say 'thank you'!",
@@ -21002,6 +20997,11 @@
     "why wait? say 'te quiero'.",
     "feel this sweet spanish song.",
     "love's gentle spanish embrace.",
-    "one word: 'mi vida'."
+    "one word: 'mi vida'.",
+    "surprise, fluency is closer than you think.",
+    "this feeling? it's your progress speaking.",
+    "unlock understanding with this sound.",
+    "your spanish journey: feel the momentum.",
+    "this vibration? it's your new skill."
   ]
 }
