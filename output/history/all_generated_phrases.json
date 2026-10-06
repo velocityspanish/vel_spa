@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your progress, a quiet revolution.",
-      "spanish": "Tu progreso, una revolución silenciosa.",
-      "category": "Patience",
-      "generated_at": "2026-05-12T15:44:01.265029"
-    },
-    {
-      "english": "One more try, feels closer.",
-      "spanish": "Un intento más, se siente más cerca.",
-      "category": "Patience",
-      "generated_at": "2026-05-12T15:44:01.265040"
-    },
-    {
-      "english": "Mistakes are just detours, not endings.",
-      "spanish": "Los errores son desvíos, no finales.",
-      "category": "Patience",
-      "generated_at": "2026-05-12T15:44:01.265050"
-    },
-    {
-      "english": "Surprise! You're understanding more.",
-      "spanish": "¡Sorpresa! Entiendes más.",
-      "category": "Patience",
-      "generated_at": "2026-05-12T15:44:01.265060"
-    },
-    {
-      "english": "A friend's laugh, pure magic.",
-      "spanish": "La risa de un amigo, pura magia.",
-      "category": "Friendship",
-      "generated_at": "2026-05-12T17:14:08.807823"
-    },
-    {
       "english": "Want a true connection? Listen.",
       "spanish": "¿Quieres conexión real? Escucha.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Un 'lo siento' sana mucho.",
       "category": "Patience",
       "generated_at": "2026-10-06T01:43:20.890236"
+    },
+    {
+      "english": "This sound brings pure joy.",
+      "spanish": "Este sonido trae pura alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-10-06T18:49:58.820950"
+    },
+    {
+      "english": "Curious what opens doors?",
+      "spanish": "¿Curioso qué abre puertas?",
+      "category": "Happiness",
+      "generated_at": "2026-10-06T18:49:58.820987"
+    },
+    {
+      "english": "Your next smile starts here.",
+      "spanish": "Tu próxima sonrisa empieza aquí.",
+      "category": "Happiness",
+      "generated_at": "2026-10-06T18:49:58.821017"
+    },
+    {
+      "english": "Listen closely, unlock magic.",
+      "spanish": "Escucha atentamente, desbloquea magia.",
+      "category": "Happiness",
+      "generated_at": "2026-10-06T18:49:58.821045"
+    },
+    {
+      "english": "This word brings warm hugs.",
+      "spanish": "Esta palabra trae abrazos cálidos.",
+      "category": "Happiness",
+      "generated_at": "2026-10-06T18:49:58.821073"
     }
   ],
-  "last_updated": "2026-10-06T01:43:20.890238",
+  "last_updated": "2026-10-06T18:49:58.821075",
   "used_english": [
-    "your progress, a quiet revolution.",
-    "one more try, feels closer.",
-    "mistakes are just detours, not endings.",
-    "surprise! you're understanding more.",
-    "a friend's laugh, pure magic.",
     "want a true connection? listen.",
     "friendship's rhythm, you feel it.",
     "this shared secret, so special.",
@@ -21002,6 +20997,11 @@
     "your progress speaks volumes. listen.",
     "the world needs your voice.",
     "mistakes are learning's best friend.",
-    "one 'lo siento' heals much."
+    "one 'lo siento' heals much.",
+    "this sound brings pure joy.",
+    "curious what opens doors?",
+    "your next smile starts here.",
+    "listen closely, unlock magic.",
+    "this word brings warm hugs."
   ]
 }
