@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Want a true connection? Listen.",
-      "spanish": "¿Quieres conexión real? Escucha.",
-      "category": "Friendship",
-      "generated_at": "2026-05-12T17:14:08.807844"
-    },
-    {
-      "english": "Friendship's rhythm, you feel it.",
-      "spanish": "El ritmo de amistad, lo sientes.",
-      "category": "Friendship",
-      "generated_at": "2026-05-12T17:14:08.807855"
-    },
-    {
-      "english": "This shared secret, so special.",
-      "spanish": "Este secreto compartido, tan especial.",
-      "category": "Friendship",
-      "generated_at": "2026-05-12T17:14:08.807866"
-    },
-    {
-      "english": "What if friends could understand?",
-      "spanish": "¿Y si los amigos entendieran?",
-      "category": "Friendship",
-      "generated_at": "2026-05-12T17:14:08.807876"
-    },
-    {
-      "english": "This tiny word, immense warmth.",
-      "spanish": "Esta palabra diminuta, inmensa calidez.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-12T19:15:01.761311"
-    },
-    {
       "english": "Feeling this new understanding.",
       "spanish": "Sintiendo esta nueva comprensión.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta palabra trae abrazos cálidos.",
       "category": "Happiness",
       "generated_at": "2026-10-06T18:49:58.821073"
+    },
+    {
+      "english": "Friendship's true sound?",
+      "spanish": "El verdadero sonido de amistad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T20:01:10.700121"
+    },
+    {
+      "english": "Why say nothing? Speak this.",
+      "spanish": "¿Por qué no decir nada? Di esto.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T20:01:10.700155"
+    },
+    {
+      "english": "Your voice builds bridges, listen.",
+      "spanish": "Tu voz construye puentes, escucha.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T20:01:10.700177"
+    },
+    {
+      "english": "One sound, new connections bloom.",
+      "spanish": "Un sonido, nuevas conexiones florecen.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T20:01:10.700198"
+    },
+    {
+      "english": "Feeling understood? Amazing, yes?",
+      "spanish": "¿Sintiéndote comprendido? Increíble, ¿verdad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T20:01:10.700219"
     }
   ],
-  "last_updated": "2026-10-06T18:49:58.821075",
+  "last_updated": "2026-10-06T20:01:10.700221",
   "used_english": [
-    "want a true connection? listen.",
-    "friendship's rhythm, you feel it.",
-    "this shared secret, so special.",
-    "what if friends could understand?",
-    "this tiny word, immense warmth.",
     "feeling this new understanding.",
     "one small 'gracias,' big joy.",
     "what if this was easy?",
@@ -21002,6 +20997,11 @@
     "curious what opens doors?",
     "your next smile starts here.",
     "listen closely, unlock magic.",
-    "this word brings warm hugs."
+    "this word brings warm hugs.",
+    "friendship's true sound?",
+    "why say nothing? speak this.",
+    "your voice builds bridges, listen.",
+    "one sound, new connections bloom.",
+    "feeling understood? amazing, yes?"
   ]
 }
