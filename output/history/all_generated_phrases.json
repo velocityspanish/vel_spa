@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Courage speaks loudest.",
-      "spanish": "Sabiduría: El coraje habla más fuerte.",
-      "category": "Hope",
-      "generated_at": "2026-05-11T22:13:56.420572"
-    },
-    {
-      "english": "Your voice, a vibrant tapestry.",
-      "spanish": "Tu voz, un tapiz vibrante.",
-      "category": "Hope",
-      "generated_at": "2026-05-11T22:13:56.420584"
-    },
-    {
-      "english": "This tiny word sparks hope.",
-      "spanish": "Esta palabra diminuta enciende esperanza.",
-      "category": "Hope",
-      "generated_at": "2026-05-11T22:13:56.420595"
-    },
-    {
-      "english": "Surprise! Fluency is closer.",
-      "spanish": "¡Sorpresa! La fluidez está más cerca.",
-      "category": "Hope",
-      "generated_at": "2026-05-11T22:13:56.420607"
-    },
-    {
-      "english": "Trust the learning curve, friend.",
-      "spanish": "Confía en la curva de aprendizaje, amigo.",
-      "category": "Patience",
-      "generated_at": "2026-05-12T15:44:01.265008"
-    },
-    {
       "english": "Your progress, a quiet revolution.",
       "spanish": "Tu progreso, una revolución silenciosa.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Risas compartidas, una palabra.",
       "category": "Friendship",
       "generated_at": "2026-10-06T00:29:28.908264"
+    },
+    {
+      "english": "This small sound, huge impact.",
+      "spanish": "Este pequeño sonido, gran impacto.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T01:43:20.890141"
+    },
+    {
+      "english": "Your progress speaks volumes. Listen.",
+      "spanish": "Tu progreso dice mucho. Escucha.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T01:43:20.890173"
+    },
+    {
+      "english": "The world needs your voice.",
+      "spanish": "El mundo necesita tu voz.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T01:43:20.890195"
+    },
+    {
+      "english": "Mistakes are learning's best friend.",
+      "spanish": "Los errores, el mejor amigo del aprendizaje.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T01:43:20.890215"
+    },
+    {
+      "english": "One 'lo siento' heals much.",
+      "spanish": "Un 'lo siento' sana mucho.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T01:43:20.890236"
     }
   ],
-  "last_updated": "2026-10-06T00:29:28.908265",
+  "last_updated": "2026-10-06T01:43:20.890238",
   "used_english": [
-    "wisdom: courage speaks loudest.",
-    "your voice, a vibrant tapestry.",
-    "this tiny word sparks hope.",
-    "surprise! fluency is closer.",
-    "trust the learning curve, friend.",
     "your progress, a quiet revolution.",
     "one more try, feels closer.",
     "mistakes are just detours, not endings.",
@@ -21002,6 +20997,11 @@
     "hear this feel-good word.",
     "curious? say this, unlock.",
     "this makes friends smile.",
-    "shared laughter, one word."
+    "shared laughter, one word.",
+    "this small sound, huge impact.",
+    "your progress speaks volumes. listen.",
+    "the world needs your voice.",
+    "mistakes are learning's best friend.",
+    "one 'lo siento' heals much."
   ]
 }
