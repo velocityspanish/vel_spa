@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity: what's 'vale'?",
-      "spanish": "¿Curiosidad: qué es 'vale'?",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T20:27:34.087002"
-    },
-    {
-      "english": "Your rhythm will amaze.",
-      "spanish": "Tu ritmo asombrará.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T20:27:34.087013"
-    },
-    {
-      "english": "Wisdom: connect, don't judge.",
-      "spanish": "Sabiduría: conecta, no juzgues.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T20:27:34.087024"
-    },
-    {
-      "english": "Embrace your Spanish journey.",
-      "spanish": "Abraza tu viaje español.",
-      "category": "Mindfulness",
-      "generated_at": "2026-05-11T20:27:34.087035"
-    },
-    {
-      "english": "Unlock smiles, speak simply.",
-      "spanish": "Desbloquea sonrisas, habla simple.",
-      "category": "Hope",
-      "generated_at": "2026-05-11T22:13:56.420551"
-    },
-    {
       "english": "Wisdom: Courage speaks loudest.",
       "spanish": "Sabiduría: El coraje habla más fuerte.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu carga se alivia con 'lo siento'.",
       "category": "Forgiveness",
       "generated_at": "2026-10-05T23:01:30.003399"
+    },
+    {
+      "english": "Friendship's magic sound?",
+      "spanish": "¿Sonido mágico de amistad?",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T00:29:28.908170"
+    },
+    {
+      "english": "Hear this feel-good word.",
+      "spanish": "Escucha esta palabra positiva.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T00:29:28.908202"
+    },
+    {
+      "english": "Curious? Say this, unlock.",
+      "spanish": "¿Curioso? Di esto, desbloquea.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T00:29:28.908223"
+    },
+    {
+      "english": "This makes friends smile.",
+      "spanish": "Esto hace sonreír a amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T00:29:28.908243"
+    },
+    {
+      "english": "Shared laughter, one word.",
+      "spanish": "Risas compartidas, una palabra.",
+      "category": "Friendship",
+      "generated_at": "2026-10-06T00:29:28.908264"
     }
   ],
-  "last_updated": "2026-10-05T23:01:30.003401",
+  "last_updated": "2026-10-06T00:29:28.908265",
   "used_english": [
-    "curiosity: what's 'vale'?",
-    "your rhythm will amaze.",
-    "wisdom: connect, don't judge.",
-    "embrace your spanish journey.",
-    "unlock smiles, speak simply.",
     "wisdom: courage speaks loudest.",
     "your voice, a vibrant tapestry.",
     "this tiny word sparks hope.",
@@ -21002,6 +20997,11 @@
     "one word, true connection. listen.",
     "surprise! forgiveness is strength, feel it.",
     "why hold grudges? release now.",
-    "your burden lifts with 'lo siento'."
+    "your burden lifts with 'lo siento'.",
+    "friendship's magic sound?",
+    "hear this feel-good word.",
+    "curious? say this, unlock.",
+    "this makes friends smile.",
+    "shared laughter, one word."
   ]
 }
