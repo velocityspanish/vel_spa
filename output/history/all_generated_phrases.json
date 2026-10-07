@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if peace is a language?",
-      "spanish": "¿Qué si la paz es idioma?",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-13T20:34:12.212145"
-    },
-    {
-      "english": "This rhythm calms your spirit.",
-      "spanish": "Este ritmo calma tu espíritu.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-13T20:34:12.212157"
-    },
-    {
-      "english": "Breathe deeply, speak simply, live.",
-      "spanish": "Respira hondo, habla simple, vive.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-13T20:34:12.212168"
-    },
-    {
-      "english": "Your inner voice, a gentle hum.",
-      "spanish": "Tu voz interna, un suave zumbido.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-13T20:34:12.212180"
-    },
-    {
-      "english": "Your voice, now blooming.",
-      "spanish": "Tu voz, floreciendo ahora.",
-      "category": "Balance",
-      "generated_at": "2026-05-13T22:20:18.202959"
-    },
-    {
       "english": "One sound, huge comfort.",
       "spanish": "Un sonido, gran consuelo.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "No subestimes sonidos pequeños.",
       "category": "Success",
       "generated_at": "2026-10-07T21:49:02.926187"
+    },
+    {
+      "english": "Why wait? Forgive now.",
+      "spanish": "¿Por qué esperar? Perdona ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T23:24:05.546750"
+    },
+    {
+      "english": "Your anger is heavy, release it.",
+      "spanish": "Tu enfado es pesado, libéralo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T23:24:05.546788"
+    },
+    {
+      "english": "Friendship's magic? Say 'dispensa'.",
+      "spanish": "¿Magia de amistad? Di 'dispensa'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T23:24:05.546815"
+    },
+    {
+      "english": "Curious what softens hearts?",
+      "spanish": "¿Curioso qué ablanda corazones?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T23:24:05.546844"
+    },
+    {
+      "english": "Surprise! Forgiveness is freedom.",
+      "spanish": "¡Sorpresa! El perdón es libertad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T23:24:05.546871"
     }
   ],
-  "last_updated": "2026-10-07T21:49:02.926190",
+  "last_updated": "2026-10-07T23:24:05.546873",
   "used_english": [
-    "what if peace is a language?",
-    "this rhythm calms your spirit.",
-    "breathe deeply, speak simply, live.",
-    "your inner voice, a gentle hum.",
-    "your voice, now blooming.",
     "one sound, huge comfort.",
     "surprise! you're making friends.",
     "feel this simple joy.",
@@ -21002,6 +20997,11 @@
     "feeling lost? say this simple word.",
     "your courage shines through now.",
     "here's your fluency shortcut.",
-    "don't underestimate small sounds."
+    "don't underestimate small sounds.",
+    "why wait? forgive now.",
+    "your anger is heavy, release it.",
+    "friendship's magic? say 'dispensa'.",
+    "curious what softens hearts?",
+    "surprise! forgiveness is freedom."
   ]
 }
