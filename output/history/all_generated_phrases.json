@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock smiles with one sound.",
-      "spanish": "Desbloquea sonrisas con un sonido.",
-      "category": "Purpose",
-      "generated_at": "2026-05-13T15:51:34.619608"
-    },
-    {
-      "english": "This connection feels real, right?",
-      "spanish": "Esta conexión se siente real, ¿verdad?",
-      "category": "Purpose",
-      "generated_at": "2026-05-13T15:51:34.619620"
-    },
-    {
-      "english": "Feel the rhythm, you're learning.",
-      "spanish": "Siente el ritmo, estás aprendiendo.",
-      "category": "Purpose",
-      "generated_at": "2026-05-13T15:51:34.619631"
-    },
-    {
-      "english": "Wisdom: Speak it, feel it.",
-      "spanish": "Sabiduría: Dilo, siéntelo.",
-      "category": "Purpose",
-      "generated_at": "2026-05-13T15:51:34.619643"
-    },
-    {
-      "english": "This one word feels like sunshine.",
-      "spanish": "Esta palabra se siente sol.",
-      "category": "Motivation",
-      "generated_at": "2026-05-13T17:21:29.483384"
-    },
-    {
       "english": "Curious? What's 'qué bueno'?",
       "spanish": "¿Curioso? ¿Qué significa 'qué bueno'?",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca olvides tu pasión.",
       "category": "Inspiration",
       "generated_at": "2026-10-07T00:32:57.293707"
+    },
+    {
+      "english": "Want friendships? Try 'lo siento' now.",
+      "spanish": "¿Quieres amistades? Prueba 'lo siento' ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T19:15:02.434202"
+    },
+    {
+      "english": "Why hold pain? Let go now.",
+      "spanish": "¿Por qué guardar dolor? Suelta ahora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T19:15:02.434245"
+    },
+    {
+      "english": "This makes friends smile, guaranteed.",
+      "spanish": "Esto hace sonreír amigos, garantizado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T19:15:02.434272"
+    },
+    {
+      "english": "The world needs your voice, say it.",
+      "spanish": "El mundo necesita tu voz, dilo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T19:15:02.434304"
+    },
+    {
+      "english": "One 'perdón' heals much, try.",
+      "spanish": "Un 'perdón' sana mucho, intenta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-07T19:15:02.434335"
     }
   ],
-  "last_updated": "2026-10-07T00:32:57.293709",
+  "last_updated": "2026-10-07T19:15:02.434337",
   "used_english": [
-    "unlock smiles with one sound.",
-    "this connection feels real, right?",
-    "feel the rhythm, you're learning.",
-    "wisdom: speak it, feel it.",
-    "this one word feels like sunshine.",
     "curious? what's 'qué bueno'?",
     "feel this rhythm, you're growing.",
     "surprise! this phrase is easy.",
@@ -21002,6 +20997,11 @@
     "curious? try this rhythm.",
     "your voice unlocks worlds.",
     "this feeling? progress, yes!",
-    "never forget your passion."
+    "never forget your passion.",
+    "want friendships? try 'lo siento' now.",
+    "why hold pain? let go now.",
+    "this makes friends smile, guaranteed.",
+    "the world needs your voice, say it.",
+    "one 'perdón' heals much, try."
   ]
 }
