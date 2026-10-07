@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice, a powerful melody.",
-      "spanish": "Tu voz, una melodía poderosa.",
-      "category": "Kindness",
-      "generated_at": "2026-05-13T18:53:21.455070"
-    },
-    {
-      "english": "Curious? 'Poco a poco' means slowly.",
-      "spanish": "¿Curioso? 'Poco a poco' significa lentamente.",
-      "category": "Kindness",
-      "generated_at": "2026-05-13T18:53:21.455081"
-    },
-    {
-      "english": "Wisdom: Learn patiently, speak bravely.",
-      "spanish": "Sabiduría: Aprende paciente, habla valiente.",
-      "category": "Kindness",
-      "generated_at": "2026-05-13T18:53:21.455092"
-    },
-    {
-      "english": "You are welcome here. Speak!",
-      "spanish": "Eres bienvenido aquí. ¡Habla!",
-      "category": "Kindness",
-      "generated_at": "2026-05-13T18:53:21.455103"
-    },
-    {
-      "english": "Your quiet confidence blooms.",
-      "spanish": "Tu confianza tranquila florece.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-13T20:34:12.212122"
-    },
-    {
       "english": "What if peace is a language?",
       "spanish": "¿Qué si la paz es idioma?",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "No dejes que la ira dure.",
       "category": "Forgiveness",
       "generated_at": "2026-10-07T20:26:50.531881"
+    },
+    {
+      "english": "Hear this? Your brain thanks you.",
+      "spanish": "¿Oyes esto? Tu cerebro te lo agradece.",
+      "category": "Success",
+      "generated_at": "2026-10-07T21:49:02.926067"
+    },
+    {
+      "english": "Feeling lost? Say this simple word.",
+      "spanish": "¿Te sientes perdido? Di esta simple palabra.",
+      "category": "Success",
+      "generated_at": "2026-10-07T21:49:02.926102"
+    },
+    {
+      "english": "Your courage shines through now.",
+      "spanish": " Tu coraje brilla ahora.",
+      "category": "Success",
+      "generated_at": "2026-10-07T21:49:02.926131"
+    },
+    {
+      "english": "Here's your fluency shortcut.",
+      "spanish": "Aquí tu atajo a la fluidez.",
+      "category": "Success",
+      "generated_at": "2026-10-07T21:49:02.926160"
+    },
+    {
+      "english": "Don't underestimate small sounds.",
+      "spanish": "No subestimes sonidos pequeños.",
+      "category": "Success",
+      "generated_at": "2026-10-07T21:49:02.926187"
     }
   ],
-  "last_updated": "2026-10-07T20:26:50.531883",
+  "last_updated": "2026-10-07T21:49:02.926190",
   "used_english": [
-    "your voice, a powerful melody.",
-    "curious? 'poco a poco' means slowly.",
-    "wisdom: learn patiently, speak bravely.",
-    "you are welcome here. speak!",
-    "your quiet confidence blooms.",
     "what if peace is a language?",
     "this rhythm calms your spirit.",
     "breathe deeply, speak simply, live.",
@@ -21002,6 +20997,11 @@
     "your peace is worth more.",
     "the magic word? perdón.",
     "learn this for deeper connection.",
-    "don't let anger linger."
+    "don't let anger linger.",
+    "hear this? your brain thanks you.",
+    "feeling lost? say this simple word.",
+    "your courage shines through now.",
+    "here's your fluency shortcut.",
+    "don't underestimate small sounds."
   ]
 }
