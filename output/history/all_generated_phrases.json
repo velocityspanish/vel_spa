@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Want pure joy? Listen closely.",
-      "spanish": "¿Quieres pura alegría? Escucha atentamente.",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T22:16:16.693320"
-    },
-    {
-      "english": "One sound opens their hearts.",
-      "spanish": "Un sonido abre sus corazones.",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T22:16:16.693333"
-    },
-    {
-      "english": "Curious? 'Por favor' means please.",
-      "spanish": "¿Curioso? 'Por favor' significa please.",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T22:16:16.693344"
-    },
-    {
-      "english": "Your effort, a beautiful symphony.",
-      "spanish": "Tu esfuerzo, una hermosa sinfonía.",
-      "category": "Happiness",
-      "generated_at": "2026-05-14T22:16:16.693354"
-    },
-    {
-      "english": "Unlock secrets with 'por qué?'",
-      "spanish": "Desbloquea secretos con 'por qué?'",
-      "category": "Success",
-      "generated_at": "2026-05-17T20:20:24.762506"
-    },
-    {
       "english": "Hear this: 'poco a poco'.",
       "spanish": "Escucha esto: 'poco a poco'.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta conexión se siente increíble, guau.",
       "category": "Strength",
       "generated_at": "2026-10-08T21:39:43.851745"
+    },
+    {
+      "english": "Listen, your Spanish improves now.",
+      "spanish": "Escucha, tu español mejora.",
+      "category": "Success",
+      "generated_at": "2026-10-08T23:36:20.844267"
+    },
+    {
+      "english": "Never underestimate small progress.",
+      "spanish": "Nunca subestimes el progreso.",
+      "category": "Success",
+      "generated_at": "2026-10-08T23:36:20.844300"
+    },
+    {
+      "english": "Surprise! Fluency is closer now.",
+      "spanish": "¡Sorpresa! La fluidez está cerca.",
+      "category": "Success",
+      "generated_at": "2026-10-08T23:36:20.844329"
+    },
+    {
+      "english": "Feel the connection, yes?",
+      "spanish": "Siente la conexión, ¿sí?",
+      "category": "Success",
+      "generated_at": "2026-10-08T23:36:20.844356"
+    },
+    {
+      "english": "This sound creates harmony.",
+      "spanish": "Este sonido crea armonía.",
+      "category": "Success",
+      "generated_at": "2026-10-08T23:36:20.844390"
     }
   ],
-  "last_updated": "2026-10-08T21:39:43.851748",
+  "last_updated": "2026-10-08T23:36:20.844392",
   "used_english": [
-    "want pure joy? listen closely.",
-    "one sound opens their hearts.",
-    "curious? 'por favor' means please.",
-    "your effort, a beautiful symphony.",
-    "unlock secrets with 'por qué?'",
     "hear this: 'poco a poco'.",
     "courage whispers: 'lo intento'.",
     "feeling this, you are learning.",
@@ -21002,6 +20997,11 @@
     "curious? say this, make friends.",
     "this simple greeting, opens doors.",
     "hear this? your accent's unique.",
-    "this connection feels amazing, wow."
+    "this connection feels amazing, wow.",
+    "listen, your spanish improves now.",
+    "never underestimate small progress.",
+    "surprise! fluency is closer now.",
+    "feel the connection, yes?",
+    "this sound creates harmony."
   ]
 }
