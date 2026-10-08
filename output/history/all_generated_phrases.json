@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One sound, huge comfort.",
-      "spanish": "Un sonido, gran consuelo.",
-      "category": "Balance",
-      "generated_at": "2026-05-13T22:20:18.202979"
-    },
-    {
-      "english": "Surprise! You're making friends.",
-      "spanish": "¡Sorpresa! Estás haciendo amigos.",
-      "category": "Balance",
-      "generated_at": "2026-05-13T22:20:18.202990"
-    },
-    {
-      "english": "Feel this simple joy.",
-      "spanish": "Siente esta alegría simple.",
-      "category": "Balance",
-      "generated_at": "2026-05-13T22:20:18.203001"
-    },
-    {
-      "english": "What if words were bridges?",
-      "spanish": "¿Y si las palabras fueran puentes?",
-      "category": "Balance",
-      "generated_at": "2026-05-13T22:20:18.203012"
-    },
-    {
-      "english": "This sounds like success.",
-      "spanish": "Esto suena a éxito.",
-      "category": "Inspiration",
-      "generated_at": "2026-05-14T15:23:29.812560"
-    },
-    {
       "english": "Wisdom: Fluent one word.",
       "spanish": "Sabiduría: Una palabra fluida.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Sorpresa! El perdón es libertad.",
       "category": "Forgiveness",
       "generated_at": "2026-10-07T23:24:05.546871"
+    },
+    {
+      "english": "Wisdom: Speak fearlessly now.",
+      "spanish": "Sabiduría: Habla sin miedo ahora.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-08T00:53:46.075909"
+    },
+    {
+      "english": "Here's your next language win.",
+      "spanish": "Aquí está tu próxima victoria.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-08T00:53:46.075962"
+    },
+    {
+      "english": "This makes perfect sense.",
+      "spanish": "Esto tiene perfecto sentido.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-08T00:53:46.075996"
+    },
+    {
+      "english": "Feel the Spanish flow, yes?",
+      "spanish": "¿Sientes el flujo español, sí?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-08T00:53:46.076031"
+    },
+    {
+      "english": "Surprise: You're much better!",
+      "spanish": "Sorpresa: ¡Eres mucho mejor!",
+      "category": "Wisdom",
+      "generated_at": "2026-10-08T00:53:46.076067"
     }
   ],
-  "last_updated": "2026-10-07T23:24:05.546873",
+  "last_updated": "2026-10-08T00:53:46.076069",
   "used_english": [
-    "one sound, huge comfort.",
-    "surprise! you're making friends.",
-    "feel this simple joy.",
-    "what if words were bridges?",
-    "this sounds like success.",
     "wisdom: fluent one word.",
     "what if joy is speaking?",
     "courage is your new language.",
@@ -21002,6 +20997,11 @@
     "your anger is heavy, release it.",
     "friendship's magic? say 'dispensa'.",
     "curious what softens hearts?",
-    "surprise! forgiveness is freedom."
+    "surprise! forgiveness is freedom.",
+    "wisdom: speak fearlessly now.",
+    "here's your next language win.",
+    "this makes perfect sense.",
+    "feel the spanish flow, yes?",
+    "surprise: you're much better!"
   ]
 }
