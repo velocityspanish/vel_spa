@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Fluent one word.",
-      "spanish": "Sabiduría: Una palabra fluida.",
-      "category": "Inspiration",
-      "generated_at": "2026-05-14T15:23:29.812585"
-    },
-    {
-      "english": "What if joy is speaking?",
-      "spanish": "¿Y si la alegría habla?",
-      "category": "Inspiration",
-      "generated_at": "2026-05-14T15:23:29.812601"
-    },
-    {
-      "english": "Courage is your new language.",
-      "spanish": "El coraje es tu nuevo idioma.",
-      "category": "Inspiration",
-      "generated_at": "2026-05-14T15:23:29.812612"
-    },
-    {
-      "english": "One more 'hola' opens worlds.",
-      "spanish": "Un 'hola' más abre mundos.",
-      "category": "Inspiration",
-      "generated_at": "2026-05-14T15:23:29.812624"
-    },
-    {
-      "english": "This unlocks a new world.",
-      "spanish": "Esto abre un nuevo mundo.",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:03:23.246798"
-    },
-    {
       "english": "Your courage is speaking.",
       "spanish": "Tu valentía está hablando.",
       "category": "Purpose",
@@ -17999,15 +17969,40 @@
       "spanish": "Sorpresa: ¡Eres mucho mejor!",
       "category": "Wisdom",
       "generated_at": "2026-10-08T00:53:46.076067"
+    },
+    {
+      "english": "Unlock confidence, speak now.",
+      "spanish": "Desbloquea confianza, habla ahora.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T19:11:30.991013"
+    },
+    {
+      "english": "Why wait? Fluent feels good.",
+      "spanish": "¿Por qué esperar? Fluido se siente bien.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T19:11:30.991084"
+    },
+    {
+      "english": "This simple phrase connects deeply.",
+      "spanish": "Esta frase simple conecta profundamente.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T19:11:30.991112"
+    },
+    {
+      "english": "One word, instant understanding, yes?",
+      "spanish": "Una palabra, entendimiento instantáneo, ¿sí?",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T19:11:30.991137"
+    },
+    {
+      "english": "Never doubt your Spanish journey.",
+      "spanish": "Nunca dudes tu viaje español.",
+      "category": "Purpose",
+      "generated_at": "2026-10-08T19:11:30.991164"
     }
   ],
-  "last_updated": "2026-10-08T00:53:46.076069",
+  "last_updated": "2026-10-08T19:11:30.991167",
   "used_english": [
-    "wisdom: fluent one word.",
-    "what if joy is speaking?",
-    "courage is your new language.",
-    "one more 'hola' opens worlds.",
-    "this unlocks a new world.",
     "your courage is speaking.",
     "one sound connects worlds.",
     "why wait for mañana?",
@@ -21002,6 +20997,11 @@
     "here's your next language win.",
     "this makes perfect sense.",
     "feel the spanish flow, yes?",
-    "surprise: you're much better!"
+    "surprise: you're much better!",
+    "unlock confidence, speak now.",
+    "why wait? fluent feels good.",
+    "this simple phrase connects deeply.",
+    "one word, instant understanding, yes?",
+    "never doubt your spanish journey."
   ]
 }
