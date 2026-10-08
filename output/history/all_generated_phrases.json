@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your courage is speaking.",
-      "spanish": "Tu valentía está hablando.",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:03:23.246820"
-    },
-    {
-      "english": "One sound connects worlds.",
-      "spanish": "Un sonido conecta mundos.",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:03:23.246833"
-    },
-    {
-      "english": "Why wait for mañana?",
-      "spanish": "¿Por qué esperar hasta mañana?",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:03:23.246844"
-    },
-    {
-      "english": "This simple word changes everything.",
-      "spanish": "Esta palabra simple cambia todo.",
-      "category": "Purpose",
-      "generated_at": "2026-05-14T17:03:23.246855"
-    },
-    {
-      "english": "Your bravery unlocks everything.",
-      "spanish": "Tu valentía lo desbloquea todo.",
-      "category": "Courage",
-      "generated_at": "2026-05-14T18:50:43.364326"
-    },
-    {
       "english": "What if fear disappears?",
       "spanish": "¿Qué si el miedo desaparece?",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca dudes tu viaje español.",
       "category": "Purpose",
       "generated_at": "2026-10-08T19:11:30.991164"
+    },
+    {
+      "english": "Secret to faster Spanish? Listen.",
+      "spanish": "El secreto: escucha más.",
+      "category": "Growth",
+      "generated_at": "2026-10-08T20:32:19.191387"
+    },
+    {
+      "english": "Feeling understood? It feels great.",
+      "spanish": "Sentirte entendido se siente genial.",
+      "category": "Growth",
+      "generated_at": "2026-10-08T20:32:19.191423"
+    },
+    {
+      "english": "Your courage fuels fluency now.",
+      "spanish": "Tu coraje impulsa tu fluidez.",
+      "category": "Growth",
+      "generated_at": "2026-10-08T20:32:19.191453"
+    },
+    {
+      "english": "Mistakes are your best teachers.",
+      "spanish": "Los errores son tus maestros.",
+      "category": "Growth",
+      "generated_at": "2026-10-08T20:32:19.191481"
+    },
+    {
+      "english": "Why wait? Learn one new word.",
+      "spanish": "¿Por qué esperar? Aprende una palabra.",
+      "category": "Growth",
+      "generated_at": "2026-10-08T20:32:19.191510"
     }
   ],
-  "last_updated": "2026-10-08T19:11:30.991167",
+  "last_updated": "2026-10-08T20:32:19.191512",
   "used_english": [
-    "your courage is speaking.",
-    "one sound connects worlds.",
-    "why wait for mañana?",
-    "this simple word changes everything.",
-    "your bravery unlocks everything.",
     "what if fear disappears?",
     "dare to speak, friend.",
     "your progress will amaze you.",
@@ -21002,6 +20997,11 @@
     "why wait? fluent feels good.",
     "this simple phrase connects deeply.",
     "one word, instant understanding, yes?",
-    "never doubt your spanish journey."
+    "never doubt your spanish journey.",
+    "secret to faster spanish? listen.",
+    "feeling understood? it feels great.",
+    "your courage fuels fluency now.",
+    "mistakes are your best teachers.",
+    "why wait? learn one new word."
   ]
 }
