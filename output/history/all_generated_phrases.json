@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Hear this: 'poco a poco'.",
-      "spanish": "Escucha esto: 'poco a poco'.",
-      "category": "Success",
-      "generated_at": "2026-05-17T20:20:24.762528"
-    },
-    {
-      "english": "Courage whispers: 'Lo intento'.",
-      "spanish": "El coraje susurra: 'Lo intento'.",
-      "category": "Success",
-      "generated_at": "2026-05-17T20:20:24.762541"
-    },
-    {
-      "english": "Feeling this, you are learning.",
-      "spanish": "Sintiendo esto, estás aprendiendo.",
-      "category": "Success",
-      "generated_at": "2026-05-17T20:20:24.762552"
-    },
-    {
-      "english": "Surprise! Fluency is a journey.",
-      "spanish": "¡Sorpresa! La fluidez es un viaje.",
-      "category": "Success",
-      "generated_at": "2026-05-17T20:20:24.762564"
-    },
-    {
-      "english": "Mistakes? Just practice whispers.",
-      "spanish": "Errores? Solo práctica susurra.",
-      "category": "Patience",
-      "generated_at": "2026-05-17T22:00:34.352516"
-    },
-    {
       "english": "Tiny triumphs, huge impact.",
       "spanish": "Pequeños triunfos, gran impacto.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Este sonido crea armonía.",
       "category": "Success",
       "generated_at": "2026-10-08T23:36:20.844390"
+    },
+    {
+      "english": "This small word unlocks patience.",
+      "spanish": "Esta palabra pequeña desbloquea paciencia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-09T01:07:43.497458"
+    },
+    {
+      "english": "Stuck? Try this Spanish trick.",
+      "spanish": "¿Atascado? Prueba este truco español.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-09T01:07:43.497493"
+    },
+    {
+      "english": "Your effort ripples outward, feel it.",
+      "spanish": "Tu esfuerzo ondula hacia afuera, siéntelo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-09T01:07:43.497514"
+    },
+    {
+      "english": "Can you guess this motivation word?",
+      "spanish": "¿Puedes adivinar esta palabra de motivación?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-09T01:07:43.497545"
+    },
+    {
+      "english": "Hear this for a fluency boost.",
+      "spanish": "Escucha esto para un impulso de fluidez.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-09T01:07:43.497567"
     }
   ],
-  "last_updated": "2026-10-08T23:36:20.844392",
+  "last_updated": "2026-10-09T01:07:43.497569",
   "used_english": [
-    "hear this: 'poco a poco'.",
-    "courage whispers: 'lo intento'.",
-    "feeling this, you are learning.",
-    "surprise! fluency is a journey.",
-    "mistakes? just practice whispers.",
     "tiny triumphs, huge impact.",
     "what if progress feels amazing?",
     "never underestimate your 'hola'.",
@@ -21002,6 +20997,11 @@
     "never underestimate small progress.",
     "surprise! fluency is closer now.",
     "feel the connection, yes?",
-    "this sound creates harmony."
+    "this sound creates harmony.",
+    "this small word unlocks patience.",
+    "stuck? try this spanish trick.",
+    "your effort ripples outward, feel it.",
+    "can you guess this motivation word?",
+    "hear this for a fluency boost."
   ]
 }
