@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Tiny triumphs, huge impact.",
-      "spanish": "Pequeños triunfos, gran impacto.",
-      "category": "Patience",
-      "generated_at": "2026-05-17T22:00:34.352539"
-    },
-    {
-      "english": "What if progress feels amazing?",
-      "spanish": "¿Y si el progreso se siente increíble?",
-      "category": "Patience",
-      "generated_at": "2026-05-17T22:00:34.352552"
-    },
-    {
-      "english": "Never underestimate your 'hola'.",
-      "spanish": "Nunca subestimes tu 'hola'.",
-      "category": "Patience",
-      "generated_at": "2026-05-17T22:00:34.352564"
-    },
-    {
-      "english": "Feel this quiet confidence growing.",
-      "spanish": "Siente esta confianza tranquila creciendo.",
-      "category": "Patience",
-      "generated_at": "2026-05-17T22:00:34.352575"
-    },
-    {
-      "english": "Whispers of courage, speak now.",
-      "spanish": "Susurros de coraje, habla ya.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T16:27:33.517668"
-    },
-    {
       "english": "What if fear just vanished?",
       "spanish": "¿Y si el miedo se esfuma?",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha esto para un impulso de fluidez.",
       "category": "Perseverance",
       "generated_at": "2026-10-09T01:07:43.497567"
+    },
+    {
+      "english": "Your bravery speaks louder.",
+      "spanish": "Tu valentía habla más.",
+      "category": "Courage",
+      "generated_at": "2026-10-09T18:41:44.041030"
+    },
+    {
+      "english": "Feel the progress now, yes?",
+      "spanish": "Siente el progreso ahora, ¿sí?",
+      "category": "Courage",
+      "generated_at": "2026-10-09T18:41:44.041068"
+    },
+    {
+      "english": "This unlocks real courage.",
+      "spanish": "Esto libera el coraje real.",
+      "category": "Courage",
+      "generated_at": "2026-10-09T18:41:44.041096"
+    },
+    {
+      "english": "Dare to speak it.",
+      "spanish": "Atrévete a decirlo.",
+      "category": "Courage",
+      "generated_at": "2026-10-09T18:41:44.041120"
+    },
+    {
+      "english": "Your boldest step awaits.",
+      "spanish": "Tu paso más audaz espera.",
+      "category": "Courage",
+      "generated_at": "2026-10-09T18:41:44.041147"
     }
   ],
-  "last_updated": "2026-10-09T01:07:43.497569",
+  "last_updated": "2026-10-09T18:41:44.041150",
   "used_english": [
-    "tiny triumphs, huge impact.",
-    "what if progress feels amazing?",
-    "never underestimate your 'hola'.",
-    "feel this quiet confidence growing.",
-    "whispers of courage, speak now.",
     "what if fear just vanished?",
     "your voice, a rising tide.",
     "this small 'lo intento' wins.",
@@ -21002,6 +20997,11 @@
     "stuck? try this spanish trick.",
     "your effort ripples outward, feel it.",
     "can you guess this motivation word?",
-    "hear this for a fluency boost."
+    "hear this for a fluency boost.",
+    "your bravery speaks louder.",
+    "feel the progress now, yes?",
+    "this unlocks real courage.",
+    "dare to speak it.",
+    "your boldest step awaits."
   ]
 }
