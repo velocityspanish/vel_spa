@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is your moment. Go!",
-      "spanish": "Este es tu momento. ¡Ve!",
-      "category": "Courage",
-      "generated_at": "2026-05-18T18:27:15.683648"
-    },
-    {
-      "english": "Just breathe. You are learning.",
-      "spanish": "Solo respira. Estás aprendiendo.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T18:27:15.683661"
-    },
-    {
-      "english": "One more word, immense power.",
-      "spanish": "Una palabra más, inmenso poder.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T18:27:15.683673"
-    },
-    {
-      "english": "Dare to try. Surprise yourself.",
-      "spanish": "Atrévete a intentar. Sorpréndete.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T18:27:15.683684"
-    },
-    {
-      "english": "Future you is smiling.",
-      "spanish": "Tu futuro sonríe.",
-      "category": "Balance",
-      "generated_at": "2026-05-18T20:22:07.429841"
-    },
-    {
       "english": "Tiny steps, giant leaps.",
       "spanish": "Pasos pequeños, saltos gigantes.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha tu propio progreso, oye.",
       "category": "Strength",
       "generated_at": "2026-10-09T21:24:31.219246"
+    },
+    {
+      "english": "Why hesitate? Try this sound.",
+      "spanish": "¿Por qué dudar? Prueba este sonido.",
+      "category": "Growth",
+      "generated_at": "2026-10-09T22:58:58.028982"
+    },
+    {
+      "english": "Feel this progress, yes?",
+      "spanish": "¿Sientes este progreso, sí?",
+      "category": "Growth",
+      "generated_at": "2026-10-09T22:58:58.029012"
+    },
+    {
+      "english": "Courage unlocked: say this now.",
+      "spanish": "Valentía desbloqueada: di esto ahora.",
+      "category": "Growth",
+      "generated_at": "2026-10-09T22:58:58.029035"
+    },
+    {
+      "english": "Your passion has a voice.",
+      "spanish": "Tu pasión tiene voz.",
+      "category": "Growth",
+      "generated_at": "2026-10-09T22:58:58.029056"
+    },
+    {
+      "english": "This simple word? Pure gold.",
+      "spanish": "¿Esta palabra simple? Oro puro.",
+      "category": "Growth",
+      "generated_at": "2026-10-09T22:58:58.029078"
     }
   ],
-  "last_updated": "2026-10-09T21:24:31.219249",
+  "last_updated": "2026-10-09T22:58:58.029080",
   "used_english": [
-    "this is your moment. go!",
-    "just breathe. you are learning.",
-    "one more word, immense power.",
-    "dare to try. surprise yourself.",
-    "future you is smiling.",
     "tiny steps, giant leaps.",
     "you are heard. speak louder.",
     "one word can connect worlds.",
@@ -21002,6 +20997,11 @@
     "this word unlocks connection.",
     "confidence starts with one sound.",
     "wisdom: patience builds fluency.",
-    "hear your own progress, listen."
+    "hear your own progress, listen.",
+    "why hesitate? try this sound.",
+    "feel this progress, yes?",
+    "courage unlocked: say this now.",
+    "your passion has a voice.",
+    "this simple word? pure gold."
   ]
 }
