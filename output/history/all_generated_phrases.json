@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if fear just vanished?",
-      "spanish": "¿Y si el miedo se esfuma?",
-      "category": "Courage",
-      "generated_at": "2026-05-18T16:27:33.517686"
-    },
-    {
-      "english": "Your voice, a rising tide.",
-      "spanish": "Tu voz, una marea creciente.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T16:27:33.517698"
-    },
-    {
-      "english": "This small 'lo intento' wins.",
-      "spanish": "Este 'lo intento' pequeño gana.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T16:27:33.517710"
-    },
-    {
-      "english": "Curiosity: the first step.",
-      "spanish": "Curiosidad: el primer paso.",
-      "category": "Courage",
-      "generated_at": "2026-05-18T16:27:33.517721"
-    },
-    {
-      "english": "Your Spanish rhythm, emerging now.",
-      "spanish": "Tu ritmo español, emergiendo ahora.",
-      "category": "Success",
-      "generated_at": "2026-05-18T17:30:40.370830"
-    },
-    {
       "english": "One 'por favor' unlocks doors.",
       "spanish": "Un 'por favor' abre puertas.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu paso más audaz espera.",
       "category": "Courage",
       "generated_at": "2026-10-09T18:41:44.041147"
+    },
+    {
+      "english": "Feel the rhythm, find your voice.",
+      "spanish": "Siente el ritmo, encuentra tu voz.",
+      "category": "Balance",
+      "generated_at": "2026-10-09T20:01:07.831108"
+    },
+    {
+      "english": "Mistakes are stepping stones. Listen.",
+      "spanish": "Los errores son peldaños. Escucha.",
+      "category": "Balance",
+      "generated_at": "2026-10-09T20:01:07.831142"
+    },
+    {
+      "english": "One word opens entire worlds.",
+      "spanish": "Una palabra abre mundos enteros.",
+      "category": "Balance",
+      "generated_at": "2026-10-09T20:01:07.831172"
+    },
+    {
+      "english": "Wisdom: Speak your truth, always.",
+      "spanish": "Sabiduría: Di tu verdad, siempre.",
+      "category": "Balance",
+      "generated_at": "2026-10-09T20:01:07.831199"
+    },
+    {
+      "english": "Surprise! You're speaking better now.",
+      "spanish": "¡Sorpresa! Hablas mejor ahora.",
+      "category": "Balance",
+      "generated_at": "2026-10-09T20:01:07.831239"
     }
   ],
-  "last_updated": "2026-10-09T18:41:44.041150",
+  "last_updated": "2026-10-09T20:01:07.831242",
   "used_english": [
-    "what if fear just vanished?",
-    "your voice, a rising tide.",
-    "this small 'lo intento' wins.",
-    "curiosity: the first step.",
-    "your spanish rhythm, emerging now.",
     "one 'por favor' unlocks doors.",
     "feel this flow, your voice grows.",
     "embrace mistakes, a secret weapon.",
@@ -21002,6 +20997,11 @@
     "feel the progress now, yes?",
     "this unlocks real courage.",
     "dare to speak it.",
-    "your boldest step awaits."
+    "your boldest step awaits.",
+    "feel the rhythm, find your voice.",
+    "mistakes are stepping stones. listen.",
+    "one word opens entire worlds.",
+    "wisdom: speak your truth, always.",
+    "surprise! you're speaking better now."
   ]
 }
