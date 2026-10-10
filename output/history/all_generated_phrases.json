@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop wasting time on this.",
-      "spanish": "Deja de perder tiempo en esto.",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-19T17:39:25.883429"
-    },
-    {
-      "english": "The 1% rule that changes lives.",
-      "spanish": "La regla del 1% cambia vidas.",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-19T17:39:25.883442"
-    },
-    {
-      "english": "What I do every morning.",
-      "spanish": "Lo que hago cada mañana.",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-19T17:39:25.883454"
-    },
-    {
-      "english": "Your comfort zone is killing you.",
-      "spanish": "Tu zona de confort te mata.",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-19T17:39:25.883466"
-    },
-    {
-      "english": "Stop burning out. Find rhythm.",
-      "spanish": "Deja quemarte. Encuentra ritmo.",
-      "category": "Balance",
-      "generated_at": "2026-05-19T18:55:00.190300"
-    },
-    {
       "english": "This work-life balance really looks.",
       "spanish": "Así equilibrio trabajo-vida realmente.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? ¡Prueba 'Muchas gracias'!",
       "category": "Growth",
       "generated_at": "2026-10-10T19:09:54.092869"
+    },
+    {
+      "english": "Future you wins, keep pushing.",
+      "spanish": "Tu yo futuro gana, sigue.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T20:23:45.392002"
+    },
+    {
+      "english": "Mistakes are learning fuel. Hear?",
+      "spanish": "Errores son combustible. ¿Oyes?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T20:23:45.392039"
+    },
+    {
+      "english": "One new word daily. Watch progress.",
+      "spanish": "Una palabra nueva diaria. Mira progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T20:23:45.392065"
+    },
+    {
+      "english": "Why doubt? You're capable.",
+      "spanish": "¿Por qué dudar? Eres capaz.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T20:23:45.392092"
+    },
+    {
+      "english": "Embrace the challenge, feel growth.",
+      "spanish": "Acepta el reto, siente el crecimiento.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T20:23:45.392118"
     }
   ],
-  "last_updated": "2026-10-10T19:09:54.092871",
+  "last_updated": "2026-10-10T20:23:45.392120",
   "used_english": [
-    "stop wasting time on this.",
-    "the 1% rule that changes lives.",
-    "what i do every morning.",
-    "your comfort zone is killing you.",
-    "stop burning out. find rhythm.",
     "this work-life balance really looks.",
     "secret having all without losing yourself.",
     "can't pour from empty cup. fill.",
@@ -21002,6 +20997,11 @@
     "want a friend? say 'amigo'.",
     "your spanish journey: so real.",
     "unlock kindness with 'por favor'.",
-    "curious? try 'muchas gracias'!"
+    "curious? try 'muchas gracias'!",
+    "future you wins, keep pushing.",
+    "mistakes are learning fuel. hear?",
+    "one new word daily. watch progress.",
+    "why doubt? you're capable.",
+    "embrace the challenge, feel growth."
   ]
 }
