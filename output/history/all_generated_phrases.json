@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This single word, immense power.",
-      "spanish": "Esta palabra sola, inmenso poder.",
-      "category": "Friendship",
-      "generated_at": "2026-05-18T22:08:00.958798"
-    },
-    {
-      "english": "Unlock smiles. It's simple, really.",
-      "spanish": "Desbloquea sonrisas. Es simple, de verdad.",
-      "category": "Friendship",
-      "generated_at": "2026-05-18T22:08:00.958809"
-    },
-    {
-      "english": "Your progress, a beautiful melody.",
-      "spanish": "Tu progreso, una bella melodía.",
-      "category": "Friendship",
-      "generated_at": "2026-05-18T22:08:00.958821"
-    },
-    {
-      "english": "Here's a tiny, mighty phrase.",
-      "spanish": "Aquí una frase diminuta, poderosa.",
-      "category": "Friendship",
-      "generated_at": "2026-05-18T22:08:00.958833"
-    },
-    {
-      "english": "Stop looking for happiness there.",
-      "spanish": "Deja de buscar la felicidad ahí.",
-      "category": "Happiness",
-      "generated_at": "2026-05-19T16:23:13.808395"
-    },
-    {
       "english": "This simple trick boosts joy.",
       "spanish": "Este truco simple aumenta la alegría.",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca dejes de aprender palabras.",
       "category": "Wisdom",
       "generated_at": "2026-10-10T00:40:23.020184"
+    },
+    {
+      "english": "Curious about lasting confidence?",
+      "spanish": "¿Curioso sobre confianza duradera?",
+      "category": "Strength",
+      "generated_at": "2026-10-10T17:41:26.073364"
+    },
+    {
+      "english": "One Spanish word, endless doors.",
+      "spanish": "Una palabra española, puertas infinitas.",
+      "category": "Strength",
+      "generated_at": "2026-10-10T17:41:26.073398"
+    },
+    {
+      "english": "This small habit, changes everything.",
+      "spanish": "Este pequeño hábito, cambia todo.",
+      "category": "Strength",
+      "generated_at": "2026-10-10T17:41:26.073419"
+    },
+    {
+      "english": "Your patience builds powerful progress.",
+      "spanish": "Tu paciencia construye progreso poderoso.",
+      "category": "Strength",
+      "generated_at": "2026-10-10T17:41:26.073438"
+    },
+    {
+      "english": "Why give up? Look ahead.",
+      "spanish": "¿Por qué rendirse? Mira adelante.",
+      "category": "Strength",
+      "generated_at": "2026-10-10T17:41:26.073459"
     }
   ],
-  "last_updated": "2026-10-10T00:40:23.020186",
+  "last_updated": "2026-10-10T17:41:26.073460",
   "used_english": [
-    "this single word, immense power.",
-    "unlock smiles. it's simple, really.",
-    "your progress, a beautiful melody.",
-    "here's a tiny, mighty phrase.",
-    "stop looking for happiness there.",
     "this simple trick boosts joy.",
     "what happy people do differently.",
     "the real source of lasting happiness.",
@@ -21002,6 +20997,11 @@
     "feel this beautiful connection.",
     "surprise! fluency is coming.",
     "this tiny sound, big impact.",
-    "never stop learning new words."
+    "never stop learning new words.",
+    "curious about lasting confidence?",
+    "one spanish word, endless doors.",
+    "this small habit, changes everything.",
+    "your patience builds powerful progress.",
+    "why give up? look ahead."
   ]
 }
