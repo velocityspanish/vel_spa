@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This simple trick boosts joy.",
-      "spanish": "Este truco simple aumenta la alegría.",
-      "category": "Happiness",
-      "generated_at": "2026-05-19T16:23:13.808416"
-    },
-    {
-      "english": "What happy people do differently.",
-      "spanish": "Lo que hace la gente feliz diferente.",
-      "category": "Happiness",
-      "generated_at": "2026-05-19T16:23:13.808428"
-    },
-    {
-      "english": "The real source of lasting happiness.",
-      "spanish": "La fuente real de felicidad duradera.",
-      "category": "Happiness",
-      "generated_at": "2026-05-19T16:23:13.808439"
-    },
-    {
-      "english": "You're one choice away from joy.",
-      "spanish": "Estás a una elección de la alegría.",
-      "category": "Happiness",
-      "generated_at": "2026-05-19T16:23:13.808451"
-    },
-    {
-      "english": "This one change transformed me.",
-      "spanish": "Este único cambio me transformó.",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-19T17:39:25.883393"
-    },
-    {
       "english": "Stop wasting time on this.",
       "spanish": "Deja de perder tiempo en esto.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Por qué rendirse? Mira adelante.",
       "category": "Strength",
       "generated_at": "2026-10-10T17:41:26.073459"
+    },
+    {
+      "english": "Feel the sun? Say ¡Hola!",
+      "spanish": "Siente el sol? ¡Di Hola!",
+      "category": "Growth",
+      "generated_at": "2026-10-10T19:09:54.092745"
+    },
+    {
+      "english": "Want a friend? Say 'Amigo'.",
+      "spanish": "¿Quieres un amigo? Di 'Amigo'.",
+      "category": "Growth",
+      "generated_at": "2026-10-10T19:09:54.092784"
+    },
+    {
+      "english": "Your Spanish journey: So real.",
+      "spanish": "Tu viaje español: Muy real.",
+      "category": "Growth",
+      "generated_at": "2026-10-10T19:09:54.092813"
+    },
+    {
+      "english": "Unlock kindness with 'Por favor'.",
+      "spanish": "Desbloquea amabilidad con 'Por favor'.",
+      "category": "Growth",
+      "generated_at": "2026-10-10T19:09:54.092840"
+    },
+    {
+      "english": "Curious? Try 'Muchas gracias'!",
+      "spanish": "¿Curioso? ¡Prueba 'Muchas gracias'!",
+      "category": "Growth",
+      "generated_at": "2026-10-10T19:09:54.092869"
     }
   ],
-  "last_updated": "2026-10-10T17:41:26.073460",
+  "last_updated": "2026-10-10T19:09:54.092871",
   "used_english": [
-    "this simple trick boosts joy.",
-    "what happy people do differently.",
-    "the real source of lasting happiness.",
-    "you're one choice away from joy.",
-    "this one change transformed me.",
     "stop wasting time on this.",
     "the 1% rule that changes lives.",
     "what i do every morning.",
@@ -21002,6 +20997,11 @@
     "one spanish word, endless doors.",
     "this small habit, changes everything.",
     "your patience builds powerful progress.",
-    "why give up? look ahead."
+    "why give up? look ahead.",
+    "feel the sun? say ¡hola!",
+    "want a friend? say 'amigo'.",
+    "your spanish journey: so real.",
+    "unlock kindness with 'por favor'.",
+    "curious? try 'muchas gracias'!"
   ]
 }
