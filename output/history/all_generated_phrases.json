@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This work-life balance really looks.",
-      "spanish": "Así equilibrio trabajo-vida realmente.",
-      "category": "Balance",
-      "generated_at": "2026-05-19T18:55:00.190320"
-    },
-    {
-      "english": "Secret having all without losing yourself.",
-      "spanish": "Secreto tenerlo todo sin perderte.",
-      "category": "Balance",
-      "generated_at": "2026-05-19T18:55:00.190331"
-    },
-    {
-      "english": "Can't pour from empty cup. Fill.",
-      "spanish": "No servir desde taza vacía. Llena.",
-      "category": "Balance",
-      "generated_at": "2026-05-19T18:55:00.190343"
-    },
-    {
-      "english": "Rest productive. Stop feeling guilty.",
-      "spanish": "Descansar productivo. Deja sentirte culpable.",
-      "category": "Balance",
-      "generated_at": "2026-05-19T18:55:00.190354"
-    },
-    {
-      "english": "Stop rushing. Trust the timing.",
-      "spanish": "Deja de apresurarte. Confía tiempo.",
-      "category": "Patience",
-      "generated_at": "2026-05-19T20:24:46.977935"
-    },
-    {
       "english": "This is why patience tested.",
       "spanish": "Por esto es paciencia probada.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Acepta el reto, siente el crecimiento.",
       "category": "Perseverance",
       "generated_at": "2026-10-10T20:23:45.392118"
+    },
+    {
+      "english": "Stuck? Keep this sound close.",
+      "spanish": "Atascado? Ten este sonido cerca.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T22:06:30.051588"
+    },
+    {
+      "english": "This single word breaks barriers.",
+      "spanish": "Esta sola palabra rompe barreras.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T22:06:30.051626"
+    },
+    {
+      "english": "Feeling slow? It's perfectly normal.",
+      "spanish": "¿Te sientes lento? Es perfectamente normal.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T22:06:30.051652"
+    },
+    {
+      "english": "Future fluent self thanks you.",
+      "spanish": "Tu futuro yo fluido te agradece.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T22:06:30.051681"
+    },
+    {
+      "english": "One more try, you've got this.",
+      "spanish": "Un intento más, tú puedes.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T22:06:30.051709"
     }
   ],
-  "last_updated": "2026-10-10T20:23:45.392120",
+  "last_updated": "2026-10-10T22:06:30.051711",
   "used_english": [
-    "this work-life balance really looks.",
-    "secret having all without losing yourself.",
-    "can't pour from empty cup. fill.",
-    "rest productive. stop feeling guilty.",
-    "stop rushing. trust the timing.",
     "this is why patience tested.",
     "the art of waiting without suffering.",
     "what patient people know you don't.",
@@ -21002,6 +20997,11 @@
     "mistakes are learning fuel. hear?",
     "one new word daily. watch progress.",
     "why doubt? you're capable.",
-    "embrace the challenge, feel growth."
+    "embrace the challenge, feel growth.",
+    "stuck? keep this sound close.",
+    "this single word breaks barriers.",
+    "feeling slow? it's perfectly normal.",
+    "future fluent self thanks you.",
+    "one more try, you've got this."
   ]
 }
