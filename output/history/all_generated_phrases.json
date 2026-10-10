@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Tiny steps, giant leaps.",
-      "spanish": "Pasos pequeños, saltos gigantes.",
-      "category": "Balance",
-      "generated_at": "2026-05-18T20:22:07.429862"
-    },
-    {
-      "english": "You are heard. Speak louder.",
-      "spanish": "Eres oído. Habla fuerte.",
-      "category": "Balance",
-      "generated_at": "2026-05-18T20:22:07.429875"
-    },
-    {
-      "english": "One word can connect worlds.",
-      "spanish": "Una palabra une mundos.",
-      "category": "Balance",
-      "generated_at": "2026-05-18T20:22:07.429886"
-    },
-    {
-      "english": "Embrace the learning flow.",
-      "spanish": "Abraza el flujo de aprender.",
-      "category": "Balance",
-      "generated_at": "2026-05-18T20:22:07.429898"
-    },
-    {
-      "english": "This phrase, your secret weapon.",
-      "spanish": "Esta frase, tu arma secreta.",
-      "category": "Friendship",
-      "generated_at": "2026-05-18T22:08:00.958777"
-    },
-    {
       "english": "This single word, immense power.",
       "spanish": "Esta palabra sola, inmenso poder.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Esta palabra simple? Oro puro.",
       "category": "Growth",
       "generated_at": "2026-10-09T22:58:58.029078"
+    },
+    {
+      "english": "This word brings true comfort.",
+      "spanish": "Esta palabra trae consuelo.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T00:40:23.020088"
+    },
+    {
+      "english": "Feel this beautiful connection.",
+      "spanish": "Siente esta conexión hermosa.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T00:40:23.020121"
+    },
+    {
+      "english": "Surprise! Fluency is coming.",
+      "spanish": "¡Sorpresa! La fluidez llega.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T00:40:23.020142"
+    },
+    {
+      "english": "This tiny sound, big impact.",
+      "spanish": "Este sonido pequeño, gran impacto.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T00:40:23.020163"
+    },
+    {
+      "english": "Never stop learning new words.",
+      "spanish": "Nunca dejes de aprender palabras.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T00:40:23.020184"
     }
   ],
-  "last_updated": "2026-10-09T22:58:58.029080",
+  "last_updated": "2026-10-10T00:40:23.020186",
   "used_english": [
-    "tiny steps, giant leaps.",
-    "you are heard. speak louder.",
-    "one word can connect worlds.",
-    "embrace the learning flow.",
-    "this phrase, your secret weapon.",
     "this single word, immense power.",
     "unlock smiles. it's simple, really.",
     "your progress, a beautiful melody.",
@@ -21002,6 +20997,11 @@
     "feel this progress, yes?",
     "courage unlocked: say this now.",
     "your passion has a voice.",
-    "this simple word? pure gold."
+    "this simple word? pure gold.",
+    "this word brings true comfort.",
+    "feel this beautiful connection.",
+    "surprise! fluency is coming.",
+    "this tiny sound, big impact.",
+    "never stop learning new words."
   ]
 }
