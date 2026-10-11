@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "You needed hear this today.",
-      "spanish": "Necesitabas escuchar esto hoy.",
-      "category": "Happiness",
-      "generated_at": "2026-05-20T17:54:47.960340"
-    },
-    {
-      "english": "This is your wake-up call.",
-      "spanish": "Esta es tu llamada atención.",
-      "category": "Happiness",
-      "generated_at": "2026-05-20T17:54:47.960353"
-    },
-    {
-      "english": "Don't skip. This changes everything.",
-      "spanish": "No saltes. Esto cambia todo.",
-      "category": "Happiness",
-      "generated_at": "2026-05-20T17:54:47.960365"
-    },
-    {
-      "english": "Stop letting them steal your peace.",
-      "spanish": "Deja de dejarles robar tu paz.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-20T19:15:27.597291"
-    },
-    {
-      "english": "This breathing trick calms anxiety.",
-      "spanish": "Este truco respiración calma ansiedad.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-20T19:15:27.597310"
-    },
-    {
       "english": "What I do when mind races.",
       "spanish": "Lo que hago cuando mente corre.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente esta conexión profunda.",
       "category": "Inner Peace",
       "generated_at": "2026-10-11T19:22:59.226075"
+    },
+    {
+      "english": "Curious? This word opens hearts.",
+      "spanish": "¿Curioso? Esta palabra abre corazones.",
+      "category": "Success",
+      "generated_at": "2026-10-11T20:43:12.296168"
+    },
+    {
+      "english": "One sound, instant connection. Wow!",
+      "spanish": "Un sonido, conexión instantánea. ¡Wow!",
+      "category": "Success",
+      "generated_at": "2026-10-11T20:43:12.296201"
+    },
+    {
+      "english": "Stop doubting, start speaking.",
+      "spanish": "Deja de dudar, empieza a hablar.",
+      "category": "Success",
+      "generated_at": "2026-10-11T20:43:12.296230"
+    },
+    {
+      "english": "Feel the joy of learning.",
+      "spanish": "Siente la alegría de aprender.",
+      "category": "Success",
+      "generated_at": "2026-10-11T20:43:12.296257"
+    },
+    {
+      "english": "Can you say this perfectly?",
+      "spanish": "¿Puedes decirlo perfectamente?",
+      "category": "Success",
+      "generated_at": "2026-10-11T20:43:12.296285"
     }
   ],
-  "last_updated": "2026-10-11T19:22:59.226076",
+  "last_updated": "2026-10-11T20:43:12.296287",
   "used_english": [
-    "you needed hear this today.",
-    "this is your wake-up call.",
-    "don't skip. this changes everything.",
-    "stop letting them steal your peace.",
-    "this breathing trick calms anxiety.",
     "what i do when mind races.",
     "the price of inner peace.",
     "let go of what you can't control.",
@@ -21002,6 +20997,11 @@
     "this sound heals your heart.",
     "your bravery is blossoming now.",
     "surprise! you're not alone.",
-    "feel this connection deep inside."
+    "feel this connection deep inside.",
+    "curious? this word opens hearts.",
+    "one sound, instant connection. wow!",
+    "stop doubting, start speaking.",
+    "feel the joy of learning.",
+    "can you say this perfectly?"
   ]
 }
