@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The mindset that attracts good things.",
-      "spanish": "La mentalidad que atrae cosas buenas.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-19T22:20:56.285380"
-    },
-    {
-      "english": "Stop consuming. Start creating.",
-      "spanish": "Deja de consumir. Empieza a crear.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-19T22:20:56.285393"
-    },
-    {
-      "english": "Choose progress over perfection always.",
-      "spanish": "Elige progreso sobre perfección siempre.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-19T22:20:56.285405"
-    },
-    {
-      "english": "Stop scrolling. This is your sign.",
-      "spanish": "Deja desplazarte. Esta tu señal.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-19T22:20:56.285417"
-    },
-    {
-      "english": "Feel the fear. Do it anyway.",
-      "spanish": "Siente el miedo. Hazlo todos modos.",
-      "category": "Courage",
-      "generated_at": "2026-05-20T16:28:30.193411"
-    },
-    {
       "english": "This is what bravery really looks.",
       "spanish": "Así es como se ve valentía.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Qué desbloquea conexiones instantáneas?",
       "category": "Happiness",
       "generated_at": "2026-10-11T00:11:11.873348"
+    },
+    {
+      "english": "Feeling lost? Find your way.",
+      "spanish": "¿Perdido? Encuentra tu camino.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-11T17:56:11.108700"
+    },
+    {
+      "english": "This word means 'slow down'.",
+      "spanish": "Esta palabra dice 'despacio'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-11T17:56:11.108737"
+    },
+    {
+      "english": "Curious about patience? Listen.",
+      "spanish": "¿Curioso por paciencia? Escucha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-11T17:56:11.108765"
+    },
+    {
+      "english": "One question: ¿Cómo estás?",
+      "spanish": "Una pregunta: ¿Cómo estás?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-11T17:56:11.108794"
+    },
+    {
+      "english": "Wisdom: Progress, not perfection.",
+      "spanish": "Sabiduría: Progreso, no perfección.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-11T17:56:11.108821"
     }
   ],
-  "last_updated": "2026-10-11T00:11:11.873350",
+  "last_updated": "2026-10-11T17:56:11.108823",
   "used_english": [
-    "the mindset that attracts good things.",
-    "stop consuming. start creating.",
-    "choose progress over perfection always.",
-    "stop scrolling. this is your sign.",
-    "feel the fear. do it anyway.",
     "this is what bravery really looks.",
     "stop hiding. the world needs seeing.",
     "the risk you're avoiding is worth.",
@@ -21002,6 +20997,11 @@
     "this simple greeting, brightens days.",
     "curious how smiles are made?",
     "don't stop sharing your joy.",
-    "what unlocks instant connections?"
+    "what unlocks instant connections?",
+    "feeling lost? find your way.",
+    "this word means 'slow down'.",
+    "curious about patience? listen.",
+    "one question: ¿cómo estás?",
+    "wisdom: progress, not perfection."
   ]
 }
