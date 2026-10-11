@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is what bravery really looks.",
-      "spanish": "Así es como se ve valentía.",
-      "category": "Courage",
-      "generated_at": "2026-05-20T16:28:30.193434"
-    },
-    {
-      "english": "Stop hiding. The world needs seeing.",
-      "spanish": "Deja de esconderte. Mundo necesita verte.",
-      "category": "Courage",
-      "generated_at": "2026-05-20T16:28:30.193446"
-    },
-    {
-      "english": "The risk you're avoiding is worth.",
-      "spanish": "El riesgo que evitas vale pena.",
-      "category": "Courage",
-      "generated_at": "2026-05-20T16:28:30.193458"
-    },
-    {
-      "english": "Courage isn't fearlessness. It's this.",
-      "spanish": "El coraje no es falta miedo. Es esto.",
-      "category": "Courage",
-      "generated_at": "2026-05-20T16:28:30.193469"
-    },
-    {
-      "english": "Stop waiting. Choose happiness now.",
-      "spanish": "Deja de esperar. Elige felicidad ahora.",
-      "category": "Happiness",
-      "generated_at": "2026-05-20T17:54:47.960320"
-    },
-    {
       "english": "You needed hear this today.",
       "spanish": "Necesitabas escuchar esto hoy.",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Progreso, no perfección.",
       "category": "Mindfulness",
       "generated_at": "2026-10-11T17:56:11.108821"
+    },
+    {
+      "english": "One word unlocks calm now.",
+      "spanish": "Una palabra desbloquea calma hoy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-11T19:22:59.225998"
+    },
+    {
+      "english": "This sound heals your heart.",
+      "spanish": "Este sonido sana tu corazón.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-11T19:22:59.226027"
+    },
+    {
+      "english": "Your bravery is blossoming now.",
+      "spanish": "Tu valentía florece ahora.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-11T19:22:59.226043"
+    },
+    {
+      "english": "Surprise! You're not alone.",
+      "spanish": "¡Sorpresa! No estás solo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-11T19:22:59.226059"
+    },
+    {
+      "english": "Feel this connection deep inside.",
+      "spanish": "Siente esta conexión profunda.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-11T19:22:59.226075"
     }
   ],
-  "last_updated": "2026-10-11T17:56:11.108823",
+  "last_updated": "2026-10-11T19:22:59.226076",
   "used_english": [
-    "this is what bravery really looks.",
-    "stop hiding. the world needs seeing.",
-    "the risk you're avoiding is worth.",
-    "courage isn't fearlessness. it's this.",
-    "stop waiting. choose happiness now.",
     "you needed hear this today.",
     "this is your wake-up call.",
     "don't skip. this changes everything.",
@@ -21002,6 +20997,11 @@
     "this word means 'slow down'.",
     "curious about patience? listen.",
     "one question: ¿cómo estás?",
-    "wisdom: progress, not perfection."
+    "wisdom: progress, not perfection.",
+    "one word unlocks calm now.",
+    "this sound heals your heart.",
+    "your bravery is blossoming now.",
+    "surprise! you're not alone.",
+    "feel this connection deep inside."
   ]
 }
