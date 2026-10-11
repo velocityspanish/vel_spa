@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This is why patience tested.",
-      "spanish": "Por esto es paciencia probada.",
-      "category": "Patience",
-      "generated_at": "2026-05-19T20:24:46.977959"
-    },
-    {
-      "english": "The art of waiting without suffering.",
-      "spanish": "El arte esperar sin sufrir.",
-      "category": "Patience",
-      "generated_at": "2026-05-19T20:24:46.977971"
-    },
-    {
-      "english": "What patient people know you don't.",
-      "spanish": "Lo que sabe gente paciente tú no.",
-      "category": "Patience",
-      "generated_at": "2026-05-19T20:24:46.977983"
-    },
-    {
-      "english": "Good things come to those who wait.",
-      "spanish": "Cosas buenas vienen quienes esperan.",
-      "category": "Patience",
-      "generated_at": "2026-05-19T20:24:46.977994"
-    },
-    {
-      "english": "Cut these toxic habits from life.",
-      "spanish": "Corta estos hábitos tóxicos vida.",
-      "category": "Positive Life",
-      "generated_at": "2026-05-19T22:20:56.285358"
-    },
-    {
       "english": "The mindset that attracts good things.",
       "spanish": "La mentalidad que atrae cosas buenas.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Un intento más, tú puedes.",
       "category": "Perseverance",
       "generated_at": "2026-10-10T22:06:30.051709"
+    },
+    {
+      "english": "Your inner peace matters, always.",
+      "spanish": "Tu paz interior importa, siempre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-11T00:11:11.873237"
+    },
+    {
+      "english": "This simple greeting, brightens days.",
+      "spanish": "Este saludo simple, alegra días.",
+      "category": "Happiness",
+      "generated_at": "2026-10-11T00:11:11.873269"
+    },
+    {
+      "english": "Curious how smiles are made?",
+      "spanish": "¿Curioso cómo sonrisas se crean?",
+      "category": "Happiness",
+      "generated_at": "2026-10-11T00:11:11.873293"
+    },
+    {
+      "english": "Don't stop sharing your joy.",
+      "spanish": "No dejes de compartir tu alegría.",
+      "category": "Happiness",
+      "generated_at": "2026-10-11T00:11:11.873327"
+    },
+    {
+      "english": "What unlocks instant connections?",
+      "spanish": "¿Qué desbloquea conexiones instantáneas?",
+      "category": "Happiness",
+      "generated_at": "2026-10-11T00:11:11.873348"
     }
   ],
-  "last_updated": "2026-10-10T22:06:30.051711",
+  "last_updated": "2026-10-11T00:11:11.873350",
   "used_english": [
-    "this is why patience tested.",
-    "the art of waiting without suffering.",
-    "what patient people know you don't.",
-    "good things come to those who wait.",
-    "cut these toxic habits from life.",
     "the mindset that attracts good things.",
     "stop consuming. start creating.",
     "choose progress over perfection always.",
@@ -21002,6 +20997,11 @@
     "this single word breaks barriers.",
     "feeling slow? it's perfectly normal.",
     "future fluent self thanks you.",
-    "one more try, you've got this."
+    "one more try, you've got this.",
+    "your inner peace matters, always.",
+    "this simple greeting, brightens days.",
+    "curious how smiles are made?",
+    "don't stop sharing your joy.",
+    "what unlocks instant connections?"
   ]
 }
