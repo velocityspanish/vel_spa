@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What I do when mind races.",
-      "spanish": "Lo que hago cuando mente corre.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-20T19:15:27.597323"
-    },
-    {
-      "english": "The price of inner peace.",
-      "spanish": "El precio de la paz interior.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-20T19:15:27.597334"
-    },
-    {
-      "english": "Let go of what you can't control.",
-      "spanish": "Suelta lo que no puedes controlar.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-20T19:15:27.597346"
-    },
-    {
-      "english": "Stand tall. You're unstoppable.",
-      "spanish": "Mantente firme. Eres imparable.",
-      "category": "Confidence",
-      "generated_at": "2026-05-20T20:57:22.525143"
-    },
-    {
-      "english": "Your seeds growing underground. Be patient.",
-      "spanish": "Semillas creciendo bajo tierra. Sé paciente.",
-      "category": "Patience",
-      "generated_at": "2026-05-20T22:26:58.541101"
-    },
-    {
       "english": "Stop overthinking. Start doing.",
       "spanish": "Deja de pensar. Empieza a hacer.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Puedes decirlo perfectamente?",
       "category": "Success",
       "generated_at": "2026-10-11T20:43:12.296285"
+    },
+    {
+      "english": "Doubt whispers, courage roars.",
+      "spanish": "La duda susurra, el coraje ruge.",
+      "category": "Courage",
+      "generated_at": "2026-10-11T22:35:13.261310"
+    },
+    {
+      "english": "Why hesitate? Speak it loud.",
+      "spanish": "¿Por qué dudar? Dilo fuerte.",
+      "category": "Courage",
+      "generated_at": "2026-10-11T22:35:13.261347"
+    },
+    {
+      "english": "Brave is not fearless, friends.",
+      "spanish": "Valiente no es sin miedo.",
+      "category": "Courage",
+      "generated_at": "2026-10-11T22:35:13.261375"
+    },
+    {
+      "english": "Your progress will surprise you.",
+      "spanish": "Tu progreso te sorprenderá.",
+      "category": "Courage",
+      "generated_at": "2026-10-11T22:35:13.261403"
+    },
+    {
+      "english": "What if you could conquer it?",
+      "spanish": "¿Qué si pudieras conquistarlo?",
+      "category": "Courage",
+      "generated_at": "2026-10-11T22:35:13.261432"
     }
   ],
-  "last_updated": "2026-10-11T20:43:12.296287",
+  "last_updated": "2026-10-11T22:35:13.261434",
   "used_english": [
-    "what i do when mind races.",
-    "the price of inner peace.",
-    "let go of what you can't control.",
-    "stand tall. you're unstoppable.",
-    "your seeds growing underground. be patient.",
     "stop overthinking. start doing.",
     "the lesson life keeps teaching.",
     "what i wish i knew at 20.",
@@ -21002,6 +20997,11 @@
     "one sound, instant connection. wow!",
     "stop doubting, start speaking.",
     "feel the joy of learning.",
-    "can you say this perfectly?"
+    "can you say this perfectly?",
+    "doubt whispers, courage roars.",
+    "why hesitate? speak it loud.",
+    "brave is not fearless, friends.",
+    "your progress will surprise you.",
+    "what if you could conquer it?"
   ]
 }
