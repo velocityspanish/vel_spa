@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Be the person you needed younger.",
-      "spanish": "Sé persona que necesitabas cuando joven.",
-      "category": "Inspiration",
-      "generated_at": "2026-05-21T20:46:06.676294"
-    },
-    {
-      "english": "Stop searching. Purpose already here.",
-      "spanish": "Deja buscar. Propósito ya aquí.",
-      "category": "Purpose",
-      "generated_at": "2026-05-22T15:50:23.905913"
-    },
-    {
-      "english": "This is why feel unfulfilled.",
-      "spanish": "Por esto es sientes insatisfecho.",
-      "category": "Purpose",
-      "generated_at": "2026-05-22T15:50:23.905950"
-    },
-    {
-      "english": "Intersection joy service purpose.",
-      "spanish": "Intersección alegría servicio propósito.",
-      "category": "Purpose",
-      "generated_at": "2026-05-22T15:50:23.905962"
-    },
-    {
-      "english": "What meant do find you.",
-      "spanish": "Lo destinado hacer encontrará.",
-      "category": "Purpose",
-      "generated_at": "2026-05-22T15:50:23.905974"
-    },
-    {
       "english": "Live intention live regret.",
       "spanish": "Vive intención vive arrepentimiento.",
       "category": "Purpose",
@@ -17999,15 +17969,40 @@
       "spanish": "No solo aprendas, *siéntelo*.",
       "category": "Inspiration",
       "generated_at": "2026-10-12T21:38:25.754925"
+    },
+    {
+      "english": "Curious about patience? Say 'despacio'.",
+      "spanish": "Curioso/a por paciencia? Di 'despacio'.",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T22:25:06.028147"
+    },
+    {
+      "english": "This sound brings instant warmth.",
+      "spanish": "Este sonido trae calidez instantánea.",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T22:25:06.028174"
+    },
+    {
+      "english": "Feel true connection? Try 'juntos'.",
+      "spanish": "Sentir conexión real? Prueba 'juntos'.",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T22:25:06.028191"
+    },
+    {
+      "english": "Surprise! You're understood here.",
+      "spanish": "Sorpresa! Eres entendido/a aquí.",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T22:25:06.028209"
+    },
+    {
+      "english": "Want more joy? Say 'alegría'.",
+      "spanish": "¿Quieres más alegría? Di 'alegría'.",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T22:25:06.028229"
     }
   ],
-  "last_updated": "2026-10-12T21:38:25.754927",
+  "last_updated": "2026-10-12T22:25:06.028230",
   "used_english": [
-    "be the person you needed younger.",
-    "stop searching. purpose already here.",
-    "this is why feel unfulfilled.",
-    "intersection joy service purpose.",
-    "what meant do find you.",
     "live intention live regret.",
     "become who you were meant to be.",
     "never lose faith. this too shall pass.",
@@ -21002,6 +20997,11 @@
     "wisdom: connect beyond words.",
     "one sound opens infinite possibilities.",
     "feel the progress now.",
-    "don't just learn, *feel* it."
+    "don't just learn, *feel* it.",
+    "curious about patience? say 'despacio'.",
+    "this sound brings instant warmth.",
+    "feel true connection? try 'juntos'.",
+    "surprise! you're understood here.",
+    "want more joy? say 'alegría'."
   ]
 }
