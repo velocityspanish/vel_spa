@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "When everything fails, remember this.",
-      "spanish": "Cuando todo falla, recuerda esto.",
-      "category": "Hope",
-      "generated_at": "2026-05-21T18:54:22.610789"
-    },
-    {
-      "english": "Stop believing this lie about hope.",
-      "spanish": "Deja de creer esta mentira sobre esperanza.",
-      "category": "Hope",
-      "generated_at": "2026-05-21T18:54:22.610812"
-    },
-    {
-      "english": "The dawn always comes after darkness.",
-      "spanish": "El amanecer siempre llega después oscuridad.",
-      "category": "Hope",
-      "generated_at": "2026-05-21T18:54:22.610824"
-    },
-    {
-      "english": "What keeps me going when quitting.",
-      "spanish": "Lo que me mantiene siguiendo cuando rindo.",
-      "category": "Hope",
-      "generated_at": "2026-05-21T18:54:22.610835"
-    },
-    {
-      "english": "Your breakthrough is closer than think.",
-      "spanish": "Tu avance está más cerca piensas.",
-      "category": "Hope",
-      "generated_at": "2026-05-21T18:54:22.610847"
-    },
-    {
       "english": "Be the person you needed younger.",
       "spanish": "Sé persona que necesitabas cuando joven.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso/a por el nombre de la pasión?",
       "category": "Love",
       "generated_at": "2026-10-12T00:23:57.818552"
+    },
+    {
+      "english": "This whisper unlocks understanding.",
+      "spanish": "Este susurro desbloquea entendimiento.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-12T21:38:25.754813"
+    },
+    {
+      "english": "Wisdom: Connect beyond words.",
+      "spanish": "Sabiduría: Conecta más allá de palabras.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-12T21:38:25.754862"
+    },
+    {
+      "english": "One sound opens infinite possibilities.",
+      "spanish": "Un sonido abre infinitas posibilidades.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-12T21:38:25.754883"
+    },
+    {
+      "english": "Feel the progress now.",
+      "spanish": "Siente el progreso ahora.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-12T21:38:25.754903"
+    },
+    {
+      "english": "Don't just learn, *feel* it.",
+      "spanish": "No solo aprendas, *siéntelo*.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-12T21:38:25.754925"
     }
   ],
-  "last_updated": "2026-10-12T00:23:57.818554",
+  "last_updated": "2026-10-12T21:38:25.754927",
   "used_english": [
-    "when everything fails, remember this.",
-    "stop believing this lie about hope.",
-    "the dawn always comes after darkness.",
-    "what keeps me going when quitting.",
-    "your breakthrough is closer than think.",
     "be the person you needed younger.",
     "stop searching. purpose already here.",
     "this is why feel unfulfilled.",
@@ -21002,6 +20997,11 @@
     "one word for heart's deepest feelings?",
     "future you thanks you for this.",
     "this connects souls, truly magical.",
-    "curious about passion's true name?"
+    "curious about passion's true name?",
+    "this whisper unlocks understanding.",
+    "wisdom: connect beyond words.",
+    "one sound opens infinite possibilities.",
+    "feel the progress now.",
+    "don't just learn, *feel* it."
   ]
 }
