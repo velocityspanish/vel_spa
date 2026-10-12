@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Live intention live regret.",
-      "spanish": "Vive intención vive arrepentimiento.",
-      "category": "Purpose",
-      "generated_at": "2026-05-22T15:50:23.905986"
-    },
-    {
-      "english": "Become who you were meant to be.",
-      "spanish": "Conviértete en quien debías ser.",
-      "category": "Self Improvement",
-      "generated_at": "2026-05-22T17:10:28.122055"
-    },
-    {
-      "english": "Never lose faith. This too shall pass.",
-      "spanish": "Nunca pierdas fe. Esto también pasará.",
-      "category": "Hope",
-      "generated_at": "2026-05-23T16:03:20.386481"
-    },
-    {
-      "english": "Champions are made in dark.",
-      "spanish": "Los campeones se hacen oscuridad.",
-      "category": "Perseverance",
-      "generated_at": "2026-05-23T17:55:57.049046"
-    },
-    {
-      "english": "What successful people do before 8am.",
-      "spanish": "Lo que hace la gente exitosa temprano.",
-      "category": "Success",
-      "generated_at": "2026-05-23T20:01:55.024763"
-    },
-    {
       "english": "This mindset shift changes lives.",
       "spanish": "Este cambio mental cambia vidas.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres más alegría? Di 'alegría'.",
       "category": "Kindness",
       "generated_at": "2026-10-12T22:25:06.028229"
+    },
+    {
+      "english": "Unlock calm, say 'tranquilo'.",
+      "spanish": "Desbloquea calma, di 'tranquilo'.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-12T23:23:06.389457"
+    },
+    {
+      "english": "Your Spanish is beautiful, truly.",
+      "spanish": "Tu español es hermoso, de verdad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-12T23:23:06.389486"
+    },
+    {
+      "english": "Feel this? True connection.",
+      "spanish": "Sientes esto? Conexión verdadera.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-12T23:23:06.389502"
+    },
+    {
+      "english": "One sound builds deep understanding.",
+      "spanish": "Un sonido crea entendimiento profundo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-12T23:23:06.389517"
+    },
+    {
+      "english": "Embrace mistakes. They guide you.",
+      "spanish": "Abraza errores. Te guían.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-12T23:23:06.389533"
     }
   ],
-  "last_updated": "2026-10-12T22:25:06.028230",
+  "last_updated": "2026-10-12T23:23:06.389534",
   "used_english": [
-    "live intention live regret.",
-    "become who you were meant to be.",
-    "never lose faith. this too shall pass.",
-    "champions are made in dark.",
-    "what successful people do before 8am.",
     "this mindset shift changes lives.",
     "why you're not seeing results.",
     "the truth about overnight success.",
@@ -21002,6 +20997,11 @@
     "this sound brings instant warmth.",
     "feel true connection? try 'juntos'.",
     "surprise! you're understood here.",
-    "want more joy? say 'alegría'."
+    "want more joy? say 'alegría'.",
+    "unlock calm, say 'tranquilo'.",
+    "your spanish is beautiful, truly.",
+    "feel this? true connection.",
+    "one sound builds deep understanding.",
+    "embrace mistakes. they guide you."
   ]
 }
