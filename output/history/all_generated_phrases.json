@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop overthinking. Start doing.",
-      "spanish": "Deja de pensar. Empieza a hacer.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-21T16:16:42.510420"
-    },
-    {
-      "english": "The lesson life keeps teaching.",
-      "spanish": "La lección que la vida enseña.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-21T16:16:42.510442"
-    },
-    {
-      "english": "What I wish I knew at 20.",
-      "spanish": "Lo que desearía saber a los 20.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-21T16:16:42.510455"
-    },
-    {
-      "english": "This truth will set you free.",
-      "spanish": "Esta verdad te liberará.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-21T16:16:42.510468"
-    },
-    {
-      "english": "The price of staying the same.",
-      "spanish": "El precio de permanecer igual.",
-      "category": "Wisdom",
-      "generated_at": "2026-05-21T16:16:42.510483"
-    },
-    {
       "english": "When everything fails, remember this.",
       "spanish": "Cuando todo falla, recuerda esto.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Qué si pudieras conquistarlo?",
       "category": "Courage",
       "generated_at": "2026-10-11T22:35:13.261432"
+    },
+    {
+      "english": "Whispering your love, a sweet secret.",
+      "spanish": "Susurrando tu amor, un dulce secreto.",
+      "category": "Love",
+      "generated_at": "2026-10-12T00:23:57.818435"
+    },
+    {
+      "english": "One word for heart's deepest feelings?",
+      "spanish": "¿Una palabra para los sentimientos más profundos?",
+      "category": "Love",
+      "generated_at": "2026-10-12T00:23:57.818469"
+    },
+    {
+      "english": "Future you thanks you for this.",
+      "spanish": "Tu yo futuro te lo agradece.",
+      "category": "Love",
+      "generated_at": "2026-10-12T00:23:57.818498"
+    },
+    {
+      "english": "This connects souls, truly magical.",
+      "spanish": "Esto conecta almas, verdaderamente mágico.",
+      "category": "Love",
+      "generated_at": "2026-10-12T00:23:57.818525"
+    },
+    {
+      "english": "Curious about passion's true name?",
+      "spanish": "¿Curioso/a por el nombre de la pasión?",
+      "category": "Love",
+      "generated_at": "2026-10-12T00:23:57.818552"
     }
   ],
-  "last_updated": "2026-10-11T22:35:13.261434",
+  "last_updated": "2026-10-12T00:23:57.818554",
   "used_english": [
-    "stop overthinking. start doing.",
-    "the lesson life keeps teaching.",
-    "what i wish i knew at 20.",
-    "this truth will set you free.",
-    "the price of staying the same.",
     "when everything fails, remember this.",
     "stop believing this lie about hope.",
     "the dawn always comes after darkness.",
@@ -21002,6 +20997,11 @@
     "why hesitate? speak it loud.",
     "brave is not fearless, friends.",
     "your progress will surprise you.",
-    "what if you could conquer it?"
+    "what if you could conquer it?",
+    "whispering your love, a sweet secret.",
+    "one word for heart's deepest feelings?",
+    "future you thanks you for this.",
+    "this connects souls, truly magical.",
+    "curious about passion's true name?"
   ]
 }
