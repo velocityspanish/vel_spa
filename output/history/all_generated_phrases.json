@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Stop apologizing for being powerful.",
-      "spanish": "Deja disculparte por ser poderoso.",
-      "category": "Strength",
-      "generated_at": "2026-05-24T20:00:02.757474"
-    },
-    {
-      "english": "The storm didn't break. Refined.",
-      "spanish": "Tormenta no rompió. Refinó.",
-      "category": "Strength",
-      "generated_at": "2026-05-24T20:00:02.757496"
-    },
-    {
-      "english": "Your scars proof survival. Wear proudly.",
-      "spanish": "Cicatrices prueba supervivencia. Lleva orgullo.",
-      "category": "Strength",
-      "generated_at": "2026-05-24T20:00:02.757512"
-    },
-    {
-      "english": "This small act changed someone's day.",
-      "spanish": "Este pequeño acto cambió día alguien.",
-      "category": "Kindness",
-      "generated_at": "2026-05-25T15:53:15.648421"
-    },
-    {
-      "english": "Stop underestimating power of kindness.",
-      "spanish": "Deja de subestimar poder amabilidad.",
-      "category": "Kindness",
-      "generated_at": "2026-05-25T15:53:15.648442"
-    },
-    {
       "english": "What happens when you choose kindness.",
       "spanish": "Lo que pasa eliges amabilidad.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Deja que la alegría te guíe.",
       "category": "Joy",
       "generated_at": "2026-10-13T02:30:13.373173"
+    },
+    {
+      "english": "This word makes you a local.",
+      "spanish": "Esta palabra te hace local.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T19:46:59.728065"
+    },
+    {
+      "english": "Want friends? Try this word.",
+      "spanish": "¿Quieres amigos? Prueba esta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T19:46:59.728100"
+    },
+    {
+      "english": "This sound connects strangers, truly.",
+      "spanish": "Este sonido une extraños, de verdad.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T19:46:59.728127"
+    },
+    {
+      "english": "Curious how to say 'welcome'?",
+      "spanish": "¿Curioso cómo decir 'bienvenido'?",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T19:46:59.728155"
+    },
+    {
+      "english": "Embrace the pauses, learn patience.",
+      "spanish": "Abraza las pausas, aprende paciencia.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T19:46:59.728181"
     }
   ],
-  "last_updated": "2026-10-13T02:30:13.373176",
+  "last_updated": "2026-10-13T19:46:59.728183",
   "used_english": [
-    "stop apologizing for being powerful.",
-    "the storm didn't break. refined.",
-    "your scars proof survival. wear proudly.",
-    "this small act changed someone's day.",
-    "stop underestimating power of kindness.",
     "what happens when you choose kindness.",
     "the ripple effect one kind word.",
     "be the reason someone smiles today.",
@@ -21002,6 +20997,11 @@
     "want to feel instantly welcome?",
     "curious how smiles spread?",
     "your warmth makes world better.",
-    "let joy be your guide."
+    "let joy be your guide.",
+    "this word makes you a local.",
+    "want friends? try this word.",
+    "this sound connects strangers, truly.",
+    "curious how to say 'welcome'?",
+    "embrace the pauses, learn patience."
   ]
 }
