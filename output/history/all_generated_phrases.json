@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The test of true friendship.",
-      "spanish": "La prueba de la verdadera amistad.",
-      "category": "Friendship",
-      "generated_at": "2026-05-23T21:59:46.611045"
-    },
-    {
-      "english": "What I learned about loyalty.",
-      "spanish": "Lo que aprendí sobre la lealtad.",
-      "category": "Friendship",
-      "generated_at": "2026-05-23T21:59:46.611058"
-    },
-    {
-      "english": "Keep these people close forever.",
-      "spanish": "Mantén a estas personas cerca siempre.",
-      "category": "Friendship",
-      "generated_at": "2026-05-23T21:59:46.611070"
-    },
-    {
-      "english": "You're stronger than realize. Here's proof.",
-      "spanish": "Eres más fuerte das cuenta. Prueba.",
-      "category": "Strength",
-      "generated_at": "2026-05-24T20:00:02.757414"
-    },
-    {
-      "english": "This is how warriors made.",
-      "spanish": "Así es como hacen guerreros.",
-      "category": "Strength",
-      "generated_at": "2026-05-24T20:00:02.757437"
-    },
-    {
       "english": "Stop apologizing for being powerful.",
       "spanish": "Deja disculparte por ser poderoso.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta palabra rompe silencio.",
       "category": "Creativity",
       "generated_at": "2026-10-13T01:02:15.363759"
+    },
+    {
+      "english": "Unlock today's sunshine word.",
+      "spanish": "Desbloquea la palabra de hoy.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:30:13.373055"
+    },
+    {
+      "english": "Want to feel instantly welcome?",
+      "spanish": "¿Quieres sentirte bienvenido?",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:30:13.373092"
+    },
+    {
+      "english": "Curious how smiles spread?",
+      "spanish": "¿Curioso cómo se esparcen sonrisas?",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:30:13.373120"
+    },
+    {
+      "english": "Your warmth makes world better.",
+      "spanish": "Tu calidez mejora el mundo.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:30:13.373148"
+    },
+    {
+      "english": "Let joy be your guide.",
+      "spanish": "Deja que la alegría te guíe.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T02:30:13.373173"
     }
   ],
-  "last_updated": "2026-10-13T01:02:15.363761",
+  "last_updated": "2026-10-13T02:30:13.373176",
   "used_english": [
-    "the test of true friendship.",
-    "what i learned about loyalty.",
-    "keep these people close forever.",
-    "you're stronger than realize. here's proof.",
-    "this is how warriors made.",
     "stop apologizing for being powerful.",
     "the storm didn't break. refined.",
     "your scars proof survival. wear proudly.",
@@ -21002,6 +20997,11 @@
     "speak this, feel the joy.",
     "wisdom: every word counts.",
     "your effort echoes outward.",
-    "this word breaks silence."
+    "this word breaks silence.",
+    "unlock today's sunshine word.",
+    "want to feel instantly welcome?",
+    "curious how smiles spread?",
+    "your warmth makes world better.",
+    "let joy be your guide."
   ]
 }
