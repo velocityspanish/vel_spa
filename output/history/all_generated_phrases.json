@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Find center. Everything else aligns.",
-      "spanish": "Encuentra centro. Todo demás alinea.",
-      "category": "Balance",
-      "generated_at": "2026-05-26T16:44:10.290803"
-    },
-    {
-      "english": "Stop chasing. Real love finds you.",
-      "spanish": "Deja de perseguir. El amor real te encuentra.",
-      "category": "Love",
-      "generated_at": "2026-05-26T20:51:24.434021"
-    },
-    {
-      "english": "This is what real love feels.",
-      "spanish": "Así se siente el amor verdadero.",
-      "category": "Love",
-      "generated_at": "2026-05-26T20:51:24.434056"
-    },
-    {
-      "english": "The secret to being deeply loved.",
-      "spanish": "El secreto para ser amado.",
-      "category": "Love",
-      "generated_at": "2026-05-26T20:51:24.434070"
-    },
-    {
-      "english": "What nobody tells you about heartbreak.",
-      "spanish": "Lo que nadie te dice del desamor.",
-      "category": "Love",
-      "generated_at": "2026-05-26T20:51:24.434082"
-    },
-    {
       "english": "You deserve this kind of love.",
       "spanish": "Mereces este tipo de amor.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza tropiezos, crece fuerte.",
       "category": "Joy",
       "generated_at": "2026-10-13T21:39:22.030547"
+    },
+    {
+      "english": "Your voice is powerful, use it.",
+      "spanish": "Tu voz es poderosa, úsala.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:09:50.925408"
+    },
+    {
+      "english": "This small habit, big wins.",
+      "spanish": "Este pequeño hábito, grandes victorias.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:09:50.925450"
+    },
+    {
+      "english": "Feel the moment, right now.",
+      "spanish": "Siente el momento, ahora mismo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:09:50.925478"
+    },
+    {
+      "english": "What unlocks true connection?",
+      "spanish": "¿Qué desbloquea la conexión real?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:09:50.925507"
+    },
+    {
+      "english": "Mistakes build you. Listen.",
+      "spanish": "Los errores te construyen. Escucha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-13T23:09:50.925534"
     }
   ],
-  "last_updated": "2026-10-13T21:39:22.030549",
+  "last_updated": "2026-10-13T23:09:50.925536",
   "used_english": [
-    "find center. everything else aligns.",
-    "stop chasing. real love finds you.",
-    "this is what real love feels.",
-    "the secret to being deeply loved.",
-    "what nobody tells you about heartbreak.",
     "you deserve this kind of love.",
     "take the leap. the net appears.",
     "this discomfort feel? that's growth.",
@@ -21002,6 +20997,11 @@
     "one word connects instantly. wow!",
     "feel the warmth? say 'gracias'.",
     "future you: more confident. yes?",
-    "embrace stumbles, grow stronger."
+    "embrace stumbles, grow stronger.",
+    "your voice is powerful, use it.",
+    "this small habit, big wins.",
+    "feel the moment, right now.",
+    "what unlocks true connection?",
+    "mistakes build you. listen."
   ]
 }
