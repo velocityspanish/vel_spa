@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This mindset shift changes lives.",
-      "spanish": "Este cambio mental cambia vidas.",
-      "category": "Success",
-      "generated_at": "2026-05-23T20:01:55.024785"
-    },
-    {
-      "english": "Why you're not seeing results.",
-      "spanish": "Por qué no ves resultados.",
-      "category": "Success",
-      "generated_at": "2026-05-23T20:01:55.024799"
-    },
-    {
-      "english": "The truth about overnight success.",
-      "spanish": "La verdad sobre el éxito repentino.",
-      "category": "Success",
-      "generated_at": "2026-05-23T20:01:55.024811"
-    },
-    {
-      "english": "Real friends do this without asking.",
-      "spanish": "Los amigos reales hacen esto sin pedir.",
-      "category": "Friendship",
-      "generated_at": "2026-05-23T21:59:46.611011"
-    },
-    {
-      "english": "Stop calling these people friends.",
-      "spanish": "Deja de llamar amigos a estas personas.",
-      "category": "Friendship",
-      "generated_at": "2026-05-23T21:59:46.611032"
-    },
-    {
       "english": "The test of true friendship.",
       "spanish": "La prueba de la verdadera amistad.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza errores. Te guían.",
       "category": "Gratitude",
       "generated_at": "2026-10-12T23:23:06.389533"
+    },
+    {
+      "english": "Curious about your Spanish magic?",
+      "spanish": "¿Curioso de tu magia española?",
+      "category": "Creativity",
+      "generated_at": "2026-10-13T01:02:15.363653"
+    },
+    {
+      "english": "Speak this, feel the joy.",
+      "spanish": "Di esto, siente la alegría.",
+      "category": "Creativity",
+      "generated_at": "2026-10-13T01:02:15.363688"
+    },
+    {
+      "english": "Wisdom: Every word counts.",
+      "spanish": "Sabiduría: Cada palabra cuenta.",
+      "category": "Creativity",
+      "generated_at": "2026-10-13T01:02:15.363712"
+    },
+    {
+      "english": "Your effort echoes outward.",
+      "spanish": "Tu esfuerzo resuena afuera.",
+      "category": "Creativity",
+      "generated_at": "2026-10-13T01:02:15.363736"
+    },
+    {
+      "english": "This word breaks silence.",
+      "spanish": "Esta palabra rompe silencio.",
+      "category": "Creativity",
+      "generated_at": "2026-10-13T01:02:15.363759"
     }
   ],
-  "last_updated": "2026-10-12T23:23:06.389534",
+  "last_updated": "2026-10-13T01:02:15.363761",
   "used_english": [
-    "this mindset shift changes lives.",
-    "why you're not seeing results.",
-    "the truth about overnight success.",
-    "real friends do this without asking.",
-    "stop calling these people friends.",
     "the test of true friendship.",
     "what i learned about loyalty.",
     "keep these people close forever.",
@@ -21002,6 +20997,11 @@
     "your spanish is beautiful, truly.",
     "feel this? true connection.",
     "one sound builds deep understanding.",
-    "embrace mistakes. they guide you."
+    "embrace mistakes. they guide you.",
+    "curious about your spanish magic?",
+    "speak this, feel the joy.",
+    "wisdom: every word counts.",
+    "your effort echoes outward.",
+    "this word breaks silence."
   ]
 }
