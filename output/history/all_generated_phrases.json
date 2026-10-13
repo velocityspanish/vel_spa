@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Holding grudges poisoning you. Let go.",
-      "spanish": "Guardar rencores envenena. Suelta.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-25T22:14:11.387878"
-    },
-    {
-      "english": "This is what forgiveness really means.",
-      "spanish": "Esto es lo significa perdón.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-25T22:14:11.387897"
-    },
-    {
-      "english": "Stop waiting apology won't come.",
-      "spanish": "Deja esperar disculpa no vendrá.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-25T22:14:11.387910"
-    },
-    {
-      "english": "The freedom feel after forgiving.",
-      "spanish": "La libertad sientes después perdonar.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-25T22:14:11.387922"
-    },
-    {
-      "english": "Forgive them not for them, for you.",
-      "spanish": "Perdona no por ellos, por ti.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-25T22:14:11.387934"
-    },
-    {
       "english": "Find center. Everything else aligns.",
       "spanish": "Encuentra centro. Todo demás alinea.",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente la conexión, di 'nosotros'.",
       "category": "Wisdom",
       "generated_at": "2026-10-13T20:32:04.139683"
+    },
+    {
+      "english": "This sound makes people smile.",
+      "spanish": "Este sonido sonríe a la gente.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T21:39:22.030425"
+    },
+    {
+      "english": "One word connects instantly. Wow!",
+      "spanish": "Una palabra conecta al instante. ¡Wow!",
+      "category": "Joy",
+      "generated_at": "2026-10-13T21:39:22.030463"
+    },
+    {
+      "english": "Feel the warmth? Say 'gracias'.",
+      "spanish": "¿Sientes la calidez? Di 'gracias'.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T21:39:22.030492"
+    },
+    {
+      "english": "Future you: more confident. Yes?",
+      "spanish": "¿Tu yo futuro: más seguro? ¿Sí?",
+      "category": "Joy",
+      "generated_at": "2026-10-13T21:39:22.030520"
+    },
+    {
+      "english": "Embrace stumbles, grow stronger.",
+      "spanish": "Abraza tropiezos, crece fuerte.",
+      "category": "Joy",
+      "generated_at": "2026-10-13T21:39:22.030547"
     }
   ],
-  "last_updated": "2026-10-13T20:32:04.139685",
+  "last_updated": "2026-10-13T21:39:22.030549",
   "used_english": [
-    "holding grudges poisoning you. let go.",
-    "this is what forgiveness really means.",
-    "stop waiting apology won't come.",
-    "the freedom feel after forgiving.",
-    "forgive them not for them, for you.",
     "find center. everything else aligns.",
     "stop chasing. real love finds you.",
     "this is what real love feels.",
@@ -21002,6 +20997,11 @@
     "this sound builds quick bridges.",
     "doubt fades. try this word.",
     "why pause? speak this greeting.",
-    "feel the connection, say 'nosotros'."
+    "feel the connection, say 'nosotros'.",
+    "this sound makes people smile.",
+    "one word connects instantly. wow!",
+    "feel the warmth? say 'gracias'.",
+    "future you: more confident. yes?",
+    "embrace stumbles, grow stronger."
   ]
 }
