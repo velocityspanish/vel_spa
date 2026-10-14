@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your calm mind is your superpower.",
-      "spanish": "Tu mente calmada es tu superpoder.",
-      "category": "Inner Peace",
-      "generated_at": "2026-05-29T18:13:39.044257"
-    },
-    {
-      "english": "Stop postponing joy. Celebrate now.",
-      "spanish": "Deja posponer alegría. Celebra ahora.",
-      "category": "Joy",
-      "generated_at": "2026-05-30T14:42:28.294529"
-    },
-    {
-      "english": "This is what pure joy feels.",
-      "spanish": "Así es como siente alegría pura.",
-      "category": "Joy",
-      "generated_at": "2026-05-30T14:42:28.294549"
-    },
-    {
-      "english": "Find joy ordinary. It's magic.",
-      "spanish": "Encuentra alegría ordinario. Mágico.",
-      "category": "Joy",
-      "generated_at": "2026-05-30T14:42:28.294563"
-    },
-    {
-      "english": "What joyful people do you don't.",
-      "spanish": "Lo que hace gente alegre tú no.",
-      "category": "Joy",
-      "generated_at": "2026-05-30T14:42:28.294575"
-    },
-    {
       "english": "Your joy is act resistance.",
       "spanish": "Alegría es acto resistencia.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Puedes sentir el cambio ocurriendo?",
       "category": "Strength",
       "generated_at": "2026-10-14T19:13:07.540232"
+    },
+    {
+      "english": "This tiny phrase, connects you instantly.",
+      "spanish": "Esta frasecita, te conecta al instante.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T20:23:21.829027"
+    },
+    {
+      "english": "Unlock their smile, say this.",
+      "spanish": "Desbloquea su sonrisa, di esto.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T20:23:21.829062"
+    },
+    {
+      "english": "Your brain craves new sounds.",
+      "spanish": "Tu cerebro anhela sonidos nuevos.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T20:23:21.829086"
+    },
+    {
+      "english": "Surprise them with this greeting.",
+      "spanish": "Sorpréndelos con este saludo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T20:23:21.829107"
+    },
+    {
+      "english": "Can you say 'thank you'?",
+      "spanish": "¿Puedes decir 'gracias'?",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T20:23:21.829127"
     }
   ],
-  "last_updated": "2026-10-14T19:13:07.540234",
+  "last_updated": "2026-10-14T20:23:21.829128",
   "used_english": [
-    "your calm mind is your superpower.",
-    "stop postponing joy. celebrate now.",
-    "this is what pure joy feels.",
-    "find joy ordinary. it's magic.",
-    "what joyful people do you don't.",
     "your joy is act resistance.",
     "this practice changed my life.",
     "stop scrolling. count your blessings.",
@@ -21002,6 +20997,11 @@
     "this single word? pure power.",
     "unlock magic with simple sounds.",
     "your voice? it echoes far.",
-    "can you feel the shift happening?"
+    "can you feel the shift happening?",
+    "this tiny phrase, connects you instantly.",
+    "unlock their smile, say this.",
+    "your brain craves new sounds.",
+    "surprise them with this greeting.",
+    "can you say 'thank you'?"
   ]
 }
