@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What growing pains teach you.",
-      "spanish": "Dolores crecimiento intentan enseñan.",
-      "category": "Growth",
-      "generated_at": "2026-05-27T19:14:32.494542"
-    },
-    {
-      "english": "Embrace suck. It's temporary.",
-      "spanish": "Abraza difícil. Temporal.",
-      "category": "Growth",
-      "generated_at": "2026-05-27T19:14:32.494555"
-    },
-    {
-      "english": "Bend but never break. That's resilience.",
-      "spanish": "Dóblate pero nunca rompas. Resiliencia.",
-      "category": "Strength",
-      "generated_at": "2026-05-27T20:58:09.888470"
-    },
-    {
-      "english": "Stop waiting. Start now.",
-      "spanish": "Deja de esperar. Comienza ahora.",
-      "category": "Motivation",
-      "generated_at": "2026-05-28T19:33:50.421990"
-    },
-    {
-      "english": "This is why you're stuck.",
-      "spanish": "Por esto estás atascado.",
-      "category": "Motivation",
-      "generated_at": "2026-05-28T19:33:50.422008"
-    },
-    {
       "english": "The secret? Consistency wins.",
       "spanish": "¿El secreto? La constancia gana.",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta palabra inicia conversaciones.",
       "category": "Creativity",
       "generated_at": "2026-10-14T00:13:53.882521"
+    },
+    {
+      "english": "What if anger melts away?",
+      "spanish": "¿Y si la ira se derrite?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-14T17:50:17.104740"
+    },
+    {
+      "english": "Let go, feel the lightness.",
+      "spanish": "Suelta, siente la ligereza.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-14T17:50:17.104778"
+    },
+    {
+      "english": "This word releases chains.",
+      "spanish": "Esta palabra libera cadenas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-14T17:50:17.104806"
+    },
+    {
+      "english": "Hurt fades, love blooms.",
+      "spanish": "El dolor se va, el amor florece.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-14T17:50:17.104844"
+    },
+    {
+      "english": "Wisdom: Forgive your past.",
+      "spanish": "Sabiduría: Perdona tu pasado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-14T17:50:17.104872"
     }
   ],
-  "last_updated": "2026-10-14T00:13:53.882523",
+  "last_updated": "2026-10-14T17:50:17.104875",
   "used_english": [
-    "what growing pains teach you.",
-    "embrace suck. it's temporary.",
-    "bend but never break. that's resilience.",
-    "stop waiting. start now.",
-    "this is why you're stuck.",
     "the secret? consistency wins.",
     "stop saying 'someday'. say 'today'.",
     "a friend who does this is rare.",
@@ -21002,6 +20997,11 @@
     "your patience, pure magic.",
     "want this joy? listen.",
     "feel it? it’s progress.",
-    "this word sparks conversations."
+    "this word sparks conversations.",
+    "what if anger melts away?",
+    "let go, feel the lightness.",
+    "this word releases chains.",
+    "hurt fades, love blooms.",
+    "wisdom: forgive your past."
   ]
 }
