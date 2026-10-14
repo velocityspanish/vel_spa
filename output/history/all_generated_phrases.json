@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your joy is act resistance.",
-      "spanish": "Alegría es acto resistencia.",
-      "category": "Joy",
-      "generated_at": "2026-05-30T14:42:28.294588"
-    },
-    {
-      "english": "This practice changed my life.",
-      "spanish": "Esta práctica cambió mi vida.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-31T20:01:12.487202"
-    },
-    {
-      "english": "Stop scrolling. Count your blessings.",
-      "spanish": "Deja de desplazarte. Cuenta bendiciones.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-31T20:01:12.487231"
-    },
-    {
-      "english": "What grateful people do daily.",
-      "spanish": "Lo que hace la gente agradecida diariamente.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-31T20:01:12.487246"
-    },
-    {
-      "english": "The fastest way to feel abundant.",
-      "spanish": "La forma más rápida de sentirse abundante.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-31T20:01:12.487260"
-    },
-    {
       "english": "Say this every morning for 30 days.",
       "spanish": "Di esto cada mañana por 30 días.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Puedes decir 'gracias'?",
       "category": "Purpose",
       "generated_at": "2026-10-14T20:23:21.829127"
+    },
+    {
+      "english": "One sound melts hearts.",
+      "spanish": "Un sonido derrite corazones.",
+      "category": "Love",
+      "generated_at": "2026-10-14T21:59:35.574069"
+    },
+    {
+      "english": "Want real connection? Listen.",
+      "spanish": "¿Quieres conexión real? Escucha.",
+      "category": "Love",
+      "generated_at": "2026-10-14T21:59:35.574106"
+    },
+    {
+      "english": "Love whispered? Say 'te amo'.",
+      "spanish": "¿Amor susurrado? Di 'te amo'.",
+      "category": "Love",
+      "generated_at": "2026-10-14T21:59:35.574132"
+    },
+    {
+      "english": "Future you'll thank you.",
+      "spanish": "Tu yo futuro te agradecerá.",
+      "category": "Love",
+      "generated_at": "2026-10-14T21:59:35.574155"
+    },
+    {
+      "english": "Small gesture, big love.",
+      "spanish": "Pequeño gesto, gran amor.",
+      "category": "Love",
+      "generated_at": "2026-10-14T21:59:35.574178"
     }
   ],
-  "last_updated": "2026-10-14T20:23:21.829128",
+  "last_updated": "2026-10-14T21:59:35.574180",
   "used_english": [
-    "your joy is act resistance.",
-    "this practice changed my life.",
-    "stop scrolling. count your blessings.",
-    "what grateful people do daily.",
-    "the fastest way to feel abundant.",
     "say this every morning for 30 days.",
     "gratitude turns what we have into enough.",
     "dance through life nobody's watching.",
@@ -21002,6 +20997,11 @@
     "unlock their smile, say this.",
     "your brain craves new sounds.",
     "surprise them with this greeting.",
-    "can you say 'thank you'?"
+    "can you say 'thank you'?",
+    "one sound melts hearts.",
+    "want real connection? listen.",
+    "love whispered? say 'te amo'.",
+    "future you'll thank you.",
+    "small gesture, big love."
   ]
 }
