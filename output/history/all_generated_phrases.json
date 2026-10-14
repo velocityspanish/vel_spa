@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Say this every morning for 30 days.",
-      "spanish": "Di esto cada mañana por 30 días.",
-      "category": "Gratitude",
-      "generated_at": "2026-05-31T20:01:12.487274"
-    },
-    {
-      "english": "Gratitude turns what we have into enough.",
-      "spanish": "La gratitud convierte lo tenemos en suficiente.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-02T19:59:50.374743"
-    },
-    {
-      "english": "Dance through life nobody's watching.",
-      "spanish": "Baila vida como si nadie viera.",
-      "category": "Joy",
-      "generated_at": "2026-06-04T16:21:28.686121"
-    },
-    {
-      "english": "Never settle for less.",
-      "spanish": "Nunca te conformes con menos.",
-      "category": "Love",
-      "generated_at": "2026-06-04T20:54:45.795380"
-    },
-    {
-      "english": "Stop waiting for inspiration. Do.",
-      "spanish": "Deja de esperar inspiración. Haz.",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T17:20:51.571237"
-    },
-    {
       "english": "The secret to endless creative ideas.",
       "spanish": "El secreto para ideas creativas infinitas.",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Pequeño gesto, gran amor.",
       "category": "Love",
       "generated_at": "2026-10-14T21:59:35.574178"
+    },
+    {
+      "english": "Feel their joy instantly.",
+      "spanish": "Siente su alegría al instante.",
+      "category": "Balance",
+      "generated_at": "2026-10-14T23:49:28.771159"
+    },
+    {
+      "english": "This word opens doors, wow!",
+      "spanish": "Esta palabra abre puertas, ¡wow!",
+      "category": "Balance",
+      "generated_at": "2026-10-14T23:49:28.771196"
+    },
+    {
+      "english": "Want confidence? Try this.",
+      "spanish": "¿Quieres confianza? Prueba esto.",
+      "category": "Balance",
+      "generated_at": "2026-10-14T23:49:28.771224"
+    },
+    {
+      "english": "Feel heard. Say this.",
+      "spanish": "Siéntete escuchado. Di esto.",
+      "category": "Balance",
+      "generated_at": "2026-10-14T23:49:28.771249"
+    },
+    {
+      "english": "Surprise: they love you speaking.",
+      "spanish": "Sorpresa: aman que hables.",
+      "category": "Balance",
+      "generated_at": "2026-10-14T23:49:28.771276"
     }
   ],
-  "last_updated": "2026-10-14T21:59:35.574180",
+  "last_updated": "2026-10-14T23:49:28.771278",
   "used_english": [
-    "say this every morning for 30 days.",
-    "gratitude turns what we have into enough.",
-    "dance through life nobody's watching.",
-    "never settle for less.",
-    "stop waiting for inspiration. do.",
     "the secret to endless creative ideas.",
     "what artists know that others don't.",
     "your creativity is hiding here.",
@@ -21002,6 +20997,11 @@
     "want real connection? listen.",
     "love whispered? say 'te amo'.",
     "future you'll thank you.",
-    "small gesture, big love."
+    "small gesture, big love.",
+    "feel their joy instantly.",
+    "this word opens doors, wow!",
+    "want confidence? try this.",
+    "feel heard. say this.",
+    "surprise: they love you speaking."
   ]
 }
