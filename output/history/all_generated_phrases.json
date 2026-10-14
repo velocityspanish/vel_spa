@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret? Consistency wins.",
-      "spanish": "¿El secreto? La constancia gana.",
-      "category": "Motivation",
-      "generated_at": "2026-05-28T19:33:50.422022"
-    },
-    {
-      "english": "Stop saying 'someday'. Say 'today'.",
-      "spanish": "Deja de decir 'algún día'. Di 'hoy'.",
-      "category": "Motivation",
-      "generated_at": "2026-05-28T19:33:50.422034"
-    },
-    {
-      "english": "A friend who does this is rare.",
-      "spanish": "Un amigo que hace esto es raro.",
-      "category": "Friendship",
-      "generated_at": "2026-05-28T21:03:17.991600"
-    },
-    {
-      "english": "Your healing starts moment you forgive.",
-      "spanish": "Sanación comienza momento perdonas.",
-      "category": "Forgiveness",
-      "generated_at": "2026-05-28T22:43:30.516622"
-    },
-    {
-      "english": "Potential unlimited. Start acting.",
-      "spanish": "Potencial ilimitado. Empieza actuar.",
-      "category": "Growth",
-      "generated_at": "2026-05-29T16:42:45.683221"
-    },
-    {
       "english": "Your calm mind is your superpower.",
       "spanish": "Tu mente calmada es tu superpoder.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Perdona tu pasado.",
       "category": "Forgiveness",
       "generated_at": "2026-10-14T17:50:17.104872"
+    },
+    {
+      "english": "Doubt shrinks, courage grows. Yes?",
+      "spanish": "La duda se encoge, el coraje crece. ¿Sí?",
+      "category": "Strength",
+      "generated_at": "2026-10-14T19:13:07.540101"
+    },
+    {
+      "english": "This single word? Pure power.",
+      "spanish": "¿Esta sola palabra? Poder puro.",
+      "category": "Strength",
+      "generated_at": "2026-10-14T19:13:07.540142"
+    },
+    {
+      "english": "Unlock magic with simple sounds.",
+      "spanish": "Desbloquea magia con sonidos simples.",
+      "category": "Strength",
+      "generated_at": "2026-10-14T19:13:07.540172"
+    },
+    {
+      "english": "Your voice? It echoes far.",
+      "spanish": "¿Tu voz? Resuena lejos.",
+      "category": "Strength",
+      "generated_at": "2026-10-14T19:13:07.540202"
+    },
+    {
+      "english": "Can you feel the shift happening?",
+      "spanish": "¿Puedes sentir el cambio ocurriendo?",
+      "category": "Strength",
+      "generated_at": "2026-10-14T19:13:07.540232"
     }
   ],
-  "last_updated": "2026-10-14T17:50:17.104875",
+  "last_updated": "2026-10-14T19:13:07.540234",
   "used_english": [
-    "the secret? consistency wins.",
-    "stop saying 'someday'. say 'today'.",
-    "a friend who does this is rare.",
-    "your healing starts moment you forgive.",
-    "potential unlimited. start acting.",
     "your calm mind is your superpower.",
     "stop postponing joy. celebrate now.",
     "this is what pure joy feels.",
@@ -21002,6 +20997,11 @@
     "let go, feel the lightness.",
     "this word releases chains.",
     "hurt fades, love blooms.",
-    "wisdom: forgive your past."
+    "wisdom: forgive your past.",
+    "doubt shrinks, courage grows. yes?",
+    "this single word? pure power.",
+    "unlock magic with simple sounds.",
+    "your voice? it echoes far.",
+    "can you feel the shift happening?"
   ]
 }
