@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "You deserve this kind of love.",
-      "spanish": "Mereces este tipo de amor.",
-      "category": "Love",
-      "generated_at": "2026-05-26T20:51:24.434094"
-    },
-    {
-      "english": "Take the leap. The net appears.",
-      "spanish": "Da el salto. La red aparece.",
-      "category": "Courage",
-      "generated_at": "2026-05-27T16:40:20.374948"
-    },
-    {
-      "english": "This discomfort feel? That's growth.",
-      "spanish": "¿Incomodidad sientes? Eso crecimiento.",
-      "category": "Growth",
-      "generated_at": "2026-05-27T19:14:32.494491"
-    },
-    {
-      "english": "Stop playing small. Meant more.",
-      "spanish": "Deja jugar pequeño. Creado más.",
-      "category": "Growth",
-      "generated_at": "2026-05-27T19:14:32.494515"
-    },
-    {
-      "english": "Person becoming worth pain.",
-      "spanish": "Persona conviertes vale pena.",
-      "category": "Growth",
-      "generated_at": "2026-05-27T19:14:32.494529"
-    },
-    {
       "english": "What growing pains teach you.",
       "spanish": "Dolores crecimiento intentan enseñan.",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Los errores te construyen. Escucha.",
       "category": "Mindfulness",
       "generated_at": "2026-10-13T23:09:50.925534"
+    },
+    {
+      "english": "What if one sound unlocks this?",
+      "spanish": "¿Y si un sonido desbloquea esto?",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T00:13:53.882361"
+    },
+    {
+      "english": "Your patience, pure magic.",
+      "spanish": "Tu paciencia, pura magia.",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T00:13:53.882399"
+    },
+    {
+      "english": "Want this joy? Listen.",
+      "spanish": "¿Quieres esta alegría? Escucha.",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T00:13:53.882455"
+    },
+    {
+      "english": "Feel it? It’s progress.",
+      "spanish": "¿Lo sientes? Es progreso.",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T00:13:53.882492"
+    },
+    {
+      "english": "This word sparks conversations.",
+      "spanish": "Esta palabra inicia conversaciones.",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T00:13:53.882521"
     }
   ],
-  "last_updated": "2026-10-13T23:09:50.925536",
+  "last_updated": "2026-10-14T00:13:53.882523",
   "used_english": [
-    "you deserve this kind of love.",
-    "take the leap. the net appears.",
-    "this discomfort feel? that's growth.",
-    "stop playing small. meant more.",
-    "person becoming worth pain.",
     "what growing pains teach you.",
     "embrace suck. it's temporary.",
     "bend but never break. that's resilience.",
@@ -21002,6 +20997,11 @@
     "this small habit, big wins.",
     "feel the moment, right now.",
     "what unlocks true connection?",
-    "mistakes build you. listen."
+    "mistakes build you. listen.",
+    "what if one sound unlocks this?",
+    "your patience, pure magic.",
+    "want this joy? listen.",
+    "feel it? it’s progress.",
+    "this word sparks conversations."
   ]
 }
