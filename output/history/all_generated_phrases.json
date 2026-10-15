@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your Spanish voice, amplified.",
-      "spanish": "Tu voz en español, amplificada.",
-      "category": "Joy",
-      "generated_at": "2026-06-11T18:15:58.696829"
-    },
-    {
-      "english": "Unlock fluency. Your turn.",
-      "spanish": "Desbloquea la fluidez. Tu turno.",
-      "category": "Joy",
-      "generated_at": "2026-06-11T18:15:58.696850"
-    },
-    {
-      "english": "Little effort, much Spanish.",
-      "spanish": "Poco esfuerzo, mucho español.",
-      "category": "Joy",
-      "generated_at": "2026-06-11T18:15:58.696864"
-    },
-    {
-      "english": "Real Spanish connection awaits.",
-      "spanish": "La conexión real en español espera.",
-      "category": "Joy",
-      "generated_at": "2026-06-11T18:15:58.696877"
-    },
-    {
-      "english": "Your vibrant Spanish life.",
-      "spanish": "Tu vida vibrante en español.",
-      "category": "Joy",
-      "generated_at": "2026-06-11T18:15:58.696890"
-    },
-    {
       "english": "Did you hear that whisper?",
       "spanish": "¿Oíste ese susurro?",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Esta frase crea confianza.",
       "category": "Inspiration",
       "generated_at": "2026-10-15T21:53:08.007479"
+    },
+    {
+      "english": "Unlock smiles instantly, try this.",
+      "spanish": "Desbloquea sonrisas al instante, prueba esto.",
+      "category": "Creativity",
+      "generated_at": "2026-10-15T23:37:56.772494"
+    },
+    {
+      "english": "Surprise them with your words.",
+      "spanish": "Sorpréndelos con tus palabras.",
+      "category": "Creativity",
+      "generated_at": "2026-10-15T23:37:56.772532"
+    },
+    {
+      "english": "Feel this joy, right now.",
+      "spanish": "Siente esta alegría, ahora mismo.",
+      "category": "Creativity",
+      "generated_at": "2026-10-15T23:37:56.772555"
+    },
+    {
+      "english": "Don't wait, connect now.",
+      "spanish": "No esperes, conecta ahora.",
+      "category": "Creativity",
+      "generated_at": "2026-10-15T23:37:56.772586"
+    },
+    {
+      "english": "One sound warms the soul.",
+      "spanish": "Un sonido calienta el alma.",
+      "category": "Creativity",
+      "generated_at": "2026-10-15T23:37:56.772610"
     }
   ],
-  "last_updated": "2026-10-15T21:53:08.007481",
+  "last_updated": "2026-10-15T23:37:56.772613",
   "used_english": [
-    "your spanish voice, amplified.",
-    "unlock fluency. your turn.",
-    "little effort, much spanish.",
-    "real spanish connection awaits.",
-    "your vibrant spanish life.",
     "did you hear that whisper?",
     "this one thing fuels you.",
     "your next chapter starts now.",
@@ -21002,6 +20997,11 @@
     "curious about connection's bridge?",
     "doubt disappears, listen.",
     "one word warms the heart.",
-    "this phrase builds trust."
+    "this phrase builds trust.",
+    "unlock smiles instantly, try this.",
+    "surprise them with your words.",
+    "feel this joy, right now.",
+    "don't wait, connect now.",
+    "one sound warms the soul."
   ]
 }
