@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This moment all truly have.",
-      "spanish": "Momento todo realmente tienes.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-05T18:55:26.797161"
-    },
-    {
-      "english": "Present called gift reason.",
-      "spanish": "Presente llama regalo razón.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-05T18:55:26.797174"
-    },
-    {
-      "english": "What mindfulness does brain.",
-      "spanish": "Atención plena hace cerebro.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-05T18:55:26.797187"
-    },
-    {
-      "english": "Breathe. This only moment exists.",
-      "spanish": "Respira. Este único momento existe.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-05T18:55:26.797200"
-    },
-    {
-      "english": "Create first, edit later. Trust.",
-      "spanish": "Crea primero, edita después. Confía.",
-      "category": "Creativity",
-      "generated_at": "2026-06-07T16:19:34.794191"
-    },
-    {
       "english": "Unlock your Spanish superpowers.",
       "spanish": "Desbloquea tus superpoderes de español.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Respira calma ahora.",
       "category": "Positive Life",
       "generated_at": "2026-10-15T17:39:24.657213"
+    },
+    {
+      "english": "Unlock conversations, easily.",
+      "spanish": "Desbloquea conversaciones, fácil.",
+      "category": "Success",
+      "generated_at": "2026-10-15T18:55:01.009337"
+    },
+    {
+      "english": "This phrase warms everyone.",
+      "spanish": "Esta frase calienta a todos.",
+      "category": "Success",
+      "generated_at": "2026-10-15T18:55:01.009363"
+    },
+    {
+      "english": "Feel the progress? Speak more.",
+      "spanish": "¿Sientes el progreso? Habla más.",
+      "category": "Success",
+      "generated_at": "2026-10-15T18:55:01.009379"
+    },
+    {
+      "english": "What if this feels effortless?",
+      "spanish": "¿Y si se siente sin esfuerzo?",
+      "category": "Success",
+      "generated_at": "2026-10-15T18:55:01.009395"
+    },
+    {
+      "english": "Embrace mistakes, sound natural.",
+      "spanish": "Abraza errores, suena natural.",
+      "category": "Success",
+      "generated_at": "2026-10-15T18:55:01.009410"
     }
   ],
-  "last_updated": "2026-10-15T17:39:24.657216",
+  "last_updated": "2026-10-15T18:55:01.009412",
   "used_english": [
-    "this moment all truly have.",
-    "present called gift reason.",
-    "what mindfulness does brain.",
-    "breathe. this only moment exists.",
-    "create first, edit later. trust.",
     "unlock your spanish superpowers.",
     "is your spanish stuck?",
     "small spanish habits, huge progress.",
@@ -21002,6 +20997,11 @@
     "this small word means 'quickly'!",
     "what if learning felt this good?",
     "embrace the moment, embrace joy.",
-    "wisdom: breathe in calm now."
+    "wisdom: breathe in calm now.",
+    "unlock conversations, easily.",
+    "this phrase warms everyone.",
+    "feel the progress? speak more.",
+    "what if this feels effortless?",
+    "embrace mistakes, sound natural."
   ]
 }
