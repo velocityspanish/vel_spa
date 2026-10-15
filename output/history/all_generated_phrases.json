@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "The secret to endless creative ideas.",
-      "spanish": "El secreto para ideas creativas infinitas.",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T17:20:51.571259"
-    },
-    {
-      "english": "What artists know that others don't.",
-      "spanish": "Lo que los artistas saben otros no.",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T17:20:51.571272"
-    },
-    {
-      "english": "Your creativity is hiding here.",
-      "spanish": "Tu creatividad se está escondiendo aquí.",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T17:20:51.571286"
-    },
-    {
-      "english": "Break these rules to be creative.",
-      "spanish": "Rompe estas reglas para ser creativo.",
-      "category": "Creativity",
-      "generated_at": "2026-06-05T17:20:51.571299"
-    },
-    {
-      "english": "Stop living autopilot. Wake now.",
-      "spanish": "Deja vivir piloto automático. Despierta.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-05T18:55:26.797137"
-    },
-    {
       "english": "This moment all truly have.",
       "spanish": "Momento todo realmente tienes.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Sorpresa: aman que hables.",
       "category": "Balance",
       "generated_at": "2026-10-14T23:49:28.771276"
+    },
+    {
+      "english": "Unlock your potential, just try.",
+      "spanish": "Desbloquea tu potencial, solo intenta.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-15T17:39:24.657093"
+    },
+    {
+      "english": "This small word means 'quickly'!",
+      "spanish": "¡Esta pequeña palabra significa 'rápido'!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-15T17:39:24.657130"
+    },
+    {
+      "english": "What if learning felt this good?",
+      "spanish": "¿Qué tal si aprender se sintiera así?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-15T17:39:24.657158"
+    },
+    {
+      "english": "Embrace the moment, embrace joy.",
+      "spanish": "Abraza el momento, abraza la alegría.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-15T17:39:24.657185"
+    },
+    {
+      "english": "Wisdom: Breathe in calm now.",
+      "spanish": "Sabiduría: Respira calma ahora.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-15T17:39:24.657213"
     }
   ],
-  "last_updated": "2026-10-14T23:49:28.771278",
+  "last_updated": "2026-10-15T17:39:24.657216",
   "used_english": [
-    "the secret to endless creative ideas.",
-    "what artists know that others don't.",
-    "your creativity is hiding here.",
-    "break these rules to be creative.",
-    "stop living autopilot. wake now.",
     "this moment all truly have.",
     "present called gift reason.",
     "what mindfulness does brain.",
@@ -21002,6 +20997,11 @@
     "this word opens doors, wow!",
     "want confidence? try this.",
     "feel heard. say this.",
-    "surprise: they love you speaking."
+    "surprise: they love you speaking.",
+    "unlock your potential, just try.",
+    "this small word means 'quickly'!",
+    "what if learning felt this good?",
+    "embrace the moment, embrace joy.",
+    "wisdom: breathe in calm now."
   ]
 }
