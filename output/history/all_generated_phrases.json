@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock your Spanish superpowers.",
-      "spanish": "Desbloquea tus superpoderes de español.",
-      "category": "Success",
-      "generated_at": "2026-06-11T07:33:05.654585"
-    },
-    {
-      "english": "Is your Spanish stuck?",
-      "spanish": "¿Está tu español estancado?",
-      "category": "Success",
-      "generated_at": "2026-06-11T07:33:05.654604"
-    },
-    {
-      "english": "Small Spanish habits, huge progress.",
-      "spanish": "Pequeños hábitos de español, gran progreso.",
-      "category": "Success",
-      "generated_at": "2026-06-11T07:33:05.654610"
-    },
-    {
-      "english": "The truth about fluency?",
-      "spanish": "¿La verdad sobre la fluidez?",
-      "category": "Success",
-      "generated_at": "2026-06-11T07:33:05.654617"
-    },
-    {
-      "english": "Hear this before you quit.",
-      "spanish": "Escucha esto antes de rendirte.",
-      "category": "Success",
-      "generated_at": "2026-06-11T07:33:05.654624"
-    },
-    {
       "english": "Your inner calm? Found it.",
       "spanish": "Tu calma interior? La encontré.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza errores, suena natural.",
       "category": "Success",
       "generated_at": "2026-10-15T18:55:01.009410"
+    },
+    {
+      "english": "Surprise! Spanish makes you smarter.",
+      "spanish": "¡Sorpresa! El español te hace más listo.",
+      "category": "Courage",
+      "generated_at": "2026-10-15T20:07:53.704664"
+    },
+    {
+      "english": "Why fear? Just try this.",
+      "spanish": "¿Por qué temer? Solo intenta esto.",
+      "category": "Courage",
+      "generated_at": "2026-10-15T20:07:53.704699"
+    },
+    {
+      "english": "Wisdom: Small words connect deeply.",
+      "spanish": "Sabiduría: Palabras pequeñas conectan profundo.",
+      "category": "Courage",
+      "generated_at": "2026-10-15T20:07:53.704726"
+    },
+    {
+      "english": "Your voice unlocks their world.",
+      "spanish": "Tu voz desbloquea su mundo.",
+      "category": "Courage",
+      "generated_at": "2026-10-15T20:07:53.704754"
+    },
+    {
+      "english": "Feel the progress, keep speaking.",
+      "spanish": "Siente el progreso, sigue hablando.",
+      "category": "Courage",
+      "generated_at": "2026-10-15T20:07:53.704781"
     }
   ],
-  "last_updated": "2026-10-15T18:55:01.009412",
+  "last_updated": "2026-10-15T20:07:53.704783",
   "used_english": [
-    "unlock your spanish superpowers.",
-    "is your spanish stuck?",
-    "small spanish habits, huge progress.",
-    "the truth about fluency?",
-    "hear this before you quit.",
     "your inner calm? found it.",
     "silence this noise, instantly.",
     "peace isn't found, it's built.",
@@ -21002,6 +20997,11 @@
     "this phrase warms everyone.",
     "feel the progress? speak more.",
     "what if this feels effortless?",
-    "embrace mistakes, sound natural."
+    "embrace mistakes, sound natural.",
+    "surprise! spanish makes you smarter.",
+    "why fear? just try this.",
+    "wisdom: small words connect deeply.",
+    "your voice unlocks their world.",
+    "feel the progress, keep speaking."
   ]
 }
