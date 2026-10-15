@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your inner calm? Found it.",
-      "spanish": "Tu calma interior? La encontré.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-11T16:56:19.198488"
-    },
-    {
-      "english": "Silence this noise, instantly.",
-      "spanish": "Silencia este ruido, al instante.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-11T16:56:19.198528"
-    },
-    {
-      "english": "Peace isn't found, it's built.",
-      "spanish": "La paz no se encuentra, se construye.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-11T16:56:19.198542"
-    },
-    {
-      "english": "Want more serenity? Try this.",
-      "spanish": "¿Quieres más serenidad? Prueba esto.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-11T16:56:19.198558"
-    },
-    {
-      "english": "Your mind's true quiet place.",
-      "spanish": "El verdadero lugar tranquilo de tu mente.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-11T16:56:19.198572"
-    },
-    {
       "english": "Your Spanish voice, amplified.",
       "spanish": "Tu voz en español, amplificada.",
       "category": "Joy",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente el progreso, sigue hablando.",
       "category": "Courage",
       "generated_at": "2026-10-15T20:07:53.704781"
+    },
+    {
+      "english": "Future you, thriving. Promise.",
+      "spanish": "Futuro tú, próspero. Promesa.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-15T21:53:08.007361"
+    },
+    {
+      "english": "Curious about connection's bridge?",
+      "spanish": "¿Curioso por puente de conexión?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-15T21:53:08.007398"
+    },
+    {
+      "english": "Doubt disappears, listen.",
+      "spanish": "La duda desaparece, escucha.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-15T21:53:08.007426"
+    },
+    {
+      "english": "One word warms the heart.",
+      "spanish": "Una palabra calienta el corazón.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-15T21:53:08.007453"
+    },
+    {
+      "english": "This phrase builds trust.",
+      "spanish": "Esta frase crea confianza.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-15T21:53:08.007479"
     }
   ],
-  "last_updated": "2026-10-15T20:07:53.704783",
+  "last_updated": "2026-10-15T21:53:08.007481",
   "used_english": [
-    "your inner calm? found it.",
-    "silence this noise, instantly.",
-    "peace isn't found, it's built.",
-    "want more serenity? try this.",
-    "your mind's true quiet place.",
     "your spanish voice, amplified.",
     "unlock fluency. your turn.",
     "little effort, much spanish.",
@@ -21002,6 +20997,11 @@
     "why fear? just try this.",
     "wisdom: small words connect deeply.",
     "your voice unlocks their world.",
-    "feel the progress, keep speaking."
+    "feel the progress, keep speaking.",
+    "future you, thriving. promise.",
+    "curious about connection's bridge?",
+    "doubt disappears, listen.",
+    "one word warms the heart.",
+    "this phrase builds trust."
   ]
 }
