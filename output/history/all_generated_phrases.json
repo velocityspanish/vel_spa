@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Whispers of hope start today.",
-      "spanish": "Susurros de esperanza hoy.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T22:52:39.140746"
-    },
-    {
-      "english": "Tiny seeds grow mighty oaks.",
-      "spanish": "Semillas pequeñas, grandes robles.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T22:52:39.140769"
-    },
-    {
-      "english": "What if you simply tried?",
-      "spanish": "¿Y si simplemente lo intentas?",
-      "category": "Hope",
-      "generated_at": "2026-06-11T22:52:39.140782"
-    },
-    {
-      "english": "Your moment is arriving now.",
-      "spanish": "Tu momento llega ahora.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T22:52:39.140795"
-    },
-    {
-      "english": "This spark ignites everything.",
-      "spanish": "Esta chispa lo enciende.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T22:52:39.140809"
-    },
-    {
       "english": "One phrase unlocks fluency?",
       "spanish": "¿Una frase desbloquea fluidez?",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Una palabra valiente cambia mundos.",
       "category": "Courage",
       "generated_at": "2026-10-16T18:40:05.016247"
+    },
+    {
+      "english": "Surprise! Forgive them, truly.",
+      "spanish": "¡Sorpresa! Perdónalos, de verdad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-16T19:46:17.363138"
+    },
+    {
+      "english": "What if anger just dissolves?",
+      "spanish": "¿Y si la ira se disuelve?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-16T19:46:17.363176"
+    },
+    {
+      "english": "Feel this peace? Let go.",
+      "spanish": "¿Sientes esta paz? Suelta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-16T19:46:17.363203"
+    },
+    {
+      "english": "Hurt fades, healing starts now.",
+      "spanish": "El dolor se va, la curación empieza.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-16T19:46:17.363231"
+    },
+    {
+      "english": "Wisdom: Forgive for yourself.",
+      "spanish": "Sabiduría: Perdona por ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-16T19:46:17.363259"
     }
   ],
-  "last_updated": "2026-10-16T18:40:05.016249",
+  "last_updated": "2026-10-16T19:46:17.363261",
   "used_english": [
-    "whispers of hope start today.",
-    "tiny seeds grow mighty oaks.",
-    "what if you simply tried?",
-    "your moment is arriving now.",
-    "this spark ignites everything.",
     "one phrase unlocks fluency?",
     "hear this, sound native.",
     "stop guessing, learn this.",
@@ -21002,6 +20997,11 @@
     "progress over perfection, always.",
     "dare to be imperfectly fluent.",
     "your journey needs courage now.",
-    "one brave word changes worlds."
+    "one brave word changes worlds.",
+    "surprise! forgive them, truly.",
+    "what if anger just dissolves?",
+    "feel this peace? let go.",
+    "hurt fades, healing starts now.",
+    "wisdom: forgive for yourself."
   ]
 }
