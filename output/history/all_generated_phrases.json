@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Spread smiles, not worries.",
-      "spanish": "Esparce sonrisas, no preocupaciones.",
-      "category": "Kindness",
-      "generated_at": "2026-06-11T21:12:44.839757"
-    },
-    {
-      "english": "What if kindness was free?",
-      "spanish": "¿Y si la bondad fuera gratis?",
-      "category": "Kindness",
-      "generated_at": "2026-06-11T21:12:44.839779"
-    },
-    {
-      "english": "Offer help, build bridges.",
-      "spanish": "Ofrece ayuda, construye puentes.",
-      "category": "Kindness",
-      "generated_at": "2026-06-11T21:12:44.839792"
-    },
-    {
-      "english": "See the good, be good.",
-      "spanish": "Ve lo bueno, sé bueno.",
-      "category": "Kindness",
-      "generated_at": "2026-06-11T21:12:44.839805"
-    },
-    {
-      "english": "A small gesture, immense joy.",
-      "spanish": "Un pequeño gesto, inmensa alegría.",
-      "category": "Kindness",
-      "generated_at": "2026-06-11T21:12:44.839818"
-    },
-    {
       "english": "Whispers of hope start today.",
       "spanish": "Susurros de esperanza hoy.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Sé paciente contigo.",
       "category": "Purpose",
       "generated_at": "2026-10-16T17:12:36.901055"
+    },
+    {
+      "english": "Fear less, speak more.",
+      "spanish": "Teme menos, habla más.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T18:40:05.016133"
+    },
+    {
+      "english": "Progress over perfection, always.",
+      "spanish": "Progreso sobre perfección, siempre.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T18:40:05.016170"
+    },
+    {
+      "english": "Dare to be imperfectly fluent.",
+      "spanish": "Atrévete a ser fluido imperfecto.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T18:40:05.016197"
+    },
+    {
+      "english": "Your journey needs courage now.",
+      "spanish": "Tu viaje necesita coraje ahora.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T18:40:05.016222"
+    },
+    {
+      "english": "One brave word changes worlds.",
+      "spanish": "Una palabra valiente cambia mundos.",
+      "category": "Courage",
+      "generated_at": "2026-10-16T18:40:05.016247"
     }
   ],
-  "last_updated": "2026-10-16T17:12:36.901056",
+  "last_updated": "2026-10-16T18:40:05.016249",
   "used_english": [
-    "spread smiles, not worries.",
-    "what if kindness was free?",
-    "offer help, build bridges.",
-    "see the good, be good.",
-    "a small gesture, immense joy.",
     "whispers of hope start today.",
     "tiny seeds grow mighty oaks.",
     "what if you simply tried?",
@@ -21002,6 +20997,11 @@
     "curious about true belonging?",
     "one sound connects deeply.",
     "what if fear just fades?",
-    "wisdom: be patient with yourself."
+    "wisdom: be patient with yourself.",
+    "fear less, speak more.",
+    "progress over perfection, always.",
+    "dare to be imperfectly fluent.",
+    "your journey needs courage now.",
+    "one brave word changes worlds."
   ]
 }
