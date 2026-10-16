@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One phrase unlocks fluency?",
-      "spanish": "¿Una frase desbloquea fluidez?",
-      "category": "Growth",
-      "generated_at": "2026-06-12T16:21:16.657067"
-    },
-    {
-      "english": "Hear this, sound native.",
-      "spanish": "Oye esto, suena nativo.",
-      "category": "Growth",
-      "generated_at": "2026-06-12T16:21:16.657087"
-    },
-    {
-      "english": "Stop guessing, learn THIS.",
-      "spanish": "Deja de adivinar, aprende ESTO.",
-      "category": "Growth",
-      "generated_at": "2026-06-12T16:21:16.657101"
-    },
-    {
-      "english": "Spanish made simple, finally.",
-      "spanish": "Español simple, al fin.",
-      "category": "Growth",
-      "generated_at": "2026-06-12T16:21:16.657114"
-    },
-    {
-      "english": "Your pronunciation secret revealed.",
-      "spanish": "Tu secreto de pronunciación revelado.",
-      "category": "Growth",
-      "generated_at": "2026-06-12T16:21:16.657127"
-    },
-    {
       "english": "What if calm arrived?",
       "spanish": "¿Y si llega la calma?",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Perdona por ti.",
       "category": "Forgiveness",
       "generated_at": "2026-10-16T19:46:17.363259"
+    },
+    {
+      "english": "Future you: fluent and free.",
+      "spanish": "Tu yo futuro: fluido y libre.",
+      "category": "Success",
+      "generated_at": "2026-10-16T21:50:13.728594"
+    },
+    {
+      "english": "Listen closely, this word helps.",
+      "spanish": "Escucha atentamente, esta palabra ayuda.",
+      "category": "Success",
+      "generated_at": "2026-10-16T21:50:13.728630"
+    },
+    {
+      "english": "This sounds connect you.",
+      "spanish": "Estos sonidos te conectan.",
+      "category": "Success",
+      "generated_at": "2026-10-16T21:50:13.728657"
+    },
+    {
+      "english": "Warm greetings melt ice.",
+      "spanish": "Saludos cálidos derriten hielo.",
+      "category": "Success",
+      "generated_at": "2026-10-16T21:50:13.728683"
+    },
+    {
+      "english": "Try this: instant rapport.",
+      "spanish": "Prueba esto: conexión instantánea.",
+      "category": "Success",
+      "generated_at": "2026-10-16T21:50:13.728711"
     }
   ],
-  "last_updated": "2026-10-16T19:46:17.363261",
+  "last_updated": "2026-10-16T21:50:13.728713",
   "used_english": [
-    "one phrase unlocks fluency?",
-    "hear this, sound native.",
-    "stop guessing, learn this.",
-    "spanish made simple, finally.",
-    "your pronunciation secret revealed.",
     "what if calm arrived?",
     "breathe deeply, find you.",
     "your quiet inner world.",
@@ -21002,6 +20997,11 @@
     "what if anger just dissolves?",
     "feel this peace? let go.",
     "hurt fades, healing starts now.",
-    "wisdom: forgive for yourself."
+    "wisdom: forgive for yourself.",
+    "future you: fluent and free.",
+    "listen closely, this word helps.",
+    "this sounds connect you.",
+    "warm greetings melt ice.",
+    "try this: instant rapport."
   ]
 }
