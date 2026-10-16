@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Did you hear that whisper?",
-      "spanish": "¿Oíste ese susurro?",
-      "category": "Hope",
-      "generated_at": "2026-06-11T19:29:10.898102"
-    },
-    {
-      "english": "This ONE thing fuels you.",
-      "spanish": "Esto ÚNICO te impulsa.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T19:29:10.898122"
-    },
-    {
-      "english": "Your next chapter starts now.",
-      "spanish": "Tu próximo capítulo empieza ahora.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T19:29:10.898135"
-    },
-    {
-      "english": "Stop holding your light back.",
-      "spanish": "Deja de ocultar tu luz.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T19:29:10.898149"
-    },
-    {
-      "english": "A simple 'yes' can bloom.",
-      "spanish": "Un simple 'sí' puede florecer.",
-      "category": "Hope",
-      "generated_at": "2026-06-11T19:29:10.898161"
-    },
-    {
       "english": "Spread smiles, not worries.",
       "spanish": "Esparce sonrisas, no preocupaciones.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Un sonido calienta el alma.",
       "category": "Creativity",
       "generated_at": "2026-10-15T23:37:56.772610"
+    },
+    {
+      "english": "Future you speaks fluently. Yes?",
+      "spanish": "Tu futuro habla con fluidez. ¿Sí?",
+      "category": "Purpose",
+      "generated_at": "2026-10-16T17:12:36.900959"
+    },
+    {
+      "english": "Curious about true belonging?",
+      "spanish": "¿Curioso sobre pertenecer?",
+      "category": "Purpose",
+      "generated_at": "2026-10-16T17:12:36.900993"
+    },
+    {
+      "english": "One sound connects deeply.",
+      "spanish": "Un sonido conecta profundamente.",
+      "category": "Purpose",
+      "generated_at": "2026-10-16T17:12:36.901014"
+    },
+    {
+      "english": "What if fear just fades?",
+      "spanish": "¿Y si el miedo desaparece?",
+      "category": "Purpose",
+      "generated_at": "2026-10-16T17:12:36.901034"
+    },
+    {
+      "english": "Wisdom: Be patient with yourself.",
+      "spanish": "Sabiduría: Sé paciente contigo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-16T17:12:36.901055"
     }
   ],
-  "last_updated": "2026-10-15T23:37:56.772613",
+  "last_updated": "2026-10-16T17:12:36.901056",
   "used_english": [
-    "did you hear that whisper?",
-    "this one thing fuels you.",
-    "your next chapter starts now.",
-    "stop holding your light back.",
-    "a simple 'yes' can bloom.",
     "spread smiles, not worries.",
     "what if kindness was free?",
     "offer help, build bridges.",
@@ -21002,6 +20997,11 @@
     "surprise them with your words.",
     "feel this joy, right now.",
     "don't wait, connect now.",
-    "one sound warms the soul."
+    "one sound warms the soul.",
+    "future you speaks fluently. yes?",
+    "curious about true belonging?",
+    "one sound connects deeply.",
+    "what if fear just fades?",
+    "wisdom: be patient with yourself."
   ]
 }
