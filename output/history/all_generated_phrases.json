@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if calm arrived?",
-      "spanish": "¿Y si llega la calma?",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-12T17:38:57.031052"
-    },
-    {
-      "english": "Breathe deeply, find you.",
-      "spanish": "Respira hondo, encuéntrate.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-12T17:38:57.031074"
-    },
-    {
-      "english": "Your quiet inner world.",
-      "spanish": "Tu mundo interior tranquilo.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-12T17:38:57.031086"
-    },
-    {
-      "english": "Joy hides here, now.",
-      "spanish": "La alegría se esconde aquí.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-12T17:38:57.031099"
-    },
-    {
-      "english": "Feel fully, live more.",
-      "spanish": "Siente plenamente, vive más.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-12T17:38:57.031111"
-    },
-    {
       "english": "Your light, brighter than you know.",
       "spanish": "Tu luz, más brillante de lo que sabes.",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "Prueba esto: conexión instantánea.",
       "category": "Success",
       "generated_at": "2026-10-16T21:50:13.728711"
+    },
+    {
+      "english": "Stuck? Keep practicing, always.",
+      "spanish": "Atascado? Sigue practicando, siempre.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T23:24:26.576075"
+    },
+    {
+      "english": "Mistakes? They're learning lessons.",
+      "spanish": "¿Errores? Son lecciones de aprendizaje.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T23:24:26.576111"
+    },
+    {
+      "english": "Tomorrow's success starts now.",
+      "spanish": "El éxito de mañana empieza hoy.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T23:24:26.576140"
+    },
+    {
+      "english": "Tiny steps lead forward.",
+      "spanish": "Pequeños pasos llevan adelante.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T23:24:26.576167"
+    },
+    {
+      "english": "Don't quit on your dreams.",
+      "spanish": "No renuncies a tus sueños.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-16T23:24:26.576194"
     }
   ],
-  "last_updated": "2026-10-16T21:50:13.728713",
+  "last_updated": "2026-10-16T23:24:26.576196",
   "used_english": [
-    "what if calm arrived?",
-    "breathe deeply, find you.",
-    "your quiet inner world.",
-    "joy hides here, now.",
-    "feel fully, live more.",
     "your light, brighter than you know.",
     "why happy people whisper this.",
     "unlock your calm, instantly.",
@@ -21002,6 +20997,11 @@
     "listen closely, this word helps.",
     "this sounds connect you.",
     "warm greetings melt ice.",
-    "try this: instant rapport."
+    "try this: instant rapport.",
+    "stuck? keep practicing, always.",
+    "mistakes? they're learning lessons.",
+    "tomorrow's success starts now.",
+    "tiny steps lead forward.",
+    "don't quit on your dreams."
   ]
 }
