@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock Spanish confidence, faster.",
-      "spanish": "Desbloquea confianza española, más rápido.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-12T20:59:36.039837"
-    },
-    {
-      "english": "This one tiny habit, huge progress.",
-      "spanish": "Este hábito diminuto, progreso enorme.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-12T20:59:36.039863"
-    },
-    {
-      "english": "Why wise people listen more.",
-      "spanish": "¿Por qué sabios escuchan más?",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-12T20:59:36.039878"
-    },
-    {
-      "english": "Your vibrant Spanish life awaits.",
-      "spanish": "Tu vida española vibrante espera.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-12T20:59:36.039892"
-    },
-    {
-      "english": "Stop letting fear control you.",
-      "spanish": "Deja de dejar que el miedo te controle.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-12T20:59:36.039907"
-    },
-    {
       "english": "Is your spanish stuck? You can do it!",
       "spanish": "¿Tu español estancado? ¡Puedes hacerlo!",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu futuro agradecerá este momento.",
       "category": "Hope",
       "generated_at": "2026-10-17T16:10:37.655120"
+    },
+    {
+      "english": "Connection starts here, amigos.",
+      "spanish": "La conexión empieza aquí, amigos.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T17:47:24.941516"
+    },
+    {
+      "english": "Wisdom: Say 'please' often.",
+      "spanish": "Sabiduría: Di 'por favor' a menudo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T17:47:24.941542"
+    },
+    {
+      "english": "Surprise! They love your accent.",
+      "spanish": "¡Sorpresa! Les encanta tu acento.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T17:47:24.941557"
+    },
+    {
+      "english": "Want joy? Share this word.",
+      "spanish": "¿Quieres alegría? Comparte esta palabra.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T17:47:24.941572"
+    },
+    {
+      "english": "Feel their smile? Say 'hola'.",
+      "spanish": "¿Sientes su sonrisa? Di 'hola'.",
+      "category": "Friendship",
+      "generated_at": "2026-10-17T17:47:24.941587"
     }
   ],
-  "last_updated": "2026-10-17T16:10:37.655123",
+  "last_updated": "2026-10-17T17:47:24.941589",
   "used_english": [
-    "unlock spanish confidence, faster.",
-    "this one tiny habit, huge progress.",
-    "why wise people listen more.",
-    "your vibrant spanish life awaits.",
-    "stop letting fear control you.",
     "is your spanish stuck? you can do it!",
     "one word, massive spanish impact.",
     "tiny habits, giant spanish leaps.",
@@ -21002,6 +20997,11 @@
     "this phrase melts away tension.",
     "feel the spark? it's learning.",
     "this word adds so much.",
-    "future you'll thank this moment."
+    "future you'll thank this moment.",
+    "connection starts here, amigos.",
+    "wisdom: say 'please' often.",
+    "surprise! they love your accent.",
+    "want joy? share this word.",
+    "feel their smile? say 'hola'."
   ]
 }
