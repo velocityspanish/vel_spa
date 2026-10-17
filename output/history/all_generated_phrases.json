@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Is your spanish stuck? You can do it!",
-      "spanish": "¿Tu español estancado? ¡Puedes hacerlo!",
-      "category": "Perseverance",
-      "generated_at": "2026-06-12T22:42:07.996720"
-    },
-    {
-      "english": "One word, massive spanish impact.",
-      "spanish": "Una palabra, gran impacto español.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-12T22:42:07.996745"
-    },
-    {
-      "english": "Tiny habits, giant spanish leaps.",
-      "spanish": "Pequeños hábitos, grandes saltos españoles.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-12T22:42:07.996759"
-    },
-    {
-      "english": "The true meaning of 'poco a poco'.",
-      "spanish": "El verdadero 'poco a poco'.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-12T22:42:07.996772"
-    },
-    {
-      "english": "Your spanish voice? It's arriving.",
-      "spanish": "Tu voz en español, llega.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-12T22:42:07.996785"
-    },
-    {
       "english": "Your calm energy, contagious",
       "spanish": "Tu calma, contagiosa",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes su sonrisa? Di 'hola'.",
       "category": "Friendship",
       "generated_at": "2026-10-17T17:47:24.941587"
+    },
+    {
+      "english": "Slow down, listen closely.",
+      "spanish": "Más despacio, escucha bien.",
+      "category": "Patience",
+      "generated_at": "2026-10-17T18:57:18.905285"
+    },
+    {
+      "english": "Is this frustrating? Breathe.",
+      "spanish": "¿Esto frustra? Respira.",
+      "category": "Patience",
+      "generated_at": "2026-10-17T18:57:18.905310"
+    },
+    {
+      "english": "Your progress is building, trust.",
+      "spanish": "Tu progreso se construye, confía.",
+      "category": "Patience",
+      "generated_at": "2026-10-17T18:57:18.905326"
+    },
+    {
+      "english": "Don't rush perfection, speak.",
+      "spanish": "No corras por perfección, habla.",
+      "category": "Patience",
+      "generated_at": "2026-10-17T18:57:18.905343"
+    },
+    {
+      "english": "Feel the quiet learning moments?",
+      "spanish": "¿Sientes los momentos quietos de aprendizaje?",
+      "category": "Patience",
+      "generated_at": "2026-10-17T18:57:18.905359"
     }
   ],
-  "last_updated": "2026-10-17T17:47:24.941589",
+  "last_updated": "2026-10-17T18:57:18.905360",
   "used_english": [
-    "is your spanish stuck? you can do it!",
-    "one word, massive spanish impact.",
-    "tiny habits, giant spanish leaps.",
-    "the true meaning of 'poco a poco'.",
-    "your spanish voice? it's arriving.",
     "your calm energy, contagious",
     "this tiny joy, embrace it",
     "what if you just smiled?",
@@ -21002,6 +20997,11 @@
     "wisdom: say 'please' often.",
     "surprise! they love your accent.",
     "want joy? share this word.",
-    "feel their smile? say 'hola'."
+    "feel their smile? say 'hola'.",
+    "slow down, listen closely.",
+    "is this frustrating? breathe.",
+    "your progress is building, trust.",
+    "don't rush perfection, speak.",
+    "feel the quiet learning moments?"
   ]
 }
