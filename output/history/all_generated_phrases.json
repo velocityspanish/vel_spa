@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your light, brighter than you know.",
-      "spanish": "Tu luz, más brillante de lo que sabes.",
-      "category": "Happiness",
-      "generated_at": "2026-06-12T18:58:51.112733"
-    },
-    {
-      "english": "Why happy people whisper this.",
-      "spanish": "Por qué la gente feliz susurra esto.",
-      "category": "Happiness",
-      "generated_at": "2026-06-12T18:58:51.112757"
-    },
-    {
-      "english": "Unlock your calm, instantly.",
-      "spanish": "Desbloquea tu calma, al instante.",
-      "category": "Happiness",
-      "generated_at": "2026-06-12T18:58:51.112771"
-    },
-    {
-      "english": "This feeling is your power.",
-      "spanish": "Esta sensación es tu poder.",
-      "category": "Happiness",
-      "generated_at": "2026-06-12T18:58:51.112785"
-    },
-    {
-      "english": "Embrace your beautiful chaos.",
-      "spanish": "Abraza tu hermoso caos.",
-      "category": "Happiness",
-      "generated_at": "2026-06-12T18:58:51.112799"
-    },
-    {
       "english": "Unlock Spanish confidence, faster.",
       "spanish": "Desbloquea confianza española, más rápido.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "No renuncies a tus sueños.",
       "category": "Perseverance",
       "generated_at": "2026-10-16T23:24:26.576194"
+    },
+    {
+      "english": "Believe in your progress, always.",
+      "spanish": "Cree en tu progreso, siempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T16:10:37.655003"
+    },
+    {
+      "english": "This phrase melts away tension.",
+      "spanish": "Esta frase disuelve la tensión.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T16:10:37.655038"
+    },
+    {
+      "english": "Feel the spark? It's learning.",
+      "spanish": "¿Sientes la chispa? Es aprendizaje.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T16:10:37.655067"
+    },
+    {
+      "english": "This word adds so much.",
+      "spanish": "Esta palabra añade mucho.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T16:10:37.655093"
+    },
+    {
+      "english": "Future you'll thank this moment.",
+      "spanish": "Tu futuro agradecerá este momento.",
+      "category": "Hope",
+      "generated_at": "2026-10-17T16:10:37.655120"
     }
   ],
-  "last_updated": "2026-10-16T23:24:26.576196",
+  "last_updated": "2026-10-17T16:10:37.655123",
   "used_english": [
-    "your light, brighter than you know.",
-    "why happy people whisper this.",
-    "unlock your calm, instantly.",
-    "this feeling is your power.",
-    "embrace your beautiful chaos.",
     "unlock spanish confidence, faster.",
     "this one tiny habit, huge progress.",
     "why wise people listen more.",
@@ -21002,6 +20997,11 @@
     "mistakes? they're learning lessons.",
     "tomorrow's success starts now.",
     "tiny steps lead forward.",
-    "don't quit on your dreams."
+    "don't quit on your dreams.",
+    "believe in your progress, always.",
+    "this phrase melts away tension.",
+    "feel the spark? it's learning.",
+    "this word adds so much.",
+    "future you'll thank this moment."
   ]
 }
