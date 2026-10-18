@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This helps you improve faster.",
-      "spanish": "Esto te ayuda a mejorar más rápido.",
-      "category": "Patience",
-      "generated_at": "2026-06-14T15:08:17.441434"
-    },
-    {
-      "english": "Your focus, Spanish success.",
-      "spanish": "Tu enfoque, éxito español.",
-      "category": "Patience",
-      "generated_at": "2026-06-14T15:08:17.441459"
-    },
-    {
-      "english": "Hear your progress, slowly.",
-      "spanish": "Oye tu progreso, lentamente.",
-      "category": "Patience",
-      "generated_at": "2026-06-14T15:08:17.441473"
-    },
-    {
-      "english": "Spanish blooms with patience.",
-      "spanish": "El español florece con paciencia.",
-      "category": "Patience",
-      "generated_at": "2026-06-14T15:08:17.441487"
-    },
-    {
-      "english": "Little by little, you get there.",
-      "spanish": "Poco a poco, llegas allí.",
-      "category": "Patience",
-      "generated_at": "2026-06-14T15:08:17.441500"
-    },
-    {
       "english": "Whispers of a new language, listen.",
       "spanish": "Susurros de nuevo idioma, escucha.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Sorpresa: aman tu acento!",
       "category": "Hope",
       "generated_at": "2026-10-18T19:06:37.754124"
+    },
+    {
+      "english": "Curious about Spanish whispers?",
+      "spanish": "¿Curioso de susurros en español?",
+      "category": "Creativity",
+      "generated_at": "2026-10-18T21:11:02.856415"
+    },
+    {
+      "english": "This sound melts awkwardness.",
+      "spanish": "Este sonido derrite la incomodidad.",
+      "category": "Creativity",
+      "generated_at": "2026-10-18T21:11:02.856451"
+    },
+    {
+      "english": "Want understanding? Listen well.",
+      "spanish": "¿Quieres entendimiento? Escucha bien.",
+      "category": "Creativity",
+      "generated_at": "2026-10-18T21:11:02.856480"
+    },
+    {
+      "english": "Surprise: your accent is charming!",
+      "spanish": "Sorpresa: ¡tu acento es encantador!",
+      "category": "Creativity",
+      "generated_at": "2026-10-18T21:11:02.856507"
+    },
+    {
+      "english": "Feel the connection instantly.",
+      "spanish": "Siente la conexión instantáneamente.",
+      "category": "Creativity",
+      "generated_at": "2026-10-18T21:11:02.856536"
     }
   ],
-  "last_updated": "2026-10-18T19:06:37.754126",
+  "last_updated": "2026-10-18T21:11:02.856538",
   "used_english": [
-    "this helps you improve faster.",
-    "your focus, spanish success.",
-    "hear your progress, slowly.",
-    "spanish blooms with patience.",
-    "little by little, you get there.",
     "whispers of a new language, listen.",
     "this one sound transforms your accent.",
     "stop wishing, start speaking spanish.",
@@ -21002,6 +20997,11 @@
     "future you'll speak fluently, yes?",
     "mistakes are learning lessons, embrace.",
     "curious about belonging's true bridge?",
-    "surprise: they love your accent!"
+    "surprise: they love your accent!",
+    "curious about spanish whispers?",
+    "this sound melts awkwardness.",
+    "want understanding? listen well.",
+    "surprise: your accent is charming!",
+    "feel the connection instantly."
   ]
 }
