@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your calm is contagious. Spread it.",
-      "spanish": "Tu calma es contagiosa. Espárcela.",
-      "category": "Hope",
-      "generated_at": "2026-06-13T18:03:27.067091"
-    },
-    {
-      "english": "Small joys build big lives.",
-      "spanish": "Pequeñas alegrías construyen grandes vidas.",
-      "category": "Hope",
-      "generated_at": "2026-06-13T18:03:27.067115"
-    },
-    {
-      "english": "Your next step, just begin.",
-      "spanish": "Tu próximo paso, solo empieza.",
-      "category": "Hope",
-      "generated_at": "2026-06-13T18:03:27.067136"
-    },
-    {
-      "english": "What if kindness wins?",
-      "spanish": "¿Y si la bondad gana?",
-      "category": "Hope",
-      "generated_at": "2026-06-13T18:03:27.067157"
-    },
-    {
-      "english": "Wisdom whispers: listen.",
-      "spanish": "La sabiduría susurra: escucha.",
-      "category": "Hope",
-      "generated_at": "2026-06-13T18:03:27.067177"
-    },
-    {
       "english": "Kindness echoes, always.",
       "spanish": "La bondad resuena, siempre.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu futuro suena increíble, escucha.",
       "category": "Purpose",
       "generated_at": "2026-10-17T22:59:37.244806"
+    },
+    {
+      "english": "Unlock smiles with this word.",
+      "spanish": "Desbloquea sonrisas con esta palabra.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T16:24:52.159069"
+    },
+    {
+      "english": "Want them to listen? Try this.",
+      "spanish": "¿Quieres que escuchen? Prueba esto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T16:24:52.159107"
+    },
+    {
+      "english": "Your warmth travels far.",
+      "spanish": "Tu calidez viaja lejos.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T16:24:52.159134"
+    },
+    {
+      "english": "This small gesture means worlds.",
+      "spanish": "Este pequeño gesto significa mundos.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T16:24:52.159162"
+    },
+    {
+      "english": "Feel understood? Say this back.",
+      "spanish": "¿Te sientes comprendido? Di esto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T16:24:52.159190"
     }
   ],
-  "last_updated": "2026-10-17T22:59:37.244808",
+  "last_updated": "2026-10-18T16:24:52.159192",
   "used_english": [
-    "your calm is contagious. spread it.",
-    "small joys build big lives.",
-    "your next step, just begin.",
-    "what if kindness wins?",
-    "wisdom whispers: listen.",
     "kindness echoes, always.",
     "your gentle smile matters.",
     "share light, feel it.",
@@ -21002,6 +20997,11 @@
     "joy is saying 'hello' differently.",
     "surprise them with a compliment.",
     "small words, big connections. yes?",
-    "your future sounds amazing, listen."
+    "your future sounds amazing, listen.",
+    "unlock smiles with this word.",
+    "want them to listen? try this.",
+    "your warmth travels far.",
+    "this small gesture means worlds.",
+    "feel understood? say this back."
   ]
 }
