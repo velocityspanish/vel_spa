@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Whispers of a new language, listen.",
-      "spanish": "Susurros de nuevo idioma, escucha.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-14T16:23:40.225197"
-    },
-    {
-      "english": "This one sound transforms your accent.",
-      "spanish": "Este sonido cambia tu acento.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-14T16:23:40.225220"
-    },
-    {
-      "english": "Stop wishing, start speaking Spanish.",
-      "spanish": "Deja de desear, habla español.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-14T16:23:40.225234"
-    },
-    {
-      "english": "One phrase, massive impact.",
-      "spanish": "Una frase, impacto masivo.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-14T16:23:40.225249"
-    },
-    {
-      "english": "Your Spanish confidence is coming.",
-      "spanish": "Tu confianza en español llega.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-14T16:23:40.225262"
-    },
-    {
       "english": "Your next 'wow' moment awaits.",
       "spanish": "Tu próximo momento 'wow' te espera.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Siente la conexión instantáneamente.",
       "category": "Creativity",
       "generated_at": "2026-10-18T21:11:02.856536"
+    },
+    {
+      "english": "One word, endless warmth. Try.",
+      "spanish": "Una palabra, infinita calidez. Intenta.",
+      "category": "Growth",
+      "generated_at": "2026-10-18T22:57:10.883682"
+    },
+    {
+      "english": "They'll understand this secret.",
+      "spanish": "Ellos entenderán este secreto.",
+      "category": "Growth",
+      "generated_at": "2026-10-18T22:57:10.883719"
+    },
+    {
+      "english": "What if learning feels *this* good?",
+      "spanish": "¿Y si aprender se siente *así* de bien?",
+      "category": "Growth",
+      "generated_at": "2026-10-18T22:57:10.883746"
+    },
+    {
+      "english": "Wisdom: Listen before you speak.",
+      "spanish": "Sabiduría: Escucha antes de hablar.",
+      "category": "Growth",
+      "generated_at": "2026-10-18T22:57:10.883773"
+    },
+    {
+      "english": "This sounds so welcoming.",
+      "spanish": "Esto suena tan acogedor.",
+      "category": "Growth",
+      "generated_at": "2026-10-18T22:57:10.883814"
     }
   ],
-  "last_updated": "2026-10-18T21:11:02.856538",
+  "last_updated": "2026-10-18T22:57:10.883817",
   "used_english": [
-    "whispers of a new language, listen.",
-    "this one sound transforms your accent.",
-    "stop wishing, start speaking spanish.",
-    "one phrase, massive impact.",
-    "your spanish confidence is coming.",
     "your next 'wow' moment awaits.",
     "why is spanish so cool?",
     "don't miss this magic phrase.",
@@ -21002,6 +20997,11 @@
     "this sound melts awkwardness.",
     "want understanding? listen well.",
     "surprise: your accent is charming!",
-    "feel the connection instantly."
+    "feel the connection instantly.",
+    "one word, endless warmth. try.",
+    "they'll understand this secret.",
+    "what if learning feels *this* good?",
+    "wisdom: listen before you speak.",
+    "this sounds so welcoming."
   ]
 }
