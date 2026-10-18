@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Kindness echoes, always.",
-      "spanish": "La bondad resuena, siempre.",
-      "category": "Kindness",
-      "generated_at": "2026-06-13T20:11:09.930512"
-    },
-    {
-      "english": "Your gentle smile matters.",
-      "spanish": "Tu dulce sonrisa importa.",
-      "category": "Kindness",
-      "generated_at": "2026-06-13T20:11:09.930536"
-    },
-    {
-      "english": "Share light, feel it.",
-      "spanish": "Comparte luz, siéntela.",
-      "category": "Kindness",
-      "generated_at": "2026-06-13T20:11:09.930548"
-    },
-    {
-      "english": "Compassion builds true strength.",
-      "spanish": "La compasión crea fuerza real.",
-      "category": "Kindness",
-      "generated_at": "2026-06-13T20:11:09.930561"
-    },
-    {
-      "english": "Your empathy changes worlds.",
-      "spanish": "Tu empatía cambia mundos.",
-      "category": "Kindness",
-      "generated_at": "2026-06-13T20:11:09.930576"
-    },
-    {
       "english": "Besties, your Spanish adventure awaits!",
       "spanish": "¡Amigas, su aventura en español espera!",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Te sientes comprendido? Di esto.",
       "category": "Kindness",
       "generated_at": "2026-10-18T16:24:52.159190"
+    },
+    {
+      "english": "Curiosity? Say '¿Por qué?'",
+      "spanish": "¿Curiosidad? Di '¿Por qué?'",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:51.162825"
+    },
+    {
+      "english": "Surprise them with '¡Genial!'",
+      "spanish": "Sorpréndelos con '¡Genial!'",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:51.162864"
+    },
+    {
+      "english": "Want to connect? Listen.",
+      "spanish": "¿Quieres conectar? Escucha.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:51.162891"
+    },
+    {
+      "english": "Feel the rhythm? Speak.",
+      "spanish": "¿Sientes el ritmo? Habla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:51.162917"
+    },
+    {
+      "english": "One word makes friends easily.",
+      "spanish": "Una palabra hace amigos fácil.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-18T17:52:51.162946"
     }
   ],
-  "last_updated": "2026-10-18T16:24:52.159192",
+  "last_updated": "2026-10-18T17:52:51.162948",
   "used_english": [
-    "kindness echoes, always.",
-    "your gentle smile matters.",
-    "share light, feel it.",
-    "compassion builds true strength.",
-    "your empathy changes worlds.",
     "besties, your spanish adventure awaits!",
     "listen, true friends speak spanish.",
     "friendship is a universal language.",
@@ -21002,6 +20997,11 @@
     "want them to listen? try this.",
     "your warmth travels far.",
     "this small gesture means worlds.",
-    "feel understood? say this back."
+    "feel understood? say this back.",
+    "curiosity? say '¿por qué?'",
+    "surprise them with '¡genial!'",
+    "want to connect? listen.",
+    "feel the rhythm? speak.",
+    "one word makes friends easily."
   ]
 }
