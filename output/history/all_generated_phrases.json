@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Besties, your Spanish adventure awaits!",
-      "spanish": "¡Amigas, su aventura en español espera!",
-      "category": "Friendship",
-      "generated_at": "2026-06-13T22:12:21.963682"
-    },
-    {
-      "english": "Listen, true friends speak Spanish.",
-      "spanish": "Escucha, amigos verdaderos hablan español.",
-      "category": "Friendship",
-      "generated_at": "2026-06-13T22:12:21.963707"
-    },
-    {
-      "english": "Friendship is a universal language.",
-      "spanish": "La amistad es lenguaje universal.",
-      "category": "Friendship",
-      "generated_at": "2026-06-13T22:12:21.963721"
-    },
-    {
-      "english": "Share this Spanish phrase with your crew!",
-      "spanish": "¡Comparte esta frase en español con tu pandilla!",
-      "category": "Friendship",
-      "generated_at": "2026-06-13T22:12:21.963733"
-    },
-    {
-      "english": "One word bonds us: 'Amigo'.",
-      "spanish": "Una palabra nos une: 'Amigo'.",
-      "category": "Friendship",
-      "generated_at": "2026-06-13T22:12:21.963747"
-    },
-    {
       "english": "This helps you improve faster.",
       "spanish": "Esto te ayuda a mejorar más rápido.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Una palabra hace amigos fácil.",
       "category": "Self Improvement",
       "generated_at": "2026-10-18T17:52:51.162946"
+    },
+    {
+      "english": "This word unlocks their surprise.",
+      "spanish": "Esta palabra revela su sorpresa.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:06:37.754030"
+    },
+    {
+      "english": "Future you'll speak fluently, yes?",
+      "spanish": "Tu futuro tú hablará fluido, ¿sí?",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:06:37.754062"
+    },
+    {
+      "english": "Mistakes are learning lessons, embrace.",
+      "spanish": "Los errores son lecciones, abraza.",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:06:37.754082"
+    },
+    {
+      "english": "Curious about belonging's true bridge?",
+      "spanish": "¿Curioso del puente verdadero de pertenecer?",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:06:37.754101"
+    },
+    {
+      "english": "Surprise: they love your accent!",
+      "spanish": "¡Sorpresa: aman tu acento!",
+      "category": "Hope",
+      "generated_at": "2026-10-18T19:06:37.754124"
     }
   ],
-  "last_updated": "2026-10-18T17:52:51.162948",
+  "last_updated": "2026-10-18T19:06:37.754126",
   "used_english": [
-    "besties, your spanish adventure awaits!",
-    "listen, true friends speak spanish.",
-    "friendship is a universal language.",
-    "share this spanish phrase with your crew!",
-    "one word bonds us: 'amigo'.",
     "this helps you improve faster.",
     "your focus, spanish success.",
     "hear your progress, slowly.",
@@ -21002,6 +20997,11 @@
     "surprise them with '¡genial!'",
     "want to connect? listen.",
     "feel the rhythm? speak.",
-    "one word makes friends easily."
+    "one word makes friends easily.",
+    "this word unlocks their surprise.",
+    "future you'll speak fluently, yes?",
+    "mistakes are learning lessons, embrace.",
+    "curious about belonging's true bridge?",
+    "surprise: they love your accent!"
   ]
 }
