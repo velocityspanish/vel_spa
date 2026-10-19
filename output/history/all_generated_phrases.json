@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Kindness echoes, beautiful truth.",
-      "spanish": "Bondad resuena, verdad hermosa.",
-      "category": "Kindness",
-      "generated_at": "2026-06-14T22:18:32.928614"
-    },
-    {
-      "english": "What if smiles were currency?",
-      "spanish": "¿Y si sonrisas fueran moneda?",
-      "category": "Kindness",
-      "generated_at": "2026-06-14T22:18:32.928639"
-    },
-    {
-      "english": "Spread good vibes, feel them.",
-      "spanish": "Difunde buenas vibras, siéntelas.",
-      "category": "Kindness",
-      "generated_at": "2026-06-14T22:18:32.928653"
-    },
-    {
-      "english": "Helping others, helps you.",
-      "spanish": "Ayudar a otros, te ayuda.",
-      "category": "Kindness",
-      "generated_at": "2026-06-14T22:18:32.928667"
-    },
-    {
-      "english": "Imagine a kinder world, now.",
-      "spanish": "Imagina un mundo más amable, ahora.",
-      "category": "Kindness",
-      "generated_at": "2026-06-14T22:18:32.928681"
-    },
-    {
       "english": "Your spanish glow-up starts.",
       "spanish": "Tu cambio de español empieza.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Una palabra amable no cuesta nada.",
       "category": "Kindness",
       "generated_at": "2026-10-19T20:24:52.843407"
+    },
+    {
+      "english": "Unlock confidence, one phrase.",
+      "spanish": "Desbloquea confianza, una frase.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T21:18:34.657412"
+    },
+    {
+      "english": "Wisdom: Listen, then reply.",
+      "spanish": "Sabiduría: Escucha, luego responde.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T21:18:34.657451"
+    },
+    {
+      "english": "Feel this spark? That's learning.",
+      "spanish": "¿Sientes esta chispa? Es aprender.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T21:18:34.657479"
+    },
+    {
+      "english": "Surprise! Your accent charms them.",
+      "spanish": "¡Sorpresa! Tu acento encanta.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T21:18:34.657506"
+    },
+    {
+      "english": "Connection? It starts with hello.",
+      "spanish": "¿Conexión? Empieza con hola.",
+      "category": "Balance",
+      "generated_at": "2026-10-19T21:18:34.657533"
     }
   ],
-  "last_updated": "2026-10-19T20:24:52.843409",
+  "last_updated": "2026-10-19T21:18:34.657535",
   "used_english": [
-    "kindness echoes, beautiful truth.",
-    "what if smiles were currency?",
-    "spread good vibes, feel them.",
-    "helping others, helps you.",
-    "imagine a kinder world, now.",
     "your spanish glow-up starts.",
     "stop wishing, start flowing.",
     "tiny habits, vast impact.",
@@ -21002,6 +20997,11 @@
     "future you thanks this kindness.",
     "feel the warmth? share it.",
     "don't wait, spread joy now.",
-    "wisdom: a kind word costs nothing."
+    "wisdom: a kind word costs nothing.",
+    "unlock confidence, one phrase.",
+    "wisdom: listen, then reply.",
+    "feel this spark? that's learning.",
+    "surprise! your accent charms them.",
+    "connection? it starts with hello."
   ]
 }
