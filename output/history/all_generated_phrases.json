@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your spanish glow-up starts.",
-      "spanish": "Tu cambio de español empieza.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-15T17:58:52.414371"
-    },
-    {
-      "english": "Stop wishing, start flowing.",
-      "spanish": "Deja de desear, empieza a fluir.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-15T17:58:52.414396"
-    },
-    {
-      "english": "Tiny habits, vast impact.",
-      "spanish": "Pequeños hábitos, gran impacto.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-15T17:58:52.414410"
-    },
-    {
-      "english": "The universe is listening, try.",
-      "spanish": "El universo escucha, inténtalo.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-15T17:58:52.414424"
-    },
-    {
-      "english": "Your courage echoes forward.",
-      "spanish": "Tu coraje resuena adelante.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-15T17:58:52.414438"
-    },
-    {
       "english": "Your hidden spanish voice?",
       "spanish": "¿Tu voz secreta en español?",
       "category": "Purpose",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Conexión? Empieza con hola.",
       "category": "Balance",
       "generated_at": "2026-10-19T21:18:34.657533"
+    },
+    {
+      "english": "Start small, speak often, grow.",
+      "spanish": "Empieza pequeño, habla mucho, crece.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-19T22:41:46.568089"
+    },
+    {
+      "english": "This warmth travels continents.",
+      "spanish": "Esta calidez viaja continentes.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-19T22:41:46.568127"
+    },
+    {
+      "english": "They'll hear your kindness.",
+      "spanish": "Oirán tu amabilidad.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-19T22:41:46.568157"
+    },
+    {
+      "english": "Future you, fluent and happy.",
+      "spanish": "Tu futuro tú, fluido y feliz.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-19T22:41:46.568187"
+    },
+    {
+      "english": "Unlock understanding, listen first.",
+      "spanish": "Desbloquea entendimiento, escucha primero.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-19T22:41:46.568213"
     }
   ],
-  "last_updated": "2026-10-19T21:18:34.657535",
+  "last_updated": "2026-10-19T22:41:46.568216",
   "used_english": [
-    "your spanish glow-up starts.",
-    "stop wishing, start flowing.",
-    "tiny habits, vast impact.",
-    "the universe is listening, try.",
-    "your courage echoes forward.",
     "your hidden spanish voice?",
     "quick fix, instant results.",
     "your next phrase: 'me encanta'.",
@@ -21002,6 +20997,11 @@
     "wisdom: listen, then reply.",
     "feel this spark? that's learning.",
     "surprise! your accent charms them.",
-    "connection? it starts with hello."
+    "connection? it starts with hello.",
+    "start small, speak often, grow.",
+    "this warmth travels continents.",
+    "they'll hear your kindness.",
+    "future you, fluent and happy.",
+    "unlock understanding, listen first."
   ]
 }
