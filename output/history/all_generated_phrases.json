@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice, amplified now.",
-      "spanish": "Tu voz, amplificada ahora.",
-      "category": "Confidence",
-      "generated_at": "2026-06-14T20:15:14.033675"
-    },
-    {
-      "english": "One small phrase, huge impact.",
-      "spanish": "Una frase pequeña, gran impacto.",
-      "category": "Confidence",
-      "generated_at": "2026-06-14T20:15:14.033698"
-    },
-    {
-      "english": "Listen to this whisper.",
-      "spanish": "Escucha este susurro.",
-      "category": "Confidence",
-      "generated_at": "2026-06-14T20:15:14.033711"
-    },
-    {
-      "english": "Why are you afraid?",
-      "spanish": "¿Por qué tienes miedo?",
-      "category": "Confidence",
-      "generated_at": "2026-06-14T20:15:14.033723"
-    },
-    {
-      "english": "Your Spanish journey begins.",
-      "spanish": "Tu viaje español comienza.",
-      "category": "Confidence",
-      "generated_at": "2026-06-14T20:15:14.033737"
-    },
-    {
       "english": "Kindness echoes, beautiful truth.",
       "spanish": "Bondad resuena, verdad hermosa.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Oyes esta simple alegría?",
       "category": "Creativity",
       "generated_at": "2026-10-19T19:06:58.470756"
+    },
+    {
+      "english": "Smile: universal language, learn.",
+      "spanish": "Sonríe: lenguaje universal, aprende.",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T20:24:52.843332"
+    },
+    {
+      "english": "Future you thanks this kindness.",
+      "spanish": "Tu yo futuro agradece esta amabilidad.",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T20:24:52.843358"
+    },
+    {
+      "english": "Feel the warmth? Share it.",
+      "spanish": "¿Sientes el calor? Compártelo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T20:24:52.843375"
+    },
+    {
+      "english": "Don't wait, spread joy now.",
+      "spanish": "No esperes, esparce alegría ahora.",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T20:24:52.843392"
+    },
+    {
+      "english": "Wisdom: A kind word costs nothing.",
+      "spanish": "Sabiduría: Una palabra amable no cuesta nada.",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T20:24:52.843407"
     }
   ],
-  "last_updated": "2026-10-19T19:06:58.470780",
+  "last_updated": "2026-10-19T20:24:52.843409",
   "used_english": [
-    "your voice, amplified now.",
-    "one small phrase, huge impact.",
-    "listen to this whisper.",
-    "why are you afraid?",
-    "your spanish journey begins.",
     "kindness echoes, beautiful truth.",
     "what if smiles were currency?",
     "spread good vibes, feel them.",
@@ -21002,6 +20997,11 @@
     "surprise! spanish flows easily.",
     "this feeling? you're learning!",
     "mistakes? essential for fluency.",
-    "hear this simple joy?"
+    "hear this simple joy?",
+    "smile: universal language, learn.",
+    "future you thanks this kindness.",
+    "feel the warmth? share it.",
+    "don't wait, spread joy now.",
+    "wisdom: a kind word costs nothing."
   ]
 }
