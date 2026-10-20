@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your spanish accent? It's charming.",
-      "spanish": "Tu acento en español es encantador.",
-      "category": "Confidence",
-      "generated_at": "2026-06-16T18:55:47.638244"
-    },
-    {
-      "english": "Why your courage whispers 'sí'.",
-      "spanish": "Por qué tu coraje susurra 'sí'.",
-      "category": "Confidence",
-      "generated_at": "2026-06-16T18:55:47.638272"
-    },
-    {
-      "english": "This one question unlocks spanish.",
-      "spanish": "Esta pregunta desbloquea el español.",
-      "category": "Confidence",
-      "generated_at": "2026-06-16T18:55:47.638286"
-    },
-    {
-      "english": "Your empathy? A secret weapon.",
-      "spanish": "Tu empatía es un arma secreta.",
-      "category": "Confidence",
-      "generated_at": "2026-06-16T18:55:47.638302"
-    },
-    {
-      "english": "Imagine your fluent spanish self.",
-      "spanish": "Imagina tu yo fluido en español.",
-      "category": "Confidence",
-      "generated_at": "2026-06-16T18:55:47.638316"
-    },
-    {
       "english": "Your mind is a powerful muscle.",
       "spanish": "Tu mente es un músculo poderoso.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Este sonido, pura bienvenida espera.",
       "category": "Growth",
       "generated_at": "2026-10-20T21:59:44.039659"
+    },
+    {
+      "english": "What if learning felt like this?",
+      "spanish": "¿Y si aprender se sintiera así?",
+      "category": "Happiness",
+      "generated_at": "2026-10-20T23:44:36.408649"
+    },
+    {
+      "english": "This word unlocks instant smiles.",
+      "spanish": "Esta palabra desbloquea sonrisas.",
+      "category": "Happiness",
+      "generated_at": "2026-10-20T23:44:36.408682"
+    },
+    {
+      "english": "Did you hear that welcome?",
+      "spanish": "¿Escuchaste esa bienvenida?",
+      "category": "Happiness",
+      "generated_at": "2026-10-20T23:44:36.408709"
+    },
+    {
+      "english": "Learn today, shine tomorrow.",
+      "spanish": "Aprende hoy, brilla mañana.",
+      "category": "Happiness",
+      "generated_at": "2026-10-20T23:44:36.408735"
+    },
+    {
+      "english": "Confidence whispers with this.",
+      "spanish": "Confianza susurra con esto.",
+      "category": "Happiness",
+      "generated_at": "2026-10-20T23:44:36.408762"
     }
   ],
-  "last_updated": "2026-10-20T21:59:44.039661",
+  "last_updated": "2026-10-20T23:44:36.408764",
   "used_english": [
-    "your spanish accent? it's charming.",
-    "why your courage whispers 'sí'.",
-    "this one question unlocks spanish.",
-    "your empathy? a secret weapon.",
-    "imagine your fluent spanish self.",
     "your mind is a powerful muscle.",
     "wisdom whispers: listen closely.",
     "what if you started today?",
@@ -21002,6 +20997,11 @@
     "curious? spanish whispers begin now.",
     "surprise: fluency is closer than.",
     "feel this? learning feels good.",
-    "this sound, pure welcome awaits."
+    "this sound, pure welcome awaits.",
+    "what if learning felt like this?",
+    "this word unlocks instant smiles.",
+    "did you hear that welcome?",
+    "learn today, shine tomorrow.",
+    "confidence whispers with this."
   ]
 }
