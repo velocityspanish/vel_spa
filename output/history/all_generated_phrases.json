@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Friendship: your spanish superpower.",
-      "spanish": "Amistad: tu superpoder español.",
-      "category": "Friendship",
-      "generated_at": "2026-06-15T23:06:38.556893"
-    },
-    {
-      "english": "This phrase bonds your group.",
-      "spanish": "Esta frase une tu grupo.",
-      "category": "Friendship",
-      "generated_at": "2026-06-15T23:06:38.556919"
-    },
-    {
-      "english": "Why 'gracias' means more.",
-      "spanish": "¿Por qué 'gracias' significa más?",
-      "category": "Friendship",
-      "generated_at": "2026-06-15T23:06:38.556934"
-    },
-    {
-      "english": "Your crew, speaking spanish together.",
-      "spanish": "Tu pandilla, hablando español juntos.",
-      "category": "Friendship",
-      "generated_at": "2026-06-15T23:06:38.556947"
-    },
-    {
-      "english": "Share this: 'Me caes bien'.",
-      "spanish": "Comparte esto: 'Me caes bien'.",
-      "category": "Friendship",
-      "generated_at": "2026-06-15T23:06:38.556962"
-    },
-    {
       "english": "Your next phrase? Life-changing.",
       "spanish": "Tu próxima frase: cambia vidas.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Oyes esta alegría? Sigue adelante.",
       "category": "Motivation",
       "generated_at": "2026-10-20T18:59:31.031459"
+    },
+    {
+      "english": "This Spanish trick, unlock it.",
+      "spanish": "Este truco español, descúbrelo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T20:13:32.386725"
+    },
+    {
+      "english": "Learn Spanish like a native.",
+      "spanish": "Aprende español como nativo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T20:13:32.386756"
+    },
+    {
+      "english": "One word, endless appreciation.",
+      "spanish": "Una palabra, apreciación infinita.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T20:13:32.386777"
+    },
+    {
+      "english": "Future you is speaking Spanish.",
+      "spanish": "Tu futuro habla español.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T20:13:32.386797"
+    },
+    {
+      "english": "Feel this joy? Keep speaking.",
+      "spanish": "¿Sientes esta alegría? Sigue hablando.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T20:13:32.386817"
     }
   ],
-  "last_updated": "2026-10-20T18:59:31.031461",
+  "last_updated": "2026-10-20T20:13:32.386819",
   "used_english": [
-    "friendship: your spanish superpower.",
-    "this phrase bonds your group.",
-    "why 'gracias' means more.",
-    "your crew, speaking spanish together.",
-    "share this: 'me caes bien'.",
     "your next phrase? life-changing.",
     "don't forget this nuance.",
     "your quiet progress is real.",
@@ -21002,6 +20997,11 @@
     "want smiles? say 'gracias'.",
     "unlock their surprise, speak.",
     "small word, huge connection. yes?",
-    "hear this joy? keep going."
+    "hear this joy? keep going.",
+    "this spanish trick, unlock it.",
+    "learn spanish like a native.",
+    "one word, endless appreciation.",
+    "future you is speaking spanish.",
+    "feel this joy? keep speaking."
   ]
 }
