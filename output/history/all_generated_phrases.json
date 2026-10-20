@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your next phrase? Life-changing.",
-      "spanish": "Tu próxima frase: cambia vidas.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-16T18:06:04.034455"
-    },
-    {
-      "english": "Don't forget this nuance.",
-      "spanish": "No olvides este matiz.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-16T18:06:04.034478"
-    },
-    {
-      "english": "Your quiet progress is real.",
-      "spanish": "Tu progreso silencioso es real.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-16T18:06:04.034493"
-    },
-    {
-      "english": "Hear the rhythm, feel it.",
-      "spanish": "Escucha el ritmo, siéntelo.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-16T18:06:04.034507"
-    },
-    {
-      "english": "Imagine saying this perfectly.",
-      "spanish": "Imagina decir esto perfecto.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-16T18:06:04.034521"
-    },
-    {
       "english": "Your spanish accent? It's charming.",
       "spanish": "Tu acento en español es encantador.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes esta alegría? Sigue hablando.",
       "category": "Purpose",
       "generated_at": "2026-10-20T20:13:32.386817"
+    },
+    {
+      "english": "This word sparks connection instantly.",
+      "spanish": "Esta palabra conecta al instante.",
+      "category": "Growth",
+      "generated_at": "2026-10-20T21:59:44.039535"
+    },
+    {
+      "english": "Curious? Spanish whispers begin now.",
+      "spanish": "¿Curioso? Los susurros españoles empiezan ya.",
+      "category": "Growth",
+      "generated_at": "2026-10-20T21:59:44.039568"
+    },
+    {
+      "english": "Surprise: fluency is closer than.",
+      "spanish": "Sorpresa: la fluidez está más cerca.",
+      "category": "Growth",
+      "generated_at": "2026-10-20T21:59:44.039606"
+    },
+    {
+      "english": "Feel this? Learning feels good.",
+      "spanish": "¿Sientes esto? Aprender se siente bien.",
+      "category": "Growth",
+      "generated_at": "2026-10-20T21:59:44.039633"
+    },
+    {
+      "english": "This sound, pure welcome awaits.",
+      "spanish": "Este sonido, pura bienvenida espera.",
+      "category": "Growth",
+      "generated_at": "2026-10-20T21:59:44.039659"
     }
   ],
-  "last_updated": "2026-10-20T20:13:32.386819",
+  "last_updated": "2026-10-20T21:59:44.039661",
   "used_english": [
-    "your next phrase? life-changing.",
-    "don't forget this nuance.",
-    "your quiet progress is real.",
-    "hear the rhythm, feel it.",
-    "imagine saying this perfectly.",
     "your spanish accent? it's charming.",
     "why your courage whispers 'sí'.",
     "this one question unlocks spanish.",
@@ -21002,6 +20997,11 @@
     "learn spanish like a native.",
     "one word, endless appreciation.",
     "future you is speaking spanish.",
-    "feel this joy? keep speaking."
+    "feel this joy? keep speaking.",
+    "this word sparks connection instantly.",
+    "curious? spanish whispers begin now.",
+    "surprise: fluency is closer than.",
+    "feel this? learning feels good.",
+    "this sound, pure welcome awaits."
   ]
 }
