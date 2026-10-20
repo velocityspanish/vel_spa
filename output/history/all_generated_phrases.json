@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your hidden spanish voice?",
-      "spanish": "¿Tu voz secreta en español?",
-      "category": "Purpose",
-      "generated_at": "2026-06-15T19:04:52.604593"
-    },
-    {
-      "english": "Quick fix, instant results.",
-      "spanish": "Solución rápida, resultados al instante.",
-      "category": "Purpose",
-      "generated_at": "2026-06-15T19:04:52.604616"
-    },
-    {
-      "english": "Your next phrase: 'Me encanta'.",
-      "spanish": "Tu próxima frase: 'Me encanta'.",
-      "category": "Purpose",
-      "generated_at": "2026-06-15T19:04:52.604630"
-    },
-    {
-      "english": "Unlock fluency, the simple way.",
-      "spanish": "Desbloquea fluidez, la forma simple.",
-      "category": "Purpose",
-      "generated_at": "2026-06-15T19:04:52.604644"
-    },
-    {
-      "english": "Feel confident, speak boldly.",
-      "spanish": "Siéntete seguro, habla audazmente.",
-      "category": "Purpose",
-      "generated_at": "2026-06-15T19:04:52.604658"
-    },
-    {
       "english": "Your next phrase unlocks it.",
       "spanish": "Tu próxima frase lo desbloquea.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Desbloquea entendimiento, escucha primero.",
       "category": "Wisdom",
       "generated_at": "2026-10-19T22:41:46.568213"
+    },
+    {
+      "english": "Feel this language spark?",
+      "spanish": "¿Sientes esta chispa?",
+      "category": "Success",
+      "generated_at": "2026-10-20T00:12:00.201679"
+    },
+    {
+      "english": "Wisdom: fluency grows daily.",
+      "spanish": "Sabiduría: fluidez crece diario.",
+      "category": "Success",
+      "generated_at": "2026-10-20T00:12:00.201717"
+    },
+    {
+      "english": "Hear that native speaker sound?",
+      "spanish": "¿Oyes ese sonido nativo?",
+      "category": "Success",
+      "generated_at": "2026-10-20T00:12:00.201747"
+    },
+    {
+      "english": "Curious? This sounds so inviting.",
+      "spanish": "¿Curioso? Suena muy acogedor.",
+      "category": "Success",
+      "generated_at": "2026-10-20T00:12:00.201774"
+    },
+    {
+      "english": "Small phrase, huge impact. Wow!",
+      "spanish": "Frase pequeña, gran impacto. ¡Wow!",
+      "category": "Success",
+      "generated_at": "2026-10-20T00:12:00.201804"
     }
   ],
-  "last_updated": "2026-10-19T22:41:46.568216",
+  "last_updated": "2026-10-20T00:12:00.201806",
   "used_english": [
-    "your hidden spanish voice?",
-    "quick fix, instant results.",
-    "your next phrase: 'me encanta'.",
-    "unlock fluency, the simple way.",
-    "feel confident, speak boldly.",
     "your next phrase unlocks it.",
     "the power? simple repetition.",
     "why your accent vanishes.",
@@ -21002,6 +20997,11 @@
     "this warmth travels continents.",
     "they'll hear your kindness.",
     "future you, fluent and happy.",
-    "unlock understanding, listen first."
+    "unlock understanding, listen first.",
+    "feel this language spark?",
+    "wisdom: fluency grows daily.",
+    "hear that native speaker sound?",
+    "curious? this sounds so inviting.",
+    "small phrase, huge impact. wow!"
   ]
 }
