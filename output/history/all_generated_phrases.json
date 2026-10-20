@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your next spanish win awaits.",
-      "spanish": "Tu próxima victoria en español te espera.",
-      "category": "Success",
-      "generated_at": "2026-06-15T21:38:45.477862"
-    },
-    {
-      "english": "Why is this sound crucial?",
-      "spanish": "¿Por qué es crucial este sonido?",
-      "category": "Success",
-      "generated_at": "2026-06-15T21:38:45.477884"
-    },
-    {
-      "english": "This tiny habit transforms fluency.",
-      "spanish": "Este pequeño hábito transforma la fluidez.",
-      "category": "Success",
-      "generated_at": "2026-06-15T21:38:45.477898"
-    },
-    {
-      "english": "Don't skip this vital detail.",
-      "spanish": "No te saltes este detalle vital.",
-      "category": "Success",
-      "generated_at": "2026-06-15T21:38:45.477912"
-    },
-    {
-      "english": "Your effort creates miracles.",
-      "spanish": "Tu esfuerzo crea milagros.",
-      "category": "Success",
-      "generated_at": "2026-06-15T21:38:45.477926"
-    },
-    {
       "english": "Friendship: your spanish superpower.",
       "spanish": "Amistad: tu superpoder español.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Oyes este sonido? Bienvenida pura.",
       "category": "Creativity",
       "generated_at": "2026-10-20T17:49:23.637872"
+    },
+    {
+      "english": "Curious? This word is magic.",
+      "spanish": "Curioso? Esta palabra es mágica.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T18:59:31.031344"
+    },
+    {
+      "english": "Want smiles? Say 'gracias'.",
+      "spanish": "¿Quieres sonrisas? Di 'gracias'.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T18:59:31.031381"
+    },
+    {
+      "english": "Unlock their surprise, speak.",
+      "spanish": "Desbloquea su sorpresa, habla.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T18:59:31.031408"
+    },
+    {
+      "english": "Small word, huge connection. Yes?",
+      "spanish": "Palabra pequeña, gran conexión. ¿Sí?",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T18:59:31.031434"
+    },
+    {
+      "english": "Hear this joy? Keep going.",
+      "spanish": "¿Oyes esta alegría? Sigue adelante.",
+      "category": "Motivation",
+      "generated_at": "2026-10-20T18:59:31.031459"
     }
   ],
-  "last_updated": "2026-10-20T17:49:23.637873",
+  "last_updated": "2026-10-20T18:59:31.031461",
   "used_english": [
-    "your next spanish win awaits.",
-    "why is this sound crucial?",
-    "this tiny habit transforms fluency.",
-    "don't skip this vital detail.",
-    "your effort creates miracles.",
     "friendship: your spanish superpower.",
     "this phrase bonds your group.",
     "why 'gracias' means more.",
@@ -21002,6 +20997,11 @@
     "feel this accent? it's charming!",
     "surprise! fluency whispers.",
     "your effort builds fluency, believe.",
-    "hear this sound? pure welcome."
+    "hear this sound? pure welcome.",
+    "curious? this word is magic.",
+    "want smiles? say 'gracias'.",
+    "unlock their surprise, speak.",
+    "small word, huge connection. yes?",
+    "hear this joy? keep going."
   ]
 }
