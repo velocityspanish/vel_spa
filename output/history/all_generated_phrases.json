@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Listen, words have energy.",
-      "spanish": "Escucha, las palabras tienen energía.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T17:50:36.382100"
-    },
-    {
-      "english": "This one sound matters.",
-      "spanish": "Este sonido importa.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T17:50:36.382125"
-    },
-    {
-      "english": "Embrace the fumbles, friends.",
-      "spanish": "Abraza los tropiezos, amigos.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T17:50:36.382140"
-    },
-    {
-      "english": "Feel this phrase, truly.",
-      "spanish": "Siente esta frase, de verdad.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T17:50:36.382154"
-    },
-    {
-      "english": "Why try a new rhythm?",
-      "spanish": "¿Por qué probar un ritmo nuevo?",
-      "category": "Wisdom",
-      "generated_at": "2026-06-17T17:50:36.382168"
-    },
-    {
       "english": "This one sound, fluency unlocked.",
       "spanish": "Este sonido, fluidez desbloqueada.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Confía en el proceso. Funciona.",
       "category": "Positive Life",
       "generated_at": "2026-10-21T22:02:20.845114"
+    },
+    {
+      "english": "This word unlocks warm welcomes.",
+      "spanish": "Esta palabra abre cálidas bienvenidas.",
+      "category": "Courage",
+      "generated_at": "2026-10-21T23:57:22.838597"
+    },
+    {
+      "english": "Can you hear this sound?",
+      "spanish": "¿Puedes oír este sonido?",
+      "category": "Courage",
+      "generated_at": "2026-10-21T23:57:22.838633"
+    },
+    {
+      "english": "Courage: try speaking this.",
+      "spanish": "Valentía: intenta decir esto.",
+      "category": "Courage",
+      "generated_at": "2026-10-21T23:57:22.838660"
+    },
+    {
+      "english": "Your courage will surprise them.",
+      "spanish": "Tu valentía los sorprenderá.",
+      "category": "Courage",
+      "generated_at": "2026-10-21T23:57:22.838686"
+    },
+    {
+      "english": "This sparks genuine connection.",
+      "spanish": "Esto genera conexión genuina.",
+      "category": "Courage",
+      "generated_at": "2026-10-21T23:57:22.838744"
     }
   ],
-  "last_updated": "2026-10-21T22:02:20.845116",
+  "last_updated": "2026-10-21T23:57:22.838748",
   "used_english": [
-    "listen, words have energy.",
-    "this one sound matters.",
-    "embrace the fumbles, friends.",
-    "feel this phrase, truly.",
-    "why try a new rhythm?",
     "this one sound, fluency unlocked.",
     "here's what makes spanish easy.",
     "small wins build great fluency.",
@@ -21002,6 +20997,11 @@
     "embrace mistakes, gain wisdom.",
     "your progress whispers loudly.",
     "curiosity fuels fluency. ask why?",
-    "trust the process. it works."
+    "trust the process. it works.",
+    "this word unlocks warm welcomes.",
+    "can you hear this sound?",
+    "courage: try speaking this.",
+    "your courage will surprise them.",
+    "this sparks genuine connection."
   ]
 }
