@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock your spanish power, today.",
-      "spanish": "Desbloquea tu poder español, hoy.",
-      "category": "Motivation",
-      "generated_at": "2026-06-16T21:39:06.237954"
-    },
-    {
-      "english": "This tiny phrase changes moods.",
-      "spanish": "Esta frase diminuta cambia ánimos.",
-      "category": "Motivation",
-      "generated_at": "2026-06-16T21:39:06.237979"
-    },
-    {
-      "english": "Are you hearing the rhythm?",
-      "spanish": "¿Estás escuchando el ritmo?",
-      "category": "Motivation",
-      "generated_at": "2026-06-16T21:39:06.237994"
-    },
-    {
-      "english": "Your effort is your strength.",
-      "spanish": "Tu esfuerzo es tu fuerza.",
-      "category": "Motivation",
-      "generated_at": "2026-06-16T21:39:06.238010"
-    },
-    {
-      "english": "One 'hola' opens doors.",
-      "spanish": "Un 'hola' abre puertas.",
-      "category": "Motivation",
-      "generated_at": "2026-06-16T21:39:06.238024"
-    },
-    {
       "english": "This sound? Fluency unlocked.",
       "spanish": "Este sonido? Fluidez desbloqueada.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Oyes eso? Es bienvenida.",
       "category": "Hope",
       "generated_at": "2026-10-21T17:57:16.450694"
+    },
+    {
+      "english": "Feel the magic? Say this.",
+      "spanish": "Siente la magia? Di esto.",
+      "category": "Creativity",
+      "generated_at": "2026-10-21T19:09:40.634808"
+    },
+    {
+      "english": "One word unlocks connection. Try.",
+      "spanish": "Una palabra abre conexión. Prueba.",
+      "category": "Creativity",
+      "generated_at": "2026-10-21T19:09:40.634844"
+    },
+    {
+      "english": "Surprise! They understand your kindness.",
+      "spanish": "¡Sorpresa! Entienden tu amabilidad.",
+      "category": "Creativity",
+      "generated_at": "2026-10-21T19:09:40.634867"
+    },
+    {
+      "english": "Curiosity? Ask this question.",
+      "spanish": "¿Curiosidad? Haz esta pregunta.",
+      "category": "Creativity",
+      "generated_at": "2026-10-21T19:09:40.634894"
+    },
+    {
+      "english": "Embrace imperfection, start speaking.",
+      "spanish": "Abraza imperfección, empieza a hablar.",
+      "category": "Creativity",
+      "generated_at": "2026-10-21T19:09:40.634917"
     }
   ],
-  "last_updated": "2026-10-21T17:57:16.450697",
+  "last_updated": "2026-10-21T19:09:40.634919",
   "used_english": [
-    "unlock your spanish power, today.",
-    "this tiny phrase changes moods.",
-    "are you hearing the rhythm?",
-    "your effort is your strength.",
-    "one 'hola' opens doors.",
     "this sound? fluency unlocked.",
     "why is 'claro' so useful?",
     "the secret? your own pace.",
@@ -21002,6 +20997,11 @@
     "surprise! they *get* you.",
     "what if learning is easy?",
     "connection sparks with this word.",
-    "hear that? it's welcome."
+    "hear that? it's welcome.",
+    "feel the magic? say this.",
+    "one word unlocks connection. try.",
+    "surprise! they understand your kindness.",
+    "curiosity? ask this question.",
+    "embrace imperfection, start speaking."
   ]
 }
