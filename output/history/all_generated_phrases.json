@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your next great idea, here.",
-      "spanish": "Tu próxima gran idea, aquí.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-17T16:40:42.617742"
-    },
-    {
-      "english": "This tiny moment, own it.",
-      "spanish": "Este instante diminuto, aduéñate.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-17T16:40:42.617766"
-    },
-    {
-      "english": "Peace begins with your breath.",
-      "spanish": "La paz empieza con tu aliento.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-17T16:40:42.617777"
-    },
-    {
-      "english": "Your kindness has ripple effects.",
-      "spanish": "Tu amabilidad tiene efectos dominó.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-17T16:40:42.617788"
-    },
-    {
-      "english": "See the good, amplify it.",
-      "spanish": "Ve lo bueno, amplifícalo.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-17T16:40:42.617798"
-    },
-    {
       "english": "Listen, words have energy.",
       "spanish": "Escucha, las palabras tienen energía.",
       "category": "Wisdom",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Puedes sentir esta conexión?",
       "category": "Gratitude",
       "generated_at": "2026-10-21T20:25:06.108432"
+    },
+    {
+      "english": "This sound unlocks their smile.",
+      "spanish": "Este sonido destraba su sonrisa.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-21T22:02:20.844999"
+    },
+    {
+      "english": "Embrace mistakes, gain wisdom.",
+      "spanish": "Abraza errores, gana sabiduría.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-21T22:02:20.845035"
+    },
+    {
+      "english": "Your progress whispers loudly.",
+      "spanish": "Tu progreso susurra alto.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-21T22:02:20.845062"
+    },
+    {
+      "english": "Curiosity fuels fluency. Ask why?",
+      "spanish": "La curiosidad impulsa fluidez. ¿Por qué?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-21T22:02:20.845087"
+    },
+    {
+      "english": "Trust the process. It works.",
+      "spanish": "Confía en el proceso. Funciona.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-21T22:02:20.845114"
     }
   ],
-  "last_updated": "2026-10-21T20:25:06.108434",
+  "last_updated": "2026-10-21T22:02:20.845116",
   "used_english": [
-    "your next great idea, here.",
-    "this tiny moment, own it.",
-    "peace begins with your breath.",
-    "your kindness has ripple effects.",
-    "see the good, amplify it.",
     "listen, words have energy.",
     "this one sound matters.",
     "embrace the fumbles, friends.",
@@ -21002,6 +20997,11 @@
     "feel the warmth in 'gracias'.",
     "one word sparks instant smiles.",
     "motivation: fluency whispers.",
-    "can you feel this connection?"
+    "can you feel this connection?",
+    "this sound unlocks their smile.",
+    "embrace mistakes, gain wisdom.",
+    "your progress whispers loudly.",
+    "curiosity fuels fluency. ask why?",
+    "trust the process. it works."
   ]
 }
