@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sound? Fluency unlocked.",
-      "spanish": "Este sonido? Fluidez desbloqueada.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T22:55:55.329249"
-    },
-    {
-      "english": "Why is 'claro' so useful?",
-      "spanish": "¿Por qué 'claro' es tan útil?",
-      "category": "Strength",
-      "generated_at": "2026-06-16T22:55:55.329276"
-    },
-    {
-      "english": "The secret? Your own pace.",
-      "spanish": "El secreto? Tu propio ritmo.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T22:55:55.329291"
-    },
-    {
-      "english": "This tiny word, huge power.",
-      "spanish": "Esta palabra pequeña, enorme poder.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T22:55:55.329306"
-    },
-    {
-      "english": "Are you feeling this vibe?",
-      "spanish": "¿Estás sintiendo esta vibra?",
-      "category": "Strength",
-      "generated_at": "2026-06-16T22:55:55.329320"
-    },
-    {
       "english": "Your next great idea, here.",
       "spanish": "Tu próxima gran idea, aquí.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza imperfección, empieza a hablar.",
       "category": "Creativity",
       "generated_at": "2026-10-21T19:09:40.634917"
+    },
+    {
+      "english": "Start your day with 'Buenos'.",
+      "spanish": "Comienza tu día con 'Buenos'.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-21T20:25:06.108315"
+    },
+    {
+      "english": "Feel the warmth in 'Gracias'.",
+      "spanish": "Siente la calidez en 'Gracias'.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-21T20:25:06.108352"
+    },
+    {
+      "english": "One word sparks instant smiles.",
+      "spanish": "Una palabra provoca sonrisas instantáneas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-21T20:25:06.108379"
+    },
+    {
+      "english": "Motivation: Fluency whispers.",
+      "spanish": "Motivación: La fluidez susurra.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-21T20:25:06.108406"
+    },
+    {
+      "english": "Can you feel this connection?",
+      "spanish": "¿Puedes sentir esta conexión?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-21T20:25:06.108432"
     }
   ],
-  "last_updated": "2026-10-21T19:09:40.634919",
+  "last_updated": "2026-10-21T20:25:06.108434",
   "used_english": [
-    "this sound? fluency unlocked.",
-    "why is 'claro' so useful?",
-    "the secret? your own pace.",
-    "this tiny word, huge power.",
-    "are you feeling this vibe?",
     "your next great idea, here.",
     "this tiny moment, own it.",
     "peace begins with your breath.",
@@ -21002,6 +20997,11 @@
     "one word unlocks connection. try.",
     "surprise! they understand your kindness.",
     "curiosity? ask this question.",
-    "embrace imperfection, start speaking."
+    "embrace imperfection, start speaking.",
+    "start your day with 'buenos'.",
+    "feel the warmth in 'gracias'.",
+    "one word sparks instant smiles.",
+    "motivation: fluency whispers.",
+    "can you feel this connection?"
   ]
 }
