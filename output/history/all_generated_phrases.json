@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your mind is a powerful muscle.",
-      "spanish": "Tu mente es un músculo poderoso.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T20:10:23.585012"
-    },
-    {
-      "english": "Wisdom whispers: listen closely.",
-      "spanish": "La sabiduría susurra: escucha atentamente.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T20:10:23.585035"
-    },
-    {
-      "english": "What if you started today?",
-      "spanish": "¿Y si empezaras hoy?",
-      "category": "Strength",
-      "generated_at": "2026-06-16T20:10:23.585049"
-    },
-    {
-      "english": "Believe in your unfolding journey.",
-      "spanish": "Cree en tu viaje en desarrollo.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T20:10:23.585063"
-    },
-    {
-      "english": "This is your moment to shine.",
-      "spanish": "Este es tu momento de brillar.",
-      "category": "Strength",
-      "generated_at": "2026-06-16T20:10:23.585077"
-    },
-    {
       "english": "Unlock your spanish power, today.",
       "spanish": "Desbloquea tu poder español, hoy.",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Confianza susurra con esto.",
       "category": "Happiness",
       "generated_at": "2026-10-20T23:44:36.408762"
+    },
+    {
+      "english": "This phrase unlocks their ear.",
+      "spanish": "Esta frase capta su atención.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T17:57:16.450582"
+    },
+    {
+      "english": "Surprise! They *get* you.",
+      "spanish": "¡Sorpresa! Te entienden.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T17:57:16.450618"
+    },
+    {
+      "english": "What if learning is easy?",
+      "spanish": "¿Y si aprender es fácil?",
+      "category": "Hope",
+      "generated_at": "2026-10-21T17:57:16.450644"
+    },
+    {
+      "english": "Connection sparks with this word.",
+      "spanish": "La conexión surge con esta palabra.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T17:57:16.450670"
+    },
+    {
+      "english": "Hear that? It's welcome.",
+      "spanish": "¿Oyes eso? Es bienvenida.",
+      "category": "Hope",
+      "generated_at": "2026-10-21T17:57:16.450694"
     }
   ],
-  "last_updated": "2026-10-20T23:44:36.408764",
+  "last_updated": "2026-10-21T17:57:16.450697",
   "used_english": [
-    "your mind is a powerful muscle.",
-    "wisdom whispers: listen closely.",
-    "what if you started today?",
-    "believe in your unfolding journey.",
-    "this is your moment to shine.",
     "unlock your spanish power, today.",
     "this tiny phrase changes moods.",
     "are you hearing the rhythm?",
@@ -21002,6 +20997,11 @@
     "this word unlocks instant smiles.",
     "did you hear that welcome?",
     "learn today, shine tomorrow.",
-    "confidence whispers with this."
+    "confidence whispers with this.",
+    "this phrase unlocks their ear.",
+    "surprise! they *get* you.",
+    "what if learning is easy?",
+    "connection sparks with this word.",
+    "hear that? it's welcome."
   ]
 }
