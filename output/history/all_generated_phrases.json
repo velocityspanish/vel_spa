@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Hear this small word",
-      "spanish": "Escucha esta pequeña palabra",
-      "category": "Patience",
-      "generated_at": "2026-06-18T16:45:51.743888"
-    },
-    {
-      "english": "This feeling? True fluency.",
-      "spanish": "¿Este sentimiento? Verdadera fluidez.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T16:45:51.743914"
-    },
-    {
-      "english": "One more try, friend.",
-      "spanish": "Un intento más, amigo.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T16:45:51.743928"
-    },
-    {
-      "english": "Mistakes build your voice.",
-      "spanish": "Los errores construyen tu voz.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T16:45:51.743943"
-    },
-    {
-      "english": "Why this phrase matters.",
-      "spanish": "¿Por qué importa esta frase?",
-      "category": "Patience",
-      "generated_at": "2026-06-18T16:45:51.743957"
-    },
-    {
       "english": "This word shifts everything.",
       "spanish": "Esta palabra cambia todo.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes esto? Ya estás progresando.",
       "category": "Gratitude",
       "generated_at": "2026-10-22T20:21:25.566948"
+    },
+    {
+      "english": "Your effort echoes with kindness.",
+      "spanish": "Tu esfuerzo resuena con amabilidad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T21:59:49.272990"
+    },
+    {
+      "english": "Future you speaks fluently, smile.",
+      "spanish": "Tu yo futuro habla fluido, sonríe.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T21:59:49.273022"
+    },
+    {
+      "english": "This warmth travels miles, wow!",
+      "spanish": "¡Esta calidez viaja millas, wow!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T21:59:49.273064"
+    },
+    {
+      "english": "Small phrase, huge meaning. Try.",
+      "spanish": "Frase pequeña, gran significado. Intenta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T21:59:49.273090"
+    },
+    {
+      "english": "Embrace imperfection, speak boldly.",
+      "spanish": "Abraza la imperfección, habla audazmente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T21:59:49.273114"
     }
   ],
-  "last_updated": "2026-10-22T20:21:25.566949",
+  "last_updated": "2026-10-22T21:59:49.273116",
   "used_english": [
-    "hear this small word",
-    "this feeling? true fluency.",
-    "one more try, friend.",
-    "mistakes build your voice.",
-    "why this phrase matters.",
     "this word shifts everything.",
     "slow progress? it's real.",
     "keep going, embrace the journey.",
@@ -21002,6 +20997,11 @@
     "curious? this word builds bridges.",
     "your smile is the magic key.",
     "they hear your heart, not accent.",
-    "feel this? you're already progressing."
+    "feel this? you're already progressing.",
+    "your effort echoes with kindness.",
+    "future you speaks fluently, smile.",
+    "this warmth travels miles, wow!",
+    "small phrase, huge meaning. try.",
+    "embrace imperfection, speak boldly."
   ]
 }
