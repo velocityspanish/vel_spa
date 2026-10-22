@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one sound, fluency unlocked.",
-      "spanish": "Este sonido, fluidez desbloqueada.",
-      "category": "Confidence",
-      "generated_at": "2026-06-17T19:18:20.222886"
-    },
-    {
-      "english": "Here's what makes spanish easy.",
-      "spanish": "Aquí está qué hace español fácil.",
-      "category": "Confidence",
-      "generated_at": "2026-06-17T19:18:20.222910"
-    },
-    {
-      "english": "Small wins build great fluency.",
-      "spanish": "Pequeñas victorias construyen gran fluidez.",
-      "category": "Confidence",
-      "generated_at": "2026-06-17T19:18:20.222925"
-    },
-    {
-      "english": "This tiny word, so powerful.",
-      "spanish": "Esta palabra pequeña, tan poderosa.",
-      "category": "Confidence",
-      "generated_at": "2026-06-17T19:18:20.222959"
-    },
-    {
-      "english": "Your next phrase is key.",
-      "spanish": "Tu próxima frase es clave.",
-      "category": "Confidence",
-      "generated_at": "2026-06-17T19:18:20.222974"
-    },
-    {
       "english": "Slowly, Spanish unfolds. Embrace it.",
       "spanish": "Poco a poco, español florece. Abrázalo.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Esto genera conexión genuina.",
       "category": "Courage",
       "generated_at": "2026-10-21T23:57:22.838744"
+    },
+    {
+      "english": "Unlock fluency, listen closely.",
+      "spanish": "Desbloquea fluidez, escucha atento.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-22T17:53:03.430983"
+    },
+    {
+      "english": "This accent? Pure magic.",
+      "spanish": "¿Este acento? Pura magia.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-22T17:53:03.431017"
+    },
+    {
+      "english": "Wisdom: small efforts build fluency.",
+      "spanish": "Sabiduría: pequeños esfuerzos construyen fluidez.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-22T17:53:03.431042"
+    },
+    {
+      "english": "Feeling lost? This helps.",
+      "spanish": "¿Te sientes perdido? Esto ayuda.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-22T17:53:03.431067"
+    },
+    {
+      "english": "Want to belong? Speak now.",
+      "spanish": "¿Quieres pertenecer? Habla ya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-22T17:53:03.431092"
     }
   ],
-  "last_updated": "2026-10-21T23:57:22.838748",
+  "last_updated": "2026-10-22T17:53:03.431094",
   "used_english": [
-    "this one sound, fluency unlocked.",
-    "here's what makes spanish easy.",
-    "small wins build great fluency.",
-    "this tiny word, so powerful.",
-    "your next phrase is key.",
     "slowly, spanish unfolds. embrace it.",
     "your progress, a gentle river.",
     "mistakes are language whispers.",
@@ -21002,6 +20997,11 @@
     "can you hear this sound?",
     "courage: try speaking this.",
     "your courage will surprise them.",
-    "this sparks genuine connection."
+    "this sparks genuine connection.",
+    "unlock fluency, listen closely.",
+    "this accent? pure magic.",
+    "wisdom: small efforts build fluency.",
+    "feeling lost? this helps.",
+    "want to belong? speak now."
   ]
 }
