@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Slowly, Spanish unfolds. Embrace it.",
-      "spanish": "Poco a poco, español florece. Abrázalo.",
-      "category": "Patience",
-      "generated_at": "2026-06-17T20:59:50.924332"
-    },
-    {
-      "english": "Your progress, a gentle river.",
-      "spanish": "Tu progreso, un río suave.",
-      "category": "Patience",
-      "generated_at": "2026-06-17T20:59:50.924355"
-    },
-    {
-      "english": "Mistakes are language whispers.",
-      "spanish": "Los errores, susurros del idioma.",
-      "category": "Patience",
-      "generated_at": "2026-06-17T20:59:50.924370"
-    },
-    {
-      "english": "What if fluency takes time?",
-      "spanish": "¿Y si la fluidez lleva tiempo?",
-      "category": "Patience",
-      "generated_at": "2026-06-17T20:59:50.924385"
-    },
-    {
-      "english": "One word at a time, truly.",
-      "spanish": "Una palabra a la vez, de verdad.",
-      "category": "Patience",
-      "generated_at": "2026-06-17T20:59:50.924399"
-    },
-    {
       "english": "Wisdom: embrace the struggle.",
       "spanish": "Sabiduría: abraza la lucha.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres pertenecer? Habla ya.",
       "category": "Inspiration",
       "generated_at": "2026-10-22T17:53:03.431092"
+    },
+    {
+      "english": "Brave enough? Try this.",
+      "spanish": "¿Valiente? Intenta esto.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T19:33:31.128630"
+    },
+    {
+      "english": "Your first brave word.",
+      "spanish": "Tu primera palabra valiente.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T19:33:31.128659"
+    },
+    {
+      "english": "This tiny word, power.",
+      "spanish": "Esta palabra diminuta, poder.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T19:33:31.128679"
+    },
+    {
+      "english": "Feel that? Spanish flow.",
+      "spanish": "¿Sientes eso? Flujo español.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T19:33:31.128699"
+    },
+    {
+      "english": "They await your courage.",
+      "spanish": "Esperan tu valentía.",
+      "category": "Courage",
+      "generated_at": "2026-10-22T19:33:31.128718"
     }
   ],
-  "last_updated": "2026-10-22T17:53:03.431094",
+  "last_updated": "2026-10-22T19:33:31.128719",
   "used_english": [
-    "slowly, spanish unfolds. embrace it.",
-    "your progress, a gentle river.",
-    "mistakes are language whispers.",
-    "what if fluency takes time?",
-    "one word at a time, truly.",
     "wisdom: embrace the struggle.",
     "why this word is vital?",
     "your first fluent sentence awaits.",
@@ -21002,6 +20997,11 @@
     "this accent? pure magic.",
     "wisdom: small efforts build fluency.",
     "feeling lost? this helps.",
-    "want to belong? speak now."
+    "want to belong? speak now.",
+    "brave enough? try this.",
+    "your first brave word.",
+    "this tiny word, power.",
+    "feel that? spanish flow.",
+    "they await your courage."
   ]
 }
