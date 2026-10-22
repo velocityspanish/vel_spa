@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: embrace the struggle.",
-      "spanish": "Sabiduría: abraza la lucha.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-17T22:48:46.485745"
-    },
-    {
-      "english": "Why this word is vital?",
-      "spanish": "¿Por qué esta palabra es vital?",
-      "category": "Inspiration",
-      "generated_at": "2026-06-17T22:48:46.485766"
-    },
-    {
-      "english": "Your first fluent sentence awaits.",
-      "spanish": "Tu primera frase fluida espera.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-17T22:48:46.485780"
-    },
-    {
-      "english": "This tiny habit is crucial.",
-      "spanish": "Este pequeño hábito es crucial.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-17T22:48:46.485795"
-    },
-    {
-      "english": "One question, massive clarity.",
-      "spanish": "Una pregunta, claridad masiva.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-17T22:48:46.485813"
-    },
-    {
       "english": "Hear this small word",
       "spanish": "Escucha esta pequeña palabra",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Esperan tu valentía.",
       "category": "Courage",
       "generated_at": "2026-10-22T19:33:31.128718"
+    },
+    {
+      "english": "Wisdom: listen, connect deeper.",
+      "spanish": "Sabiduría: escucha, conecta más profundo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T20:21:25.566887"
+    },
+    {
+      "english": "Curious? This word builds bridges.",
+      "spanish": "¿Curioso? Esta palabra crea puentes.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T20:21:25.566908"
+    },
+    {
+      "english": "Your smile is the magic key.",
+      "spanish": "Tu sonrisa es la llave mágica.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T20:21:25.566923"
+    },
+    {
+      "english": "They hear your heart, not accent.",
+      "spanish": "Oyen tu corazón, no acento.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T20:21:25.566936"
+    },
+    {
+      "english": "Feel this? You're already progressing.",
+      "spanish": "¿Sientes esto? Ya estás progresando.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-22T20:21:25.566948"
     }
   ],
-  "last_updated": "2026-10-22T19:33:31.128719",
+  "last_updated": "2026-10-22T20:21:25.566949",
   "used_english": [
-    "wisdom: embrace the struggle.",
-    "why this word is vital?",
-    "your first fluent sentence awaits.",
-    "this tiny habit is crucial.",
-    "one question, massive clarity.",
     "hear this small word",
     "this feeling? true fluency.",
     "one more try, friend.",
@@ -21002,6 +20997,11 @@
     "your first brave word.",
     "this tiny word, power.",
     "feel that? spanish flow.",
-    "they await your courage."
+    "they await your courage.",
+    "wisdom: listen, connect deeper.",
+    "curious? this word builds bridges.",
+    "your smile is the magic key.",
+    "they hear your heart, not accent.",
+    "feel this? you're already progressing."
   ]
 }
