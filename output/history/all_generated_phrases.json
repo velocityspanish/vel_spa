@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feel this magic, speak it.",
-      "spanish": "Siente esta magia, dilo.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-18T22:59:35.820245"
-    },
-    {
-      "english": "This rhythm makes fluency flow.",
-      "spanish": "Este ritmo hace fluir.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-18T22:59:35.820266"
-    },
-    {
-      "english": "Tiny phrases, massive impact.",
-      "spanish": "Frases pequeñas, gran impacto.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-18T22:59:35.820279"
-    },
-    {
-      "english": "Don't just dream, converse.",
-      "spanish": "No sueñes, conversa.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-18T22:59:35.820291"
-    },
-    {
-      "english": "Unlock understanding, this way.",
-      "spanish": "Desbloquea el entendimiento, así.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-18T22:59:35.820302"
-    },
-    {
       "english": "Your voice matters. Speak up.",
       "spanish": "Tu voz importa. Habla.",
       "category": "Courage",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Quieres pertenecer? Di 'hola'.",
       "category": "Mindfulness",
       "generated_at": "2026-10-23T18:54:49.837349"
+    },
+    {
+      "english": "Surprise! Your accent shines bright.",
+      "spanish": "¡Sorpresa! Tu acento brilla.",
+      "category": "Strength",
+      "generated_at": "2026-10-23T20:09:31.399126"
+    },
+    {
+      "english": "Your bravery sounds amazing.",
+      "spanish": "Tu valentía suena increíble.",
+      "category": "Strength",
+      "generated_at": "2026-10-23T20:09:31.399164"
+    },
+    {
+      "english": "Want to connect? Just try.",
+      "spanish": "¿Quieres conectar? Solo intenta.",
+      "category": "Strength",
+      "generated_at": "2026-10-23T20:09:31.399190"
+    },
+    {
+      "english": "This simple phrase bridges gaps.",
+      "spanish": "Esta frase simple une puentes.",
+      "category": "Strength",
+      "generated_at": "2026-10-23T20:09:31.399217"
+    },
+    {
+      "english": "Embrace mistakes, they teach you.",
+      "spanish": "Abraza errores, te enseñan.",
+      "category": "Strength",
+      "generated_at": "2026-10-23T20:09:31.399242"
     }
   ],
-  "last_updated": "2026-10-23T18:54:49.837351",
+  "last_updated": "2026-10-23T20:09:31.399244",
   "used_english": [
-    "feel this magic, speak it.",
-    "this rhythm makes fluency flow.",
-    "tiny phrases, massive impact.",
-    "don't just dream, converse.",
-    "unlock understanding, this way.",
     "your voice matters. speak up.",
     "fear whispers. courage roars louder.",
     "one brave word, opens worlds.",
@@ -21002,6 +20997,11 @@
     "wisdom: listen first, speak.",
     "feel this warmth? keep learning.",
     "surprise! your accent charms.",
-    "want to belong? say 'hola'."
+    "want to belong? say 'hola'.",
+    "surprise! your accent shines bright.",
+    "your bravery sounds amazing.",
+    "want to connect? just try.",
+    "this simple phrase bridges gaps.",
+    "embrace mistakes, they teach you."
   ]
 }
