@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your smile, a universal language.",
-      "spanish": "Tu sonrisa, universal.",
-      "category": "Happiness",
-      "generated_at": "2026-06-19T17:20:24.009349"
-    },
-    {
-      "english": "This feeling? Pure joy unlocked.",
-      "spanish": "Esta alegría: desbloqueada.",
-      "category": "Happiness",
-      "generated_at": "2026-06-19T17:20:24.009374"
-    },
-    {
-      "english": "What makes people truly happy?",
-      "spanish": "¿Felicidad genuina?",
-      "category": "Happiness",
-      "generated_at": "2026-06-19T17:20:24.009391"
-    },
-    {
-      "english": "Share this joy, pass it.",
-      "spanish": "Comparte la alegría.",
-      "category": "Happiness",
-      "generated_at": "2026-06-19T17:20:24.009405"
-    },
-    {
-      "english": "Wisdom: Happiness is a choice.",
-      "spanish": "Sabiduría: Elige ser feliz.",
-      "category": "Happiness",
-      "generated_at": "2026-06-19T17:20:24.009421"
-    },
-    {
       "english": "This one sound sparks joy.",
       "spanish": "Este sonido enciende alegría.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Este sonido trae sonrisas.",
       "category": "Courage",
       "generated_at": "2026-10-23T21:45:33.799599"
+    },
+    {
+      "english": "Unlock their surprise, just try.",
+      "spanish": "Desbloquea su sorpresa, solo intenta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T23:48:33.674077"
+    },
+    {
+      "english": "Want smiles? This word helps.",
+      "spanish": "¿Quieres sonrisas? Esta palabra ayuda.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T23:48:33.674116"
+    },
+    {
+      "english": "One word bridges any gap.",
+      "spanish": "Una palabra une cualquier brecha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T23:48:33.674142"
+    },
+    {
+      "english": "Your courage sparks joy.",
+      "spanish": "Tu coraje genera alegría.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T23:48:33.674166"
+    },
+    {
+      "english": "Never stop practicing. Never.",
+      "spanish": "Nunca dejes de practicar. Nunca.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T23:48:33.674193"
     }
   ],
-  "last_updated": "2026-10-23T21:45:33.799601",
+  "last_updated": "2026-10-23T23:48:33.674195",
   "used_english": [
-    "your smile, a universal language.",
-    "this feeling? pure joy unlocked.",
-    "what makes people truly happy?",
-    "share this joy, pass it.",
-    "wisdom: happiness is a choice.",
     "this one sound sparks joy.",
     "your pronunciation breakthrough awaits.",
     "feel the spanish rhythm flow.",
@@ -21002,6 +20997,11 @@
     "brave enough for this word?",
     "feel the progress? keep going.",
     "small word, huge ripple. wow!",
-    "this sound brings smiles."
+    "this sound brings smiles.",
+    "unlock their surprise, just try.",
+    "want smiles? this word helps.",
+    "one word bridges any gap.",
+    "your courage sparks joy.",
+    "never stop practicing. never."
   ]
 }
