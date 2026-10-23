@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your voice matters. Speak up.",
-      "spanish": "Tu voz importa. Habla.",
-      "category": "Courage",
-      "generated_at": "2026-06-19T16:07:13.023207"
-    },
-    {
-      "english": "Fear whispers. Courage roars louder.",
-      "spanish": "El miedo susurra. El coraje ruge.",
-      "category": "Courage",
-      "generated_at": "2026-06-19T16:07:13.023231"
-    },
-    {
-      "english": "One brave word, opens worlds.",
-      "spanish": "Una palabra valiente, abre mundos.",
-      "category": "Courage",
-      "generated_at": "2026-06-19T16:07:13.023248"
-    },
-    {
-      "english": "Embrace the wobble, my friend.",
-      "spanish": "Abraza el tambaleo, amigo.",
-      "category": "Courage",
-      "generated_at": "2026-06-19T16:07:13.023263"
-    },
-    {
-      "english": "Tiny sparks, create a fire.",
-      "spanish": "Pequeñas chispas, crean fuego.",
-      "category": "Courage",
-      "generated_at": "2026-06-19T16:07:13.023279"
-    },
-    {
       "english": "Your smile, a universal language.",
       "spanish": "Tu sonrisa, universal.",
       "category": "Happiness",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza errores, te enseñan.",
       "category": "Strength",
       "generated_at": "2026-10-23T20:09:31.399242"
+    },
+    {
+      "english": "Whisper this, change worlds.",
+      "spanish": "Susurra esto, cambia mundos.",
+      "category": "Courage",
+      "generated_at": "2026-10-23T21:45:33.799504"
+    },
+    {
+      "english": "Brave enough for this word?",
+      "spanish": "¿Valiente para esta palabra?",
+      "category": "Courage",
+      "generated_at": "2026-10-23T21:45:33.799536"
+    },
+    {
+      "english": "Feel the progress? Keep going.",
+      "spanish": "¿Sientes el progreso? Sigue.",
+      "category": "Courage",
+      "generated_at": "2026-10-23T21:45:33.799559"
+    },
+    {
+      "english": "Small word, huge ripple. Wow!",
+      "spanish": "Palabra pequeña, gran onda. ¡Wow!",
+      "category": "Courage",
+      "generated_at": "2026-10-23T21:45:33.799580"
+    },
+    {
+      "english": "This sound brings smiles.",
+      "spanish": "Este sonido trae sonrisas.",
+      "category": "Courage",
+      "generated_at": "2026-10-23T21:45:33.799599"
     }
   ],
-  "last_updated": "2026-10-23T20:09:31.399244",
+  "last_updated": "2026-10-23T21:45:33.799601",
   "used_english": [
-    "your voice matters. speak up.",
-    "fear whispers. courage roars louder.",
-    "one brave word, opens worlds.",
-    "embrace the wobble, my friend.",
-    "tiny sparks, create a fire.",
     "your smile, a universal language.",
     "this feeling? pure joy unlocked.",
     "what makes people truly happy?",
@@ -21002,6 +20997,11 @@
     "your bravery sounds amazing.",
     "want to connect? just try.",
     "this simple phrase bridges gaps.",
-    "embrace mistakes, they teach you."
+    "embrace mistakes, they teach you.",
+    "whisper this, change worlds.",
+    "brave enough for this word?",
+    "feel the progress? keep going.",
+    "small word, huge ripple. wow!",
+    "this sound brings smiles."
   ]
 }
