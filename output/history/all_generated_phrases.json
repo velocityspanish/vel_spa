@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This word shifts everything.",
-      "spanish": "Esta palabra cambia todo.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T18:17:57.781016"
-    },
-    {
-      "english": "Slow progress? It's real.",
-      "spanish": "Progreso lento? Es real.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T18:17:57.781037"
-    },
-    {
-      "english": "Keep going, embrace the journey.",
-      "spanish": "Sigue adelante, abraza el viaje.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T18:17:57.781052"
-    },
-    {
-      "english": "Your 'stuck' feeling? Temporary.",
-      "spanish": "¿Tu sensación de bloqueo? Temporal.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T18:17:57.781066"
-    },
-    {
-      "english": "Never rush fluency, friend.",
-      "spanish": "Nunca apresures la fluidez, amigo.",
-      "category": "Patience",
-      "generated_at": "2026-06-18T18:17:57.781080"
-    },
-    {
       "english": "Your quiet practice speaks volumes.",
       "spanish": "Tu práctica silenciosa dice mucho.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza la imperfección, habla audazmente.",
       "category": "Gratitude",
       "generated_at": "2026-10-22T21:59:49.273114"
+    },
+    {
+      "english": "Listen. Their smiles welcome you.",
+      "spanish": "Escucha. Sus sonrisas te dan bienvenida.",
+      "category": "Joy",
+      "generated_at": "2026-10-23T00:07:02.090976"
+    },
+    {
+      "english": "One phrase sparks instant connection.",
+      "spanish": "Una frase crea conexión.",
+      "category": "Joy",
+      "generated_at": "2026-10-23T00:07:02.091009"
+    },
+    {
+      "english": "Feel this vibe? You're learning!",
+      "spanish": "¿Sientes esta onda? ¡Aprendes!",
+      "category": "Joy",
+      "generated_at": "2026-10-23T00:07:02.091036"
+    },
+    {
+      "english": "Your brave voice matters greatly.",
+      "spanish": "Tu voz valiente importa.",
+      "category": "Joy",
+      "generated_at": "2026-10-23T00:07:02.091061"
+    },
+    {
+      "english": "Encouragement: You're closer than you think.",
+      "spanish": "Ánimo: Estás más cerca.",
+      "category": "Joy",
+      "generated_at": "2026-10-23T00:07:02.091083"
     }
   ],
-  "last_updated": "2026-10-22T21:59:49.273116",
+  "last_updated": "2026-10-23T00:07:02.091086",
   "used_english": [
-    "this word shifts everything.",
-    "slow progress? it's real.",
-    "keep going, embrace the journey.",
-    "your 'stuck' feeling? temporary.",
-    "never rush fluency, friend.",
     "your quiet practice speaks volumes.",
     "this one phrase eases minds.",
     "why patience unlocks fluency.",
@@ -21002,6 +20997,11 @@
     "future you speaks fluently, smile.",
     "this warmth travels miles, wow!",
     "small phrase, huge meaning. try.",
-    "embrace imperfection, speak boldly."
+    "embrace imperfection, speak boldly.",
+    "listen. their smiles welcome you.",
+    "one phrase sparks instant connection.",
+    "feel this vibe? you're learning!",
+    "your brave voice matters greatly.",
+    "encouragement: you're closer than you think."
   ]
 }
