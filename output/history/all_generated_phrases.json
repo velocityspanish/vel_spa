@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your small efforts, adding up.",
-      "spanish": "Tus pequeños esfuerzos, sumando.",
-      "category": "Hope",
-      "generated_at": "2026-06-18T21:20:11.874791"
-    },
-    {
-      "english": "Believe this: you can do it.",
-      "spanish": "Cree esto: puedes hacerlo.",
-      "category": "Hope",
-      "generated_at": "2026-06-18T21:20:11.874814"
-    },
-    {
-      "english": "Hear this quiet wisdom.",
-      "spanish": "Escucha esta sabia calma.",
-      "category": "Hope",
-      "generated_at": "2026-06-18T21:20:11.874830"
-    },
-    {
-      "english": "Your learning pace, perfect.",
-      "spanish": "Tu ritmo de aprendizaje, perfecto.",
-      "category": "Hope",
-      "generated_at": "2026-06-18T21:20:11.874844"
-    },
-    {
-      "english": "Mistakes? Just stepping stones.",
-      "spanish": "¿Errores? Solo escalones.",
-      "category": "Hope",
-      "generated_at": "2026-06-18T21:20:11.874859"
-    },
-    {
       "english": "Feel this magic, speak it.",
       "spanish": "Siente esta magia, dilo.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Sus sonrisas acogen tus palabras.",
       "category": "Confidence",
       "generated_at": "2026-10-23T17:46:08.575057"
+    },
+    {
+      "english": "Future you is listening.",
+      "spanish": "Tu yo futuro escucha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T18:54:49.837236"
+    },
+    {
+      "english": "Wisdom: listen first, speak.",
+      "spanish": "Sabiduría: escucha primero, habla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T18:54:49.837271"
+    },
+    {
+      "english": "Feel this warmth? Keep learning.",
+      "spanish": "¿Sientes este calor? Sigue aprendiendo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T18:54:49.837297"
+    },
+    {
+      "english": "Surprise! Your accent charms.",
+      "spanish": "¡Sorpresa! Tu acento encanta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T18:54:49.837323"
+    },
+    {
+      "english": "Want to belong? Say 'hola'.",
+      "spanish": "¿Quieres pertenecer? Di 'hola'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T18:54:49.837349"
     }
   ],
-  "last_updated": "2026-10-23T17:46:08.575059",
+  "last_updated": "2026-10-23T18:54:49.837351",
   "used_english": [
-    "your small efforts, adding up.",
-    "believe this: you can do it.",
-    "hear this quiet wisdom.",
-    "your learning pace, perfect.",
-    "mistakes? just stepping stones.",
     "feel this magic, speak it.",
     "this rhythm makes fluency flow.",
     "tiny phrases, massive impact.",
@@ -21002,6 +20997,11 @@
     "this simple greeting connects all.",
     "encouragement: your effort is seen.",
     "this one sound surprises everyone.",
-    "their smiles welcome your words."
+    "their smiles welcome your words.",
+    "future you is listening.",
+    "wisdom: listen first, speak.",
+    "feel this warmth? keep learning.",
+    "surprise! your accent charms.",
+    "want to belong? say 'hola'."
   ]
 }
