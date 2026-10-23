@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your quiet practice speaks volumes.",
-      "spanish": "Tu práctica silenciosa dice mucho.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T19:23:37.124755"
-    },
-    {
-      "english": "This one phrase eases minds.",
-      "spanish": "Esta frase tranquiliza mentes.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T19:23:37.124783"
-    },
-    {
-      "english": "Why patience unlocks fluency.",
-      "spanish": "¿Por qué la paciencia desbloquea fluidez?",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T19:23:37.124800"
-    },
-    {
-      "english": "Your inner peace is growing.",
-      "spanish": "Tu paz interior está creciendo.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T19:23:37.124815"
-    },
-    {
-      "english": "Wisdom: learn from each moment.",
-      "spanish": "Sabiduría: aprende de cada instante.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-18T19:23:37.124858"
-    },
-    {
       "english": "Your small efforts, adding up.",
       "spanish": "Tus pequeños esfuerzos, sumando.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Ánimo: Estás más cerca.",
       "category": "Joy",
       "generated_at": "2026-10-23T00:07:02.091083"
+    },
+    {
+      "english": "Curious how they'll react?",
+      "spanish": "¿Curioso cómo reaccionarán?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T17:46:08.574942"
+    },
+    {
+      "english": "This simple greeting connects all.",
+      "spanish": "Este saludo simple conecta todo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T17:46:08.574981"
+    },
+    {
+      "english": "Encouragement: Your effort is seen.",
+      "spanish": "Ánimo: Tu esfuerzo es visto.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T17:46:08.575007"
+    },
+    {
+      "english": "This one sound surprises everyone.",
+      "spanish": "Este sonido sorprende a todos.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T17:46:08.575032"
+    },
+    {
+      "english": "Their smiles welcome your words.",
+      "spanish": "Sus sonrisas acogen tus palabras.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T17:46:08.575057"
     }
   ],
-  "last_updated": "2026-10-23T00:07:02.091086",
+  "last_updated": "2026-10-23T17:46:08.575059",
   "used_english": [
-    "your quiet practice speaks volumes.",
-    "this one phrase eases minds.",
-    "why patience unlocks fluency.",
-    "your inner peace is growing.",
-    "wisdom: learn from each moment.",
     "your small efforts, adding up.",
     "believe this: you can do it.",
     "hear this quiet wisdom.",
@@ -21002,6 +20997,11 @@
     "one phrase sparks instant connection.",
     "feel this vibe? you're learning!",
     "your brave voice matters greatly.",
-    "encouragement: you're closer than you think."
+    "encouragement: you're closer than you think.",
+    "curious how they'll react?",
+    "this simple greeting connects all.",
+    "encouragement: your effort is seen.",
+    "this one sound surprises everyone.",
+    "their smiles welcome your words."
   ]
 }
