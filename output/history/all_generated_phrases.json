@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "What if fluency isn't hard?",
-      "spanish": "¿Y si la fluidez no es difícil?",
-      "category": "Growth",
-      "generated_at": "2026-06-19T20:23:38.072742"
-    },
-    {
-      "english": "Don't miss this easy sound.",
-      "spanish": "No te pierdas este sonido fácil.",
-      "category": "Growth",
-      "generated_at": "2026-06-19T20:23:38.072767"
-    },
-    {
-      "english": "The secret? Authentic connection.",
-      "spanish": "El secreto? Conexión auténtica.",
-      "category": "Growth",
-      "generated_at": "2026-06-19T20:23:38.072782"
-    },
-    {
-      "english": "Here's the magic of 'por'.",
-      "spanish": "Aquí está la magia de 'por'.",
-      "category": "Growth",
-      "generated_at": "2026-06-19T20:23:38.072796"
-    },
-    {
-      "english": "Your courage opens doors.",
-      "spanish": "Tu coraje abre puertas.",
-      "category": "Growth",
-      "generated_at": "2026-06-19T20:23:38.072811"
-    },
-    {
       "english": "Small word, massive connection.",
       "spanish": "Palabra pequeña, conexión masiva.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Ánimo: Tu voz importa.",
       "category": "Gratitude",
       "generated_at": "2026-10-24T18:58:48.649332"
+    },
+    {
+      "english": "Progress whispers, listen closely.",
+      "spanish": "El progreso susurra, escucha atento.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-24T22:32:03.935374"
+    },
+    {
+      "english": "Mistakes? They sculpt your fluency.",
+      "spanish": "¿Errores? Esculpen tu fluidez.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-24T22:32:03.935412"
+    },
+    {
+      "english": "One more word, unlock connection.",
+      "spanish": "Una palabra más, abre conexión.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-24T22:32:03.935439"
+    },
+    {
+      "english": "Feel that? You're closer now.",
+      "spanish": "¿Sientes eso? Estás más cerca.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-24T22:32:03.935468"
+    },
+    {
+      "english": "Small efforts, giant leaps.",
+      "spanish": "Esfuerzos pequeños, saltos gigantes.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-24T22:32:03.935495"
     }
   ],
-  "last_updated": "2026-10-24T18:58:48.649335",
+  "last_updated": "2026-10-24T22:32:03.935497",
   "used_english": [
-    "what if fluency isn't hard?",
-    "don't miss this easy sound.",
-    "the secret? authentic connection.",
-    "here's the magic of 'por'.",
-    "your courage opens doors.",
     "small word, massive connection.",
     "stop fearing mistakes, embrace them.",
     "wisdom: speak your truth aloud.",
@@ -21002,6 +20997,11 @@
     "feel this warmth? you are heard.",
     "want a smile? try saying this.",
     "curious? their welcome awaits you.",
-    "encouragement: your voice matters."
+    "encouragement: your voice matters.",
+    "progress whispers, listen closely.",
+    "mistakes? they sculpt your fluency.",
+    "one more word, unlock connection.",
+    "feel that? you're closer now.",
+    "small efforts, giant leaps."
   ]
 }
