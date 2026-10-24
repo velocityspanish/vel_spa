@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one sound sparks joy.",
-      "spanish": "Este sonido enciende alegría.",
-      "category": "Strength",
-      "generated_at": "2026-06-19T18:28:33.327043"
-    },
-    {
-      "english": "Your pronunciation breakthrough awaits.",
-      "spanish": "Tu avance de pronunciación espera.",
-      "category": "Strength",
-      "generated_at": "2026-06-19T18:28:33.327067"
-    },
-    {
-      "english": "Feel the Spanish rhythm flow.",
-      "spanish": "Siente el ritmo español fluir.",
-      "category": "Strength",
-      "generated_at": "2026-06-19T18:28:33.327083"
-    },
-    {
-      "english": "Tiny habit, massive progress.",
-      "spanish": "Hábito diminuto, progreso masivo.",
-      "category": "Strength",
-      "generated_at": "2026-06-19T18:28:33.327099"
-    },
-    {
-      "english": "Hear this, understand more.",
-      "spanish": "Escucha esto, entiende más.",
-      "category": "Strength",
-      "generated_at": "2026-06-19T18:28:33.327114"
-    },
-    {
       "english": "What if fluency isn't hard?",
       "spanish": "¿Y si la fluidez no es difícil?",
       "category": "Growth",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca dejes de practicar. Nunca.",
       "category": "Mindfulness",
       "generated_at": "2026-10-23T23:48:33.674193"
+    },
+    {
+      "english": "One word unlocks their kindness.",
+      "spanish": "Una palabra abre su amabilidad.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-24T18:58:48.649218"
+    },
+    {
+      "english": "Feel this warmth? You are heard.",
+      "spanish": "¿Sientes este calor? Eres escuchado.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-24T18:58:48.649254"
+    },
+    {
+      "english": "Want a smile? Try saying this.",
+      "spanish": "¿Quieres una sonrisa? Intenta decir esto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-24T18:58:48.649282"
+    },
+    {
+      "english": "Curious? Their welcome awaits you.",
+      "spanish": "¿Curioso? Su bienvenida te espera.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-24T18:58:48.649307"
+    },
+    {
+      "english": "Encouragement: Your voice matters.",
+      "spanish": "Ánimo: Tu voz importa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-24T18:58:48.649332"
     }
   ],
-  "last_updated": "2026-10-23T23:48:33.674195",
+  "last_updated": "2026-10-24T18:58:48.649335",
   "used_english": [
-    "this one sound sparks joy.",
-    "your pronunciation breakthrough awaits.",
-    "feel the spanish rhythm flow.",
-    "tiny habit, massive progress.",
-    "hear this, understand more.",
     "what if fluency isn't hard?",
     "don't miss this easy sound.",
     "the secret? authentic connection.",
@@ -21002,6 +20997,11 @@
     "want smiles? this word helps.",
     "one word bridges any gap.",
     "your courage sparks joy.",
-    "never stop practicing. never."
+    "never stop practicing. never.",
+    "one word unlocks their kindness.",
+    "feel this warmth? you are heard.",
+    "want a smile? try saying this.",
+    "curious? their welcome awaits you.",
+    "encouragement: your voice matters."
   ]
 }
