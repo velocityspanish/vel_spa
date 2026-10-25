@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Small word, massive connection.",
-      "spanish": "Palabra pequeña, conexión masiva.",
-      "category": "Success",
-      "generated_at": "2026-06-19T22:10:36.095565"
-    },
-    {
-      "english": "Stop fearing mistakes, embrace them.",
-      "spanish": "Deja de temer errores, abrázalos.",
-      "category": "Success",
-      "generated_at": "2026-06-19T22:10:36.095588"
-    },
-    {
-      "english": "Wisdom: Speak your truth aloud.",
-      "spanish": "Sabiduría: Di tu verdad en voz alta.",
-      "category": "Success",
-      "generated_at": "2026-06-19T22:10:36.095604"
-    },
-    {
-      "english": "This phrase is pure kindness.",
-      "spanish": "Esta frase es pura amabilidad.",
-      "category": "Success",
-      "generated_at": "2026-06-19T22:10:36.095619"
-    },
-    {
-      "english": "Imagine your fluent conversation now.",
-      "spanish": "Imagina tu conversación fluida ahora.",
-      "category": "Success",
-      "generated_at": "2026-06-19T22:10:36.095633"
-    },
-    {
       "english": "Your patience, a superpower.",
       "spanish": "Tu paciencia, un superpoder.",
       "category": "Self Improvement",
@@ -17999,15 +17969,40 @@
       "spanish": "Esfuerzos pequeños, saltos gigantes.",
       "category": "Perseverance",
       "generated_at": "2026-10-24T22:32:03.935495"
+    },
+    {
+      "english": "Unlock connections, speak boldly.",
+      "spanish": "Desbloquea conexiones, habla audaz.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-25T03:05:58.482870"
+    },
+    {
+      "english": "This sounds like warm welcome.",
+      "spanish": "Esto suena a bienvenida cálida.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-25T03:05:58.482904"
+    },
+    {
+      "english": "Curiosity? Ask them this.",
+      "spanish": "¿Curiosidad? Pregúntales esto.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-25T03:05:58.482930"
+    },
+    {
+      "english": "One word changes everything, try.",
+      "spanish": "Una palabra cambia todo, intenta.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-25T03:05:58.482955"
+    },
+    {
+      "english": "Future you speaks Spanish, wow!",
+      "spanish": "¡Tu futuro habla español, wow!",
+      "category": "Inspiration",
+      "generated_at": "2026-10-25T03:05:58.482982"
     }
   ],
-  "last_updated": "2026-10-24T22:32:03.935497",
+  "last_updated": "2026-10-25T03:05:58.482984",
   "used_english": [
-    "small word, massive connection.",
-    "stop fearing mistakes, embrace them.",
-    "wisdom: speak your truth aloud.",
-    "this phrase is pure kindness.",
-    "imagine your fluent conversation now.",
     "your patience, a superpower.",
     "stop guessing, start knowing.",
     "feel the language flow.",
@@ -21002,6 +20997,11 @@
     "mistakes? they sculpt your fluency.",
     "one more word, unlock connection.",
     "feel that? you're closer now.",
-    "small efforts, giant leaps."
+    "small efforts, giant leaps.",
+    "unlock connections, speak boldly.",
+    "this sounds like warm welcome.",
+    "curiosity? ask them this.",
+    "one word changes everything, try.",
+    "future you speaks spanish, wow!"
   ]
 }
