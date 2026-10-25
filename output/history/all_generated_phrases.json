@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your patience, a superpower.",
-      "spanish": "Tu paciencia, un superpoder.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-20T15:04:33.116340"
-    },
-    {
-      "english": "Stop guessing, start knowing.",
-      "spanish": "Deja de adivinar, empieza a saber.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-20T15:04:33.116363"
-    },
-    {
-      "english": "Feel the language flow.",
-      "spanish": "Siente el idioma fluir.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-20T15:04:33.116377"
-    },
-    {
-      "english": "Your next word, perfect.",
-      "spanish": "Tu próxima palabra, perfecta.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-20T15:04:33.116392"
-    },
-    {
-      "english": "This context is key.",
-      "spanish": "Este contexto es clave.",
-      "category": "Self Improvement",
-      "generated_at": "2026-06-20T15:04:33.116405"
-    },
-    {
       "english": "Your persistence, unbreakable.",
       "spanish": "Tu persistencia, inquebrantable.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Tu futuro habla español, wow!",
       "category": "Inspiration",
       "generated_at": "2026-10-25T03:05:58.482982"
+    },
+    {
+      "english": "Want to feel included?",
+      "spanish": "¿Quieres sentirte incluido?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-25T12:46:01.175916"
+    },
+    {
+      "english": "Forgiveness sounds like this.",
+      "spanish": "Perdón suena así.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-25T12:46:01.175953"
+    },
+    {
+      "english": "This word eases pain.",
+      "spanish": "Esta palabra alivia dolor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-25T12:46:01.175972"
+    },
+    {
+      "english": "Surprise! It's incredibly simple.",
+      "spanish": "¡Sorpresa! Es increíblemente simple.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-25T12:46:01.175994"
+    },
+    {
+      "english": "Let go, start healing.",
+      "spanish": "Suelta, empieza a sanar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-25T12:46:01.176014"
     }
   ],
-  "last_updated": "2026-10-25T03:05:58.482984",
+  "last_updated": "2026-10-25T12:46:01.176016",
   "used_english": [
-    "your patience, a superpower.",
-    "stop guessing, start knowing.",
-    "feel the language flow.",
-    "your next word, perfect.",
-    "this context is key.",
     "your persistence, unbreakable.",
     "this sounds makes you smile?",
     "feel the spanish words connect.",
@@ -21002,6 +20997,11 @@
     "this sounds like warm welcome.",
     "curiosity? ask them this.",
     "one word changes everything, try.",
-    "future you speaks spanish, wow!"
+    "future you speaks spanish, wow!",
+    "want to feel included?",
+    "forgiveness sounds like this.",
+    "this word eases pain.",
+    "surprise! it's incredibly simple.",
+    "let go, start healing."
   ]
 }
