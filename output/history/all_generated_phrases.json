@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This tiny phrase, pure power.",
-      "spanish": "Esta frase diminuta, poder puro.",
-      "category": "Balance",
-      "generated_at": "2026-06-20T20:11:53.706908"
-    },
-    {
-      "english": "Wisdom: Slow breaths, fast fluency.",
-      "spanish": "Sabiduría: Respiraciones lentas, fluidez rápida.",
-      "category": "Balance",
-      "generated_at": "2026-06-20T20:11:53.706934"
-    },
-    {
-      "english": "Your doubt fades, learn this.",
-      "spanish": "Tu duda se desvanece, aprende esto.",
-      "category": "Balance",
-      "generated_at": "2026-06-20T20:11:53.706950"
-    },
-    {
-      "english": "What if learning's playful?",
-      "spanish": "¿Y si aprender es divertido?",
-      "category": "Balance",
-      "generated_at": "2026-06-20T20:11:53.706966"
-    },
-    {
-      "english": "Unlock connection, word by word.",
-      "spanish": "Desbloquea conexión, palabra a palabra.",
-      "category": "Balance",
-      "generated_at": "2026-06-20T20:11:53.706981"
-    },
-    {
       "english": "This simple sound, unlock.",
       "spanish": "Este sonido simple, desbloquea.",
       "category": "Confidence",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza la pausa, encuentra claridad.",
       "category": "Self Improvement",
       "generated_at": "2026-10-25T19:13:24.940703"
+    },
+    {
+      "english": "Feeling lost? This opens doors.",
+      "spanish": "¿Perdido? Esto abre puertas.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-25T22:35:47.217953"
+    },
+    {
+      "english": "They hear your heart. Speak!",
+      "spanish": "Oyen tu corazón. ¡Habla!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-25T22:35:47.217981"
+    },
+    {
+      "english": "Unlock their surprise. Just listen.",
+      "spanish": "Desbloquea su sorpresa. Solo escucha.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-25T22:35:47.217994"
+    },
+    {
+      "english": "Wisdom: Connection needs courage.",
+      "spanish": "Sabiduría: Conexión necesita coraje.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-25T22:35:47.218008"
+    },
+    {
+      "english": "Your voice, a warm bridge.",
+      "spanish": "Tu voz, un puente cálido.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-25T22:35:47.218021"
     }
   ],
-  "last_updated": "2026-10-25T19:13:24.940704",
+  "last_updated": "2026-10-25T22:35:47.218023",
   "used_english": [
-    "this tiny phrase, pure power.",
-    "wisdom: slow breaths, fast fluency.",
-    "your doubt fades, learn this.",
-    "what if learning's playful?",
-    "unlock connection, word by word.",
     "this simple sound, unlock.",
     "are you practicing today?",
     "your patience pays off.",
@@ -21002,6 +20997,11 @@
     "their smiles await your effort.",
     "surprise! they get your meaning.",
     "curiosity? try this greeting.",
-    "embrace the pause, find clarity."
+    "embrace the pause, find clarity.",
+    "feeling lost? this opens doors.",
+    "they hear your heart. speak!",
+    "unlock their surprise. just listen.",
+    "wisdom: connection needs courage.",
+    "your voice, a warm bridge."
   ]
 }
