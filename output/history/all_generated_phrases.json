@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Did you hear that? Beautiful forgiveness.",
-      "spanish": "¿Oíste eso? Hermoso perdón.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-21T16:46:42.694106"
-    },
-    {
-      "english": "This phrase mends bridges.",
-      "spanish": "Esta frase repara puentes.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-21T16:46:42.694143"
-    },
-    {
-      "english": "Wisdom: Forgive to thrive.",
-      "spanish": "Sabiduría: Perdona para prosperar.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-21T16:46:42.694159"
-    },
-    {
-      "english": "Start healing, right now.",
-      "spanish": "Empieza a sanar, ahora mismo.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-21T16:46:42.694174"
-    },
-    {
-      "english": "One word: Peace, inner peace.",
-      "spanish": "Una palabra: Paz, paz interior.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-21T16:46:42.694190"
-    },
-    {
       "english": "Your practice moment, vital.",
       "spanish": "Tu momento de práctica, vital.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso sobre el idioma del amor?",
       "category": "Love",
       "generated_at": "2026-10-26T14:56:58.609492"
+    },
+    {
+      "english": "Your voice echoes further now.",
+      "spanish": "Tu voz resuena más lejos.",
+      "category": "Courage",
+      "generated_at": "2026-10-26T18:28:26.930373"
+    },
+    {
+      "english": "Curious? Their welcome awaits.",
+      "spanish": "¿Curioso? Su bienvenida espera.",
+      "category": "Courage",
+      "generated_at": "2026-10-26T18:28:26.930408"
+    },
+    {
+      "english": "Embrace the stumbles, learn more.",
+      "spanish": "Abraza los tropiezos, aprende más.",
+      "category": "Courage",
+      "generated_at": "2026-10-26T18:28:26.930434"
+    },
+    {
+      "english": "Want to belong? Just speak.",
+      "spanish": "¿Quieres pertenecer? Solo habla.",
+      "category": "Courage",
+      "generated_at": "2026-10-26T18:28:26.930460"
+    },
+    {
+      "english": "Your smile is universal language.",
+      "spanish": "Tu sonrisa es idioma universal.",
+      "category": "Courage",
+      "generated_at": "2026-10-26T18:28:26.930485"
     }
   ],
-  "last_updated": "2026-10-26T14:56:58.609494",
+  "last_updated": "2026-10-26T18:28:26.930487",
   "used_english": [
-    "did you hear that? beautiful forgiveness.",
-    "this phrase mends bridges.",
-    "wisdom: forgive to thrive.",
-    "start healing, right now.",
-    "one word: peace, inner peace.",
     "your practice moment, vital.",
     "one brave question, fluency.",
     "embrace the accent, beautiful.",
@@ -21002,6 +20997,11 @@
     "feel this? you're connecting deeply.",
     "unlock hearts with this phrase.",
     "this simple greeting? pure magic.",
-    "curious about love's language?"
+    "curious about love's language?",
+    "your voice echoes further now.",
+    "curious? their welcome awaits.",
+    "embrace the stumbles, learn more.",
+    "want to belong? just speak.",
+    "your smile is universal language."
   ]
 }
