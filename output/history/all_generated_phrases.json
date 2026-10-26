@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your practice moment, vital.",
-      "spanish": "Tu momento de práctica, vital.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-21T18:15:26.301166"
-    },
-    {
-      "english": "One brave question, fluency.",
-      "spanish": "Una pregunta valiente, fluidez.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-21T18:15:26.301192"
-    },
-    {
-      "english": "Embrace the accent, beautiful.",
-      "spanish": "Abraza el acento, hermoso.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-21T18:15:26.301209"
-    },
-    {
-      "english": "Your voice deserves to be heard.",
-      "spanish": "Tu voz merece ser escuchada.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-21T18:15:26.301224"
-    },
-    {
-      "english": "The smallest step forward counts.",
-      "spanish": "El paso más pequeño cuenta.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-21T18:15:26.301251"
-    },
-    {
       "english": "Curiosity: What makes spanish easier?",
       "spanish": "Curiosidad: ¿Qué facilita el español?",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu sonrisa es idioma universal.",
       "category": "Courage",
       "generated_at": "2026-10-26T18:28:26.930485"
+    },
+    {
+      "english": "The biggest surprise? Your progress.",
+      "spanish": "¿La mayor sorpresa? Tu progreso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T21:10:10.824351"
+    },
+    {
+      "english": "Ready for a tiny confidence boost?",
+      "spanish": "¿Listo para un pequeño impulso?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T21:10:10.824391"
+    },
+    {
+      "english": "Encouragement: Keep that brave effort.",
+      "spanish": "Ánimo: Mantén ese esfuerzo valiente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T21:10:10.824412"
+    },
+    {
+      "english": "Never underestimate your listening skills.",
+      "spanish": "Nunca subestimes tus habilidades de escucha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T21:10:10.824430"
+    },
+    {
+      "english": "Curious what they truly think?",
+      "spanish": "¿Curioso qué piensan realmente?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T21:10:10.824451"
     }
   ],
-  "last_updated": "2026-10-26T18:28:26.930487",
+  "last_updated": "2026-10-26T21:10:10.824453",
   "used_english": [
-    "your practice moment, vital.",
-    "one brave question, fluency.",
-    "embrace the accent, beautiful.",
-    "your voice deserves to be heard.",
-    "the smallest step forward counts.",
     "curiosity: what makes spanish easier?",
     "wisdom: language blooms slowly, beautifully.",
     "fact: 'hablar' is pure conversation.",
@@ -21002,6 +20997,11 @@
     "curious? their welcome awaits.",
     "embrace the stumbles, learn more.",
     "want to belong? just speak.",
-    "your smile is universal language."
+    "your smile is universal language.",
+    "the biggest surprise? your progress.",
+    "ready for a tiny confidence boost?",
+    "encouragement: keep that brave effort.",
+    "never underestimate your listening skills.",
+    "curious what they truly think?"
   ]
 }
