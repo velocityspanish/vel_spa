@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curiosity: What makes spanish easier?",
-      "spanish": "Curiosidad: ¿Qué facilita el español?",
-      "category": "Patience",
-      "generated_at": "2026-06-21T20:20:39.770564"
-    },
-    {
-      "english": "Wisdom: Language blooms slowly, beautifully.",
-      "spanish": "Sabiduría: El idioma florece lento, bello.",
-      "category": "Patience",
-      "generated_at": "2026-06-21T20:20:39.770589"
-    },
-    {
-      "english": "Fact: 'Hablar' is pure conversation.",
-      "spanish": "Dato: 'Hablar' es pura conversación.",
-      "category": "Patience",
-      "generated_at": "2026-06-21T20:20:39.770603"
-    },
-    {
-      "english": "Relatable: That 'aha!' moment awaits.",
-      "spanish": "Identificable: Ese momento 'ajá' espera.",
-      "category": "Patience",
-      "generated_at": "2026-06-21T20:20:39.770617"
-    },
-    {
-      "english": "Urgency: Speak this phrase, connect now.",
-      "spanish": "Urgencia: Di esta frase, conecta ahora.",
-      "category": "Patience",
-      "generated_at": "2026-06-21T20:20:39.770630"
-    },
-    {
       "english": "That one word, magic",
       "spanish": "Esa palabra, magia",
       "category": "Balance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso qué piensan realmente?",
       "category": "Mindfulness",
       "generated_at": "2026-10-26T21:10:10.824451"
+    },
+    {
+      "english": "Try this simple hello.",
+      "spanish": "Prueba este simple hola.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T23:55:53.954620"
+    },
+    {
+      "english": "Your words build bridges.",
+      "spanish": "Tus palabras construyen puentes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T23:55:53.954654"
+    },
+    {
+      "english": "Tiny phrase, giant kindness.",
+      "spanish": "Frase diminuta, gran bondad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T23:55:53.954681"
+    },
+    {
+      "english": "Listen. Connect. Bloom. Try.",
+      "spanish": "Escucha. Conecta. Florece. Intenta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T23:55:53.954707"
+    },
+    {
+      "english": "Start with a smile, always.",
+      "spanish": "Empieza con una sonrisa, siempre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-26T23:55:53.954733"
     }
   ],
-  "last_updated": "2026-10-26T21:10:10.824453",
+  "last_updated": "2026-10-26T23:55:53.954735",
   "used_english": [
-    "curiosity: what makes spanish easier?",
-    "wisdom: language blooms slowly, beautifully.",
-    "fact: 'hablar' is pure conversation.",
-    "relatable: that 'aha!' moment awaits.",
-    "urgency: speak this phrase, connect now.",
     "that one word, magic",
     "your feeling? almost fluent",
     "one word unlocks entire sentences",
@@ -21002,6 +20997,11 @@
     "ready for a tiny confidence boost?",
     "encouragement: keep that brave effort.",
     "never underestimate your listening skills.",
-    "curious what they truly think?"
+    "curious what they truly think?",
+    "try this simple hello.",
+    "your words build bridges.",
+    "tiny phrase, giant kindness.",
+    "listen. connect. bloom. try.",
+    "start with a smile, always."
   ]
 }
