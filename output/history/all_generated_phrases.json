@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This tiny sound, unlocks words.",
-      "spanish": "Este sonido, desbloquea palabras.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-21T15:12:34.438756"
-    },
-    {
-      "english": "Why pause? Embrace the accent.",
-      "spanish": "¿Por qué pausar? Abraza el acento.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-21T15:12:34.438783"
-    },
-    {
-      "english": "One more 'hola', brave soul.",
-      "spanish": "Un 'hola' más, alma valiente.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-21T15:12:34.438798"
-    },
-    {
-      "english": "Your frustration? Just a detour.",
-      "spanish": "¿Tu frustración? Solo un desvío.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-21T15:12:34.438812"
-    },
-    {
-      "english": "Hear this whisper, connect deeply.",
-      "spanish": "Oye este susurro, conecta.",
-      "category": "Wisdom",
-      "generated_at": "2026-06-21T15:12:34.438825"
-    },
-    {
       "english": "Did you hear that? Beautiful forgiveness.",
       "spanish": "¿Oíste eso? Hermoso perdón.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "Tus palabras construyen puentes ahora.",
       "category": "Love",
       "generated_at": "2026-10-26T03:04:55.758907"
+    },
+    {
+      "english": "Love speaks volumes. Hear this.",
+      "spanish": "El amor dice mucho. Oye.",
+      "category": "Love",
+      "generated_at": "2026-10-26T14:56:58.609398"
+    },
+    {
+      "english": "Feel this? You're connecting deeply.",
+      "spanish": "¿Sientes esto? Conectas profundamente.",
+      "category": "Love",
+      "generated_at": "2026-10-26T14:56:58.609429"
+    },
+    {
+      "english": "Unlock hearts with this phrase.",
+      "spanish": "Abre corazones con esta frase.",
+      "category": "Love",
+      "generated_at": "2026-10-26T14:56:58.609451"
+    },
+    {
+      "english": "This simple greeting? Pure magic.",
+      "spanish": "¿Este saludo simple? Pura magia.",
+      "category": "Love",
+      "generated_at": "2026-10-26T14:56:58.609471"
+    },
+    {
+      "english": "Curious about love's language?",
+      "spanish": "¿Curioso sobre el idioma del amor?",
+      "category": "Love",
+      "generated_at": "2026-10-26T14:56:58.609492"
     }
   ],
-  "last_updated": "2026-10-26T03:04:55.758909",
+  "last_updated": "2026-10-26T14:56:58.609494",
   "used_english": [
-    "this tiny sound, unlocks words.",
-    "why pause? embrace the accent.",
-    "one more 'hola', brave soul.",
-    "your frustration? just a detour.",
-    "hear this whisper, connect deeply.",
     "did you hear that? beautiful forgiveness.",
     "this phrase mends bridges.",
     "wisdom: forgive to thrive.",
@@ -21002,6 +20997,11 @@
     "feel the magic of connection.",
     "bravery sounds like love.",
     "love's secret? listen closely.",
-    "your words build bridges now."
+    "your words build bridges now.",
+    "love speaks volumes. hear this.",
+    "feel this? you're connecting deeply.",
+    "unlock hearts with this phrase.",
+    "this simple greeting? pure magic.",
+    "curious about love's language?"
   ]
 }
