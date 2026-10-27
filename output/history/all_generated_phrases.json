@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This tiny habit pays off.",
-      "spanish": "Este pequeño hábito vale.",
-      "category": "Patience",
-      "generated_at": "2026-06-22T18:47:27.488594"
-    },
-    {
-      "english": "Your calm voice, heard.",
-      "spanish": "Tu voz calmada, escuchada.",
-      "category": "Patience",
-      "generated_at": "2026-06-22T18:47:27.488621"
-    },
-    {
-      "english": "Curious? What unlocks speed?",
-      "spanish": "¿Curioso? ¿Qué acelera?",
-      "category": "Patience",
-      "generated_at": "2026-06-22T18:47:27.488638"
-    },
-    {
-      "english": "Your spirit, unwritten.",
-      "spanish": "Tu espíritu, inédito.",
-      "category": "Patience",
-      "generated_at": "2026-06-22T18:47:27.488652"
-    },
-    {
-      "english": "Wisdom: Bloom at your pace.",
-      "spanish": "Sabiduría: Florece a tu ritmo.",
-      "category": "Patience",
-      "generated_at": "2026-06-22T18:47:27.488668"
-    },
-    {
       "english": "Your courage is showing, amigo.",
       "spanish": "Tu valentía se nota, amigo.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "Habla ahora, vive después.",
       "category": "Courage",
       "generated_at": "2026-10-27T13:33:38.063065"
+    },
+    {
+      "english": "This unlocks their curiosity.",
+      "spanish": "Esto despierta su curiosidad.",
+      "category": "Joy",
+      "generated_at": "2026-10-27T17:43:49.774771"
+    },
+    {
+      "english": "A tiny sound, huge impact.",
+      "spanish": "Un sonido, gran impacto.",
+      "category": "Joy",
+      "generated_at": "2026-10-27T17:43:49.774807"
+    },
+    {
+      "english": "Smile with this word, trust me.",
+      "spanish": "Sonríe con esta palabra, créeme.",
+      "category": "Joy",
+      "generated_at": "2026-10-27T17:43:49.774834"
+    },
+    {
+      "english": "Their understanding surprises you.",
+      "spanish": "Su entendimiento te sorprende.",
+      "category": "Joy",
+      "generated_at": "2026-10-27T17:43:49.774859"
+    },
+    {
+      "english": "Bravery finds its voice here.",
+      "spanish": "La valentía encuentra su voz aquí.",
+      "category": "Joy",
+      "generated_at": "2026-10-27T17:43:49.774885"
     }
   ],
-  "last_updated": "2026-10-27T13:33:38.063066",
+  "last_updated": "2026-10-27T17:43:49.774887",
   "used_english": [
-    "this tiny habit pays off.",
-    "your calm voice, heard.",
-    "curious? what unlocks speed?",
-    "your spirit, unwritten.",
-    "wisdom: bloom at your pace.",
     "your courage is showing, amigo.",
     "fact: you speak more than you think.",
     "one simple phrase, pure impact.",
@@ -21002,6 +20997,11 @@
     "courage is your first word.",
     "tiny steps, giant fluency.",
     "they understand more than you.",
-    "speak now, live later."
+    "speak now, live later.",
+    "this unlocks their curiosity.",
+    "a tiny sound, huge impact.",
+    "smile with this word, trust me.",
+    "their understanding surprises you.",
+    "bravery finds its voice here."
   ]
 }
