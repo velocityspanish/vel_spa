@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your courage is showing, amigo.",
-      "spanish": "Tu valentía se nota, amigo.",
-      "category": "Friendship",
-      "generated_at": "2026-06-22T19:59:43.272643"
-    },
-    {
-      "english": "Fact: You speak more than you think.",
-      "spanish": "Hecho: Hablas más de lo que crees.",
-      "category": "Friendship",
-      "generated_at": "2026-06-22T19:59:43.272666"
-    },
-    {
-      "english": "One simple phrase, pure impact.",
-      "spanish": "Una frase simple, impacto puro.",
-      "category": "Friendship",
-      "generated_at": "2026-06-22T19:59:43.272682"
-    },
-    {
-      "english": "Imagine, you're speaking Spanish!",
-      "spanish": "¡Imagina, estás hablando español!",
-      "category": "Friendship",
-      "generated_at": "2026-06-22T19:59:43.272706"
-    },
-    {
-      "english": "Feel this kindness in words.",
-      "spanish": "Siente esta amabilidad en palabras.",
-      "category": "Friendship",
-      "generated_at": "2026-06-22T19:59:43.272723"
-    },
-    {
       "english": "Forgive quickly, live fully.",
       "spanish": "Perdona rápido, vive pleno.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "La valentía encuentra su voz aquí.",
       "category": "Joy",
       "generated_at": "2026-10-27T17:43:49.774885"
+    },
+    {
+      "english": "Wisdom: Silence speaks volumes. Listen.",
+      "spanish": "Sabiduría: El silencio dice mucho. Escucha.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T20:53:29.660095"
+    },
+    {
+      "english": "Surprise! Your accent sounds beautiful.",
+      "spanish": "¡Sorpresa! Tu acento suena hermoso.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T20:53:29.660131"
+    },
+    {
+      "english": "Curious? They appreciate your effort.",
+      "spanish": "¿Curioso? Aprecian tu esfuerzo.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T20:53:29.660155"
+    },
+    {
+      "english": "This feeling? Connection is blooming.",
+      "spanish": "¿Esta sensación? La conexión florece.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T20:53:29.660179"
+    },
+    {
+      "english": "Unlock their smiles with this.",
+      "spanish": "Desbloquea sus sonrisas con esto.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T20:53:29.660206"
     }
   ],
-  "last_updated": "2026-10-27T17:43:49.774887",
+  "last_updated": "2026-10-27T20:53:29.660209",
   "used_english": [
-    "your courage is showing, amigo.",
-    "fact: you speak more than you think.",
-    "one simple phrase, pure impact.",
-    "imagine, you're speaking spanish!",
-    "feel this kindness in words.",
     "forgive quickly, live fully.",
     "this one word, peace found.",
     "why hold grudges? let go.",
@@ -21002,6 +20997,11 @@
     "a tiny sound, huge impact.",
     "smile with this word, trust me.",
     "their understanding surprises you.",
-    "bravery finds its voice here."
+    "bravery finds its voice here.",
+    "wisdom: silence speaks volumes. listen.",
+    "surprise! your accent sounds beautiful.",
+    "curious? they appreciate your effort.",
+    "this feeling? connection is blooming.",
+    "unlock their smiles with this."
   ]
 }
