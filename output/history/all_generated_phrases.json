@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your mind already knows.",
-      "spanish": "Tu mente ya sabe.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-22T17:41:06.888234"
-    },
-    {
-      "english": "This one word calms fear.",
-      "spanish": "Esta palabra calma miedo.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-22T17:41:06.888262"
-    },
-    {
-      "english": "Feel this calm connect.",
-      "spanish": "Siente esta calma conectar.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-22T17:41:06.888277"
-    },
-    {
-      "english": "Breathe deep, speak truth.",
-      "spanish": "Respira hondo, habla verdad.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-22T17:41:06.888292"
-    },
-    {
-      "english": "This quiet confidence grows.",
-      "spanish": "Esta confianza tranquila crece.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-22T17:41:06.888308"
-    },
-    {
       "english": "This tiny habit pays off.",
       "spanish": "Este pequeño hábito vale.",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Entienden más de lo que crees.",
       "category": "Perseverance",
       "generated_at": "2026-10-27T03:36:00.285752"
+    },
+    {
+      "english": "Wondering how to start?",
+      "spanish": "¿Preguntando cómo empezar?",
+      "category": "Courage",
+      "generated_at": "2026-10-27T13:33:38.063007"
+    },
+    {
+      "english": "Courage is your first word.",
+      "spanish": "El coraje es tu primera palabra.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T13:33:38.063027"
+    },
+    {
+      "english": "Tiny steps, giant fluency.",
+      "spanish": "Pequeños pasos, gran fluidez.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T13:33:38.063040"
+    },
+    {
+      "english": "They understand more than you.",
+      "spanish": "Ellos entienden más que tú.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T13:33:38.063054"
+    },
+    {
+      "english": "Speak now, live later.",
+      "spanish": "Habla ahora, vive después.",
+      "category": "Courage",
+      "generated_at": "2026-10-27T13:33:38.063065"
     }
   ],
-  "last_updated": "2026-10-27T03:36:00.285754",
+  "last_updated": "2026-10-27T13:33:38.063066",
   "used_english": [
-    "your mind already knows.",
-    "this one word calms fear.",
-    "feel this calm connect.",
-    "breathe deep, speak truth.",
-    "this quiet confidence grows.",
     "this tiny habit pays off.",
     "your calm voice, heard.",
     "curious? what unlocks speed?",
@@ -21002,6 +20997,11 @@
     "one word opens their world.",
     "your courage sparks connections, wow!",
     "this feeling? that's learning blooming.",
-    "curious? they understand more than you think."
+    "curious? they understand more than you think.",
+    "wondering how to start?",
+    "courage is your first word.",
+    "tiny steps, giant fluency.",
+    "they understand more than you.",
+    "speak now, live later."
   ]
 }
