@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Wisdom: Patience opens doors.",
-      "spanish": "Sabiduría: paciencia abre puertas.",
-      "category": "Hope",
-      "generated_at": "2026-06-23T17:18:46.565422"
-    },
-    {
-      "english": "Your courage, speaking now.",
-      "spanish": "Tu coraje, hablando ahora.",
-      "category": "Hope",
-      "generated_at": "2026-06-23T17:18:46.565446"
-    },
-    {
-      "english": "Tiny habit, big leap.",
-      "spanish": "Hábito pequeño, gran salto.",
-      "category": "Hope",
-      "generated_at": "2026-06-23T17:18:46.565461"
-    },
-    {
-      "english": "Your smile, a bridge.",
-      "spanish": "Tu sonrisa, un puente.",
-      "category": "Hope",
-      "generated_at": "2026-06-23T17:18:46.565475"
-    },
-    {
-      "english": "Small word, big feeling.",
-      "spanish": "Palabra pequeña, gran sentimiento.",
-      "category": "Hope",
-      "generated_at": "2026-06-23T17:18:46.565490"
-    },
-    {
       "english": "Forgive fast, speak more.",
       "spanish": "Perdona rápido, habla más.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Entienden más.",
       "category": "Purpose",
       "generated_at": "2026-10-28T14:24:24.060111"
+    },
+    {
+      "english": "Your future self speaks Spanish.",
+      "spanish": "Tu yo futuro habla español.",
+      "category": "Hope",
+      "generated_at": "2026-10-28T18:08:25.005949"
+    },
+    {
+      "english": "One word changes their perception.",
+      "spanish": "Una palabra cambia su percepción.",
+      "category": "Hope",
+      "generated_at": "2026-10-28T18:08:25.005975"
+    },
+    {
+      "english": "This tiny phrase opens doors.",
+      "spanish": "Esta frasecita abre puertas.",
+      "category": "Hope",
+      "generated_at": "2026-10-28T18:08:25.005991"
+    },
+    {
+      "english": "Don't fear mistakes, embrace them.",
+      "spanish": "No temas errores, abrázalos.",
+      "category": "Hope",
+      "generated_at": "2026-10-28T18:08:25.006005"
+    },
+    {
+      "english": "Connection begins with simple greetings.",
+      "spanish": "La conexión empieza con saludos simples.",
+      "category": "Hope",
+      "generated_at": "2026-10-28T18:08:25.006033"
     }
   ],
-  "last_updated": "2026-10-28T14:24:24.060113",
+  "last_updated": "2026-10-28T18:08:25.006034",
   "used_english": [
-    "wisdom: patience opens doors.",
-    "your courage, speaking now.",
-    "tiny habit, big leap.",
-    "your smile, a bridge.",
-    "small word, big feeling.",
     "forgive fast, speak more.",
     "your heart's true freedom.",
     "this tiny act heals.",
@@ -21002,6 +20997,11 @@
     "mistakes sculpt better speakers.",
     "your voice matters. speak up.",
     "the secret to confidence? practice.",
-    "curious? they understand more."
+    "curious? they understand more.",
+    "your future self speaks spanish.",
+    "one word changes their perception.",
+    "this tiny phrase opens doors.",
+    "don't fear mistakes, embrace them.",
+    "connection begins with simple greetings."
   ]
 }
