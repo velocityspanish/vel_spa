@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your words matter, speak.",
-      "spanish": "Tus palabras importan, habla.",
-      "category": "Kindness",
-      "generated_at": "2026-06-22T22:50:54.181152"
-    },
-    {
-      "english": "Your courage shows today.",
-      "spanish": "Tu coraje se muestra hoy.",
-      "category": "Kindness",
-      "generated_at": "2026-06-22T22:50:54.181181"
-    },
-    {
-      "english": "One more 'hola', brave.",
-      "spanish": "Un 'hola' más, valiente.",
-      "category": "Kindness",
-      "generated_at": "2026-06-22T22:50:54.181197"
-    },
-    {
-      "english": "Trust the process, amigo.",
-      "spanish": "Confía en el proceso, amigo.",
-      "category": "Kindness",
-      "generated_at": "2026-06-22T22:50:54.181212"
-    },
-    {
-      "english": "Start where you are, now.",
-      "spanish": "Empieza donde estás, ahora.",
-      "category": "Kindness",
-      "generated_at": "2026-06-22T22:50:54.181227"
-    },
-    {
       "english": "This one word heals everything.",
       "spanish": "Esta palabra lo sana todo.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Listo para desbloquear conversación?",
       "category": "Gratitude",
       "generated_at": "2026-10-27T23:49:50.045531"
+    },
+    {
+      "english": "One phrase opens all doors.",
+      "spanish": "Una frase abre todas las puertas.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T03:53:04.598182"
+    },
+    {
+      "english": "Bravery sounds like this hello.",
+      "spanish": "La valentía suena a este hola.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T03:53:04.598215"
+    },
+    {
+      "english": "Surprise! Their smiles are real.",
+      "spanish": "¡Sorpresa! Sus sonrisas son reales.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T03:53:04.598236"
+    },
+    {
+      "english": "This small sound changes worlds.",
+      "spanish": "Este pequeño sonido cambia mundos.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T03:53:04.598255"
+    },
+    {
+      "english": "Embrace the attempt. You're shining.",
+      "spanish": "Abraza el intento. Estás brillando.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T03:53:04.598274"
     }
   ],
-  "last_updated": "2026-10-27T23:49:50.045533",
+  "last_updated": "2026-10-28T03:53:04.598275",
   "used_english": [
-    "your words matter, speak.",
-    "your courage shows today.",
-    "one more 'hola', brave.",
-    "trust the process, amigo.",
-    "start where you are, now.",
     "this one word heals everything.",
     "your freedom? forgiveness unlocked.",
     "mend bridges, start now.",
@@ -21002,6 +20997,11 @@
     "your voice sparks smiles. try!",
     "this phrase builds bridges. wow!",
     "want acceptance? say 'por favor'.",
-    "ready to unlock conversation?"
+    "ready to unlock conversation?",
+    "one phrase opens all doors.",
+    "bravery sounds like this hello.",
+    "surprise! their smiles are real.",
+    "this small sound changes worlds.",
+    "embrace the attempt. you're shining."
   ]
 }
