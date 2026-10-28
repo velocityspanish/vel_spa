@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Forgive fast, speak more.",
-      "spanish": "Perdona rápido, habla más.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-23T19:04:30.587471"
-    },
-    {
-      "english": "Your heart's true freedom.",
-      "spanish": "La verdadera libertad de tu corazón.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-23T19:04:30.587500"
-    },
-    {
-      "english": "This tiny act heals.",
-      "spanish": "Este pequeño acto sana.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-23T19:04:30.587515"
-    },
-    {
-      "english": "One word, pure peace.",
-      "spanish": "Una palabra, paz pura.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-23T19:04:30.587530"
-    },
-    {
-      "english": "Are you ready to forgive?",
-      "spanish": "¿Estás listo para perdonar?",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-23T19:04:30.587546"
-    },
-    {
       "english": "Your peace begins now.",
       "spanish": "Tu paz empieza ahora.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "La conexión empieza con saludos simples.",
       "category": "Hope",
       "generated_at": "2026-10-28T18:08:25.006033"
+    },
+    {
+      "english": "Surprise! Your Spanish is great.",
+      "spanish": "¡Sorpresa! Tu español es genial.",
+      "category": "Creativity",
+      "generated_at": "2026-10-28T21:17:40.938236"
+    },
+    {
+      "english": "This small word builds trust.",
+      "spanish": "Esta palabra pequeña crea confianza.",
+      "category": "Creativity",
+      "generated_at": "2026-10-28T21:17:40.938286"
+    },
+    {
+      "english": "Your bravery is heard, believe it.",
+      "spanish": "Tu valentía es escuchada, créelo.",
+      "category": "Creativity",
+      "generated_at": "2026-10-28T21:17:40.938313"
+    },
+    {
+      "english": "Try this, unlock their interest.",
+      "spanish": "Prueba esto, desbloquea su interés.",
+      "category": "Creativity",
+      "generated_at": "2026-10-28T21:17:40.938339"
+    },
+    {
+      "english": "What if they understand more?",
+      "spanish": "¿Qué tal si entienden más?",
+      "category": "Creativity",
+      "generated_at": "2026-10-28T21:17:40.938366"
     }
   ],
-  "last_updated": "2026-10-28T18:08:25.006034",
+  "last_updated": "2026-10-28T21:17:40.938369",
   "used_english": [
-    "forgive fast, speak more.",
-    "your heart's true freedom.",
-    "this tiny act heals.",
-    "one word, pure peace.",
-    "are you ready to forgive?",
     "your peace begins now.",
     "whisper this, feel calm.",
     "this kindness connects worlds.",
@@ -21002,6 +20997,11 @@
     "one word changes their perception.",
     "this tiny phrase opens doors.",
     "don't fear mistakes, embrace them.",
-    "connection begins with simple greetings."
+    "connection begins with simple greetings.",
+    "surprise! your spanish is great.",
+    "this small word builds trust.",
+    "your bravery is heard, believe it.",
+    "try this, unlock their interest.",
+    "what if they understand more?"
   ]
 }
