@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curious? What's the magic word?",
-      "spanish": "¿Curioso? ¿Cuál es la palabra mágica?",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T17:06:44.253420"
-    },
-    {
-      "english": "Keep going, it clicks soon.",
-      "spanish": "Sigue, hace clic pronto.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T17:06:44.253443"
-    },
-    {
-      "english": "Your tiny wins matter.",
-      "spanish": "Tus pequeñas victorias importan.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T17:06:44.253458"
-    },
-    {
-      "english": "Did you feel that connection?",
-      "spanish": "¿Sentiste esa conexión?",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T17:06:44.253489"
-    },
-    {
-      "english": "Fact: You are learning now.",
-      "spanish": "Hecho: Estás aprendiendo ahora.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T17:06:44.253505"
-    },
-    {
       "english": "Your bravery shines through.",
       "spanish": "Tu valentía brilla.",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Elige progreso sobre perfección siempre.",
       "category": "Positive Life",
       "generated_at": "2026-10-29T14:38:27.571161"
+    },
+    {
+      "english": "They're impressed already.",
+      "spanish": "Ya están impresionados.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T18:14:12.663736"
+    },
+    {
+      "english": "Curiosity? This phrase surprises.",
+      "spanish": "¿Curiosidad? Esta frase sorprende.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T18:14:12.663771"
+    },
+    {
+      "english": "Surprise! They're listening.",
+      "spanish": "¡Sorpresa! Te escuchan.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T18:14:12.663798"
+    },
+    {
+      "english": "This is your moment.",
+      "spanish": "Este es tu momento.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T18:14:12.663821"
+    },
+    {
+      "english": "Bravery unlocks their welcome.",
+      "spanish": "La valentía abre su bienvenida.",
+      "category": "Confidence",
+      "generated_at": "2026-10-29T18:14:12.663847"
     }
   ],
-  "last_updated": "2026-10-29T14:38:27.571164",
+  "last_updated": "2026-10-29T18:14:12.663849",
   "used_english": [
-    "curious? what's the magic word?",
-    "keep going, it clicks soon.",
-    "your tiny wins matter.",
-    "did you feel that connection?",
-    "fact: you are learning now.",
     "your bravery shines through.",
     "fact: you learn faster.",
     "listen, then speak freely.",
@@ -21002,6 +20997,11 @@
     "the mindset that attracts good things.",
     "stop consuming. start creating.",
     "your vibe attracts your tribe.",
-    "choose progress over perfection always."
+    "choose progress over perfection always.",
+    "they're impressed already.",
+    "curiosity? this phrase surprises.",
+    "surprise! they're listening.",
+    "this is your moment.",
+    "bravery unlocks their welcome."
   ]
 }
