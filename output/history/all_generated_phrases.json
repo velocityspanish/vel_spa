@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your bravery shines through.",
-      "spanish": "Tu valentía brilla.",
-      "category": "Creativity",
-      "generated_at": "2026-06-24T18:28:35.262943"
-    },
-    {
-      "english": "Fact: You learn faster.",
-      "spanish": "Dato: Aprendes más rápido.",
-      "category": "Creativity",
-      "generated_at": "2026-06-24T18:28:35.262964"
-    },
-    {
-      "english": "Listen, then speak freely.",
-      "spanish": "Escucha, luego habla libre.",
-      "category": "Creativity",
-      "generated_at": "2026-06-24T18:28:35.262980"
-    },
-    {
-      "english": "Your dream sounds real.",
-      "spanish": "Tu sueño suena real.",
-      "category": "Creativity",
-      "generated_at": "2026-06-24T18:28:35.262995"
-    },
-    {
-      "english": "This tiny phrase, impact.",
-      "spanish": "Esta frasecita, impacto.",
-      "category": "Creativity",
-      "generated_at": "2026-06-24T18:28:35.263011"
-    },
-    {
       "english": "Your people are waiting.",
       "spanish": "Tu gente te espera.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "La valentía abre su bienvenida.",
       "category": "Confidence",
       "generated_at": "2026-10-29T18:14:12.663847"
+    },
+    {
+      "english": "Stop burning out. Find rhythm.",
+      "spanish": "Deja quemarte. Encuentra ritmo.",
+      "category": "Balance",
+      "generated_at": "2026-10-29T21:22:00.759899"
+    },
+    {
+      "english": "This work-life balance really looks.",
+      "spanish": "Así equilibrio trabajo-vida realmente.",
+      "category": "Balance",
+      "generated_at": "2026-10-29T21:22:00.759932"
+    },
+    {
+      "english": "Secret having all without losing yourself.",
+      "spanish": "Secreto tenerlo todo sin perderte.",
+      "category": "Balance",
+      "generated_at": "2026-10-29T21:22:00.759956"
+    },
+    {
+      "english": "Can't pour from empty cup. Fill.",
+      "spanish": "No servir desde taza vacía. Llena.",
+      "category": "Balance",
+      "generated_at": "2026-10-29T21:22:00.759981"
+    },
+    {
+      "english": "Rest productive. Stop feeling guilty.",
+      "spanish": "Descansar productivo. Deja sentirte culpable.",
+      "category": "Balance",
+      "generated_at": "2026-10-29T21:22:00.760004"
     }
   ],
-  "last_updated": "2026-10-29T18:14:12.663849",
+  "last_updated": "2026-10-29T21:22:00.760007",
   "used_english": [
-    "your bravery shines through.",
-    "fact: you learn faster.",
-    "listen, then speak freely.",
-    "your dream sounds real.",
-    "this tiny phrase, impact.",
     "your people are waiting.",
     "one shared smile?",
     "fact: kindness is universal.",
@@ -21002,6 +20997,11 @@
     "curiosity? this phrase surprises.",
     "surprise! they're listening.",
     "this is your moment.",
-    "bravery unlocks their welcome."
+    "bravery unlocks their welcome.",
+    "stop burning out. find rhythm.",
+    "this work-life balance really looks.",
+    "secret having all without losing yourself.",
+    "can't pour from empty cup. fill.",
+    "rest productive. stop feeling guilty."
   ]
 }
