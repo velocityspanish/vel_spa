@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your next word, a triumph.",
-      "spanish": "Tu próxima palabra, un triunfo.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T15:34:11.738247"
-    },
-    {
-      "english": "Don't give up, amigo.",
-      "spanish": "No te rindas, amigo.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T15:34:11.738269"
-    },
-    {
-      "english": "This mistake? Learning fuel.",
-      "spanish": "Este error? Combustible de aprendizaje.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T15:34:11.738283"
-    },
-    {
-      "english": "Keep going, you're so close.",
-      "spanish": "Sigue, estás muy cerca.",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T15:34:11.738295"
-    },
-    {
-      "english": "Why silence holds power?",
-      "spanish": "¿Por qué el silencio tiene poder?",
-      "category": "Perseverance",
-      "generated_at": "2026-06-24T15:34:11.738307"
-    },
-    {
       "english": "Curious? What's the magic word?",
       "spanish": "¿Curioso? ¿Cuál es la palabra mágica?",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Listo para su reacción?",
       "category": "Friendship",
       "generated_at": "2026-10-29T04:15:21.839428"
+    },
+    {
+      "english": "Cut these toxic habits from life.",
+      "spanish": "Corta estos hábitos tóxicos vida.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-29T14:38:27.571041"
+    },
+    {
+      "english": "The mindset that attracts good things.",
+      "spanish": "La mentalidad que atrae cosas buenas.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-29T14:38:27.571078"
+    },
+    {
+      "english": "Stop consuming. Start creating.",
+      "spanish": "Deja de consumir. Empieza a crear.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-29T14:38:27.571107"
+    },
+    {
+      "english": "Your vibe attracts your tribe.",
+      "spanish": "Tu vibra atrae a tu tribu.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-29T14:38:27.571136"
+    },
+    {
+      "english": "Choose progress over perfection always.",
+      "spanish": "Elige progreso sobre perfección siempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-29T14:38:27.571161"
     }
   ],
-  "last_updated": "2026-10-29T04:15:21.839429",
+  "last_updated": "2026-10-29T14:38:27.571164",
   "used_english": [
-    "your next word, a triumph.",
-    "don't give up, amigo.",
-    "this mistake? learning fuel.",
-    "keep going, you're so close.",
-    "why silence holds power?",
     "curious? what's the magic word?",
     "keep going, it clicks soon.",
     "your tiny wins matter.",
@@ -21002,6 +20997,11 @@
     "their smile, your reward.",
     "curiosity? they listen well.",
     "embrace the awkwardness, grow.",
-    "ready for their reaction?"
+    "ready for their reaction?",
+    "cut these toxic habits from life.",
+    "the mindset that attracts good things.",
+    "stop consuming. start creating.",
+    "your vibe attracts your tribe.",
+    "choose progress over perfection always."
   ]
 }
