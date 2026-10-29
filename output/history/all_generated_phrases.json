@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your Spanish whispers back.",
-      "spanish": "Tu español te susurra.",
-      "category": "Love",
-      "generated_at": "2026-06-23T22:19:28.286338"
-    },
-    {
-      "english": "One word can heal.",
-      "spanish": "Una palabra puede sanar.",
-      "category": "Love",
-      "generated_at": "2026-06-23T22:19:28.286363"
-    },
-    {
-      "english": "Embrace the happy sound.",
-      "spanish": "Abraza el sonido feliz.",
-      "category": "Love",
-      "generated_at": "2026-06-23T22:19:28.286379"
-    },
-    {
-      "english": "This warmth connects us.",
-      "spanish": "Esta calidez nos une.",
-      "category": "Love",
-      "generated_at": "2026-06-23T22:19:28.286394"
-    },
-    {
-      "english": "Your comfort zone ends here.",
-      "spanish": "Tu zona cómoda acaba aquí.",
-      "category": "Love",
-      "generated_at": "2026-06-23T22:19:28.286411"
-    },
-    {
       "english": "Your next word, a triumph.",
       "spanish": "Tu próxima palabra, un triunfo.",
       "category": "Perseverance",
@@ -17999,15 +17969,40 @@
       "spanish": "Este ritmo ayuda aprender.",
       "category": "Success",
       "generated_at": "2026-10-29T00:03:31.832904"
+    },
+    {
+      "english": "Want to feel connected? Try.",
+      "spanish": "¿Quieres sentir conexión? Intenta.",
+      "category": "Friendship",
+      "generated_at": "2026-10-29T04:15:21.839364"
+    },
+    {
+      "english": "Their smile, your reward.",
+      "spanish": "Su sonrisa, tu recompensa.",
+      "category": "Friendship",
+      "generated_at": "2026-10-29T04:15:21.839385"
+    },
+    {
+      "english": "Curiosity? They listen well.",
+      "spanish": "¿Curiosidad? Escuchan bien.",
+      "category": "Friendship",
+      "generated_at": "2026-10-29T04:15:21.839400"
+    },
+    {
+      "english": "Embrace the awkwardness, grow.",
+      "spanish": "Abraza la torpeza, crece.",
+      "category": "Friendship",
+      "generated_at": "2026-10-29T04:15:21.839415"
+    },
+    {
+      "english": "Ready for their reaction?",
+      "spanish": "¿Listo para su reacción?",
+      "category": "Friendship",
+      "generated_at": "2026-10-29T04:15:21.839428"
     }
   ],
-  "last_updated": "2026-10-29T00:03:31.832906",
+  "last_updated": "2026-10-29T04:15:21.839429",
   "used_english": [
-    "your spanish whispers back.",
-    "one word can heal.",
-    "embrace the happy sound.",
-    "this warmth connects us.",
-    "your comfort zone ends here.",
     "your next word, a triumph.",
     "don't give up, amigo.",
     "this mistake? learning fuel.",
@@ -21002,6 +20997,11 @@
     "start here, now.",
     "surprise! you're understood.",
     "tiny efforts, bright future.",
-    "this rhythm helps learning."
+    "this rhythm helps learning.",
+    "want to feel connected? try.",
+    "their smile, your reward.",
+    "curiosity? they listen well.",
+    "embrace the awkwardness, grow.",
+    "ready for their reaction?"
   ]
 }
