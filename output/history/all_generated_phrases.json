@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One brave word, massive connection.",
-      "spanish": "Una palabra valiente, conexión masiva.",
-      "category": "Purpose",
-      "generated_at": "2026-06-25T19:02:28.442241"
-    },
-    {
-      "english": "Why does this sound so good?",
-      "spanish": "¿Por qué suena tan bien?",
-      "category": "Purpose",
-      "generated_at": "2026-06-25T19:02:28.442268"
-    },
-    {
-      "english": "Your next phrase, pure magic.",
-      "spanish": "Tu próxima frase, pura magia.",
-      "category": "Purpose",
-      "generated_at": "2026-06-25T19:02:28.442286"
-    },
-    {
-      "english": "Stop fearing the grammar rules.",
-      "spanish": "Deja de temer las reglas gramaticales.",
-      "category": "Purpose",
-      "generated_at": "2026-06-25T19:02:28.442302"
-    },
-    {
-      "english": "Your progress: it's visible now.",
-      "spanish": "Tu progreso: es visible ahora.",
-      "category": "Purpose",
-      "generated_at": "2026-06-25T19:02:28.442317"
-    },
-    {
       "english": "Unlock joy, say 'gracias'.",
       "spanish": "Desbloquea alegría, di 'gracias'.",
       "category": "Positive Life",
@@ -17999,15 +17969,40 @@
       "spanish": "Deja que la felicidad fluya hoy.",
       "category": "Happiness",
       "generated_at": "2026-10-30T17:51:48.751424"
+    },
+    {
+      "english": "One word, immense connection. Wow!",
+      "spanish": "Una palabra, conexión inmensa. ¡Wow!",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T21:00:14.649477"
+    },
+    {
+      "english": "Stop comparing your journey. Flourish.",
+      "spanish": "Deja de comparar tu viaje. Florece.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T21:00:14.649514"
+    },
+    {
+      "english": "Ready for instant understanding?",
+      "spanish": "¿Listo para comprensión instantánea?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T21:00:14.649540"
+    },
+    {
+      "english": "The joy of a new language.",
+      "spanish": "La alegría de un idioma nuevo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T21:00:14.649581"
+    },
+    {
+      "english": "Wisdom: Patience opens all doors.",
+      "spanish": "Sabiduría: Paciencia abre puertas.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T21:00:14.649607"
     }
   ],
-  "last_updated": "2026-10-30T17:51:48.751425",
+  "last_updated": "2026-10-30T21:00:14.649609",
   "used_english": [
-    "one brave word, massive connection.",
-    "why does this sound so good?",
-    "your next phrase, pure magic.",
-    "stop fearing the grammar rules.",
-    "your progress: it's visible now.",
     "unlock joy, say 'gracias'.",
     "what if 'hola' changes?",
     "this sounds bring smiles.",
@@ -21002,6 +20997,11 @@
     "smile more, worry less.",
     "joy: it's simpler than thought.",
     "find your happy place.",
-    "let happiness flow today."
+    "let happiness flow today.",
+    "one word, immense connection. wow!",
+    "stop comparing your journey. flourish.",
+    "ready for instant understanding?",
+    "the joy of a new language.",
+    "wisdom: patience opens all doors."
   ]
 }
