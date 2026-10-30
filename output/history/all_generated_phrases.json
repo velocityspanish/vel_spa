@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unlock joy, say 'gracias'.",
-      "spanish": "Desbloquea alegría, di 'gracias'.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T20:51:50.018633"
-    },
-    {
-      "english": "What if 'hola' changes?",
-      "spanish": "¿Y si 'hola' cambia?",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T20:51:50.018655"
-    },
-    {
-      "english": "This sounds bring smiles.",
-      "spanish": "Estos sonidos traen sonrisas.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T20:51:50.018671"
-    },
-    {
-      "english": "Embrace every tiny word.",
-      "spanish": "Abraza cada pequeña palabra.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T20:51:50.018686"
-    },
-    {
-      "english": "Your confidence will bloom.",
-      "spanish": "Tu confianza florecerá.",
-      "category": "Positive Life",
-      "generated_at": "2026-06-25T20:51:50.018702"
-    },
-    {
       "english": "Feeling thankful? Try this word.",
       "spanish": "¿Sentir agradecido? Prueba esto.",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "Sabiduría: Paciencia abre puertas.",
       "category": "Inspiration",
       "generated_at": "2026-10-30T21:00:14.649607"
+    },
+    {
+      "english": "Curiosity? They hear you.",
+      "spanish": "¿Curiosidad? Te escuchan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T23:49:56.560233"
+    },
+    {
+      "english": "Unlock their smiles: Gracias.",
+      "spanish": "Desbloquea sus sonrisas: Gracias.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T23:49:56.560270"
+    },
+    {
+      "english": "Feel understood? They get it.",
+      "spanish": "¿Te sientes entendido? Lo entienden.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T23:49:56.560297"
+    },
+    {
+      "english": "Surprise! They're learning with you.",
+      "spanish": "¡Sorpresa! Aprenden contigo.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T23:49:56.560321"
+    },
+    {
+      "english": "What if they're waiting?",
+      "spanish": "¿Qué si están esperando?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-30T23:49:56.560345"
     }
   ],
-  "last_updated": "2026-10-30T21:00:14.649609",
+  "last_updated": "2026-10-30T23:49:56.560347",
   "used_english": [
-    "unlock joy, say 'gracias'.",
-    "what if 'hola' changes?",
-    "this sounds bring smiles.",
-    "embrace every tiny word.",
-    "your confidence will bloom.",
     "feeling thankful? try this word.",
     "this single word connects people.",
     "what unlocks pure happiness?",
@@ -21002,6 +20997,11 @@
     "stop comparing your journey. flourish.",
     "ready for instant understanding?",
     "the joy of a new language.",
-    "wisdom: patience opens all doors."
+    "wisdom: patience opens all doors.",
+    "curiosity? they hear you.",
+    "unlock their smiles: gracias.",
+    "feel understood? they get it.",
+    "surprise! they're learning with you.",
+    "what if they're waiting?"
   ]
 }
