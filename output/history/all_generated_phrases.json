@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word heals.",
-      "spanish": "Esta palabra cura.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-25T17:12:55.681770"
-    },
-    {
-      "english": "Why holding back, amigo?",
-      "spanish": "¿Por qué te detienes, amigo?",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-25T17:12:55.681796"
-    },
-    {
-      "english": "Fact: You are enough.",
-      "spanish": "Hecho: Eres suficiente.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-25T17:12:55.681811"
-    },
-    {
-      "english": "Your voice deserves freedom.",
-      "spanish": "Tu voz merece libertad.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-25T17:12:55.681828"
-    },
-    {
-      "english": "Listen to your calm.",
-      "spanish": "Escucha tu calma.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-25T17:12:55.681842"
-    },
-    {
       "english": "One brave word, massive connection.",
       "spanish": "Una palabra valiente, conexión masiva.",
       "category": "Purpose",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Sientes la conexión florecer, ¿sí?",
       "category": "Purpose",
       "generated_at": "2026-10-30T14:30:15.720617"
+    },
+    {
+      "english": "Your happiness starts now.",
+      "spanish": "Tu felicidad empieza ahora.",
+      "category": "Happiness",
+      "generated_at": "2026-10-30T17:51:48.751331"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "spanish": "Sonríe más, preocúpate menos.",
+      "category": "Happiness",
+      "generated_at": "2026-10-30T17:51:48.751363"
+    },
+    {
+      "english": "Joy: It's simpler than thought.",
+      "spanish": "Alegría: Es más simple de lo pensado.",
+      "category": "Happiness",
+      "generated_at": "2026-10-30T17:51:48.751386"
+    },
+    {
+      "english": "Find your happy place.",
+      "spanish": "Encuentra tu lugar feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-10-30T17:51:48.751404"
+    },
+    {
+      "english": "Let happiness flow today.",
+      "spanish": "Deja que la felicidad fluya hoy.",
+      "category": "Happiness",
+      "generated_at": "2026-10-30T17:51:48.751424"
     }
   ],
-  "last_updated": "2026-10-30T14:30:15.720620",
+  "last_updated": "2026-10-30T17:51:48.751425",
   "used_english": [
-    "this one word heals.",
-    "why holding back, amigo?",
-    "fact: you are enough.",
-    "your voice deserves freedom.",
-    "listen to your calm.",
     "one brave word, massive connection.",
     "why does this sound so good?",
     "your next phrase, pure magic.",
@@ -21002,6 +20997,11 @@
     "one phrase unlocks connection. wow!",
     "they're listening closer now.",
     "want understanding? speak this.",
-    "feel the connection bloom, yes?"
+    "feel the connection bloom, yes?",
+    "your happiness starts now.",
+    "smile more, worry less.",
+    "joy: it's simpler than thought.",
+    "find your happy place.",
+    "let happiness flow today."
   ]
 }
