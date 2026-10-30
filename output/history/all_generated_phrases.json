@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sounds change lives.",
-      "spanish": "Estos sonidos cambian vidas.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-24T22:23:25.086715"
-    },
-    {
-      "english": "Tiny habits, huge connections.",
-      "spanish": "Pequeños hábitos, grandes conexiones.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-24T22:23:25.086737"
-    },
-    {
-      "english": "You belong, keep speaking.",
-      "spanish": "Perteneces, sigue hablando.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-24T22:23:25.086753"
-    },
-    {
-      "english": "Trust your inner voice.",
-      "spanish": "Confía en tu voz interior.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-24T22:23:25.086767"
-    },
-    {
-      "english": "Here's what sparks progress.",
-      "spanish": "Aquí lo que impulsa el progreso.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-24T22:23:25.086783"
-    },
-    {
       "english": "Your voice, finally free.",
       "spanish": "Tu voz, finalmente libre.",
       "category": "Purpose",
@@ -17999,15 +17969,40 @@
       "spanish": "Palabra pequeña, bienvenida enorme.",
       "category": "Joy",
       "generated_at": "2026-10-30T00:00:31.092528"
+    },
+    {
+      "english": "Forgiveness? It sets you free.",
+      "spanish": "Perdón, te libera.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-30T04:16:39.448894"
+    },
+    {
+      "english": "This word is pure peace.",
+      "spanish": "Esta palabra es paz pura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-30T04:16:39.448929"
+    },
+    {
+      "english": "Start letting go now.",
+      "spanish": "Empieza a soltar ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-30T04:16:39.448955"
+    },
+    {
+      "english": "Your peace is priceless.",
+      "spanish": "Tu paz no tiene precio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-30T04:16:39.448980"
+    },
+    {
+      "english": "Curious? Forgiveness opens doors.",
+      "spanish": "¿Curioso? El perdón abre puertas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-30T04:16:39.449006"
     }
   ],
-  "last_updated": "2026-10-30T00:00:31.092530",
+  "last_updated": "2026-10-30T04:16:39.449008",
   "used_english": [
-    "this sounds change lives.",
-    "tiny habits, huge connections.",
-    "you belong, keep speaking.",
-    "trust your inner voice.",
-    "here's what sparks progress.",
     "your voice, finally free.",
     "don't fear the accent, embrace.",
     "the sound everyone misses?",
@@ -21002,6 +20997,11 @@
     "your courage sounds beautiful.",
     "curious? this greeting changes things.",
     "feel this? instant belonging.",
-    "tiny word, huge welcome."
+    "tiny word, huge welcome.",
+    "forgiveness? it sets you free.",
+    "this word is pure peace.",
+    "start letting go now.",
+    "your peace is priceless.",
+    "curious? forgiveness opens doors."
   ]
 }
