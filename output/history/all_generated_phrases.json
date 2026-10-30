@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your people are waiting.",
-      "spanish": "Tu gente te espera.",
-      "category": "Friendship",
-      "generated_at": "2026-06-24T20:27:50.802084"
-    },
-    {
-      "english": "One shared smile?",
-      "spanish": "¿Una sonrisa compartida?",
-      "category": "Friendship",
-      "generated_at": "2026-06-24T20:27:50.802105"
-    },
-    {
-      "english": "Fact: kindness is universal.",
-      "spanish": "Hecho: la amabilidad es universal.",
-      "category": "Friendship",
-      "generated_at": "2026-06-24T20:27:50.802123"
-    },
-    {
-      "english": "You already know this.",
-      "spanish": "Tú ya sabes esto.",
-      "category": "Friendship",
-      "generated_at": "2026-06-24T20:27:50.802137"
-    },
-    {
-      "english": "Surprise! It's easy.",
-      "spanish": "¡Sorpresa! Es fácil.",
-      "category": "Friendship",
-      "generated_at": "2026-06-24T20:27:50.802152"
-    },
-    {
       "english": "This sounds change lives.",
       "spanish": "Estos sonidos cambian vidas.",
       "category": "Inspiration",
@@ -17999,15 +17969,40 @@
       "spanish": "Descansar productivo. Deja sentirte culpable.",
       "category": "Balance",
       "generated_at": "2026-10-29T21:22:00.760004"
+    },
+    {
+      "english": "Wisdom: Kindness unlocks smiles.",
+      "spanish": "Sabiduría: Amabilidad abre sonrisas.",
+      "category": "Joy",
+      "generated_at": "2026-10-30T00:00:31.092413"
+    },
+    {
+      "english": "Your courage sounds beautiful.",
+      "spanish": "Tu valentía suena hermosa.",
+      "category": "Joy",
+      "generated_at": "2026-10-30T00:00:31.092452"
+    },
+    {
+      "english": "Curious? This greeting changes things.",
+      "spanish": "¿Curioso? Este saludo cambia todo.",
+      "category": "Joy",
+      "generated_at": "2026-10-30T00:00:31.092476"
+    },
+    {
+      "english": "Feel this? Instant belonging.",
+      "spanish": "¿Sientes esto? Pertenencia instantánea.",
+      "category": "Joy",
+      "generated_at": "2026-10-30T00:00:31.092503"
+    },
+    {
+      "english": "Tiny word, huge welcome.",
+      "spanish": "Palabra pequeña, bienvenida enorme.",
+      "category": "Joy",
+      "generated_at": "2026-10-30T00:00:31.092528"
     }
   ],
-  "last_updated": "2026-10-29T21:22:00.760007",
+  "last_updated": "2026-10-30T00:00:31.092530",
   "used_english": [
-    "your people are waiting.",
-    "one shared smile?",
-    "fact: kindness is universal.",
-    "you already know this.",
-    "surprise! it's easy.",
     "this sounds change lives.",
     "tiny habits, huge connections.",
     "you belong, keep speaking.",
@@ -21002,6 +20997,11 @@
     "this work-life balance really looks.",
     "secret having all without losing yourself.",
     "can't pour from empty cup. fill.",
-    "rest productive. stop feeling guilty."
+    "rest productive. stop feeling guilty.",
+    "wisdom: kindness unlocks smiles.",
+    "your courage sounds beautiful.",
+    "curious? this greeting changes things.",
+    "feel this? instant belonging.",
+    "tiny word, huge welcome."
   ]
 }
