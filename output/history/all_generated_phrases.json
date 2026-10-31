@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feeling thankful? Try this word.",
-      "spanish": "¿Sentir agradecido? Prueba esto.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-25T22:25:49.324982"
-    },
-    {
-      "english": "This single word connects people.",
-      "spanish": "Esta palabra une gente.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-25T22:25:49.325009"
-    },
-    {
-      "english": "What unlocks pure happiness?",
-      "spanish": "¿Qué desbloquea la felicidad pura?",
-      "category": "Gratitude",
-      "generated_at": "2026-06-25T22:25:49.325031"
-    },
-    {
-      "english": "Your kindness, amplified, starts here.",
-      "spanish": "Tu amabilidad, amplificada, empieza aquí.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-25T22:25:49.325046"
-    },
-    {
-      "english": "Never forget this grateful feeling.",
-      "spanish": "Nunca olvides este sentimiento. Gracias.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-25T22:25:49.325062"
-    },
-    {
       "english": "Imagine, speaking Spanish fluently!",
       "spanish": "¡Imagina, hablando español fluidamente!",
       "category": "Gratitude",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Qué si están esperando?",
       "category": "Inspiration",
       "generated_at": "2026-10-30T23:49:56.560345"
+    },
+    {
+      "english": "Their surprise is your reward.",
+      "spanish": "Su sorpresa es tu recompensa.",
+      "category": "Hope",
+      "generated_at": "2026-10-31T03:58:02.347648"
+    },
+    {
+      "english": "Your voice unlocks smiles, truly.",
+      "spanish": "Tu voz desata sonrisas, de verdad.",
+      "category": "Hope",
+      "generated_at": "2026-10-31T03:58:02.347685"
+    },
+    {
+      "english": "The magic of small talk.",
+      "spanish": "La magia de la charla.",
+      "category": "Hope",
+      "generated_at": "2026-10-31T03:58:02.347708"
+    },
+    {
+      "english": "Embrace the journey, enjoy.",
+      "spanish": " Abraza el viaje, disfruta.",
+      "category": "Hope",
+      "generated_at": "2026-10-31T03:58:02.347732"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "spanish": "Nunca te subestimes.",
+      "category": "Hope",
+      "generated_at": "2026-10-31T03:58:02.347757"
     }
   ],
-  "last_updated": "2026-10-30T23:49:56.560347",
+  "last_updated": "2026-10-31T03:58:02.347759",
   "used_english": [
-    "feeling thankful? try this word.",
-    "this single word connects people.",
-    "what unlocks pure happiness?",
-    "your kindness, amplified, starts here.",
-    "never forget this grateful feeling.",
     "imagine, speaking spanish fluently!",
     "your spirit, now unfettered.",
     "your courage, beautifully showing.",
@@ -21002,6 +20997,11 @@
     "unlock their smiles: gracias.",
     "feel understood? they get it.",
     "surprise! they're learning with you.",
-    "what if they're waiting?"
+    "what if they're waiting?",
+    "their surprise is your reward.",
+    "your voice unlocks smiles, truly.",
+    "the magic of small talk.",
+    "embrace the journey, enjoy.",
+    "never underestimate yourself."
   ]
 }
