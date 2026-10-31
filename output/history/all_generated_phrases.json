@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word? Unlocks progress.",
-      "spanish": "Esta palabra, ¿desbloquea progreso?",
-      "category": "Patience",
-      "generated_at": "2026-06-26T17:01:30.065092"
-    },
-    {
-      "english": "Your tiny 'hola', huge connection.",
-      "spanish": "Tu pequeño 'hola', gran conexión.",
-      "category": "Patience",
-      "generated_at": "2026-06-26T17:01:30.065115"
-    },
-    {
-      "english": "Why rush this beautiful journey?",
-      "spanish": "¿Por qué apurar este hermoso viaje?",
-      "category": "Patience",
-      "generated_at": "2026-06-26T17:01:30.065131"
-    },
-    {
-      "english": "Embrace the pause. It teaches.",
-      "spanish": "Abraza la pausa. Enseña.",
-      "category": "Patience",
-      "generated_at": "2026-06-26T17:01:30.065147"
-    },
-    {
-      "english": "Surprise! Your brain is adapting.",
-      "spanish": "¡Sorpresa! Tu cerebro se adapta.",
-      "category": "Patience",
-      "generated_at": "2026-06-26T17:01:30.065163"
-    },
-    {
       "english": "This sounds your friends need.",
       "spanish": "Estos sonidos que tus amigos necesitan.",
       "category": "Friendship",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Te sientes atascado? Di 'Ayuda'.",
       "category": "Perseverance",
       "generated_at": "2026-10-31T13:50:38.557554"
+    },
+    {
+      "english": "Curiosity makes them listen.",
+      "spanish": "La curiosidad los hace oír.",
+      "category": "Courage",
+      "generated_at": "2026-10-31T17:02:44.571073"
+    },
+    {
+      "english": "Feel their welcome grow.",
+      "spanish": "Siente crecer su bienvenida.",
+      "category": "Courage",
+      "generated_at": "2026-10-31T17:02:44.571108"
+    },
+    {
+      "english": "Embrace the journey's start.",
+      "spanish": "Abraza el inicio del viaje.",
+      "category": "Courage",
+      "generated_at": "2026-10-31T17:02:44.571135"
+    },
+    {
+      "english": "Stop fearing their judgment.",
+      "spanish": "Deja de temer su juicio.",
+      "category": "Courage",
+      "generated_at": "2026-10-31T17:02:44.571175"
+    },
+    {
+      "english": "Their nod of understanding?",
+      "spanish": "¿Su asentimiento de comprensión?",
+      "category": "Courage",
+      "generated_at": "2026-10-31T17:02:44.571202"
     }
   ],
-  "last_updated": "2026-10-31T13:50:38.557555",
+  "last_updated": "2026-10-31T17:02:44.571204",
   "used_english": [
-    "this one word? unlocks progress.",
-    "your tiny 'hola', huge connection.",
-    "why rush this beautiful journey?",
-    "embrace the pause. it teaches.",
-    "surprise! your brain is adapting.",
     "this sounds your friends need.",
     "one word connects, wow!",
     "your secret superpower? speaking.",
@@ -21002,6 +20997,11 @@
     "embrace the wobble, keep speaking.",
     "that tiny 'r' sounds amazing.",
     "wisdom: patience wins the language.",
-    "feeling stuck? say 'ayuda'."
+    "feeling stuck? say 'ayuda'.",
+    "curiosity makes them listen.",
+    "feel their welcome grow.",
+    "embrace the journey's start.",
+    "stop fearing their judgment.",
+    "their nod of understanding?"
   ]
 }
