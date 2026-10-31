@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This one word? Pure joy.",
-      "spanish": "Esta palabra? Pura alegría.",
-      "category": "Love",
-      "generated_at": "2026-06-26T20:27:16.494339"
-    },
-    {
-      "english": "Curious? What’s the secret?",
-      "spanish": "¿Curioso? ¿Cuál es el secreto?",
-      "category": "Love",
-      "generated_at": "2026-06-26T20:27:16.494363"
-    },
-    {
-      "english": "Small 'te quiero', big love.",
-      "spanish": "Pequeño 'te quiero', gran amor.",
-      "category": "Love",
-      "generated_at": "2026-06-26T20:27:16.494380"
-    },
-    {
-      "english": "Why fear speaking? Connect.",
-      "spanish": "¿Por qué temer hablar? Conecta.",
-      "category": "Love",
-      "generated_at": "2026-06-26T20:27:16.494397"
-    },
-    {
-      "english": "Your heart's sweetest sound?",
-      "spanish": "¿El sonido más dulce de tu corazón?",
-      "category": "Love",
-      "generated_at": "2026-06-26T20:27:16.494413"
-    },
-    {
       "english": "Curious? It's simpler than you think.",
       "spanish": "¿Curioso? Es más simple de lo que crees.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "Palabras pequeñas crean grandes amigos.",
       "category": "Positive Life",
       "generated_at": "2026-10-31T20:13:33.773282"
+    },
+    {
+      "english": "Your voice makes them smile.",
+      "spanish": "Tu voz les saca sonrisas.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T23:26:09.273708"
+    },
+    {
+      "english": "Wisdom: Kindness costs nothing.",
+      "spanish": "Sabiduría: Amabilidad no cuesta.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T23:26:09.273735"
+    },
+    {
+      "english": "Feel understood? It's amazing.",
+      "spanish": "¿Te sientes comprendido? Es genial.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T23:26:09.273750"
+    },
+    {
+      "english": "What if they're listening closely?",
+      "spanish": "¿Y si escuchan con atención?",
+      "category": "Joy",
+      "generated_at": "2026-10-31T23:26:09.273764"
+    },
+    {
+      "english": "Embrace the awkward, find joy.",
+      "spanish": "Abraza lo raro, halla gozo.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T23:26:09.273779"
     }
   ],
-  "last_updated": "2026-10-31T20:13:33.773284",
+  "last_updated": "2026-10-31T23:26:09.273780",
   "used_english": [
-    "this one word? pure joy.",
-    "curious? what’s the secret?",
-    "small 'te quiero', big love.",
-    "why fear speaking? connect.",
-    "your heart's sweetest sound?",
     "curious? it's simpler than you think.",
     "your next word? a breakthrough.",
     "feel this? your brain's rewiring.",
@@ -21002,6 +20997,11 @@
     "your courage echoes loudly. try!",
     "unlock smiles: just say 'hola'.",
     "they're listening. speak your truth.",
-    "small words build big friendships."
+    "small words build big friendships.",
+    "your voice makes them smile.",
+    "wisdom: kindness costs nothing.",
+    "feel understood? it's amazing.",
+    "what if they're listening closely?",
+    "embrace the awkward, find joy."
   ]
 }
