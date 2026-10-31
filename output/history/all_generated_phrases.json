@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sounds your friends need.",
-      "spanish": "Estos sonidos que tus amigos necesitan.",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T18:23:47.916133"
-    },
-    {
-      "english": "One word connects, wow!",
-      "spanish": "Una palabra conecta, ¡wow!",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T18:23:47.916155"
-    },
-    {
-      "english": "Your secret superpower? Speaking.",
-      "spanish": "Tu superpoder secreto: Hablar.",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T18:23:47.916171"
-    },
-    {
-      "english": "Why learn words? Friendship.",
-      "spanish": "¿Por qué aprender palabras? Amistad.",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T18:23:47.916188"
-    },
-    {
-      "english": "The shared laugh starts here.",
-      "spanish": "La risa compartida empieza aquí.",
-      "category": "Friendship",
-      "generated_at": "2026-06-26T18:23:47.916204"
-    },
-    {
       "english": "This one word? Pure joy.",
       "spanish": "Esta palabra? Pura alegría.",
       "category": "Love",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Su asentimiento de comprensión?",
       "category": "Courage",
       "generated_at": "2026-10-31T17:02:44.571202"
+    },
+    {
+      "english": "What if they *love* your accent?",
+      "spanish": "¿Y si aman tu acento?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-31T20:13:33.773172"
+    },
+    {
+      "english": "Your courage echoes loudly. Try!",
+      "spanish": "Tu valentía resuena alto. ¡Intenta!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-31T20:13:33.773206"
+    },
+    {
+      "english": "Unlock smiles: just say 'hola'.",
+      "spanish": "Desbloquea sonrisas: solo di 'hola'.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-31T20:13:33.773234"
+    },
+    {
+      "english": "They're listening. Speak your truth.",
+      "spanish": "Te están escuchando. Di tu verdad.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-31T20:13:33.773257"
+    },
+    {
+      "english": "Small words build big friendships.",
+      "spanish": "Palabras pequeñas crean grandes amigos.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-31T20:13:33.773282"
     }
   ],
-  "last_updated": "2026-10-31T17:02:44.571204",
+  "last_updated": "2026-10-31T20:13:33.773284",
   "used_english": [
-    "this sounds your friends need.",
-    "one word connects, wow!",
-    "your secret superpower? speaking.",
-    "why learn words? friendship.",
-    "the shared laugh starts here.",
     "this one word? pure joy.",
     "curious? what’s the secret?",
     "small 'te quiero', big love.",
@@ -21002,6 +20997,11 @@
     "feel their welcome grow.",
     "embrace the journey's start.",
     "stop fearing their judgment.",
-    "their nod of understanding?"
+    "their nod of understanding?",
+    "what if they *love* your accent?",
+    "your courage echoes loudly. try!",
+    "unlock smiles: just say 'hola'.",
+    "they're listening. speak your truth.",
+    "small words build big friendships."
   ]
 }
