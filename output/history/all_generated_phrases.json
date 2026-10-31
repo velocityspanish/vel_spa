@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Imagine, speaking Spanish fluently!",
-      "spanish": "¡Imagina, hablando español fluidamente!",
-      "category": "Gratitude",
-      "generated_at": "2026-06-26T15:25:11.026659"
-    },
-    {
-      "english": "Your spirit, now unfettered.",
-      "spanish": "Tu espíritu, ahora sin ataduras.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-26T15:25:11.026683"
-    },
-    {
-      "english": "Your courage, beautifully showing.",
-      "spanish": "Tu coraje, bellamente mostrándose.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-26T15:25:11.026699"
-    },
-    {
-      "english": "Fact: You communicate more.",
-      "spanish": "Hecho: Te comunicas más.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-26T15:25:11.026715"
-    },
-    {
-      "english": "Why hold onto worries? Release.",
-      "spanish": "¿Por qué aferrarse a preocupaciones? Libera.",
-      "category": "Gratitude",
-      "generated_at": "2026-06-26T15:25:11.026731"
-    },
-    {
       "english": "This one word? Unlocks progress.",
       "spanish": "Esta palabra, ¿desbloquea progreso?",
       "category": "Patience",
@@ -17999,15 +17969,40 @@
       "spanish": "Nunca te subestimes.",
       "category": "Hope",
       "generated_at": "2026-10-31T03:58:02.347757"
+    },
+    {
+      "english": "Your Spanish clicks. Now what?",
+      "spanish": "Tu español encaja. ¿Y ahora?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T13:50:38.557458"
+    },
+    {
+      "english": "Embrace the wobble, keep speaking.",
+      "spanish": "Abraza el tambaleo, sigue hablando.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T13:50:38.557491"
+    },
+    {
+      "english": "That tiny 'r' sounds amazing.",
+      "spanish": "Esa pequeña 'r' suena increíble.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T13:50:38.557514"
+    },
+    {
+      "english": "Wisdom: Patience wins the language.",
+      "spanish": "Sabiduría: La paciencia gana el idioma.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T13:50:38.557533"
+    },
+    {
+      "english": "Feeling stuck? Say 'Ayuda'.",
+      "spanish": "¿Te sientes atascado? Di 'Ayuda'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T13:50:38.557554"
     }
   ],
-  "last_updated": "2026-10-31T03:58:02.347759",
+  "last_updated": "2026-10-31T13:50:38.557555",
   "used_english": [
-    "imagine, speaking spanish fluently!",
-    "your spirit, now unfettered.",
-    "your courage, beautifully showing.",
-    "fact: you communicate more.",
-    "why hold onto worries? release.",
     "this one word? unlocks progress.",
     "your tiny 'hola', huge connection.",
     "why rush this beautiful journey?",
@@ -21002,6 +20997,11 @@
     "your voice unlocks smiles, truly.",
     "the magic of small talk.",
     "embrace the journey, enjoy.",
-    "never underestimate yourself."
+    "never underestimate yourself.",
+    "your spanish clicks. now what?",
+    "embrace the wobble, keep speaking.",
+    "that tiny 'r' sounds amazing.",
+    "wisdom: patience wins the language.",
+    "feeling stuck? say 'ayuda'."
   ]
 }
