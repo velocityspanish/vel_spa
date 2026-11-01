@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your kindness, Spanish accent.",
-      "spanish": "Tu amabilidad, acento español.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T16:06:28.479146"
-    },
-    {
-      "english": "Hear this subtle compliment.",
-      "spanish": "Oye este cumplido sutil.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T16:06:28.479183"
-    },
-    {
-      "english": "One shared 'gracias' works.",
-      "spanish": "Un 'gracias' compartido funciona.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T16:06:28.479211"
-    },
-    {
-      "english": "Your empathy resonates, speak.",
-      "spanish": "Tu empatía resuena, habla.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T16:06:28.479240"
-    },
-    {
-      "english": "Surprise! You connect with this.",
-      "spanish": "¡Sorpresa! Te conectas con esto.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T16:06:28.479266"
-    },
-    {
       "english": "Your brain, rewired for Spanish.",
       "spanish": "Tu cerebro, recableado para español.",
       "category": "Strength",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu progreso es su inspiración.",
       "category": "Courage",
       "generated_at": "2026-11-01T14:29:02.074868"
+    },
+    {
+      "english": "Their smile? Your motivation.",
+      "spanish": "Su sonrisa? Tu motivación.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T17:46:54.665658"
+    },
+    {
+      "english": "One sound bridges the gap.",
+      "spanish": "Un sonido une la brecha.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T17:46:54.665693"
+    },
+    {
+      "english": "Ready for surprise? Speak!",
+      "spanish": "¿Listo para sorprender? ¡Habla!",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T17:46:54.665719"
+    },
+    {
+      "english": "This accent? Beautifully unique.",
+      "spanish": "Este acento? Bellamente único.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T17:46:54.665744"
+    },
+    {
+      "english": "Embrace the pause. They wait.",
+      "spanish": "Abraza la pausa. Esperan.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T17:46:54.665771"
     }
   ],
-  "last_updated": "2026-11-01T14:29:02.074870",
+  "last_updated": "2026-11-01T17:46:54.665773",
   "used_english": [
-    "your kindness, spanish accent.",
-    "hear this subtle compliment.",
-    "one shared 'gracias' works.",
-    "your empathy resonates, speak.",
-    "surprise! you connect with this.",
     "your brain, rewired for spanish.",
     "what if progress sounds like this?",
     "why silence hinders connection.",
@@ -21002,6 +20997,11 @@
     "feel their surprise? speak more.",
     "this small phrase unlocks welcome.",
     "stop fearing. your spanish shines.",
-    "your progress is their inspiration."
+    "your progress is their inspiration.",
+    "their smile? your motivation.",
+    "one sound bridges the gap.",
+    "ready for surprise? speak!",
+    "this accent? beautifully unique.",
+    "embrace the pause. they wait."
   ]
 }
