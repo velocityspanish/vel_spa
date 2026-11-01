@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curious? It's simpler than you think.",
-      "spanish": "¿Curioso? Es más simple de lo que crees.",
-      "category": "Success",
-      "generated_at": "2026-06-26T22:20:10.954535"
-    },
-    {
-      "english": "Your next word? A breakthrough.",
-      "spanish": "Tu próxima palabra, un avance.",
-      "category": "Success",
-      "generated_at": "2026-06-26T22:20:10.954558"
-    },
-    {
-      "english": "Feel this? Your brain's rewiring.",
-      "spanish": "¿Sientes esto? Tu cerebro se adapta.",
-      "category": "Success",
-      "generated_at": "2026-06-26T22:20:10.954571"
-    },
-    {
-      "english": "Unlock joy: Say 'por favor'.",
-      "spanish": "Desbloquea alegría: di 'por favor'.",
-      "category": "Success",
-      "generated_at": "2026-06-26T22:20:10.954584"
-    },
-    {
-      "english": "Why hide your voice? Share.",
-      "spanish": "¿Por qué ocultar tu voz? Comparte.",
-      "category": "Success",
-      "generated_at": "2026-06-26T22:20:10.954597"
-    },
-    {
       "english": "Your brain craves connection, amigo.",
       "spanish": "Tu cerebro anhela conexión, amigo.",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza lo raro, halla gozo.",
       "category": "Joy",
       "generated_at": "2026-10-31T23:26:09.273779"
+    },
+    {
+      "english": "Want their attention? Listen.",
+      "spanish": "¿Quieres su atención? Escucha.",
+      "category": "Success",
+      "generated_at": "2026-11-01T04:10:54.421497"
+    },
+    {
+      "english": "Surprise! They understand gestures.",
+      "spanish": "¡Sorpresa! Entienden gestos.",
+      "category": "Success",
+      "generated_at": "2026-11-01T04:10:54.421525"
+    },
+    {
+      "english": "This single word works wonders.",
+      "spanish": "Esta sola palabra obra maravillas.",
+      "category": "Success",
+      "generated_at": "2026-11-01T04:10:54.421546"
+    },
+    {
+      "english": "Feel their smiles. You’re doing great.",
+      "spanish": "Siente sus sonrisas. Lo haces bien.",
+      "category": "Success",
+      "generated_at": "2026-11-01T04:10:54.421564"
+    },
+    {
+      "english": "Curious? They're listening intently.",
+      "spanish": "¿Curioso? Te escuchan atentamente.",
+      "category": "Success",
+      "generated_at": "2026-11-01T04:10:54.421582"
     }
   ],
-  "last_updated": "2026-10-31T23:26:09.273780",
+  "last_updated": "2026-11-01T04:10:54.421584",
   "used_english": [
-    "curious? it's simpler than you think.",
-    "your next word? a breakthrough.",
-    "feel this? your brain's rewiring.",
-    "unlock joy: say 'por favor'.",
-    "why hide your voice? share.",
     "your brain craves connection, amigo.",
     "this sounds unlock understanding, listen.",
     "curious? your progress is visible.",
@@ -21002,6 +20997,11 @@
     "wisdom: kindness costs nothing.",
     "feel understood? it's amazing.",
     "what if they're listening closely?",
-    "embrace the awkward, find joy."
+    "embrace the awkward, find joy.",
+    "want their attention? listen.",
+    "surprise! they understand gestures.",
+    "this single word works wonders.",
+    "feel their smiles. you’re doing great.",
+    "curious? they're listening intently."
   ]
 }
