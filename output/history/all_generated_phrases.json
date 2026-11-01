@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Feeling lost? Try 'ayuda'.",
-      "spanish": "¿Te sientes perdido? Prueba 'ayuda'.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T20:03:11.978210"
-    },
-    {
-      "english": "This sounds spark friendship.",
-      "spanish": "Estos sonidos encienden amistad.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T20:03:11.978236"
-    },
-    {
-      "english": "Wisdom: Kindness needs no accent.",
-      "spanish": "Sabiduría: Bondad no necesita acento.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T20:03:11.978252"
-    },
-    {
-      "english": "Your small talk connects.",
-      "spanish": "Tu charla pequeña conecta.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T20:03:11.978268"
-    },
-    {
-      "english": "Never stop saying 'por favor'.",
-      "spanish": "Nunca dejes de decir 'por favor'.",
-      "category": "Kindness",
-      "generated_at": "2026-06-27T20:03:11.978285"
-    },
-    {
       "english": "Unburden your heart, friend.",
       "spanish": "Descarga tu corazón, amigo.",
       "category": "Forgiveness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Listo para conversaciones reales?",
       "category": "Hope",
       "generated_at": "2026-11-01T20:44:59.706126"
+    },
+    {
+      "english": "Feeling brave? Say 'hola' now.",
+      "spanish": "¿Sientes valentía? Di 'hola' ahora.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T23:38:33.402868"
+    },
+    {
+      "english": "Your progress truly inspires them.",
+      "spanish": "Tu progreso realmente les inspira.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T23:38:33.402903"
+    },
+    {
+      "english": "Small effort, huge connection made.",
+      "spanish": "Pequeño esfuerzo, gran conexión lograda.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T23:38:33.402927"
+    },
+    {
+      "english": "What if they're waiting for you?",
+      "spanish": "¿Y si te están esperando?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T23:38:33.402953"
+    },
+    {
+      "english": "Ready for their genuine smile?",
+      "spanish": "¿Listo para su sonrisa genuina?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-01T23:38:33.402979"
     }
   ],
-  "last_updated": "2026-11-01T20:44:59.706129",
+  "last_updated": "2026-11-01T23:38:33.402982",
   "used_english": [
-    "feeling lost? try 'ayuda'.",
-    "this sounds spark friendship.",
-    "wisdom: kindness needs no accent.",
-    "your small talk connects.",
-    "never stop saying 'por favor'.",
     "unburden your heart, friend.",
     "this changes everything, right?",
     "releasing hurt, feeling lighter.",
@@ -21002,6 +20997,11 @@
     "believe your accent is unique.",
     "this rhythm makes you flow.",
     "their smile is your fuel.",
-    "ready for real conversations?"
+    "ready for real conversations?",
+    "feeling brave? say 'hola' now.",
+    "your progress truly inspires them.",
+    "small effort, huge connection made.",
+    "what if they're waiting for you?",
+    "ready for their genuine smile?"
   ]
 }
