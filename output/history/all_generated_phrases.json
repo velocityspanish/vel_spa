@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your brain, rewired for Spanish.",
-      "spanish": "Tu cerebro, recableado para español.",
-      "category": "Strength",
-      "generated_at": "2026-06-27T17:56:01.469481"
-    },
-    {
-      "english": "What if progress sounds like this?",
-      "spanish": "¿Qué si el progreso suena así?",
-      "category": "Strength",
-      "generated_at": "2026-06-27T17:56:01.469502"
-    },
-    {
-      "english": "Why silence hinders connection.",
-      "spanish": "Por qué el silencio obstaculiza la conexión.",
-      "category": "Strength",
-      "generated_at": "2026-06-27T17:56:01.469519"
-    },
-    {
-      "english": "Your next word: pure connection.",
-      "spanish": "Tu próxima palabra: conexión pura.",
-      "category": "Strength",
-      "generated_at": "2026-06-27T17:56:01.469535"
-    },
-    {
-      "english": "Embrace the spoken word.",
-      "spanish": "Abraza la palabra hablada.",
-      "category": "Strength",
-      "generated_at": "2026-06-27T17:56:01.469550"
-    },
-    {
       "english": "Feeling lost? Try 'ayuda'.",
       "spanish": "¿Te sientes perdido? Prueba 'ayuda'.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "Abraza la pausa. Esperan.",
       "category": "Wisdom",
       "generated_at": "2026-11-01T17:46:54.665771"
+    },
+    {
+      "english": "Your effort is *seen*.",
+      "spanish": "Tu esfuerzo es *visto*.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T20:44:59.706013"
+    },
+    {
+      "english": "Believe your accent is unique.",
+      "spanish": "Cree que tu acento es único.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T20:44:59.706049"
+    },
+    {
+      "english": "This rhythm makes you flow.",
+      "spanish": "Este ritmo te hace fluir.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T20:44:59.706076"
+    },
+    {
+      "english": "Their smile is your fuel.",
+      "spanish": "Su sonrisa es tu combustible.",
+      "category": "Hope",
+      "generated_at": "2026-11-01T20:44:59.706100"
+    },
+    {
+      "english": "Ready for real conversations?",
+      "spanish": "¿Listo para conversaciones reales?",
+      "category": "Hope",
+      "generated_at": "2026-11-01T20:44:59.706126"
     }
   ],
-  "last_updated": "2026-11-01T17:46:54.665773",
+  "last_updated": "2026-11-01T20:44:59.706129",
   "used_english": [
-    "your brain, rewired for spanish.",
-    "what if progress sounds like this?",
-    "why silence hinders connection.",
-    "your next word: pure connection.",
-    "embrace the spoken word.",
     "feeling lost? try 'ayuda'.",
     "this sounds spark friendship.",
     "wisdom: kindness needs no accent.",
@@ -21002,6 +20997,11 @@
     "one sound bridges the gap.",
     "ready for surprise? speak!",
     "this accent? beautifully unique.",
-    "embrace the pause. they wait."
+    "embrace the pause. they wait.",
+    "your effort is *seen*.",
+    "believe your accent is unique.",
+    "this rhythm makes you flow.",
+    "their smile is your fuel.",
+    "ready for real conversations?"
   ]
 }
