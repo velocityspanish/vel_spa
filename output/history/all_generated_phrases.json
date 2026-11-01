@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Your brain craves connection, amigo.",
-      "spanish": "Tu cerebro anhela conexión, amigo.",
-      "category": "Hope",
-      "generated_at": "2026-06-27T14:44:40.429539"
-    },
-    {
-      "english": "This sounds unlock understanding, listen.",
-      "spanish": "Estos sonidos desbloquean entendimiento, escucha.",
-      "category": "Hope",
-      "generated_at": "2026-06-27T14:44:40.429561"
-    },
-    {
-      "english": "Curious? Your progress is visible.",
-      "spanish": "¿Curioso? Tu progreso es visible.",
-      "category": "Hope",
-      "generated_at": "2026-06-27T14:44:40.429603"
-    },
-    {
-      "english": "One tiny word, huge feeling.",
-      "spanish": "Una palabra pequeña, sentimiento enorme.",
-      "category": "Hope",
-      "generated_at": "2026-06-27T14:44:40.429620"
-    },
-    {
-      "english": "Surprise! You speak more daily.",
-      "spanish": "¡Sorpresa! Hablas más diario.",
-      "category": "Hope",
-      "generated_at": "2026-06-27T14:44:40.429637"
-    },
-    {
       "english": "Your kindness, Spanish accent.",
       "spanish": "Tu amabilidad, acento español.",
       "category": "Kindness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Curioso? Te escuchan atentamente.",
       "category": "Success",
       "generated_at": "2026-11-01T04:10:54.421582"
+    },
+    {
+      "english": "Your voice echoes bravery, try it.",
+      "spanish": "Tu voz resuena valentía, pruébalo.",
+      "category": "Courage",
+      "generated_at": "2026-11-01T14:29:02.074739"
+    },
+    {
+      "english": "Feel their surprise? Speak more.",
+      "spanish": "¿Sientes su sorpresa? Habla más.",
+      "category": "Courage",
+      "generated_at": "2026-11-01T14:29:02.074775"
+    },
+    {
+      "english": "This small phrase unlocks welcome.",
+      "spanish": "Esta frase pequeña abre bienvenida.",
+      "category": "Courage",
+      "generated_at": "2026-11-01T14:29:02.074806"
+    },
+    {
+      "english": "Stop fearing. Your Spanish shines.",
+      "spanish": "Deja de temer. Tu español brilla.",
+      "category": "Courage",
+      "generated_at": "2026-11-01T14:29:02.074844"
+    },
+    {
+      "english": "Your progress is their inspiration.",
+      "spanish": "Tu progreso es su inspiración.",
+      "category": "Courage",
+      "generated_at": "2026-11-01T14:29:02.074868"
     }
   ],
-  "last_updated": "2026-11-01T04:10:54.421584",
+  "last_updated": "2026-11-01T14:29:02.074870",
   "used_english": [
-    "your brain craves connection, amigo.",
-    "this sounds unlock understanding, listen.",
-    "curious? your progress is visible.",
-    "one tiny word, huge feeling.",
-    "surprise! you speak more daily.",
     "your kindness, spanish accent.",
     "hear this subtle compliment.",
     "one shared 'gracias' works.",
@@ -21002,6 +20997,11 @@
     "surprise! they understand gestures.",
     "this single word works wonders.",
     "feel their smiles. you’re doing great.",
-    "curious? they're listening intently."
+    "curious? they're listening intently.",
+    "your voice echoes bravery, try it.",
+    "feel their surprise? speak more.",
+    "this small phrase unlocks welcome.",
+    "stop fearing. your spanish shines.",
+    "your progress is their inspiration."
   ]
 }
