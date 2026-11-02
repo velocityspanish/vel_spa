@@ -3,10 +3,10 @@ name: Velocity Spanish - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '30 7 * * *'   # 8:30 AM Madrid
-    - cron: '0 12 * * *'   # 1:00 PM Madrid / Americas Morning
-    - cron: '30 16 * * *'  # 5:30 PM Madrid / 11:30 AM EDT
-    - cron: '15 20 * * *'  # 9:15 PM Madrid / 3:15 PM EDT
+    #- cron: '30 7 * * *'   # 8:30 AM Madrid
+    #- cron: '0 12 * * *'   # 1:00 PM Madrid / Americas Morning
+    #- cron: '30 16 * * *'  # 5:30 PM Madrid / 11:30 AM EDT
+    #- cron: '15 20 * * *'  # 9:15 PM Madrid / 3:15 PM EDT
     - cron: '0 0 * * *'    # 7:00 PM EDT / LatAm Evening
 
   # Allow manual trigger for testing
