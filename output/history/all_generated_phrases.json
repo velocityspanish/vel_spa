@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Unburden your heart, friend.",
-      "spanish": "Descarga tu corazón, amigo.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T22:09:22.799319"
-    },
-    {
-      "english": "This changes everything, right?",
-      "spanish": "¿Esto lo cambia todo, verdad?",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T22:09:22.799344"
-    },
-    {
-      "english": "Releasing hurt, feeling lighter.",
-      "spanish": "Soltando el dolor, sintiéndote ligero.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T22:09:22.799361"
-    },
-    {
-      "english": "What if they change?",
-      "spanish": "¿Qué tal si cambian?",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T22:09:22.799375"
-    },
-    {
-      "english": "Small 'lo siento', big impact.",
-      "spanish": "'Lo siento' pequeño, gran impacto.",
-      "category": "Forgiveness",
-      "generated_at": "2026-06-27T22:09:22.799391"
-    },
-    {
       "english": "One correct phrase, huge confidence.",
       "spanish": "Una frase correcta, gran confianza.",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Listo para su sonrisa genuina?",
       "category": "Wisdom",
       "generated_at": "2026-11-01T23:38:33.402979"
+    },
+    {
+      "english": "Their surprise? Your progress.",
+      "spanish": "¿Su sorpresa? Tu progreso.",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T04:16:21.877446"
+    },
+    {
+      "english": "Feel connected? Say 'amigo'.",
+      "spanish": "¿Te sientes conectado? Di 'amigo'.",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T04:16:21.877483"
+    },
+    {
+      "english": "Their welcome is genuine.",
+      "spanish": "Su bienvenida es genuina.",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T04:16:21.877508"
+    },
+    {
+      "english": "Your effort shows. Wow!",
+      "spanish": "Tu esfuerzo se nota. ¡Wow!",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T04:16:21.877532"
+    },
+    {
+      "english": "Surprise! They love hearing you.",
+      "spanish": "¡Sorpresa! Les encanta oírte.",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T04:16:21.877571"
     }
   ],
-  "last_updated": "2026-11-01T23:38:33.402982",
+  "last_updated": "2026-11-02T04:16:21.877574",
   "used_english": [
-    "unburden your heart, friend.",
-    "this changes everything, right?",
-    "releasing hurt, feeling lighter.",
-    "what if they change?",
-    "small 'lo siento', big impact.",
     "one correct phrase, huge confidence.",
     "curious? the best practice.",
     "feel that progress, amigo.",
@@ -21002,6 +20997,11 @@
     "your progress truly inspires them.",
     "small effort, huge connection made.",
     "what if they're waiting for you?",
-    "ready for their genuine smile?"
+    "ready for their genuine smile?",
+    "their surprise? your progress.",
+    "feel connected? say 'amigo'.",
+    "their welcome is genuine.",
+    "your effort shows. wow!",
+    "surprise! they love hearing you."
   ]
 }
