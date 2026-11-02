@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "One correct phrase, huge confidence.",
-      "spanish": "Una frase correcta, gran confianza.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-28T14:50:01.765387"
-    },
-    {
-      "english": "Curious? The best practice.",
-      "spanish": "¿Curioso? La mejor práctica.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-28T14:50:01.765413"
-    },
-    {
-      "english": "Feel that progress, amigo.",
-      "spanish": "Siente ese progreso, amigo.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-28T14:50:01.765430"
-    },
-    {
-      "english": "This feeling? Authentic connection.",
-      "spanish": "¿Este sentimiento? Conexión auténtica.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-28T14:50:01.765446"
-    },
-    {
-      "english": "Wisdom: Kindness requires no translation.",
-      "spanish": "Sabiduría: La amabilidad no requiere traducción.",
-      "category": "Mindfulness",
-      "generated_at": "2026-06-28T14:50:01.765459"
-    },
-    {
       "english": "What if your words connect deeper?",
       "spanish": "¿Y si tus palabras conectan más profundo?",
       "category": "Mindfulness",
@@ -17999,15 +17969,40 @@
       "spanish": "¡Sorpresa! Les encanta oírte.",
       "category": "Friendship",
       "generated_at": "2026-11-02T04:16:21.877571"
+    },
+    {
+      "english": "Your future Spanish speaks volumes.",
+      "spanish": "Tu futuro español habla mucho.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T17:23:22.325076"
+    },
+    {
+      "english": "Feeling lost? Speak 'perdón'.",
+      "spanish": "¿Sentirse perdido? Diga 'perdón'.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T17:23:22.325117"
+    },
+    {
+      "english": "One question, starts connection.",
+      "spanish": "Una pregunta, empieza conexión.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T17:23:22.325145"
+    },
+    {
+      "english": "Never give up learning this.",
+      "spanish": "Nunca renuncies a aprender esto.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T17:23:22.325172"
+    },
+    {
+      "english": "Their smiles are your progress.",
+      "spanish": "Sus sonrisas son tu progreso.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T17:23:22.325198"
     }
   ],
-  "last_updated": "2026-11-02T04:16:21.877574",
+  "last_updated": "2026-11-02T17:23:22.325201",
   "used_english": [
-    "one correct phrase, huge confidence.",
-    "curious? the best practice.",
-    "feel that progress, amigo.",
-    "this feeling? authentic connection.",
-    "wisdom: kindness requires no translation.",
     "what if your words connect deeper?",
     "this tiny sound unlocks trust.",
     "this moment? pure learning.",
@@ -21002,6 +20997,11 @@
     "feel connected? say 'amigo'.",
     "their welcome is genuine.",
     "your effort shows. wow!",
-    "surprise! they love hearing you."
+    "surprise! they love hearing you.",
+    "your future spanish speaks volumes.",
+    "feeling lost? speak 'perdón'.",
+    "one question, starts connection.",
+    "never give up learning this.",
+    "their smiles are your progress."
   ]
 }
