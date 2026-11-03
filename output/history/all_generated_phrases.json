@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sound breaks the ice.",
-      "spanish": "Este sonido rompe el hielo.",
-      "category": "Purpose",
-      "generated_at": "2026-06-28T17:59:27.884671"
-    },
-    {
-      "english": "Why so shy to speak?",
-      "spanish": "¿Por qué tanta pena hablar?",
-      "category": "Purpose",
-      "generated_at": "2026-06-28T17:59:27.884698"
-    },
-    {
-      "english": "Fact: Your brain adapts faster.",
-      "spanish": "Hecho: Tu cerebro se adapta.",
-      "category": "Purpose",
-      "generated_at": "2026-06-28T17:59:27.884713"
-    },
-    {
-      "english": "One shared 'lo siento,' heals.",
-      "spanish": "Un 'lo siento' compartido, sana.",
-      "category": "Purpose",
-      "generated_at": "2026-06-28T17:59:27.884728"
-    },
-    {
-      "english": "Your voice: finally unmuted.",
-      "spanish": "Tu voz: finalmente desbloqueada.",
-      "category": "Purpose",
-      "generated_at": "2026-06-28T17:59:27.884743"
-    },
-    {
       "english": "Curious? What if they understand?",
       "spanish": "¿Curioso? ¿Y si te entienden?",
       "category": "Hope",
@@ -17999,15 +17969,40 @@
       "spanish": "Escucha atentamente, aprenden también.",
       "category": "Wisdom",
       "generated_at": "2026-11-02T21:33:07.382202"
+    },
+    {
+      "english": "Trust the unfolding process.",
+      "spanish": "Confía en el proceso.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T05:14:23.327224"
+    },
+    {
+      "english": "Why this word stuns speakers?",
+      "spanish": "¿Por qué esta palabra asombra?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T05:14:23.327259"
+    },
+    {
+      "english": "Wisdom: Small moments connect.",
+      "spanish": "Sabiduría: Pequeños momentos conectan.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T05:14:23.327286"
+    },
+    {
+      "english": "Breathe. You're learning beautifully.",
+      "spanish": "Respira. Aprendes bellamente.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T05:14:23.327309"
+    },
+    {
+      "english": "The secret? Slow, steady wins.",
+      "spanish": "El secreto: Lento, constante.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T05:14:23.327336"
     }
   ],
-  "last_updated": "2026-11-02T21:33:07.382204",
+  "last_updated": "2026-11-03T05:14:23.327338",
   "used_english": [
-    "this sound breaks the ice.",
-    "why so shy to speak?",
-    "fact: your brain adapts faster.",
-    "one shared 'lo siento,' heals.",
-    "your voice: finally unmuted.",
     "curious? what if they understand?",
     "tiny effort, giant connection.",
     "one word: instant friendship?",
@@ -21002,6 +20997,11 @@
     "this phrase creates welcome.",
     "real connection starts here.",
     "that accent? absolutely charming.",
-    "listen closely, they're learning too."
+    "listen closely, they're learning too.",
+    "trust the unfolding process.",
+    "why this word stuns speakers?",
+    "wisdom: small moments connect.",
+    "breathe. you're learning beautifully.",
+    "the secret? slow, steady wins."
   ]
 }
