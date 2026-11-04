@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Curious? What if they understand?",
-      "spanish": "¿Curioso? ¿Y si te entienden?",
-      "category": "Hope",
-      "generated_at": "2026-06-28T20:06:39.143052"
-    },
-    {
-      "english": "Tiny effort, giant connection.",
-      "spanish": "Esfuerzo mínimo, conexión gigante.",
-      "category": "Hope",
-      "generated_at": "2026-06-28T20:06:39.143077"
-    },
-    {
-      "english": "One word: instant friendship?",
-      "spanish": "Una palabra: ¿amistad instantánea?",
-      "category": "Hope",
-      "generated_at": "2026-06-28T20:06:39.143094"
-    },
-    {
-      "english": "This feeling: progress is real.",
-      "spanish": "Esta sensación: el progreso es real.",
-      "category": "Hope",
-      "generated_at": "2026-06-28T20:06:39.143111"
-    },
-    {
-      "english": "Listen! Your fluency is coming.",
-      "spanish": "¡Escucha! Tu fluidez viene.",
-      "category": "Hope",
-      "generated_at": "2026-06-28T20:06:39.143126"
-    },
-    {
       "english": "This sound, instant connection. Listen.",
       "spanish": "Este sonido, conexión instantánea. Escucha.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "El secreto: Lento, constante.",
       "category": "Patience",
       "generated_at": "2026-11-03T05:14:23.327336"
+    },
+    {
+      "english": "Say this, breathe, then answer",
+      "spanish": "Di esto, respira, luego responde",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T04:45:42.237474"
+    },
+    {
+      "english": "What if ‘por favor’ fixes everything?",
+      "spanish": "¿Y si “por favor” lo arregla?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T04:45:42.237509"
+    },
+    {
+      "english": "Pause first, your Spanish sounds better",
+      "spanish": "Pausa primero, tu español suena mejor",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T04:45:42.237531"
+    },
+    {
+      "english": "Your accent isn’t a problem",
+      "spanish": "Tu acento no es problema",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T04:45:42.237555"
+    },
+    {
+      "english": "Breathe in, let ‘hola’ lead",
+      "spanish": "Inhala, deja que “hola” guíe",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T04:45:42.237579"
     }
   ],
-  "last_updated": "2026-11-03T05:14:23.327338",
+  "last_updated": "2026-11-04T04:45:42.237581",
   "used_english": [
-    "curious? what if they understand?",
-    "tiny effort, giant connection.",
-    "one word: instant friendship?",
-    "this feeling: progress is real.",
-    "listen! your fluency is coming.",
     "this sound, instant connection. listen.",
     "your brain rewiring, amazing!",
     "small 'hola', big doors open.",
@@ -21002,6 +20997,11 @@
     "why this word stuns speakers?",
     "wisdom: small moments connect.",
     "breathe. you're learning beautifully.",
-    "the secret? slow, steady wins."
+    "the secret? slow, steady wins.",
+    "say this, breathe, then answer",
+    "what if ‘por favor’ fixes everything?",
+    "pause first, your spanish sounds better",
+    "your accent isn’t a problem",
+    "breathe in, let ‘hola’ lead"
   ]
 }
