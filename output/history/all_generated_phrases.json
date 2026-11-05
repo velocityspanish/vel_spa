@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "This sound, instant connection. Listen.",
-      "spanish": "Este sonido, conexión instantánea. Escucha.",
-      "category": "Success",
-      "generated_at": "2026-06-28T22:07:59.693552"
-    },
-    {
-      "english": "Your brain rewiring, amazing!",
-      "spanish": "Tu cerebro recableando, ¡increíble!",
-      "category": "Success",
-      "generated_at": "2026-06-28T22:07:59.693578"
-    },
-    {
-      "english": "Small 'hola', big doors open.",
-      "spanish": "Pequeño 'hola', grandes puertas abren.",
-      "category": "Success",
-      "generated_at": "2026-06-28T22:07:59.693595"
-    },
-    {
-      "english": "This feeling: You understand.",
-      "spanish": "Este sentimiento: Entiendes.",
-      "category": "Success",
-      "generated_at": "2026-06-28T22:07:59.693611"
-    },
-    {
-      "english": "Curious? Your accent matters less.",
-      "spanish": "¿Curioso? Tu acento importa menos.",
-      "category": "Success",
-      "generated_at": "2026-06-28T22:07:59.693627"
-    },
-    {
       "english": "Peace in speaking, friend.",
       "spanish": "Paz al hablar, amigo.",
       "category": "Inner Peace",
@@ -17999,15 +17969,40 @@
       "spanish": "Inhala, deja que “hola” guíe",
       "category": "Mindfulness",
       "generated_at": "2026-11-04T04:45:42.237579"
+    },
+    {
+      "english": "Steal this phrase, feel instant",
+      "spanish": "Roba esta frase, siente instantáneo",
+      "category": "Inspiration",
+      "generated_at": "2026-11-05T04:59:21.378493"
+    },
+    {
+      "english": "Did you know '¿cómo estás?' works?",
+      "spanish": "¿Sabías que '¿cómo estás?' funciona?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-05T04:59:21.378530"
+    },
+    {
+      "english": "Confidence grows after one try",
+      "spanish": "La confianza crece tras un intento",
+      "category": "Inspiration",
+      "generated_at": "2026-11-05T04:59:21.378554"
+    },
+    {
+      "english": "Say it softer, you’ll be understood",
+      "spanish": "Dilo más suave, te entienden",
+      "category": "Inspiration",
+      "generated_at": "2026-11-05T04:59:21.378575"
+    },
+    {
+      "english": "Your mistake is your shortcut",
+      "spanish": "Tu error es tu atajo",
+      "category": "Inspiration",
+      "generated_at": "2026-11-05T04:59:21.378597"
     }
   ],
-  "last_updated": "2026-11-04T04:45:42.237581",
+  "last_updated": "2026-11-05T04:59:21.378599",
   "used_english": [
-    "this sound, instant connection. listen.",
-    "your brain rewiring, amazing!",
-    "small 'hola', big doors open.",
-    "this feeling: you understand.",
-    "curious? your accent matters less.",
     "peace in speaking, friend.",
     "why hold back your voice?",
     "this sounds unlock calm.",
@@ -21002,6 +20997,11 @@
     "what if ‘por favor’ fixes everything?",
     "pause first, your spanish sounds better",
     "your accent isn’t a problem",
-    "breathe in, let ‘hola’ lead"
+    "breathe in, let ‘hola’ lead",
+    "steal this phrase, feel instant",
+    "did you know '¿cómo estás?' works?",
+    "confidence grows after one try",
+    "say it softer, you’ll be understood",
+    "your mistake is your shortcut"
   ]
 }
