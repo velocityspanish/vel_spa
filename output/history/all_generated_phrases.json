@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Peace in speaking, friend.",
-      "spanish": "Paz al hablar, amigo.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-29T16:39:10.131496"
-    },
-    {
-      "english": "Why hold back your voice?",
-      "spanish": "¿Por qué callar tu voz?",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-29T16:39:10.131523"
-    },
-    {
-      "english": "This sounds unlock calm.",
-      "spanish": "Estos sonidos desbloquean calma.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-29T16:39:10.131539"
-    },
-    {
-      "english": "Imagine fluent peace inside.",
-      "spanish": "Imagina paz fluida adentro.",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-29T16:39:10.131557"
-    },
-    {
-      "english": "What if speaking frees you?",
-      "spanish": "¿Y si hablar te libera?",
-      "category": "Inner Peace",
-      "generated_at": "2026-06-29T16:39:10.131574"
-    },
-    {
       "english": "Unlock joy: just say 'adiós'.",
       "spanish": "Desbloquea la alegría: solo di 'adiós'.",
       "category": "Motivation",
@@ -17999,15 +17969,40 @@
       "spanish": "Tu error es tu atajo",
       "category": "Inspiration",
       "generated_at": "2026-11-05T04:59:21.378597"
+    },
+    {
+      "english": "Want faster Spanish wins? Use pauses",
+      "spanish": "¿Quieres victorias más rápidas? Usa pausas",
+      "category": "Strength",
+      "generated_at": "2026-11-06T05:00:43.812353"
+    },
+    {
+      "english": "That '¿cómo?' opens doors instantly",
+      "spanish": "Ese «¿cómo?» abre puertas al instante",
+      "category": "Strength",
+      "generated_at": "2026-11-06T05:00:43.812388"
+    },
+    {
+      "english": "Small practice, huge courage today",
+      "spanish": "Práctica pequeña, valentía enorme hoy",
+      "category": "Strength",
+      "generated_at": "2026-11-06T05:00:43.812414"
+    },
+    {
+      "english": "Your accent is a love letter",
+      "spanish": "Tu acento es una carta de amor",
+      "category": "Strength",
+      "generated_at": "2026-11-06T05:00:43.812441"
+    },
+    {
+      "english": "Reply with ‘lo siento’, feel respected",
+      "spanish": "Responde «lo siento», te respetan",
+      "category": "Strength",
+      "generated_at": "2026-11-06T05:00:43.812465"
     }
   ],
-  "last_updated": "2026-11-05T04:59:21.378599",
+  "last_updated": "2026-11-06T05:00:43.812467",
   "used_english": [
-    "peace in speaking, friend.",
-    "why hold back your voice?",
-    "this sounds unlock calm.",
-    "imagine fluent peace inside.",
-    "what if speaking frees you?",
     "unlock joy: just say 'adiós'.",
     "small 'gracias', huge connection.",
     "feeling shy? try 'hola'.",
@@ -21002,6 +20997,11 @@
     "did you know '¿cómo estás?' works?",
     "confidence grows after one try",
     "say it softer, you’ll be understood",
-    "your mistake is your shortcut"
+    "your mistake is your shortcut",
+    "want faster spanish wins? use pauses",
+    "that '¿cómo?' opens doors instantly",
+    "small practice, huge courage today",
+    "your accent is a love letter",
+    "reply with ‘lo siento’, feel respected"
   ]
 }
