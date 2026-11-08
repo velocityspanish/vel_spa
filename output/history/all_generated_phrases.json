@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Future you: So proud!",
-      "spanish": "Tu yo futuro: ¡Orgulloso!",
-      "category": "Inspiration",
-      "generated_at": "2026-06-29T18:59:20.548277"
-    },
-    {
-      "english": "Why fear the accent?",
-      "spanish": "¿Por qué temer el acento?",
-      "category": "Inspiration",
-      "generated_at": "2026-06-29T18:59:20.548302"
-    },
-    {
-      "english": "Small steps equal big connections.",
-      "spanish": "Pequeños pasos, grandes conexiones.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-29T18:59:20.548320"
-    },
-    {
-      "english": "Curious? The reward is huge.",
-      "spanish": "¿Curioso? La recompensa es enorme.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-29T18:59:20.548338"
-    },
-    {
-      "english": "Your brain loves this.",
-      "spanish": "Tu cerebro ama esto.",
-      "category": "Inspiration",
-      "generated_at": "2026-06-29T18:59:20.548353"
-    },
-    {
       "english": "This sound sparks instant connection.",
       "spanish": "Este sonido conecta al instante.",
       "category": "Success",
@@ -17999,15 +17969,40 @@
       "spanish": "¿Cómo dices “gracias”?",
       "category": "Joy",
       "generated_at": "2026-11-07T04:30:52.594937"
+    },
+    {
+      "english": "Kindness starts with “por favor”",
+      "spanish": "La amabilidad empieza con “por favor”",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T04:18:07.294210"
+    },
+    {
+      "english": "Say this, and they’ll relax",
+      "spanish": "Di esto, y se relajan",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T04:18:07.294245"
+    },
+    {
+      "english": "Want instant warmth? Try “gracias”",
+      "spanish": "¿Quieres calidez? Prueba “gracias”",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T04:18:07.294271"
+    },
+    {
+      "english": "You’re not late, you’re learning",
+      "spanish": "No llegas tarde, estás aprendiendo",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T04:18:07.294296"
+    },
+    {
+      "english": "One smile, Spanish gets easier",
+      "spanish": "Una sonrisa, el español es más fácil",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T04:18:07.294322"
     }
   ],
-  "last_updated": "2026-11-07T04:30:52.594939",
+  "last_updated": "2026-11-08T04:18:07.294325",
   "used_english": [
-    "future you: so proud!",
-    "why fear the accent?",
-    "small steps equal big connections.",
-    "curious? the reward is huge.",
-    "your brain loves this.",
     "this sound sparks instant connection.",
     "why hesitate? speak. connect.",
     "unlock doors with one word.",
@@ -21002,6 +20997,11 @@
     "want instant warmth? say “¡qué tal!”",
     "tiny words, huge smiles, repeat",
     "here’s the cheat code, “por favor”",
-    "how do you say “thanks”?"
+    "how do you say “thanks”?",
+    "kindness starts with “por favor”",
+    "say this, and they’ll relax",
+    "want instant warmth? try “gracias”",
+    "you’re not late, you’re learning",
+    "one smile, spanish gets easier"
   ]
 }
