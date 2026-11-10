@@ -1,36 +1,6 @@
 {
   "phrases": [
     {
-      "english": "Imagine speaking Spanish, truly.",
-      "spanish": "Imagina hablar español, de verdad.",
-      "category": "Confidence",
-      "generated_at": "2026-06-29T22:15:16.071775"
-    },
-    {
-      "english": "Future you, speaking easily.",
-      "spanish": "Tu futuro, hablando fácil.",
-      "category": "Confidence",
-      "generated_at": "2026-06-29T22:15:16.071803"
-    },
-    {
-      "english": "Did you know? You're learning.",
-      "spanish": "¿Sabías? Estás aprendiendo.",
-      "category": "Confidence",
-      "generated_at": "2026-06-29T22:15:16.071820"
-    },
-    {
-      "english": "Your effort sparks brilliance.",
-      "spanish": "Tu esfuerzo chispa brillantez.",
-      "category": "Confidence",
-      "generated_at": "2026-06-29T22:15:16.071837"
-    },
-    {
-      "english": "Why fear? Just say 'hola'.",
-      "spanish": "¿Por qué temer? Di 'hola'.",
-      "category": "Confidence",
-      "generated_at": "2026-06-29T22:15:16.071853"
-    },
-    {
       "english": "Small phrase, big respect.",
       "spanish": "Frase pequeña, gran respeto.",
       "category": "Creativity",
@@ -17999,15 +17969,40 @@
       "spanish": "Prueba «lo entiendo», te sientes seguro",
       "category": "Mindfulness",
       "generated_at": "2026-11-09T04:32:55.268903"
+    },
+    {
+      "english": "Your calm makes Spanish easier",
+      "spanish": "Tu calma hace el español más fácil",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T05:52:26.573312"
+    },
+    {
+      "english": "Ready for inner peace, now?",
+      "spanish": "¿Listo para paz interior, ahora?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T05:52:26.573351"
+    },
+    {
+      "english": "Breathe, then choose kinder words",
+      "spanish": "Respira, y elige palabras más amables",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T05:52:26.573378"
+    },
+    {
+      "english": "This tiny pause resets everything",
+      "spanish": "Esta pausa pequeña, reinicia todo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T05:52:26.573402"
+    },
+    {
+      "english": "Confidence grows when you relax",
+      "spanish": "La confianza crece al relajarte",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T05:52:26.573429"
     }
   ],
-  "last_updated": "2026-11-09T04:32:55.268905",
+  "last_updated": "2026-11-10T05:52:26.573431",
   "used_english": [
-    "imagine speaking spanish, truly.",
-    "future you, speaking easily.",
-    "did you know? you're learning.",
-    "your effort sparks brilliance.",
-    "why fear? just say 'hola'.",
     "small phrase, big respect.",
     "future you speaks spanish.",
     "one 'gracias' changes moods.",
@@ -21002,6 +20997,11 @@
     "did you notice the pause?",
     "your mind can restart, instantly",
     "one deep breath, bigger spanish",
-    "try 'lo entiendo'—feel safer"
+    "try 'lo entiendo'—feel safer",
+    "your calm makes spanish easier",
+    "ready for inner peace, now?",
+    "breathe, then choose kinder words",
+    "this tiny pause resets everything",
+    "confidence grows when you relax"
   ]
 }
