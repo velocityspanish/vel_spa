@@ -1,0 +1,36 @@
+name: Facebook credential diagnostic
+on:
+  workflow_dispatch:
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inspect Facebook credentials
+        env:
+          FB_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+          FB_PAGE: ${{ secrets.FACEBOOK_PAGE_ID }}
+        run: |
+          python - <<'PY'
+          import json, os, re, requests
+
+          tok = os.getenv("FB_TOKEN", "")
+          page = os.getenv("FB_PAGE", "")
+          print("token_chars", len(tok), "page_id_chars", len(page))
+
+          def clean(obj):
+              text = json.dumps(obj, ensure_ascii=False)
+              text = re.sub(r"\b\d{8,}\b", "<id>", text)
+              return text[:700]
+
+          def show(label, resp):
+              try:
+                  body = resp.json()
+              except Exception:
+                  body = {"raw": resp.text[:200]}
+              print(label, resp.status_code, clean(body))
+
+          base = "https://graph.facebook.com/v21.0"
+          show("ME", requests.get(f"{base}/me", params={"fields": "id,name", "access_token": tok}, timeout=30))
+          show("PAGE", requests.get(f"{base}/{page}", params={"fields": "id,name,link,is_published", "access_token": tok}, timeout=30))
+          show("ACCOUNTS", requests.get(f"{base}/me/accounts", params={"fields": "id,name,tasks", "limit": 100, "access_token": tok}, timeout=30))
+          PY
