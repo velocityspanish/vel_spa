@@ -18104,9 +18104,44 @@
       "transliteration": "Empieza poco a poco, habla con confianza.",
       "category": "Courage",
       "generated_at": "2026-11-10T20:42:28.142776"
+    },
+    {
+      "english": "Say it slowly, then repeat it.",
+      "spanish": "Di despacio, luego repítelo.",
+      "transliteration": "Dee deh-SPAH-see-oh, LWEH-go reh-PEE-teh-loh.",
+      "category": "Growth",
+      "generated_at": "2026-11-10T22:15:39.343515"
+    },
+    {
+      "english": "You got this, one step at time.",
+      "spanish": "Lo lograrás, un paso a la vez.",
+      "transliteration": "Lo lo-gra-RAHS, oon PA-so ah lah VEHS.",
+      "category": "Growth",
+      "generated_at": "2026-11-10T22:15:39.343527"
+    },
+    {
+      "english": "Breathe, smile, and try again.",
+      "spanish": "Respira, sonríe, y vuelve a intentar.",
+      "transliteration": "Rehs-PEE-ra, son-REE-eh, ee VWEHL-beh ah een-tehn-TAR.",
+      "category": "Growth",
+      "generated_at": "2026-11-10T22:15:39.343529"
+    },
+    {
+      "english": "Let me help you with this.",
+      "spanish": "Déjame ayudarte con esto.",
+      "transliteration": "DEH-hah-meh ah-yoo-DAHR-teh kohn EHS-toh.",
+      "category": "Growth",
+      "generated_at": "2026-11-10T22:15:39.343530"
+    },
+    {
+      "english": "Small sentences, big progress, you’ll see.",
+      "spanish": "Frases cortas, progreso grande, lo verás.",
+      "transliteration": "FRAH-ses KOR-tahs, pro-GRE-so GRAHN-deh, lo beh-RAHS.",
+      "category": "Growth",
+      "generated_at": "2026-11-10T22:15:39.343532"
     }
   ],
-  "last_updated": "2026-11-10T20:42:28.142778",
+  "last_updated": "2026-11-10T22:15:39.343533",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
