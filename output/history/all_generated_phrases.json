@@ -18209,9 +18209,44 @@
       "transliteration": "heh-nee-al, oh-trah vez, ee me-hoh-rah-rahs rah-pee-doh",
       "category": "Success",
       "generated_at": "2026-11-11T04:34:28.519917"
+    },
+    {
+      "english": "Patience, escucha, vuelve a intentarlo hoy.",
+      "spanish": "Paciencia, escucha, vuelve a intentarlo hoy.",
+      "transliteration": "pa-sien-sia, es-kú-cha, vuel-ve a in-ten-tar-lo o-y.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:23:45.548580"
+    },
+    {
+      "english": "Take your time, practica con calma.",
+      "spanish": "Tómate tu tiempo, practica con calma.",
+      "transliteration": "tó-ma-te tu tiem-po, prác-ti-ca con kal-ma.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:23:45.548595"
+    },
+    {
+      "english": "Pause, breathe, then say it again.",
+      "spanish": "Para, respira, y dilo otra vez.",
+      "transliteration": "pa-ra, res-pi-ra, y di-lo o-tra vez.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:23:45.548597"
+    },
+    {
+      "english": "Small effort, big change, keep going.",
+      "spanish": "Poco a poco, hay cambios, sigue.",
+      "transliteration": "po-co a po-co, ai cam-bios, si-gue.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:23:45.548599"
+    },
+    {
+      "english": "Your tongue learns slowly, that's okay.",
+      "spanish": "Tu lengua aprende despacio, está bien.",
+      "transliteration": "tu len-gua a-pren-de des-pa-cio, es-tá bien.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:23:45.548600"
     }
   ],
-  "last_updated": "2026-11-11T04:34:28.519919",
+  "last_updated": "2026-11-11T08:23:45.548602",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
