@@ -18244,9 +18244,44 @@
       "transliteration": "tu len-gua a-pren-de des-pa-cio, es-tá bien.",
       "category": "Patience",
       "generated_at": "2026-11-11T08:23:45.548600"
+    },
+    {
+      "english": "Say please, and hearts soften quickly.",
+      "spanish": "Di por favor, y el corazón se ablanda.",
+      "transliteration": "Di por favor, y el cora-zon se ablanda.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T19:21:44.219744"
+    },
+    {
+      "english": "Thank you for helping me today.",
+      "spanish": "Gracias por ayudarme hoy.",
+      "transliteration": "Gra-sias por ayu-dar-me oy.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T19:21:44.219756"
+    },
+    {
+      "english": "You’re doing great, keep going gently.",
+      "spanish": "Lo estás haciendo muy bien, sigue con calma.",
+      "transliteration": "Lo es-tás ha-ci-en-do muy bien, si-gue con cal-ma.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T19:21:44.219757"
+    },
+    {
+      "english": "I appreciate you, truly, right now.",
+      "spanish": "Te agradezco, de verdad, ahora mismo.",
+      "transliteration": "Te a-gra-dez-co, de ver-dad, a-ho-ra mis-mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T19:21:44.219759"
+    },
+    {
+      "english": "Let’s speak kindly, even when busy.",
+      "spanish": "Hablemos con cariño, aunque estemos ocupados.",
+      "transliteration": "Ha-ble-mos con ca-ri-ño, aun-que es-te-mos o-cu-pa-dos.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T19:21:44.219761"
     }
   ],
-  "last_updated": "2026-11-11T08:23:45.548602",
+  "last_updated": "2026-11-11T19:21:44.219762",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
