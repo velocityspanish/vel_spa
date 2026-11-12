@@ -18349,9 +18349,44 @@
       "transliteration": "Hoy se sien-te más li-ge-ro, gra-cias por in-ten-tar-lo.",
       "category": "Happiness",
       "generated_at": "2026-11-11T23:24:33.948490"
+    },
+    {
+      "english": "You’ve got this, keep going today.",
+      "spanish": "Tú puedes, sigue hoy.",
+      "transliteration": "tu PUEDES, SIGUE HOY",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T01:52:22.904331"
+    },
+    {
+      "english": "Small steps count, cada día.",
+      "spanish": "Los pasos pequeños cuentan, cada día.",
+      "transliteration": "los PASOS PEQUEÑOS CUENTAN, caDA DÍA",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T01:52:22.904348"
+    },
+    {
+      "english": "Breathe, then speak with confidence.",
+      "spanish": "Respira y habla con confianza.",
+      "transliteration": "resPIra y A(b)LA con konFIanSa",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T01:52:22.904349"
+    },
+    {
+      "english": "Every try makes you stronger.",
+      "spanish": "Cada intento te hace más fuerte.",
+      "transliteration": "kaDA inTENto te ASe más FUERte",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T01:52:22.904351"
+    },
+    {
+      "english": "Your effort is paying off.",
+      "spanish": "Tu esfuerzo vale la pena.",
+      "transliteration": "tu ESfuerzo VAle la PENA",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T01:52:22.904352"
     }
   ],
-  "last_updated": "2026-11-11T23:24:33.948492",
+  "last_updated": "2026-11-12T01:52:22.904354",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
