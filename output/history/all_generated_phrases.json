@@ -18559,9 +18559,44 @@
       "transliteration": "tu LEN-gua a-PREN-de mo-VI-en-do, no es-pe-RAN-do",
       "category": "Motivation",
       "generated_at": "2026-11-13T00:58:47.753546"
+    },
+    {
+      "english": "Thank you, I really appreciate your help.",
+      "spanish": "Gracias, de verdad aprecio tu ayuda.",
+      "transliteration": "gray-sias, de ver-dad a-preh-see-oh tu ayoo-da",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T04:55:39.179982"
+    },
+    {
+      "english": "I'm grateful for your patience today.",
+      "spanish": "Estoy agradecido por tu paciencia hoy.",
+      "transliteration": "es-toy a-gra-deh-see-doh por tu pa-sien-sia oy",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T04:55:39.179994"
+    },
+    {
+      "english": "Thanks for listening to me so well.",
+      "spanish": "Gracias por escucharme tan bien.",
+      "transliteration": "gray-sias por es-koo-char-me tan byen",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T04:55:39.179996"
+    },
+    {
+      "english": "I feel lucky to have you here.",
+      "spanish": "Me siento afortunado de tenerte aquí.",
+      "transliteration": "me syen-to a-for-too-na-doh de te-ner-te a-kee",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T04:55:39.179997"
+    },
+    {
+      "english": "Thank you for making my day easier.",
+      "spanish": "Gracias por hacer mi día más fácil.",
+      "transliteration": "gray-sias por a-ser mi dee-a mas fa-sil",
+      "category": "Gratitude",
+      "generated_at": "2026-11-13T04:55:39.179999"
     }
   ],
-  "last_updated": "2026-11-13T00:58:47.753548",
+  "last_updated": "2026-11-13T04:55:39.180000",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
