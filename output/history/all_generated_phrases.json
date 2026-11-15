@@ -18664,9 +18664,44 @@
       "transliteration": "los peh-KEH-nyos LO-gros KWEHN-tan, seh-leh-BRAH-los",
       "category": "Hope",
       "generated_at": "2026-11-14T18:55:51.078187"
+    },
+    {
+      "english": "Say it again, you’ve got this.",
+      "spanish": "Di esto otra vez, ya puedes.",
+      "transliteration": "dee ESS-to oh-tra REZ, ya KOOED-es",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:32:01.855758"
+    },
+    {
+      "english": "Relax, your Spanish will come.",
+      "spanish": "Relájate, tu español vendrá.",
+      "transliteration": "re-LÁH-ha-te, too es-pah-NYOL ben-DRAH",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:32:01.855774"
+    },
+    {
+      "english": "Try the next sentence, smoothly.",
+      "spanish": "Prueba la siguiente frase, sin prisa.",
+      "transliteration": "POO-e-bah lah SI-gwee-en-te FRA-seh, seen PREE-sah",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:32:01.855776"
+    },
+    {
+      "english": "You know more than you think.",
+      "spanish": "Sabes más de lo que crees.",
+      "transliteration": "SA-bes MAS de lo kay KREES",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:32:01.855777"
+    },
+    {
+      "english": "Slow down, be clear and confident.",
+      "spanish": "Habla despacio, habla con confianza.",
+      "transliteration": "ah-BLAH des-PAH-syo, ah-BLAH kon kon-FYAN-sa",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T19:32:01.855779"
     }
   ],
-  "last_updated": "2026-11-14T18:55:51.078188",
+  "last_updated": "2026-11-15T19:32:01.855780",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
