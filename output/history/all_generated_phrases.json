@@ -18769,9 +18769,44 @@
       "transliteration": "o-fre-se a-yu-da, i lle-gan son-rí-sas",
       "category": "Friendship",
       "generated_at": "2026-11-17T21:59:20.795885"
+    },
+    {
+      "english": "Say it softly, then repeat with feeling.",
+      "spanish": "Di esto en voz baja, y repite.",
+      "transliteration": "Di eso en voz baja, y repite.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:41:31.547274"
+    },
+    {
+      "english": "Use this phrase, it works anywhere.",
+      "spanish": "Usa esta frase, funciona en cualquier lugar.",
+      "transliteration": "Usa esta frase, funciona en cualquier lugar.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:41:31.547290"
+    },
+    {
+      "english": "Start with hello, make it friendly.",
+      "spanish": "Empieza con hola, hazlo con cariño.",
+      "transliteration": "Empieza con hola, hazlo con cariño.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:41:31.547292"
+    },
+    {
+      "english": "Ask again, people will appreciate it.",
+      "spanish": "Repite la pregunta, les encantará.",
+      "transliteration": "Repite la pregunta, les encantará.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:41:31.547293"
+    },
+    {
+      "english": "When you get stuck, try this.",
+      "spanish": "Si te atoras, prueba esto.",
+      "transliteration": "Si te atoras, prueba esto.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:41:31.547294"
     }
   ],
-  "last_updated": "2026-11-17T21:59:20.795886",
+  "last_updated": "2026-11-18T21:41:31.547296",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
