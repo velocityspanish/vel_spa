@@ -18874,9 +18874,44 @@
       "transliteration": "bien he-cho, lo es-tás lo-gran-do",
       "category": "Balance",
       "generated_at": "2026-11-20T21:40:22.477176"
+    },
+    {
+      "english": "Breathe, and try that sentence again.",
+      "spanish": "Respira, y prueba esa frase otra vez.",
+      "transliteration": "Respi-ra, i prue-ba e-sa fra-se o-tra vez.",
+      "category": "Patience",
+      "generated_at": "2026-11-21T20:20:43.689605"
+    },
+    {
+      "english": "Take your time, I’m listening carefully.",
+      "spanish": "Tómate tu tiempo, te escucho con atención.",
+      "transliteration": "Tomaa-te tu tiem-po, te es-ku-cho con a-ten-ción.",
+      "category": "Patience",
+      "generated_at": "2026-11-21T20:20:43.689619"
+    },
+    {
+      "english": "It’s okay to stumble, keep going.",
+      "spanish": "Está bien tropezar, sigue adelante.",
+      "transliteration": "Es-ta bien tro-pe-zar, si-gue a-delan-te.",
+      "category": "Patience",
+      "generated_at": "2026-11-21T20:20:43.689621"
+    },
+    {
+      "english": "Slowly, your mouth finds the rhythm.",
+      "spanish": "Despacio, tu boca encuentra el ritmo.",
+      "transliteration": "Des-pa-cio, tu bo-ca en-cuen-tra el ri-tmo.",
+      "category": "Patience",
+      "generated_at": "2026-11-21T20:20:43.689623"
+    },
+    {
+      "english": "Learning grows when you don’t quit.",
+      "spanish": "Aprender crece cuando no te rindes.",
+      "transliteration": "A-pren-der cre-se cuan-do no te rin-des.",
+      "category": "Patience",
+      "generated_at": "2026-11-21T20:20:43.689624"
     }
   ],
-  "last_updated": "2026-11-20T21:40:22.477178",
+  "last_updated": "2026-11-21T20:20:43.689627",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
