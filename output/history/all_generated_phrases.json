@@ -18909,9 +18909,44 @@
       "transliteration": "A-pren-der cre-se cuan-do no te rin-des.",
       "category": "Patience",
       "generated_at": "2026-11-21T20:20:43.689624"
+    },
+    {
+      "english": "Relax, you’re saying it correctly.",
+      "spanish": "Relájate, lo estás diciendo bien.",
+      "transliteration": "re-LÁ-ha-te, lo es-TÁS di-CIEN-do BIEN",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T20:33:15.918466"
+    },
+    {
+      "english": "Believe me, this will feel easier.",
+      "spanish": "Créeme, esto va a ser más fácil.",
+      "transliteration": "CRÉ-e-me, ES-to va a ser más FÁ-sil",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T20:33:15.918478"
+    },
+    {
+      "english": "You’ve got it, take a breath.",
+      "spanish": "Tú puedes, respira un momento.",
+      "transliteration": "tú PUED-es, res-PI-ra un MO-men-to",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T20:33:15.918480"
+    },
+    {
+      "english": "Try again, your Spanish is growing.",
+      "spanish": "Inténtalo otra vez, tu español crece.",
+      "transliteration": "in-tén-ta-lo O-tra BES, tu es-pa-ÑOL CRE-se",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T20:33:15.918481"
+    },
+    {
+      "english": "Use small words, and keep going.",
+      "spanish": "Usa palabras pequeñas, y sigue.",
+      "transliteration": "U-sa PA-la-bras PE-que-Ñas, i SIGE",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T20:33:15.918482"
     }
   ],
-  "last_updated": "2026-11-21T20:20:43.689627",
+  "last_updated": "2026-11-22T20:33:15.918484",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
