@@ -18979,9 +18979,44 @@
       "transliteration": "PREHN-ta, los ah-blan-tes NAH-tee-vos te ghee-AHN",
       "category": "Success",
       "generated_at": "2026-11-24T01:28:00.963477"
+    },
+    {
+      "english": "Keep hope close, sigue adelante.",
+      "spanish": "Mantén la esperanza cerca, sigue adelante.",
+      "transliteration": "man-TEHN la es-pe-RAN-sa ser-KA, si-GEH a-del-an-te",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:22:00.037361"
+    },
+    {
+      "english": "You’re making progress, poco a poco.",
+      "spanish": "Estás avanzando, poco a poco.",
+      "transliteration": "es-TAHS a-BAN-san-do, PO-ko a PO-ko",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:22:00.037377"
+    },
+    {
+      "english": "Speak kindly to yourself, te acompaño.",
+      "spanish": "Habla contigo con cariño, te acompaño.",
+      "transliteration": "a-BLA kon-ti-go kon ka-REE-nyoh, teh a-kom-PA-nyoh",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:22:00.037379"
+    },
+    {
+      "english": "Today counts, incluso en silencio.",
+      "spanish": "Hoy cuenta, incluso en silencio.",
+      "transliteration": "HOY kwen-ta, in-KLU-so en see-LEHN-sio",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:22:00.037381"
+    },
+    {
+      "english": "One small try can change things.",
+      "spanish": "Un solo intento puede cambiarlo todo.",
+      "transliteration": "oon SO-lo in-ten-to pweh-de cam-BYAR-lo TO-do",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:22:00.037383"
     }
   ],
-  "last_updated": "2026-11-24T01:28:00.963478",
+  "last_updated": "2026-11-24T23:22:00.037385",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
