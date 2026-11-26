@@ -19049,9 +19049,44 @@
       "transliteration": "Déjame kererte, pokito a pok o.",
       "category": "Love",
       "generated_at": "2026-11-25T22:54:25.582211"
+    },
+    {
+      "english": "Need a boost? Say ¡hola! with me.",
+      "spanish": "¿Necesitas un empujón? Di ¡hola! conmigo.",
+      "transliteration": "Necesitas un empujon, di ola conmigo.",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:45:04.827927"
+    },
+    {
+      "english": "Good news, your smile is noticed.",
+      "spanish": "Buenas noticias, tu sonrisa se nota.",
+      "transliteration": "Buenas noticias, tu sonrisa se nota.",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:45:04.827941"
+    },
+    {
+      "english": "Every day, small joy finds you.",
+      "spanish": "Cada día, la alegría te encuentra.",
+      "transliteration": "Cada dia, la alegria te encuentra.",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:45:04.827942"
+    },
+    {
+      "english": "Trust yourself, you’re doing it.",
+      "spanish": "Confía en ti, lo estás logrando.",
+      "transliteration": "Confia en ti, lo estas logrando.",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:45:04.827944"
+    },
+    {
+      "english": "Relax, breathe, and enjoy the moment.",
+      "spanish": "Relájate, respira, y disfruta el momento.",
+      "transliteration": "Relajate, respira, y disfruta el momento.",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T22:45:04.827945"
     }
   ],
-  "last_updated": "2026-11-25T22:54:25.582212",
+  "last_updated": "2026-11-26T22:45:04.827947",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
