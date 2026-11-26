@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import random
+import re
 import time
 from datetime import datetime
 
@@ -19,168 +20,95 @@ PHRASE_KEY = config.LANGUAGE["history_key"]
 LANGUAGE_NAME = config.LANGUAGE["name"]
 NATIVE_NAME = config.LANGUAGE["native_name"]
 
+_JP_RANGES = (
+    ("\u3040", "\u30ff"),  # hiragana + katakana
+    ("\u3400", "\u4dbf"),  # CJK extension A
+    ("\u4e00", "\u9fff"),  # CJK unified ideographs
+)
+_VI_CHARS = set("ăâđêôơưĂÂĐÊÔƠƯáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ")
+
+
+def _has_japanese(text: str) -> bool:
+    return any(start <= ch <= end for ch in text for start, end in _JP_RANGES)
+
+
+def _valid_native(text: str) -> bool:
+    if config.LANGUAGE.get("code") != "ja":
+        return True
+    if not _has_japanese(text):
+        return False
+    return not any(ch in _VI_CHARS for ch in text)
+
+
+def _clean_translit(text: str) -> str:
+    """Tidy AI romaji: capitalisation, punctuation spacing, split te-forms."""
+    text = text.strip().strip("[]")
+    if not text:
+        return text
+    text = re.sub(r"\b(\w+)tsu te\b", r"\1tte", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(\w*[aeiou]) i\b", r"\1i", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+([,.!?])", r"\1", text)
+    text = re.sub(
+        r"(^|[.!?]\s+)([a-z])",
+        lambda match: match.group(1) + match.group(2).upper(),
+        text,
+    )
+    return text
+
 # ==== FALLBACK PHRASES START ====
+# Kept fresh and Japanese-only. The live bot normally uses the AI generator;
+# this list is the offline safety net when the API is unavailable.
 FALLBACK_PHRASES = [
-    {"english": "Stop waiting. Start now.", "native": "Deja de esperar. Comienza ahora.", "transliteration": ""},
-    {"english": "This is why you're stuck.", "native": "Por esto estás atascado.", "transliteration": ""},
-    {"english": "The secret? Consistency wins.", "native": "¿El secreto? La constancia gana.", "transliteration": ""},
-    {"english": "What nobody tells you about success.", "native": "Lo que nadie te dice del éxito.", "transliteration": ""},
-    {"english": "Your future self is watching.", "native": "Tu yo futuro te mira.", "transliteration": ""},
-    {"english": "Stop saying 'someday'. Say 'today'.", "native": "Deja de decir 'algún día'. Di 'hoy'.", "transliteration": ""},
-    {"english": "Stop chasing. Real love finds you.", "native": "Deja de perseguir. El amor real te encuentra.", "transliteration": ""},
-    {"english": "This is what real love feels.", "native": "Así se siente el amor verdadero.", "transliteration": ""},
-    {"english": "The secret to being deeply loved.", "native": "El secreto para ser amado.", "transliteration": ""},
-    {"english": "What nobody tells you about heartbreak.", "native": "Lo que nadie te dice del desamor.", "transliteration": ""},
-    {"english": "You deserve this kind of love.", "native": "Mereces este tipo de amor.", "transliteration": ""},
-    {"english": "Never settle for less.", "native": "Nunca te conformes con menos.", "transliteration": ""},
-    {"english": "Stop this if you want success.", "native": "Deja esto si quieres éxito.", "transliteration": ""},
-    {"english": "The one habit that changes everything.", "native": "El hábito que lo cambia todo.", "transliteration": ""},
-    {"english": "What successful people do before 8am.", "native": "Lo que hace la gente exitosa temprano.", "transliteration": ""},
-    {"english": "This mindset shift changes lives.", "native": "Este cambio mental cambia vidas.", "transliteration": ""},
-    {"english": "Why you're not seeing results.", "native": "Por qué no ves resultados.", "transliteration": ""},
-    {"english": "The truth about overnight success.", "native": "La verdad sobre el éxito repentino.", "transliteration": ""},
-    {"english": "Stop overthinking. Start doing.", "native": "Deja de pensar. Empieza a hacer.", "transliteration": ""},
-    {"english": "The lesson life keeps teaching.", "native": "La lección que la vida enseña.", "transliteration": ""},
-    {"english": "What I wish I knew at 20.", "native": "Lo que desearía saber a los 20.", "transliteration": ""},
-    {"english": "This truth will set you free.", "native": "Esta verdad te liberará.", "transliteration": ""},
-    {"english": "The price of staying the same.", "native": "El precio de permanecer igual.", "transliteration": ""},
-    {"english": "Why wise people stay quiet.", "native": "Por qué la gente sabia calla.", "transliteration": ""},
-    {"english": "Stop looking for happiness there.", "native": "Deja de buscar la felicidad ahí.", "transliteration": ""},
-    {"english": "This simple trick boosts joy.", "native": "Este truco simple aumenta la alegría.", "transliteration": ""},
-    {"english": "What happy people do differently.", "native": "Lo que hace la gente feliz diferente.", "transliteration": ""},
-    {"english": "The real source of lasting happiness.", "native": "La fuente real de felicidad duradera.", "transliteration": ""},
-    {"english": "You're one choice away from joy.", "native": "Estás a una elección de la alegría.", "transliteration": ""},
-    {"english": "Stop waiting. Choose happiness now.", "native": "Deja de esperar. Elige felicidad ahora.", "transliteration": ""},
-    {"english": "This one change transformed me.", "native": "Este único cambio me transformó.", "transliteration": ""},
-    {"english": "Stop wasting time on this.", "native": "Deja de perder tiempo en esto.", "transliteration": ""},
-    {"english": "The 1% rule that changes lives.", "native": "La regla del 1% cambia vidas.", "transliteration": ""},
-    {"english": "What I do every morning.", "native": "Lo que hago cada mañana.", "transliteration": ""},
-    {"english": "Your comfort zone is killing you.", "native": "Tu zona de confort te mata.", "transliteration": ""},
-    {"english": "Become who you were meant to be.", "native": "Conviértete en quien debías ser.", "transliteration": ""},
-    {"english": "This practice changed my life.", "native": "Esta práctica cambió mi vida.", "transliteration": ""},
-    {"english": "Stop scrolling. Count your blessings.", "native": "Deja de desplazarte. Cuenta bendiciones.", "transliteration": ""},
-    {"english": "What grateful people do daily.", "native": "Lo que hace la gente agradecida diariamente.", "transliteration": ""},
-    {"english": "The fastest way to feel abundant.", "native": "La forma más rápida de sentirse abundante.", "transliteration": ""},
-    {"english": "Say this every morning for 30 days.", "native": "Di esto cada mañana por 30 días.", "transliteration": ""},
-    {"english": "Gratitude turns what we have into enough.", "native": "La gratitud convierte lo tenemos en suficiente.", "transliteration": ""},
-    {"english": "Real friends do this without asking.", "native": "Los amigos reales hacen esto sin pedir.", "transliteration": ""},
-    {"english": "Stop calling these people friends.", "native": "Deja de llamar amigos a estas personas.", "transliteration": ""},
-    {"english": "The test of true friendship.", "native": "La prueba de la verdadera amistad.", "transliteration": ""},
-    {"english": "What I learned about loyalty.", "native": "Lo que aprendí sobre la lealtad.", "transliteration": ""},
-    {"english": "Keep these people close forever.", "native": "Mantén a estas personas cerca siempre.", "transliteration": ""},
-    {"english": "A friend who does this is rare.", "native": "Un amigo que hace esto es raro.", "transliteration": ""},
-    {"english": "When everything fails, remember this.", "native": "Cuando todo falla, recuerda esto.", "transliteration": ""},
-    {"english": "Stop believing this lie about hope.", "native": "Deja de creer esta mentira sobre esperanza.", "transliteration": ""},
-    {"english": "The dawn always comes after darkness.", "native": "El amanecer siempre llega después oscuridad.", "transliteration": ""},
-    {"english": "What keeps me going when quitting.", "native": "Lo que me mantiene siguiendo cuando rindo.", "transliteration": ""},
-    {"english": "Your breakthrough is closer than think.", "native": "Tu avance está más cerca piensas.", "transliteration": ""},
-    {"english": "Never lose faith. This too shall pass.", "native": "Nunca pierdas fe. Esto también pasará.", "transliteration": ""},
-    {"english": "Stop waiting for inspiration. Do.", "native": "Deja de esperar inspiración. Haz.", "transliteration": ""},
-    {"english": "The secret to endless creative ideas.", "native": "El secreto para ideas creativas infinitas.", "transliteration": ""},
-    {"english": "What artists know that others don't.", "native": "Lo que los artistas saben otros no.", "transliteration": ""},
-    {"english": "Your creativity is hiding here.", "native": "Tu creatividad se está escondiendo aquí.", "transliteration": ""},
-    {"english": "Break these rules to be creative.", "native": "Rompe estas reglas para ser creativo.", "transliteration": ""},
-    {"english": "Create first, edit later. Trust.", "native": "Crea primero, edita después. Confía.", "transliteration": ""},
-    {"english": "Stop letting them steal your peace.", "native": "Deja de dejarles robar tu paz.", "transliteration": ""},
-    {"english": "This breathing trick calms anxiety.", "native": "Este truco respiración calma ansiedad.", "transliteration": ""},
-    {"english": "What I do when mind races.", "native": "Lo que hago cuando mente corre.", "transliteration": ""},
-    {"english": "The price of inner peace.", "native": "El precio de la paz interior.", "transliteration": ""},
-    {"english": "Let go of what you can't control.", "native": "Suelta lo que no puedes controlar.", "transliteration": ""},
-    {"english": "Your calm mind is your superpower.", "native": "Tu mente calmada es tu superpoder.", "transliteration": ""},
-    {"english": "Stop this if you want confidence.", "native": "Deja esto si quieres confianza.", "transliteration": ""},
-    {"english": "Fake confidence until you become it.", "native": "Finge confianza hasta que te conviertas.", "transliteration": ""},
-    {"english": "The body language trick that works.", "native": "El truco lenguaje corporal que funciona.", "transliteration": ""},
-    {"english": "What confident people never say.", "native": "Lo que la gente confiada nunca dice.", "transliteration": ""},
-    {"english": "Your self-talk is shaping you.", "native": "Tu diálogo interno te está formando.", "transliteration": ""},
-    {"english": "Stand tall. You're unstoppable.", "native": "Mantente firme. Eres imparable.", "transliteration": ""},
-    {"english": "When you want to quit, read.", "native": "Cuando quieras rendirte, lee.", "transliteration": ""},
-    {"english": "The pain you feel is growth.", "native": "El dolor que sientes es crecimiento.", "transliteration": ""},
-    {"english": "Why most people give up soon.", "native": "Por qué la mayoría se rinde pronto.", "transliteration": ""},
-    {"english": "This separates winners from losers.", "native": "Esto separa ganadores de perdedores.", "transliteration": ""},
-    {"english": "Keep going. Your moment is coming.", "native": "Sigue yendo. Tu momento está llegando.", "transliteration": ""},
-    {"english": "Champions are made in dark.", "native": "Los campeones se hacen oscuridad.", "transliteration": ""},
-    {"english": "This message found you for reason.", "native": "Este mensaje te encontró por razón.", "transliteration": ""},
-    {"english": "Stop doubting. You were chosen.", "native": "Deja de dudar. Fuiste elegido.", "transliteration": ""},
-    {"english": "The world needs your unique gift.", "native": "El mundo necesita tu regalo único.", "transliteration": ""},
-    {"english": "What I learned from lowest point.", "native": "Lo que aprendí desde punto más bajo.", "transliteration": ""},
-    {"english": "Your comeback will be legendary.", "native": "Tu regreso será legendario.", "transliteration": ""},
-    {"english": "Be the person you needed younger.", "native": "Sé persona que necesitabas cuando joven.", "transliteration": ""},
-    {"english": "Cut these toxic habits from life.", "native": "Corta estos hábitos tóxicos vida.", "transliteration": ""},
-    {"english": "The mindset that attracts good things.", "native": "La mentalidad que atrae cosas buenas.", "transliteration": ""},
-    {"english": "Stop consuming. Start creating.", "native": "Deja de consumir. Empieza a crear.", "transliteration": ""},
-    {"english": "Your vibe attracts your tribe.", "native": "Tu vibra atrae a tu tribu.", "transliteration": ""},
-    {"english": "Choose progress over perfection always.", "native": "Elige progreso sobre perfección siempre.", "transliteration": ""},
-    {"english": "Good things happen to those who hustle.", "native": "Cosas buenas pasan a quienes trabajan duro.", "transliteration": ""},
-    {"english": "Feel the fear. Do it anyway.", "native": "Siente el miedo. Hazlo todos modos.", "transliteration": ""},
-    {"english": "This is what bravery really looks.", "native": "Así es como se ve valentía.", "transliteration": ""},
-    {"english": "Stop hiding. The world needs seeing.", "native": "Deja de esconderte. Mundo necesita verte.", "transliteration": ""},
-    {"english": "The risk you're avoiding is worth.", "native": "El riesgo que evitas vale pena.", "transliteration": ""},
-    {"english": "Courage isn't fearlessness. It's this.", "native": "El coraje no es falta miedo. Es esto.", "transliteration": ""},
-    {"english": "Take the leap. The net appears.", "native": "Da el salto. La red aparece.", "transliteration": ""},
-    {"english": "This small act changed someone's day.", "native": "Este pequeño acto cambió día alguien.", "transliteration": ""},
-    {"english": "Stop underestimating power of kindness.", "native": "Deja de subestimar poder amabilidad.", "transliteration": ""},
-    {"english": "What happens when you choose kindness.", "native": "Lo que pasa eliges amabilidad.", "transliteration": ""},
-    {"english": "Your kindness is your superpower.", "native": "Tu amabilidad es tu superpoder.", "transliteration": ""},
-    {"english": "The ripple effect one kind word.", "native": "El efecto dominó una palabra amable.", "transliteration": ""},
-    {"english": "Be the reason someone smiles today.", "native": "Sé razón por la que alguien sonríe.", "transliteration": ""},
-    {"english": "Stop rushing. Trust the timing.", "native": "Deja de apresurarte. Confía tiempo.", "transliteration": ""},
-    {"english": "This is why patience tested.", "native": "Por esto es paciencia probada.", "transliteration": ""},
-    {"english": "The art of waiting without suffering.", "native": "El arte esperar sin sufrir.", "transliteration": ""},
-    {"english": "What patient people know you don't.", "native": "Lo que sabe gente paciente tú no.", "transliteration": ""},
-    {"english": "Good things come to those who wait.", "native": "Cosas buenas vienen quienes esperan.", "transliteration": ""},
-    {"english": "Your seeds growing underground. Be patient.", "native": "Semillas creciendo bajo tierra. Sé paciente.", "transliteration": ""},
-    {"english": "Holding grudges poisoning you. Let go.", "native": "Guardar rencores envenena. Suelta.", "transliteration": ""},
-    {"english": "This is what forgiveness really means.", "native": "Esto es lo significa perdón.", "transliteration": ""},
-    {"english": "Stop waiting apology won't come.", "native": "Deja esperar disculpa no vendrá.", "transliteration": ""},
-    {"english": "The freedom feel after forgiving.", "native": "La libertad sientes después perdonar.", "transliteration": ""},
-    {"english": "Forgive them not for them, for you.", "native": "Perdona no por ellos, por ti.", "transliteration": ""},
-    {"english": "Your healing starts moment you forgive.", "native": "Sanación comienza momento perdonas.", "transliteration": ""},
-    {"english": "You're stronger than realize. Here's proof.", "native": "Eres más fuerte das cuenta. Prueba.", "transliteration": ""},
-    {"english": "This is how warriors made.", "native": "Así es como hacen guerreros.", "transliteration": ""},
-    {"english": "Stop apologizing for being powerful.", "native": "Deja disculparte por ser poderoso.", "transliteration": ""},
-    {"english": "The storm didn't break. Refined.", "native": "Tormenta no rompió. Refinó.", "transliteration": ""},
-    {"english": "Your scars proof survival. Wear proudly.", "native": "Cicatrices prueba supervivencia. Lleva orgullo.", "transliteration": ""},
-    {"english": "Bend but never break. That's resilience.", "native": "Dóblate pero nunca rompas. Resiliencia.", "transliteration": ""},
-    {"english": "Stop postponing joy. Celebrate now.", "native": "Deja posponer alegría. Celebra ahora.", "transliteration": ""},
-    {"english": "This is what pure joy feels.", "native": "Así es como siente alegría pura.", "transliteration": ""},
-    {"english": "Find joy ordinary. It's magic.", "native": "Encuentra alegría ordinario. Mágico.", "transliteration": ""},
-    {"english": "What joyful people do you don't.", "native": "Lo que hace gente alegre tú no.", "transliteration": ""},
-    {"english": "Your joy is act resistance.", "native": "Alegría es acto resistencia.", "transliteration": ""},
-    {"english": "Dance through life nobody's watching.", "native": "Baila vida como si nadie viera.", "transliteration": ""},
-    {"english": "Stop burning out. Find rhythm.", "native": "Deja quemarte. Encuentra ritmo.", "transliteration": ""},
-    {"english": "This work-life balance really looks.", "native": "Así equilibrio trabajo-vida realmente.", "transliteration": ""},
-    {"english": "Secret having all without losing yourself.", "native": "Secreto tenerlo todo sin perderte.", "transliteration": ""},
-    {"english": "Can't pour from empty cup. Fill.", "native": "No servir desde taza vacía. Llena.", "transliteration": ""},
-    {"english": "Rest productive. Stop feeling guilty.", "native": "Descansar productivo. Deja sentirte culpable.", "transliteration": ""},
-    {"english": "Find center. Everything else aligns.", "native": "Encuentra centro. Todo demás alinea.", "transliteration": ""},
-    {"english": "This discomfort feel? That's growth.", "native": "¿Incomodidad sientes? Eso crecimiento.", "transliteration": ""},
-    {"english": "Stop playing small. Meant more.", "native": "Deja jugar pequeño. Creado más.", "transliteration": ""},
-    {"english": "Person becoming worth pain.", "native": "Persona conviertes vale pena.", "transliteration": ""},
-    {"english": "What growing pains teach you.", "native": "Dolores crecimiento intentan enseñan.", "transliteration": ""},
-    {"english": "Embrace suck. It's temporary.", "native": "Abraza difícil. Temporal.", "transliteration": ""},
-    {"english": "Potential unlimited. Start acting.", "native": "Potencial ilimitado. Empieza actuar.", "transliteration": ""},
-    {"english": "Stop searching. Purpose already here.", "native": "Deja buscar. Propósito ya aquí.", "transliteration": ""},
-    {"english": "This is why feel unfulfilled.", "native": "Por esto es sientes insatisfecho.", "transliteration": ""},
-    {"english": "Intersection joy service purpose.", "native": "Intersección alegría servicio propósito.", "transliteration": ""},
-    {"english": "What meant do find you.", "native": "Lo destinado hacer encontrará.", "transliteration": ""},
-    {"english": "Live intention live regret.", "native": "Vive intención vive arrepentimiento.", "transliteration": ""},
-    {"english": "Legacy starts today's choices.", "native": "Legado comienza elecciones hoy.", "transliteration": ""},
-    {"english": "Stop living autopilot. Wake now.", "native": "Deja vivir piloto automático. Despierta.", "transliteration": ""},
-    {"english": "This moment all truly have.", "native": "Momento todo realmente tienes.", "transliteration": ""},
-    {"english": "Present called gift reason.", "native": "Presente llama regalo razón.", "transliteration": ""},
-    {"english": "What mindfulness does brain.", "native": "Atención plena hace cerebro.", "transliteration": ""},
-    {"english": "Breathe. This only moment exists.", "native": "Respira. Este único momento existe.", "transliteration": ""},
-    {"english": "Mind tool. Master it.", "native": "Mente herramienta. Domínala.", "transliteration": ""},
-    {"english": "Where is the train station?", "native": "¿Dónde está la estación de tren?", "transliteration": ""},
-    {"english": "I would like a coffee, please.", "native": "Quisiera un café, por favor.", "transliteration": ""},
-    {"english": "How much does this cost?", "native": "¿Cuánto cuesta esto?", "transliteration": ""},
-    {"english": "Can you help me?", "native": "¿Puede ayudarme?", "transliteration": ""},
-    {"english": "I don't understand.", "native": "No entiendo.", "transliteration": ""},
-    {"english": "Can you speak more slowly?", "native": "¿Puede hablar más despacio?", "transliteration": ""},
-    {"english": "The weather is beautiful today.", "native": "Hace muy buen tiempo hoy.", "transliteration": ""},
-    {"english": "I am learning Spanish.", "native": "Estoy aprendiendo español.", "transliteration": ""},
-    {"english": "See you tomorrow.", "native": "Hasta mañana.", "transliteration": ""},
-    {"english": "Thank you very much.", "native": "Muchas gracias.", "transliteration": ""},
+    {"english": "I am a little tired today.", "native": "今日は少し疲れています。", "transliteration": "Kyō wa sukoshi tsukarete imasu."},
+    {"english": "Please speak a little slower.", "native": "もう少しゆっくり話してください。", "transliteration": "Mō sukoshi yukkuri hanashite kudasai."},
+    {"english": "I forgot my umbrella.", "native": "傘を忘れました。", "transliteration": "Kasa o wasuremashita."},
+    {"english": "The train is late today.", "native": "今日は電車が遅れています。", "transliteration": "Kyō wa densha ga okurete imasu."},
+    {"english": "This street is very quiet.", "native": "この通りはとても静かです。", "transliteration": "Kono tōri wa totemo shizuka desu."},
+    {"english": "Let's take a short break.", "native": "少し休みましょう。", "transliteration": "Sukoshi yasumimashō."},
+    {"english": "I like this song a lot.", "native": "この歌がとても好きです。", "transliteration": "Kono uta ga totemo suki desu."},
+    {"english": "Please turn down the volume.", "native": "音量を下げてください。", "transliteration": "Onryō o sagete kudasai."},
+    {"english": "I will call you tomorrow.", "native": "明日電話します。", "transliteration": "Ashita denwa shimasu."},
+    {"english": "It might rain this afternoon.", "native": "午後は雨が降るかもしれません。", "transliteration": "Gogo wa ame ga furu kamoshiremasen."},
+    {"english": "The food here is delicious.", "native": "ここの料理はおいしいです。", "transliteration": "Koko no ryōri wa oishii desu."},
+    {"english": "I need to buy a ticket.", "native": "切符を買わなければなりません。", "transliteration": "Kippu o kawanakereba narimasen."},
+    {"english": "How long does it take by train?", "native": "電車でどのくらいかかりますか？", "transliteration": "Densha de dono kurai kakarimasu ka?"},
+    {"english": "Please wait a moment.", "native": "少々お待ちください。", "transliteration": "Shōshō omachi kudasai."},
+    {"english": "I don't understand yet.", "native": "まだよく分かりません。", "transliteration": "Mada yoku wakarimasen."},
+    {"english": "Can you say that again?", "native": "もう一度言ってもらえますか？", "transliteration": "Mō ichido itte moraemasu ka?"},
+    {"english": "I am looking for a hotel.", "native": "ホテルを探しています。", "transliteration": "Hoteru o sagashite imasu."},
+    {"english": "This is my first time here.", "native": "ここに来るのは初めてです。", "transliteration": "Koko ni kuru no wa hajimete desu."},
+    {"english": "Let's meet in front of the station.", "native": "駅の前で会いましょう。", "transliteration": "Eki no mae de aimashō."},
+    {"english": "I will be back soon.", "native": "すぐ戻ります。", "transliteration": "Sugu modorimasu."},
+    {"english": "Thank you for your help.", "native": "助けてくれてありがとうございます。", "transliteration": "Tasukete kurete arigatō gozaimasu."},
+    {"english": "Please take care of yourself.", "native": "お体に気をつけてください。", "transliteration": "Okarada ni ki o tsukete kudasai."},
+    {"english": "I am glad to hear that.", "native": "それを聞いてうれしいです。", "transliteration": "Sore o kiite ureshii desu."},
+    {"english": "That sounds like a good idea.", "native": "それはいい考えですね。", "transliteration": "Sore wa ii kangae desu ne."},
+    {"english": "I will try my best.", "native": "頑張ります。", "transliteration": "Ganbarimasu."},
+    {"english": "Don't worry too much.", "native": "あまり心配しないでください。", "transliteration": "Amari shinpai shinaide kudasai."},
+    {"english": "We can do it together.", "native": "一緒にできますよ。", "transliteration": "Issho ni dekimasu yo."},
+    {"english": "The weather is nice today.", "native": "今日はいい天気ですね。", "transliteration": "Kyō wa ii tenki desu ne."},
+    {"english": "I want to learn more Japanese.", "native": "もっと日本語を学びたいです。", "transliteration": "Motto nihongo o manabitai desu."},
+    {"english": "Please write it down for me.", "native": "書いてもらえますか？", "transliteration": "Kaite moraemasu ka?"},
+    {"english": "I am sorry I am late.", "native": "遅れてすみません。", "transliteration": "Okurete sumimasen."},
+    {"english": "Where can I find a pharmacy?", "native": "薬局はどこにありますか？", "transliteration": "Yakkyoku wa doko ni arimasu ka?"},
+    {"english": "This bag is too expensive.", "native": "このかばんは高すぎます。", "transliteration": "Kono kaban wa takasugimasu."},
+    {"english": "Do you have this in another color?", "native": "これの別の色はありますか？", "transliteration": "Kore no betsu no iro wa arimasu ka?"},
+    {"english": "I would like some water, please.", "native": "お水をお願いします。", "transliteration": "Omizu o onegaishimasu."},
+    {"english": "The bill, please.", "native": "お会計をお願いします。", "transliteration": "Okaikei o onegaishimasu."},
+    {"english": "I am allergic to peanuts.", "native": "ピーナッツアレルギーがあります。", "transliteration": "Pīnattsu arerugī ga arimasu."},
+    {"english": "Please call an ambulance.", "native": "救急車を呼んでください。", "transliteration": "Kyūkyūsha o yonde kudasai."},
+    {"english": "My wallet was stolen.", "native": "財布を盗まれました。", "transliteration": "Saifu o nusumaremashita."},
+    {"english": "May I sit here?", "native": "ここに座ってもいいですか？", "transliteration": "Koko ni suwatte mo ii desu ka?"},
+    {"english": "I am here on vacation.", "native": "休暇で来ました。", "transliteration": "Kyūka de kimashita."},
+    {"english": "Could you take a photo of us?", "native": "写真を撮ってもらえますか？", "transliteration": "Shashin o totte moraemasu ka?"},
+    {"english": "Which one is popular?", "native": "どれが人気ですか？", "transliteration": "Dore ga ninki desu ka?"},
+    {"english": "I will have the same thing.", "native": "同じものをお願いします。", "transliteration": "Onaji mono o onegaishimasu."},
+    {"english": "It was a lot of fun today.", "native": "今日はとても楽しかったです。", "transliteration": "Kyō wa totemo tanoshikatta desu."},
+    {"english": "Let's go home together.", "native": "一緒に帰りましょう。", "transliteration": "Issho ni kaerimashō."},
+    {"english": "Good luck with your work.", "native": "お仕事頑張ってください。", "transliteration": "Oshigoto ganbatte kudasai."},
+    {"english": "I hope you feel better soon.", "native": "早く良くなりますように。", "transliteration": "Hayaku yoku narimasu yō ni."},
+    {"english": "Congratulations on your success.", "native": "成功おめでとうございます。", "transliteration": "Seikō omedetō gozaimasu."},
+    {"english": "Thank you for the wonderful gift.", "native": "素敵なプレゼントをありがとうございます。", "transliteration": "Suteki na purezento o arigatō gozaimasu."},
 ]
 # ==== FALLBACK PHRASES END ====
 
@@ -277,11 +205,19 @@ def _normalize_phrase(item):
         return None
     if "/" in native or "|" in native:
         native = native.split("/")[0].split("|")[0].strip()
-    return {
+    if not _valid_native(native):
+        return None
+    if config.LANGUAGE.get("code") == "ja" and not translit:
+        return None
+    item_tiles = item.get("tiles")
+    out = {
         "english": english.replace("  ", " ").strip(),
         "native": native.strip(),
-        "transliteration": translit.strip().strip("[]"),
+        "transliteration": _clean_translit(translit),
     }
+    if isinstance(item_tiles, list) and item_tiles and all(isinstance(t, str) and t.strip() for t in item_tiles):
+        out["tiles"] = [t.strip() for t in item_tiles]
+    return out
 
 
 def _history_keys(history):
@@ -366,10 +302,12 @@ Rules:
 1. Keep every phrase short and natural (4-11 words in English).
 2. Use natural commas for TTS breathing pauses.
 3. Each phrase must be speakable in 2-4 seconds.
-4. Write clean {LANGUAGE_NAME} in {NATIVE_NAME} with correct accents and orthography. One translation only, no slashes.
-5. Transliteration is a friendly Roman-script pronunciation guide for English speakers (not IPA).
-6. Vary the sentence patterns and emotions. No duplicates.
-7. Phrases must feel like real everyday language, not textbook filler.
+4. Write natural {LANGUAGE_NAME} in {NATIVE_NAME}. One translation only, no slashes.
+5. The native field must contain the target language only. Never return English, Japanese, Chinese, Korean, Vietnamese, or another language.
+6. Transliteration is a friendly pronunciation guide for English speakers (not IPA).
+7. Vary the sentence patterns and emotions. No duplicates.
+8. Phrases must feel like real everyday language, not textbook filler.
+9. The English must be idiomatic and complete. Avoid filler endings and literal word-for-word translations.
 
 Return ONLY a JSON array:
 [{{"english": "...", "native": "...", "transliteration": "..."}}]"""
