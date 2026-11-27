@@ -19084,9 +19084,30 @@
       "transliteration": "Relajate, respira, y disfruta el momento.",
       "category": "Happiness",
       "generated_at": "2026-11-26T22:45:04.827945"
+    },
+    {
+      "english": "Speak slowly, and keep going anyway.",
+      "spanish": "Habla despacio, y sigue adelante.",
+      "transliteration": "A-bla des-pá-si-o, i si-gue a-del-an-te.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:31:40.508452"
+    },
+    {
+      "english": "You’ve got this, even if it’s messy.",
+      "spanish": "Puedes con esto, aunque salga torcido.",
+      "transliteration": "Pue-des kon es-to, aun-ke sal-ga tor-si-do.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:31:40.508466"
+    },
+    {
+      "english": "Try again tomorrow, your effort counts.",
+      "spanish": "Vuelve a intentarlo mañana, cuenta tu esfuerzo.",
+      "transliteration": "Vuel-ve a in-ten-tar-lo ma-ña-na, kuen-ta tu es-fuer-so.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T11:31:40.508468"
     }
   ],
-  "last_updated": "2026-11-26T22:45:04.827947",
+  "last_updated": "2026-11-27T11:31:40.508470",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
