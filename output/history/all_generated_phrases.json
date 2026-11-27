@@ -19105,9 +19105,30 @@
       "transliteration": "Vuel-ve a in-ten-tar-lo ma-ña-na, kuen-ta tu es-fuer-so.",
       "category": "Strength",
       "generated_at": "2026-11-27T11:31:40.508468"
+    },
+    {
+      "english": "Keep going, even if it’s messy.",
+      "spanish": "Sigue, aunque salga a medias.",
+      "transliteration": "Si-GUE, aun-que saLGA a ME-de-as",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:20:37.936279"
+    },
+    {
+      "english": "Every day helps, just a little.",
+      "spanish": "Cada día ayuda, aunque sea poquito.",
+      "transliteration": "Ca-da DÍ-a a-YU-da, aun-que sea PO-qui-to",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:20:37.936292"
+    },
+    {
+      "english": "Try again, you’re learning the rhythm.",
+      "spanish": "Inténtalo otra vez, estás cogiendo el ritmo.",
+      "transliteration": "In-tÉn-ta-lo o-tra VES, es-TÁS co-giEN-do el RÍT-mo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:20:37.936293"
     }
   ],
-  "last_updated": "2026-11-27T11:31:40.508470",
+  "last_updated": "2026-11-27T19:20:37.936294",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
