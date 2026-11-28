@@ -19147,9 +19147,30 @@
       "transliteration": "Inhala, estás a salvo ahora.",
       "category": "Inner Peace",
       "generated_at": "2026-11-28T03:46:50.441169"
+    },
+    {
+      "english": "Before you speak, breathe and smile.",
+      "spanish": "Antes de hablar, respira y sonríe.",
+      "transliteration": "An-tes de ah-blar, res-pi-rai son-rí-e",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-28T11:00:28.893782"
+    },
+    {
+      "english": "Slow down, you’re doing fine.",
+      "spanish": "Despacio, lo estás haciendo bien.",
+      "transliteration": "Des-pah-sio, lo es-tás ah-sien-do bien",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-28T11:00:28.893795"
+    },
+    {
+      "english": "Let the moment be enough.",
+      "spanish": "Que este momento sea suficiente.",
+      "transliteration": "Ke es-te mo-men-to sea su-fi-sien-te",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-28T11:00:28.893796"
     }
   ],
-  "last_updated": "2026-11-28T03:46:50.441171",
+  "last_updated": "2026-11-28T11:00:28.893798",
   "used_english": [
     "small phrase, big respect.",
     "future you speaks spanish.",
